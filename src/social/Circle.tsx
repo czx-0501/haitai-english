@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react';
-import { MessageCircle, Heart, Share2, Plus, LogIn, UserPlus, Award } from 'lucide-react';
-import { supabase } from '../supabase/client';
-import { getPosts, toggleLike, getComments, addComment, createPost, shareStudyResult } from '../supabase/social';
+import { MessageCircle, Heart, Share2, Plus, LogIn, Award } from 'lucide-react';
+import { getPosts, toggleLike, createPost, shareStudyResult } from '../supabase/social';
 import { signUp, signIn, signOut, getCurrentUser } from '../supabase/auth';
 import type { AuthUser } from '../supabase/auth';
 import type { Post } from '../supabase/social';

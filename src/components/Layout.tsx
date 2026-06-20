@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom';
-import { Home, BookOpen, ClipboardCheck, RotateCcw, BarChart3, Users } from 'lucide-react';
+import { Home, BookOpen, ClipboardCheck, BarChart3, Users } from 'lucide-react';
 
 const navItems = [
   { to: '/', icon: Home, label: '首页' },
