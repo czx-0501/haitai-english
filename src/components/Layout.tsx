@@ -1,0 +1,39 @@
+import { NavLink } from 'react-router-dom';
+import { Home, BookOpen, ClipboardCheck, RotateCcw, BarChart3, Users } from 'lucide-react';
+
+const navItems = [
+  { to: '/', icon: Home, label: '首页' },
+  { to: '/learn', icon: BookOpen, label: '学习' },
+  { to: '/quiz', icon: ClipboardCheck, label: '小测' },
+  { to: '/circle', icon: Users, label: '圈子' },
+  { to: '/stats', icon: BarChart3, label: '统计' },
+];
+
+export default function Layout({ children }: { children: React.ReactNode }) {
+  return (
+    <div className="flex flex-col min-h-dvh">
+      <main className="flex-1 pb-20 max-w-2xl mx-auto w-full px-4 pt-4">
+        {children}
+      </main>
+      <nav className="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 z-50">
+        <div className="max-w-2xl mx-auto flex justify-around items-center h-16 px-2">
+          {navItems.map(({ to, icon: Icon, label }) => (
+            <NavLink
+              key={to}
+              to={to}
+              end={to === '/'}
+              className={({ isActive }) =>
+                `flex flex-col items-center gap-0.5 px-2 py-2 rounded-lg transition-colors ${
+                  isActive ? 'text-[var(--primary)]' : 'text-gray-600 hover:text-gray-900'
+                }`
+              }
+            >
+              <Icon size={22} />
+              <span className="text-sm font-medium">{label}</span>
+            </NavLink>
+          ))}
+        </div>
+      </nav>
+    </div>
+  );
+}
