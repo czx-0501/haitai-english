@@ -49,6 +49,17 @@ export async function createPost(content: string, imageUrl?: string, shareType?:
   const { data: { user } } = await supabase.auth.getUser();
   if (!user) return { error: '未登录' };
   
+  // Ensure profile exists (RLS on posts requires user_profiles record)
+  const { data: existing } = await supabase.from('user_profiles').select('id').eq('id', user.id).maybeSingle();
+  if (!existing) {
+    const nickname = user.user_metadata?.nickname || user.email?.split('@')[0] || '用户';
+    await supabase.from('user_profiles').insert({
+      id: user.id, nickname,
+      email: user.email,
+      avatar_url: 'https://api.dicebear.com/7.x/thumbs/svg?seed=' + user.email,
+    });
+  }
+  
   const { data, error } = await supabase.from('posts').insert({
     user_id: user.id,
     content,
