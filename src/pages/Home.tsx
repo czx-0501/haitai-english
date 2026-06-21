@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import { BookOpen, ClipboardCheck, TrendingUp, Zap, Flame, ChevronRight } from 'lucide-react';
 import ProgressRing from '../components/ProgressRing';
 import { useProgress } from '../hooks/useProgress';
-import { getTodayData, getDayNumber, getTotalDays } from '../utils/scheduler';
+import { getTodayData, getDayNumber, getTotalDays, getCEFRProgress } from '../utils/scheduler';
 import { getDueCount } from '../utils/storage';
 
 export default function Home() {
@@ -10,8 +10,8 @@ export default function Home() {
   const dayData = getTodayData();
   const day = getDayNumber();
   const totalDays = getTotalDays();
-  const stage = day <= 50 ? 1 : day <= 100 ? 2 : 3;
-  const stageLabels = ['', '生存英语', '生活英语', '深度沟通'];
+  const cefrData = getCEFRProgress(day);
+  const cefrLabel = cefrData.label;
   const dueCount = getDueCount();
 
   const todayLearnedPercent = todayProgress
@@ -23,7 +23,7 @@ export default function Home() {
       {/* Header */}
       <div className="text-center pt-2 pb-1">
         <h1 className="text-2xl font-bold text-gray-900">海苔英语</h1>
-        <p className="text-sm text-gray-400 mt-0.5">从小白到日常流畅沟通</p>
+        <p className="text-sm text-gray-400 mt-0.5">从小白到英语大师</p>
       </div>
 
       {/* Streak & Day Info */}
@@ -44,8 +44,8 @@ export default function Home() {
             <span className="text-sm font-medium">连续 {progress.streak.current} 天</span>
           </div>
           <div className="flex items-center gap-1.5 bg-white/20 rounded-xl px-3 py-1.5">
-            <Zap size={16} />
-            <span className="text-sm font-medium">阶段 {stage}: {stageLabels[stage]}</span>
+            <BookOpen size={16} />
+            <span className="text-sm font-medium">{cefrData.level} {cefrLabel}</span>
           </div>
           {dueCount > 0 && (
             <div className="flex items-center gap-1.5 bg-purple-400/30 rounded-xl px-3 py-1.5">
@@ -144,15 +144,13 @@ export default function Home() {
         </Link>
       </div>
 
-      {/* Stage info */}
+      {/* CEFR Level info */}
       <div className="bg-gradient-to-r from-purple-50 to-blue-50 rounded-2xl p-4 border border-purple-100">
         <p className="text-sm font-medium text-gray-700 mb-2">
-          📖 当前阶段: {stageLabels[stage]} (Day {day})
+          📖 CEFR {cefrData.level} {cefrLabel} (Day {day}/{totalDays})
         </p>
         <p className="text-xs text-gray-500 leading-relaxed">
-          {stage === 1 && '学习基础词汇和日常表达，掌握问候、数字、颜色、家庭等生存必备英语。'}
-          {stage === 2 && '深入生活各场景，学习工作、旅行、社交、科技等话题，提升日常交流能力。'}
-          {stage === 3 && '学习表达观点、讨论新闻、深度沟通，达到流畅的日常英语交流水平。'}
+          当前阶段 {cefrData.level}：Day {cefrData.dayStart}-{cefrData.dayEnd}，进度 {Math.round(cefrData.progress)}%
         </p>
       </div>
     </div>

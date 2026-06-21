@@ -6,7 +6,7 @@ export function getDayNumber(): number {
   const start = new Date(startStr);
   const today = new Date();
   const diff = Math.floor((today.getTime() - start.getTime()) / 86400000);
-  return Math.min(Math.max(1, diff + 1), vocabulary.length);
+  return Math.min(Math.max(1, diff + 1), 300);
 }
 
 export function getTodayData(): DayData | null {
@@ -27,5 +27,33 @@ export function getStageDays(stage: number): DayData[] {
 }
 
 export function getTotalDays(): number {
-  return vocabulary.length;
+  return 300;
+}
+
+export function getCEFRLevel(day: number): string {
+  if (day <= 50) return 'A1';
+  if (day <= 100) return 'A2';
+  if (day <= 150) return 'B1';
+  if (day <= 200) return 'B2';
+  if (day <= 250) return 'C1';
+  return 'C2';
+}
+
+export function getCEFRLabel(level: string): string {
+  const labels: Record<string, string> = {
+    A1: '入门', A2: '初级',
+    B1: '中级', B2: '中高级',
+    C1: '高级', C2: '精通'
+  };
+  return labels[level] || '';
+}
+
+export function getCEFRProgress(day: number) {
+  return {
+    level: getCEFRLevel(day),
+    label: getCEFRLabel(getCEFRLevel(day)),
+    dayStart: Math.floor((day - 1) / 50) * 50 + 1,
+    dayEnd: (Math.floor((day - 1) / 50) + 1) * 50,
+    progress: ((day - 1) % 50) / 50 * 100
+  };
 }

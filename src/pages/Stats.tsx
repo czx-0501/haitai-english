@@ -1,7 +1,7 @@
 import { useProgress } from '../hooks/useProgress';
 import { loadProgress, getUnlockedAchievements } from '../utils/storage';
 
-import { getDayNumber, getTotalDays } from '../utils/scheduler';
+import { getDayNumber, getTotalDays, getCEFRProgress } from '../utils/scheduler';
 import { Flame, BookOpen, Trophy, Target, Zap } from 'lucide-react';
 import ProgressRing from '../components/ProgressRing';
 
@@ -9,8 +9,7 @@ export default function Stats() {
   const { progress } = useProgress();
   const day = getDayNumber();
   const totalDays = getTotalDays();
-  const stage = day <= 50 ? 1 : day <= 100 ? 2 : 3;
-  const stageLabels = ['', '生存英语', '生活英语', '深度沟通'];
+  const cefrData = getCEFRProgress(day);
 
   // Calculate stats
   const achievements = getUnlockedAchievements(loadProgress());
@@ -20,10 +19,6 @@ export default function Stats() {
   const completedDays = Object.values(progress.days).filter(d => d.completed).length;
   const daysWithActivity = Object.keys(progress.days).length;
 
-  // Calculate stage progress
-  const stageStartDay = stage === 1 ? 1 : stage === 2 ? 51 : 101;
-  const stageEndDay = stage === 1 ? 50 : stage === 2 ? 100 : 150;
-  const stageProgress = Math.round(((day - stageStartDay + 1) / (stageEndDay - stageStartDay + 1)) * 100);
 
   return (
     <div className="space-y-5">
@@ -63,9 +58,9 @@ export default function Stats() {
             <p className="text-sm font-medium">Day {day}/{totalDays}</p>
           </div>
           <div className="text-center">
-            <ProgressRing progress={stageProgress} size={90} color="#8b5cf6" />
+            <ProgressRing progress={cefrData.progress} size={90} color="#8b5cf6" />
             <p className="text-xs text-gray-500 mt-2">当前阶段</p>
-            <p className="text-sm font-medium">{stageLabels[stage]}</p>
+            <p className="text-sm font-medium">{cefrData.level} {cefrData.label}</p>
           </div>
           <div className="text-center">
             <ProgressRing progress={overallAccuracy} size={90} color="#10b981" />
@@ -103,8 +98,7 @@ export default function Stats() {
         </div>
       </div>
 
-      {/* Stage info */}
-      <div className="bg-white rounded-2xl p-5 shadow-sm border border-gray-100">
+      {/* Achievements section */}
       {achievements.length > 0 && (
         <div className="bg-white rounded-2xl p-5 shadow-sm border border-gray-100">
           <h2 className="text-base font-bold text-gray-900 mb-3">🏆 成就徽章</h2>
@@ -120,15 +114,20 @@ export default function Stats() {
         </div>
       )}
 
-        <h2 className="text-base font-bold text-gray-900 mb-3">学习路径</h2>
+      {/* CEFR Learning Path */}
+      <div className="bg-white rounded-2xl p-5 shadow-sm border border-gray-100">
+        <h2 className="text-base font-bold text-gray-900 mb-3">CEFR 学习路径</h2>
         <div className="space-y-3">
           {[
-            { stage: 1, label: 'Stage 1: 生存英语', words: '~1000 词', days: 'Day 1-50', desc: '问候、数字、购物、餐厅、交通等基础表达', active: stage === 1 },
-            { stage: 2, label: 'Stage 2: 生活英语', words: '~1000 词', days: 'Day 51-100', desc: '工作、旅游、科技、社交、健康等场景', active: stage === 2 },
-            { stage: 3, label: 'Stage 3: 深度沟通', words: '~1000 词', days: 'Day 101-150', desc: '观点表达、文化讨论、深度对话、思辨能力', active: stage === 3 },
+            { level: 'A1', label: 'A1 入门', days: 'Day 1-50', desc: '问候、数字、购物、餐厅、交通等基础表达', active: cefrData.level === 'A1' },
+            { level: 'A2', label: 'A2 初级', days: 'Day 51-100', desc: '工作、旅游、科技、社交、健康等场景', active: cefrData.level === 'A2' },
+            { level: 'B1', label: 'B1 中级', days: 'Day 101-150', desc: '观点表达、文化讨论、深度对话、思辨能力', active: cefrData.level === 'B1' },
+            { level: 'B2', label: 'B2 中高级', days: 'Day 151-200', desc: '学术讨论、专业话题、辩论演讲、复杂阅读', active: cefrData.level === 'B2' },
+            { level: 'C1', label: 'C1 高级', days: 'Day 201-250', desc: '流利表达、抽象概念、高级写作、地道习语', active: cefrData.level === 'C1' },
+            { level: 'C2', label: 'C2 精通', days: 'Day 251-300', desc: '接近母语水平、文学赏析、专业学术、文化精通', active: cefrData.level === 'C2' },
           ].map(s => (
             <div
-              key={s.stage}
+              key={s.level}
               className={`rounded-xl p-3.5 border transition-all ${
                 s.active ? 'border-[var(--primary)] bg-[var(--primary-light)]' : 'border-gray-100 bg-gray-50'
               }`}

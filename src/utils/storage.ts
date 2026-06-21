@@ -58,6 +58,9 @@ const ACHIEVEMENTS: AchievementDef[] = [
   { id: 'streak_60', days: 60, icon: '🏆', name: '百炼成钢' },
   { id: 'streak_100', days: 100, icon: '👑', name: '英语达人' },
   { id: 'streak_150', days: 150, icon: '🎯', name: '完美毕业' },
+  { id: 'streak_200', days: 200, icon: '🏅', name: '百尺竿头' },
+  { id: 'streak_250', days: 250, icon: '💎', name: '钻石恒心' },
+  { id: 'streak_300', days: 300, icon: '👑', name: '英语大师' },
 ];
 
 const defaultProgress: AppProgress = {
