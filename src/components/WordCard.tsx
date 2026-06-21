@@ -74,7 +74,16 @@ export default function WordCard({
 
           {/* Back */}
           <div className="card-back bg-white rounded-2xl shadow-lg border border-gray-100 flex flex-col items-center justify-center p-8">
-            <h2 className="text-3xl font-bold text-gray-900 mb-2">{word.w}</h2>
+            <div className="flex items-center gap-3 mb-2">
+              <h2 className="text-3xl font-bold text-gray-900">{word.w}</h2>
+              <button
+                onClick={handleSpeak}
+                className="p-2 rounded-full hover:bg-[var(--primary-light)] active:bg-[var(--primary-light)] transition-all active:scale-110"
+                title="朗读发音"
+              >
+                <Volume2 size={20} className="text-[var(--primary)]" />
+              </button>
+            </div>
             <p className="text-lg text-[var(--primary)] font-medium mb-1">{word.m}</p>
             <p className="text-sm text-gray-400 mb-4">{word.p} · {word.pos}</p>
             <div className="w-full space-y-3">
@@ -87,22 +96,14 @@ export default function WordCard({
                     </div>
                     <button
                       onClick={(e) => handleSpeakExample(e, ex.e)}
-                      className="flex-shrink-0 p-1.5 rounded-lg hover:bg-gray-200 transition-colors"
+                      className="flex-shrink-0 p-2 rounded-lg hover:bg-gray-200 active:bg-[var(--primary-light)] transition-all active:scale-110"
                       title="朗读这句"
                     >
-                      <Volume2 size={14} className="text-gray-400 hover:text-[var(--primary)]" />
+                      <Volume2 size={18} className="text-gray-400 hover:text-[var(--primary)] active:text-[var(--primary)]" />
                     </button>
                   </div>
                 </div>
               ))}
-            </div>
-            <div className="flex justify-center mt-3">
-              <button
-                onClick={handleSpeak}
-                className="flex items-center gap-1 text-sm text-[var(--primary)] hover:bg-gray-50 px-3 py-1.5 rounded-lg transition-colors"
-              >
-                <Volume2 size={16} /> 朗读单词
-              </button>
             </div>
           </div>
         </div>
