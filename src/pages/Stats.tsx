@@ -1,4 +1,6 @@
 import { useProgress } from '../hooks/useProgress';
+import { loadProgress, getUnlockedAchievements } from '../utils/storage';
+
 import { getDayNumber, getTotalDays } from '../utils/scheduler';
 import { Flame, BookOpen, Trophy, Target, Zap } from 'lucide-react';
 import ProgressRing from '../components/ProgressRing';
@@ -11,6 +13,7 @@ export default function Stats() {
   const stageLabels = ['', '生存英语', '生活英语', '深度沟通'];
 
   // Calculate stats
+  const achievements = getUnlockedAchievements(loadProgress());
   const totalQuiz = Object.values(progress.days).reduce((sum, d) => sum + (d.quizCorrect || 0), 0);
   const totalQuizQ = Object.values(progress.days).reduce((sum, d) => sum + (d.quizTotal || 0), 0);
   const overallAccuracy = totalQuizQ > 0 ? Math.round((totalQuiz / totalQuizQ) * 100) : 0;
@@ -102,6 +105,21 @@ export default function Stats() {
 
       {/* Stage info */}
       <div className="bg-white rounded-2xl p-5 shadow-sm border border-gray-100">
+      {achievements.length > 0 && (
+        <div className="bg-white rounded-2xl p-5 shadow-sm border border-gray-100">
+          <h2 className="text-base font-bold text-gray-900 mb-3">🏆 成就徽章</h2>
+          <div className="grid grid-cols-3 gap-3">
+            {achievements.map(ach => (
+              <div key={ach.id} className="text-center p-3 rounded-xl border-2 border-amber-200 bg-amber-50">
+                <p className="text-2xl mb-1">{ach.icon}</p>
+                <p className="text-xs font-medium text-amber-800">{ach.name}</p>
+                <p className="text-xs text-amber-500 mt-0.5">{ach.unlockedDate}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+
         <h2 className="text-base font-bold text-gray-900 mb-3">学习路径</h2>
         <div className="space-y-3">
           {[

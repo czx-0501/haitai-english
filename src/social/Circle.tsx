@@ -1,20 +1,14 @@
 import { useState, useEffect } from 'react';
 import { MessageCircle, Heart, Share2, Plus, LogIn, Award } from 'lucide-react';
 import { getPosts, toggleLike, createPost, shareStudyResult } from '../supabase/social';
-import { signUp, signIn, signOut, getCurrentUser } from '../supabase/auth';
+import { signOut, getCurrentUser } from '../supabase/auth';
 import type { AuthUser } from '../supabase/auth';
 import type { Post } from '../supabase/social';
 
 export default function Circle() {
   const [user, setUser] = useState<AuthUser | null>(null);
   const [posts, setPosts] = useState<Post[]>([]);
-  const [showAuth, setShowAuth] = useState(false);
-  const [authMode, setAuthMode] = useState<'login' | 'register'>('login');
-  const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
-  const [nickname, setNickname] = useState('');
   const [newPost, setNewPost] = useState('');
-  const [error, setError] = useState('');
 
   useEffect(() => { loadUser(); loadPosts(); }, []);
 
@@ -28,24 +22,12 @@ export default function Circle() {
     if (data) setPosts(data);
   }
 
-  async function handleAuth(e: React.FormEvent) {
-    e.preventDefault();
-    setError('');
-    const result = authMode === 'register'
-      ? await signUp(email, password, nickname)
-      : await signIn(email, password);
-    if (result.error) { setError(result.error); return; }
-    setShowAuth(false);
-    await loadUser();
-  }
-
   async function handleLogout() {
     await signOut();
     setUser(null);
   }
 
   async function handleLike(postId: string) {
-    if (!user) { setShowAuth(true); return; }
     await toggleLike(postId);
     await loadPosts();
   }
@@ -79,37 +61,9 @@ export default function Circle() {
             </div>
           </div>
         ) : (
-          <button onClick={() => setShowAuth(true)} className="flex items-center gap-1 px-4 py-1.5 rounded-xl bg-[var(--primary)] text-white text-sm">
-            <LogIn size={16} /> 登录
-          </button>
+          <div className="text-sm text-gray-400">加载中...</div>
         )}
       </div>
-
-      {/* Auth Modal */}
-      {showAuth && (
-        <div className="fixed inset-0 bg-black/40 z-50 flex items-center justify-center p-4" onClick={() => setShowAuth(false)}>
-          <div className="bg-white rounded-2xl p-6 w-full max-w-sm" onClick={e => e.stopPropagation()}>
-            <h2 className="text-lg font-bold mb-4">{authMode === 'login' ? '登录' : '注册'}</h2>
-            <form onSubmit={handleAuth} className="space-y-3">
-              {authMode === 'register' && (
-                <input value={nickname} onChange={e => setNickname(e.target.value)} placeholder="昵称" className="w-full px-3 py-2.5 rounded-xl border border-gray-200 text-sm" required />
-              )}
-              <input type="email" value={email} onChange={e => setEmail(e.target.value)} placeholder="邮箱" className="w-full px-3 py-2.5 rounded-xl border border-gray-200 text-sm" required />
-              <input type="password" value={password} onChange={e => setPassword(e.target.value)} placeholder="密码（至少6位）" className="w-full px-3 py-2.5 rounded-xl border border-gray-200 text-sm" required minLength={6} />
-              {error && <p className="text-sm text-red-500">{error}</p>}
-              <button type="submit" className="w-full py-2.5 rounded-xl bg-[var(--primary)] text-white font-medium text-sm">
-                {authMode === 'login' ? '登录' : '注册'}
-              </button>
-            </form>
-            <p className="text-xs text-gray-400 text-center mt-3">
-              {authMode === 'login' ? '还没有账号？' : '已有账号？'}
-              <button onClick={() => { setAuthMode(authMode === 'login' ? 'register' : 'login'); setError(''); }} className="text-[var(--primary)] ml-1">
-                {authMode === 'login' ? '去注册' : '去登录'}
-              </button>
-            </p>
-          </div>
-        </div>
-      )}
 
       {/* Create Post */}
       {user && (

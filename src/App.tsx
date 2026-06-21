@@ -1,6 +1,7 @@
 import { useEffect } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Layout from './components/Layout';
+import AuthGate from './components/AuthGate';
 import Home from './pages/Home';
 import Learn from './pages/Learn';
 import QuizPage from './pages/QuizPage';
@@ -16,6 +17,7 @@ function App() {
 
   return (
     <BrowserRouter>
+      <AuthGate>
       <Layout>
         <Routes>
           <Route path="/" element={<Home />} />
@@ -26,6 +28,7 @@ function App() {
           <Route path="/circle" element={<Circle />} />
         </Routes>
       </Layout>
+      </AuthGate>
     </BrowserRouter>
   );
 }

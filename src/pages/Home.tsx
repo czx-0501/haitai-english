@@ -3,6 +3,7 @@ import { BookOpen, ClipboardCheck, TrendingUp, Zap, Flame, ChevronRight } from '
 import ProgressRing from '../components/ProgressRing';
 import { useProgress } from '../hooks/useProgress';
 import { getTodayData, getDayNumber, getTotalDays } from '../utils/scheduler';
+import { getDueCount } from '../utils/storage';
 
 export default function Home() {
   const { progress, todayProgress } = useProgress();
@@ -11,6 +12,7 @@ export default function Home() {
   const totalDays = getTotalDays();
   const stage = day <= 50 ? 1 : day <= 100 ? 2 : 3;
   const stageLabels = ['', '生存英语', '生活英语', '深度沟通'];
+  const dueCount = getDueCount();
 
   const todayLearnedPercent = todayProgress
     ? Math.round((todayProgress.wordsLearned / todayProgress.totalWords) * 100)
@@ -45,6 +47,12 @@ export default function Home() {
             <Zap size={16} />
             <span className="text-sm font-medium">阶段 {stage}: {stageLabels[stage]}</span>
           </div>
+          {dueCount > 0 && (
+            <div className="flex items-center gap-1.5 bg-purple-400/30 rounded-xl px-3 py-1.5">
+              <BookOpen size={16} />
+              <span className="text-sm font-medium">{dueCount} 个待复习</span>
+            </div>
+          )}
         </div>
         {/* Overall progress bar */}
         <div className="mt-4">
