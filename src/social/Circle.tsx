@@ -25,7 +25,10 @@ export default function Circle() {
   }
 
   async function loadPosts() {
-    const { data } = await getPosts();
+    const { data, error } = await getPosts();
+    if (error) {
+      console.error('loadPosts error:', error);
+    }
     if (data) setPosts(data);
   }
 
@@ -41,7 +44,11 @@ export default function Circle() {
 
   async function handlePost() {
     if (!newPost.trim()) return;
-    await createPost(newPost.trim());
+    const { error } = await createPost(newPost.trim());
+    if (error) {
+      alert(`发布失败: ${String(error)}`);
+      return;
+    }
     setNewPost('');
     await loadPosts();
   }

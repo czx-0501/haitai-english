@@ -15,18 +15,34 @@ export type Post = {
 };
 
 export async function getPosts(page = 0, limit = 20) {
-  const { data, error } = await supabase
-    .from('posts')
-    .select(`
-      *,
-      user:user_id (nickname, avatar_url),
-      likes_count:likes(count),
-      comments_count:comments(count)
-    `)
-    .order('created_at', { ascending: false })
-    .range(page * limit, (page + 1) * limit - 1);
-  
-  return { data: data as Post[], error };
+  try {
+    const { data, error } = await supabase
+      .from('posts')
+      .select('*, user:user_id (nickname, avatar_url)')
+      .order('created_at', { ascending: false })
+      .range(page * limit, (page + 1) * limit - 1);
+    
+    if (error) {
+      console.error('getPosts error:', error);
+      return { data: null, error };
+    }
+    // Get counts separately to avoid RLS issues with aggregates
+    const enriched = await Promise.all((data || []).map(async (post) => {
+      const { count: likeCount } = await supabase
+        .from('likes')
+        .select('*', { count: 'exact', head: true })
+        .eq('post_id', post.id);
+      const { count: commentCount } = await supabase
+        .from('comments')
+        .select('*', { count: 'exact', head: true })
+        .eq('post_id', post.id);
+      return { ...post, likes_count: likeCount || 0, comments_count: commentCount || 0 };
+    }));
+    return { data: enriched as Post[], error: null };
+  } catch (e) {
+    console.error('getPosts exception:', e);
+    return { data: null, error: e instanceof Error ? e : new Error('Unknown error') };
+  }
 }
 
 export async function createPost(content: string, imageUrl?: string, shareType?: string) {
