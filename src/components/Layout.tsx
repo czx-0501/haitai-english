@@ -1,5 +1,7 @@
+import { useEffect } from 'react';
 import { NavLink } from 'react-router-dom';
 import { Home, BookOpen, ClipboardCheck, BarChart3, Users } from 'lucide-react';
+import { initNativeFeatures } from '../utils/native';
 
 const navItems = [
   { to: '/', icon: Home, label: '首页' },
@@ -10,12 +12,16 @@ const navItems = [
 ];
 
 export default function Layout({ children }: { children: React.ReactNode }) {
+  useEffect(() => {
+    initNativeFeatures();
+  }, []);
+
   return (
     <div className="flex flex-col min-h-dvh">
-      <main className="flex-1 pb-20 max-w-2xl mx-auto w-full px-4 pt-4">
+      <main className="flex-1 pb-20 max-w-2xl mx-auto w-full px-4 pt-4 safe-area-top">
         {children}
       </main>
-      <nav className="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 z-50">
+      <nav className="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 z-50 safe-area-bottom">
         <div className="max-w-2xl mx-auto flex justify-around items-center h-16 px-2">
           {navItems.map(({ to, icon: Icon, label }) => (
             <NavLink
