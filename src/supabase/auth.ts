@@ -35,12 +35,20 @@ export async function signOut() {
 export async function getCurrentUser() {
   const { data: { user } } = await supabase.auth.getUser();
   if (!user) return null;
-  
+
   const { data } = await supabase
     .from('user_profiles')
     .select('*')
     .eq('id', user.id)
     .single();
-  
-  return data as AuthUser | null;
+
+  if (data) return data as AuthUser;
+
+  // Fallback: construct from auth user metadata when no user_profiles record exists
+  return {
+    id: user.id,
+    email: user.email || '',
+    nickname: user.user_metadata?.nickname || user.email?.split('@')[0] || '用户',
+    avatar_url: user.user_metadata?.avatar_url || `https://api.dicebear.com/7.x/thumbs/svg?seed=${user.email}`,
+  } as AuthUser;
 }
