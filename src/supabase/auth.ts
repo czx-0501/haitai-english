@@ -48,11 +48,19 @@ export async function getCurrentUser() {
 
   if (data) return data as AuthUser;
 
-  // Fallback: construct from auth user metadata when no user_profiles record exists
+  // No profile yet - create one automatically
+  const nickname = user.user_metadata?.nickname || user.email?.split('@')[0] || '用户';
+  await supabase.from('user_profiles').insert({
+    id: user.id,
+    nickname,
+    email: user.email,
+    avatar_url: `https://api.dicebear.com/7.x/thumbs/svg?seed=${user.email}`,
+  });
+
   return {
     id: user.id,
     email: user.email || '',
-    nickname: user.user_metadata?.nickname || user.email?.split('@')[0] || '用户',
-    avatar_url: user.user_metadata?.avatar_url || `https://api.dicebear.com/7.x/thumbs/svg?seed=${user.email}`,
+    nickname,
+    avatar_url: `https://api.dicebear.com/7.x/thumbs/svg?seed=${user.email}`,
   } as AuthUser;
 }
