@@ -145,9 +145,10 @@ export default function Stats() {
           ].map(s => (
             <div
               key={s.level}
-              className={`rounded-xl p-3.5 border transition-all ${
-                s.active ? 'border-[var(--primary)] bg-[var(--primary-light)]' : 'border-gray-100 bg-gray-50'
+              className={`rounded-xl p-3.5 border transition-all cursor-pointer ${
+                s.active ? 'border-[var(--primary)] bg-[var(--primary-light)]' : 'border-gray-100 bg-gray-50 hover:border-gray-300'
               }`}
+              onClick={() => { setSelectedLevel(s.level); window.location.reload(); }}
             >
               <div className="flex items-center justify-between mb-1">
                 <p className={`text-sm font-medium ${s.active ? 'text-[var(--primary)]' : 'text-gray-600'}`}>

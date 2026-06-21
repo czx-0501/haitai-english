@@ -16,6 +16,8 @@ export default function Circle() {
   const [friends, setFriends] = useState<any[]>([]);
   const [friendSearch, setFriendSearch] = useState('');
   const [searchResults, setSearchResults] = useState<any[]>([]);
+  const [feedMode, setFeedMode] = useState<'all' | 'friends'>('all');
+  const [friendIds, setFriendIds] = useState<string[]>([]);
 
   useEffect(() => { loadUser(); loadPosts(); }, []);
 
@@ -24,12 +26,36 @@ export default function Circle() {
     setUser(u);
   }
 
-  async function loadPosts() {
+  async function loadFeed(mode: string, ids: string[]) {
     const { data, error } = await getPosts();
-    if (error) {
-      console.error('loadPosts error:', error);
+    if (data) {
+      if (mode === 'friends' && ids.length > 0) {
+        const uid = user?.id;
+        setPosts(data.filter(p => p.user_id === uid || ids.includes(p.user_id)));
+      } else {
+        setPosts(data);
+      }
     }
-    if (data) setPosts(data);
+  }
+
+  async function switchFeedMode(mode: 'all' | 'friends') {
+    setFeedMode(mode);
+    if (mode === 'friends') {
+      const data = await getFriends();
+      const ids = data.map((f: any) => f.friend_id);
+      setFriendIds(ids);
+      await loadFeed('friends', ids);
+    } else {
+      await loadFeed('all', []);
+    }
+  }
+
+  async function loadPosts() {
+    if (feedMode === 'friends' && friendIds.length > 0) {
+      await loadFeed('friends', friendIds);
+    } else {
+      await loadFeed('all', []);
+    }
   }
 
   async function handleLogout() {
@@ -119,6 +145,18 @@ export default function Circle() {
         ) : (
           <div className="text-sm text-gray-400">加载中...</div>
         )}
+      </div>
+
+      {/* Feed mode toggle */}
+      <div className="flex bg-gray-100 rounded-xl p-1 mb-3">
+        <button onClick={() => switchFeedMode('all')}
+          className={'flex-1 py-2 text-sm rounded-lg text-center transition-all ' + (feedMode === 'all' ? 'bg-white text-[var(--primary)] font-medium shadow-sm' : 'text-gray-500')}>
+          🌍 世界
+        </button>
+        <button onClick={() => switchFeedMode('friends')}
+          className={'flex-1 py-2 text-sm rounded-lg text-center transition-all ' + (feedMode === 'friends' ? 'bg-white text-[var(--primary)] font-medium shadow-sm' : 'text-gray-500')}>
+          👥 朋友圈
+        </button>
       </div>
 
       {/* Friends Panel */}
