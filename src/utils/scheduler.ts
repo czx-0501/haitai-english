@@ -68,14 +68,6 @@ export function getSelectedLevel(): string {
 }
 
 export function setSelectedLevel(level: string) {
-  const offset = CEFR_OFFSETS[level] ?? 0;
-  const oldOffset = CEFR_OFFSETS[getSelectedLevel()] ?? 0;
-  // Adjust start date to preserve progress
-  const startStr = localStorage.getItem('engdaily_start') || new Date().toISOString().split('T')[0];
-  const start = new Date(startStr);
-  const daysElapsed = Math.floor((Date.now() - start.getTime()) / 86400000);
-  const newStart = new Date(Date.now() - (daysElapsed * 86400000));
-  localStorage.setItem('engdaily_start', newStart.toISOString().split('T')[0]);
   localStorage.setItem('engdaily_cefr_level', level);
 }
 

@@ -114,6 +114,23 @@ export default function Stats() {
         </div>
       )}
 
+      {/* CEFR Level selector */}
+      <div className="bg-white rounded-2xl p-5 shadow-sm border border-gray-100">
+        <h2 className="text-base font-bold text-gray-900 mb-3">学习级别</h2>
+        <div className="flex flex-wrap gap-2">
+          {getCEFROptions().map(opt => {
+            const cur = getSelectedLevel();
+            return (
+              <button key={opt.value} onClick={() => { setSelectedLevel(opt.value); window.location.reload(); }}
+                className={'px-4 py-2 rounded-xl text-sm font-medium transition-all ' + (cur === opt.value ? 'bg-[var(--primary)] text-white shadow-sm' : 'bg-gray-100 text-gray-600 hover:bg-gray-200')}>
+                {opt.label}
+              </button>
+            );
+          })}
+        </div>
+        <p className="text-xs text-gray-400 mt-2">选择级别后刷新页面生效</p>
+      </div>
+
       {/* CEFR Learning Path */}
       <div className="bg-white rounded-2xl p-5 shadow-sm border border-gray-100">
         <h2 className="text-base font-bold text-gray-900 mb-3">CEFR 学习路径</h2>
