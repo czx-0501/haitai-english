@@ -46,7 +46,7 @@ export default function Circle() {
     if (!newPost.trim()) return;
     const { error } = await createPost(newPost.trim());
     if (error) {
-      alert(`发布失败: ${String(error)}`);
+      alert('发布失败: ' + (typeof error === 'string' ? error : error?.message || JSON.stringify(error)));
       return;
     }
     setNewPost('');
@@ -128,6 +128,13 @@ export default function Circle() {
             <div className="flex items-center justify-between mb-4">
               <h2 className="text-lg font-bold">好友</h2>
               <button onClick={() => setShowFriends(false)}><X size={20} className="text-gray-400" /></button>
+            </div>
+
+            {/* My ID */}
+            <div className="flex items-center gap-2 mb-4 p-3 bg-gray-50 rounded-xl">
+              <span className="text-xs text-gray-500">我的ID：</span>
+              <code className="text-xs text-gray-700 flex-1 truncate">{user?.id}</code>
+              <button onClick={() => { navigator.clipboard.writeText(user?.id || ''); alert('ID已复制'); }} className="text-xs px-2 py-1 rounded-lg bg-[var(--primary)] text-white">复制</button>
             </div>
 
             {/* Search users */}
