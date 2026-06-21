@@ -6,7 +6,9 @@ export function getDayNumber(): number {
   const start = new Date(startStr);
   const today = new Date();
   const diff = Math.floor((today.getTime() - start.getTime()) / 86400000);
-  return Math.min(Math.max(1, diff + 1), 300);
+  const baseDay = Math.min(Math.max(1, diff + 1), 300);
+  const offset = CEFR_OFFSETS[getSelectedLevel()] || 0;
+  return Math.min(baseDay + offset, 300);
 }
 
 export function getTodayData(): DayData | null {
@@ -46,6 +48,35 @@ export function getCEFRLabel(level: string): string {
     C1: '高级', C2: '精通'
   };
   return labels[level] || '';
+}
+
+const CEFR_OFFSETS: Record<string, number> = { A1: 0, A2: 50, B1: 100, B2: 150, C1: 200, C2: 250 };
+
+export function getCEFROptions() {
+  return [
+    { value: 'A1', label: 'A1 入门' },
+    { value: 'A2', label: 'A2 初级' },
+    { value: 'B1', label: 'B1 中级' },
+    { value: 'B2', label: 'B2 中高级' },
+    { value: 'C1', label: 'C1 高级' },
+    { value: 'C2', label: 'C2 精通' },
+  ];
+}
+
+export function getSelectedLevel(): string {
+  return localStorage.getItem('engdaily_cefr_level') || 'A1';
+}
+
+export function setSelectedLevel(level: string) {
+  const offset = CEFR_OFFSETS[level] ?? 0;
+  const oldOffset = CEFR_OFFSETS[getSelectedLevel()] ?? 0;
+  // Adjust start date to preserve progress
+  const startStr = localStorage.getItem('engdaily_start') || new Date().toISOString().split('T')[0];
+  const start = new Date(startStr);
+  const daysElapsed = Math.floor((Date.now() - start.getTime()) / 86400000);
+  const newStart = new Date(Date.now() - (daysElapsed * 86400000));
+  localStorage.setItem('engdaily_start', newStart.toISOString().split('T')[0]);
+  localStorage.setItem('engdaily_cefr_level', level);
 }
 
 export function getCEFRProgress(day: number) {

@@ -35,7 +35,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               }
             >
               <Icon size={22} />
-              <span className="text-sm font-medium">{label}</span>
+              <span className="text-base font-medium">{label}</span>
             </NavLink>
           ))}
         </div>
