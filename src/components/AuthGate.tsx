@@ -58,7 +58,7 @@ export default function AuthGate({ children }: { children: React.ReactNode }) {
     return (
       <div className="min-h-dvh flex items-center justify-center bg-gray-50">
         <div className="text-center">
-          <p className="text-4xl mb-4">📚</p>
+          <img src="/logo.jpg" alt="海苔英语" className="w-16 h-16 mx-auto mb-4 rounded-full object-cover" />
           <p className="text-gray-400">加载中...</p>
         </div>
       </div>
@@ -70,7 +70,7 @@ export default function AuthGate({ children }: { children: React.ReactNode }) {
   return (
     <div className="min-h-dvh flex flex-col items-center justify-center bg-gray-50 px-8">
       <div className="text-center mb-10">
-        <p className="text-6xl mb-4">📚</p>
+        <img src="/logo.jpg" alt="海苔英语" className="w-24 h-24 mx-auto mb-4 rounded-full object-cover shadow-lg" />
         <h1 className="text-2xl font-bold text-gray-900">海苔英语</h1>
         <p className="text-sm text-gray-400 mt-1">从小白到日常流畅沟通</p>
       </div>

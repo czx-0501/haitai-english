@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
-import { MessageCircle, Heart, Share2, Plus, LogIn, Award } from 'lucide-react';
+
+import { MessageCircle, Heart, Share2, Plus, Award } from 'lucide-react';
 import { getPosts, toggleLike, createPost, shareStudyResult } from '../supabase/social';
 import { signOut, getCurrentUser } from '../supabase/auth';
 import type { AuthUser } from '../supabase/auth';
@@ -28,6 +29,7 @@ export default function Circle() {
   }
 
   async function handleLike(postId: string) {
+    if (!user) return;
     await toggleLike(postId);
     await loadPosts();
   }
@@ -40,7 +42,6 @@ export default function Circle() {
   }
 
   async function handleShareStudy() {
-    if (!user) { setShowAuth(true); return; }
     await shareStudyResult(20, 85, 1);
     await loadPosts();
   }
