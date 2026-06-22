@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { useProgress } from '../hooks/useProgress';
 import { getTodayData } from '../utils/scheduler';
 import Quiz from '../components/Quiz';
-import { ClipboardCheck, ArrowRight } from 'lucide-react';
+import { ClipboardCheck, ArrowRight, ArrowLeft } from 'lucide-react';
 
 export default function QuizPage() {
  const [started, setStarted] = useState(false);
@@ -69,8 +69,13 @@ export default function QuizPage() {
   return (
     <div>
       <div className="flex items-center justify-between mb-4">
-        <h1 className="text-xl font-bold text-gray-900">每日小测</h1>
-        <span className="text-xs text-gray-400 bg-gray-100 rounded-full px-2.5 py-1">
+        <div className="flex items-center gap-2">
+          <button onClick={() => window.history.back()} className="p-1 -ml-1 rounded-lg hover:bg-gray-100">
+            <ArrowLeft size={20} className="text-gray-600" />
+          </button>
+          <h1 className="text-xl font-bold text-gray-900">每日小测</h1>
+        </div>
+       <span className="text-xs text-gray-400 bg-gray-100 rounded-full px-2.5 py-1">
           {dayData.theme}
         </span>
       </div>
