@@ -52,11 +52,17 @@ export default function AuthGate({ children }: { children: React.ReactNode }) {
         return;
       }
 
-    const { data, error: signInErr } = await supabase.auth.signInWithPassword({ email, password });
-    if (signInErr) { setError(signInErr.message); setAuthLoading(false); return; }
-    if (data?.session) setSession(data.session);
-    setAuthLoading(false);
-    return;
+    let { data, error: signInErr } = await supabase.auth.signInWithPassword({ email, password });
+    if (signInErr) {
+      // Retry once - WKWebView cold start network warm-up
+      await new Promise(r => setTimeout(r, 300));
+      const retry = await supabase.auth.signInWithPassword({ email, password });
+      data = retry.data;
+      signInErr = retry.error;
+    }
+   if (data?.session) setSession(data.session);
+   setAuthLoading(false);
+   return;
   } catch (e: any) {
      setError(e.message || '操作失败');
     }
