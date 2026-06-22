@@ -18,7 +18,7 @@ export function setLearningMode(mode: string) { try { localStorage.setItem(LEARN
 import { toeflVocabulary } from '../data/toefl';
 import { ieltsVocabulary } from '../data/ielts';
 
-function getTodayData(): DayData | null {
+export function getTodayData(): DayData | null {
   const mode = getLearningMode();
   if (mode === 'TOEFL') {
     const day = getDayNumber();
@@ -61,12 +61,12 @@ export function getCEFRLabel(level: string): string {
   const labels: Record<string, string> = {
     A1: '入门', A2: '初级',
     B1: '中级', B2: '中高级',
-    C1: '高级', C2: '精通'
-  }
+   C1: '高级', C2: '精通'
+  };
   return labels[level] || '';
 }
 
-const CEFR_OFFSETS: Record<string, number> = { A1: 0, A2: 50, B1: 100, B2: 150, C1: 200, C2: 250 }
+const CEFR_OFFSETS: Record<string, number> = { A1: 0, A2: 50, B1: 100, B2: 150, C1: 200, C2: 250 };
 
 export function getCEFROptions() {
   return [
@@ -93,26 +93,6 @@ export function getCEFRProgress(day: number) {
     label: getCEFRLabel(getCEFRLevel(day)),
     dayStart: Math.floor((day - 1) / 50) * 50 + 1,
     dayEnd: (Math.floor((day - 1) / 50) + 1) * 50,
-    progress: ((day - 1) % 50) / 50 * 100
-  }
-}
-
-
-// Ensure TOEFL/IELTS modules are available
-
-
-export {
-  getDayNumber,
-  getTodayData,
-  getDayData,
-  getAllDays,
-  getTotalDays,
-  getCEFRLevel,
-  getCEFRLabel,
-  getCEFRProgress,
-  getCEFROptions,
-  getSelectedLevel,
-  setSelectedLevel,
-  getLearningMode,
-  setLearningMode
+   progress: ((day - 1) % 50) / 50 * 100
+  };
 }
