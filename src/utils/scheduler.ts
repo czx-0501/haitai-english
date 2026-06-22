@@ -15,9 +15,21 @@ const LEARNING_MODE_KEY = 'engdaily_learning_mode';
 export function getLearningMode() { try { return localStorage.getItem(LEARNING_MODE_KEY) || 'CEFR'; } catch(e) { return 'CEFR'; } }
 export function setLearningMode(mode: string) { try { localStorage.setItem(LEARNING_MODE_KEY, mode); } catch(e) {} }
 
-export function getTodayData(): DayData | null {
+import { toeflVocabulary } from '../data/toefl';
+import { ieltsVocabulary } from '../data/ielts';
+
+function getTodayData(): DayData | null {
+  const mode = getLearningMode();
+  if (mode === 'TOEFL') {
+    const day = getDayNumber();
+    return (toeflVocabulary as any[]).find((d: any) => d.day === day) || null;
+  }
+  if (mode === 'IELTS') {
+    const day = getDayNumber();
+    return (ieltsVocabulary as any[]).find((d: any) => d.day === day) || null;
+  }
   const day = getDayNumber();
-  return vocabulary.find(d => d.day === day) || null;
+  return vocabulary.find((d: any) => d.day === day) || null;
 }
 
 export function getDayData(day: number): DayData | null {
@@ -84,3 +96,6 @@ export function getCEFRProgress(day: number) {
     progress: ((day - 1) % 50) / 50 * 100
   };
 }
+
+
+// Ensure TOEFL/IELTS modules are available
