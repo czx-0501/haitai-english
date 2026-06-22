@@ -12,7 +12,7 @@ export async function initNativeFeatures(): Promise<void> {
     // StatusBar
     const { StatusBar } = await import('@capacitor/status-bar');
     await StatusBar.setOverlaysWebView({ overlay: false });
-    await StatusBar.setBackgroundColor({ color: '#ffffff' });
+    await StatusBar.setBackgroundColor({ color: '#f8fafc' });
 
     // Schedule daily learning reminder
     const { LocalNotifications } = await import('@capacitor/local-notifications');

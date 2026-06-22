@@ -11,13 +11,16 @@ const navItems = [
 ];
 
 export default function Layout({ children }: { children: React.ReactNode }) {
-  useEffect(() => {
-    initNativeFeatures();
-  }, []);
+ useEffect(() => {
+   initNativeFeatures();
+    // Force WKWebView viewport recalculation on initial render
+    const timer = setTimeout(() => window.dispatchEvent(new Event('resize')), 100);
+    return () => clearTimeout(timer);
+ }, []);
 
   return (
     <div className="flex flex-col min-h-dvh">
-      <main className="flex-1 pb-24 max-w-2xl mx-auto w-full px-4 pt-4 safe-area-top safe-area-bottom">
+      <main className="flex-1 pb-32 max-w-2xl mx-auto w-full px-4 pt-4 safe-area-top">
         {children}
       </main>
       <nav className="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 z-50 safe-area-bottom">
