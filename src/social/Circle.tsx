@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { MessageCircle, Heart, Share2, Plus, Award, Users, Send, UserPlus, X, Search } from 'lucide-react';
-import { getPosts, toggleLike, createPost, shareStudyResult, getComments, addComment, searchUsers, sendFriendRequest, getFriends } from '../supabase/social';
+import { getPosts, toggleLike, createPost, shareStudyResult, getComments, addComment, searchUsers, sendFriendRequest, getFriends, deletePost } from '../supabase/social';
 import { signOut, getCurrentUser } from '../supabase/auth';
 import type { AuthUser } from '../supabase/auth';
 import type { Post } from '../supabase/social';
@@ -16,6 +16,7 @@ export default function Circle() {
   const [friends, setFriends] = useState<any[]>([]);
   const [friendSearch, setFriendSearch] = useState('');
   const [searchResults, setSearchResults] = useState<any[]>([]);
+  const [postImage, setPostImage] = useState<string>('');
   const [feedMode, setFeedMode] = useState<'all' | 'friends'>('all');
   const [friendIds, setFriendIds] = useState<string[]>([]);
 
@@ -70,12 +71,13 @@ export default function Circle() {
 
   async function handlePost() {
     if (!newPost.trim()) return;
-    const { error } = await createPost(newPost.trim());
+    const { error } = await createPost(newPost.trim(), postImage || undefined);
     if (error) {
       alert('发布失败: ' + (typeof error === 'string' ? error : error?.message || JSON.stringify(error)));
       return;
     }
     setNewPost('');
+    setPostImage('');
     await loadPosts();
   }
 
@@ -225,7 +227,23 @@ export default function Circle() {
       {user && (
         <div className="bg-white rounded-2xl p-4 shadow-sm border border-gray-100 mb-4">
           <textarea value={newPost} onChange={e => setNewPost(e.target.value)} placeholder="分享你的学习心得..." rows={2} className="w-full text-sm resize-none outline-none" />
-          <div className="flex justify-end mt-2">
+          {postImage && (
+            <div className="relative inline-block mt-2">
+              <img src={postImage} className="w-20 h-20 rounded-xl object-cover border border-gray-200" />
+              <button onClick={() => setPostImage('')} className="absolute -top-2 -right-2 w-5 h-5 rounded-full bg-gray-800 text-white text-xs flex items-center justify-center">✕</button>
+            </div>
+          )}
+          <div className="flex items-center justify-between mt-2">
+            <label className="flex items-center gap-1 px-3 py-1.5 rounded-xl bg-gray-100 text-gray-500 text-sm cursor-pointer hover:bg-gray-200">
+              <input type="file" accept="image/*" className="hidden" onChange={e => {
+                const file = e.target.files?.[0];
+                if (!file) return;
+                const reader = new FileReader();
+                reader.onload = () => setPostImage(reader.result as string);
+                reader.readAsDataURL(file);
+              }} />
+              🖼️ 图片
+            </label>
             <button onClick={handlePost} disabled={!newPost.trim()} className="flex items-center gap-1 px-4 py-1.5 rounded-xl bg-[var(--primary)] text-white text-sm disabled:opacity-50">
               <Plus size={16} /> 发布
             </button>
@@ -258,8 +276,19 @@ export default function Circle() {
               {/* Post content */}
               <p className="text-sm text-gray-800 whitespace-pre-wrap mb-3">{post.content}</p>
 
+              {post.image_url && (
+                <div className="mb-3">
+                  <img src={post.image_url} className="w-full max-h-64 rounded-xl object-cover bg-gray-100" />
+                </div>
+              )}
+
               {/* Actions */}
               <div className="flex items-center gap-4 text-gray-400">
+                {user?.id && post.user_id === user.id && (
+                  <button onClick={async () => { await deletePost(post.id); await loadPosts(); }} className="flex items-center gap-1 text-sm hover:text-red-500 ml-auto">
+                    🗑️
+                  </button>
+                )}
                 <button onClick={() => handleLike(post.id)} className="flex items-center gap-1 text-sm hover:text-red-500">
                   <Heart size={16} /> {post.likes_count || 0}
                 </button>

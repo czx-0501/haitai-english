@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import { BookOpen, ClipboardCheck, TrendingUp, Zap, Flame, ChevronRight } from 'lucide-react';
 import ProgressRing from '../components/ProgressRing';
 import { useProgress } from '../hooks/useProgress';
-import { getTodayData, getDayNumber, getTotalDays, getCEFRProgress } from '../utils/scheduler';
+import { getTodayData, getDayNumber, getTotalDays, getCEFRProgress, getCEFROptions, getSelectedLevel, setSelectedLevel } from '../utils/scheduler';
 import { getDueCount } from '../utils/storage';
 
 export default function Home() {
@@ -179,14 +179,37 @@ export default function Home() {
         </Link>
       </div>
 
-      {/* CEFR Level info */}
+      {/* CEFR Level selector */}
+      <div className="bg-white rounded-2xl p-5 shadow-sm border border-gray-100">
+        <h2 className="text-base font-bold text-gray-900 mb-3">学习级别</h2>
+        <div className="flex flex-wrap gap-2 mb-3">
+          {getCEFROptions().map(opt => {
+            const cur = getSelectedLevel();
+            return (
+              <button key={opt.value} onClick={() => setSelectedLevel(opt.value)}
+                className={'px-4 py-2 rounded-xl text-sm font-medium transition-all ' + (cur === opt.value ? 'bg-[var(--primary)] text-white shadow-sm' : 'bg-gray-100 text-gray-600 hover:bg-gray-200')}>
+                {opt.label}
+              </button>
+            );
+          })}
+        </div>
+        <p className="text-xs text-gray-400">选级别查看学习目标，下次打开学习页自动匹配内容</p>
+      </div>
+
+      {/* CEFR Level detail */}
       <div className="bg-gradient-to-r from-purple-50 to-blue-50 rounded-2xl p-4 border border-purple-100">
         <p className="text-sm font-medium text-gray-700 mb-2">
-          📖 CEFR {cefrData.level} {cefrLabel} (Day {day}/{totalDays})
+          📖 {cefrData.level} {cefrLabel} · Day {day}/{totalDays}
         </p>
-        <p className="text-xs text-gray-500 leading-relaxed">
-          当前阶段 {cefrData.level}：Day {cefrData.dayStart}-{cefrData.dayEnd}，进度 {Math.round(cefrData.progress)}%
+        <p className="text-xs text-gray-500 leading-relaxed mb-2">
+          当前阶段：Day {cefrData.dayStart}-{cefrData.dayEnd}，进度 {Math.round(cefrData.progress)}%
         </p>
+        <div className="w-full bg-purple-200 rounded-full h-1.5">
+          <div className="bg-purple-600 rounded-full h-1.5 transition-all" style={{width: `${Math.round(cefrData.progress)}%`}} />
+        </div>
+        <Link to="/learn" className="inline-flex items-center gap-1 mt-3 text-xs text-[var(--primary)] font-medium hover:underline">
+          开始学习 <ChevronRight size={14} />
+        </Link>
       </div>
     </div>
   );
