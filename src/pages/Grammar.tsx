@@ -108,7 +108,7 @@ export default function Grammar() {
       </div>
 
       <div className="space-y-2 mb-4">
-        {current?.options.map((opt, i) => {
+        {current?.options.map((opt: string, i: number) => {
           let cls = 'bg-white border-gray-200';
           if (selected !== null) {
             if (i === current.correctIndex) cls = 'bg-green-50 border-green-300';

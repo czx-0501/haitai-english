@@ -1,6 +1,6 @@
 export interface GrammarQuestion {
   id: number;
-  category: 'tense' | 'clause' | 'subjunctive';
+  category: string;
   difficulty: string;
   question: string;
   options: string[];
@@ -8,7 +8,7 @@ export interface GrammarQuestion {
   explanation: string;
 }
 
-export const grammarQuestions: GrammarQuestion[] = [
+export const grammarQuestions = [
   { id: 1, category: 'tense', difficulty: 'A2', question: 'I ___ to school yesterday.', options: ['go', 'went', 'gone', 'going'], correctIndex: 1, explanation: 'yesterday 表示过去时间，用一般过去时 went' },
   { id: 2, category: 'tense', difficulty: 'A2', question: 'She ___ breakfast every morning.', options: ['have', 'has', 'having', 'had'], correctIndex: 1, explanation: 'every morning 表示习惯动作，主语 she 用第三人称单数 has' },
   { id: 3, category: 'tense', difficulty: 'A2', question: 'They ___ playing football now.', options: ['is', 'am', 'are', 'be'], correctIndex: 2, explanation: 'now 表示正在发生，主语 they 用 are' },
@@ -109,4 +109,56 @@ export const grammarQuestions: GrammarQuestion[] = [
   { id: 98, category: 'subjunctive', difficulty: 'C1', question: 'It is high time the government ___ action.', options: ['takes', 'took', 'taking', 'will take'], correctIndex: 1, explanation: 'It is high time that + 过去时，早该做了' },
   { id: 99, category: 'subjunctive', difficulty: 'B2', question: 'She wishes she ___ more languages.', options: ['knows', 'knew', 'will know', 'has known'], correctIndex: 1, explanation: 'wish + 过去时表示对现在的虚拟愿望' },
   { id: 100, category: 'subjunctive', difficulty: 'C1', question: 'The lawyer demanded the evidence ___.', options: ['is produced', 'be produced', 'was produced', 'has been produced'], correctIndex: 1, explanation: 'demand 后从句用 (should) be + 过去分词' },
-];
+,
+  { id: 50, category: 'passive', difficulty: 'B1', question: 'This bridge ___ in 1920.', options: ['built', 'was built', 'has built', 'is built'], correctIndex: 1, explanation: '桥被建造，被动语态 was built' },
+  { id: 51, category: 'passive', difficulty: 'B1', question: 'English ___ all over the world.', options: ['speak', 'is spoken', 'spoke', 'is speaking'], correctIndex: 1, explanation: '英语被说，一般现在时被动 is spoken' },
+  { id: 52, category: 'passive', difficulty: 'B2', question: 'The letter ___ by the time you arrive.', options: ['will be sent', 'will have been sent', 'is sent', 'has been sent'], correctIndex: 1, explanation: 'by the time + 将来，将来完成被动' },
+  { id: 53, category: 'passive', difficulty: 'B2', question: 'The project ___ at the moment.', options: ['is being developed', 'develops', 'developed', 'was developed'], correctIndex: 0, explanation: 'at the moment + 被动进行 is being developed' },
+  { id: 54, category: 'passive', difficulty: 'B1', question: 'Dinner ___ at 7 p.m. every day.', options: ['serves', 'is served', 'served', 'is serving'], correctIndex: 1, explanation: '日常习惯被动 is served' },
+  { id: 55, category: 'passive', difficulty: 'B2', question: 'The window ___ by the boy yesterday.', options: ['broke', 'was broken', 'is broken', 'breaks'], correctIndex: 1, explanation: 'yesterday + 被动 was broken' },
+  { id: 56, category: 'passive', difficulty: 'C1', question: 'The new law ___.', options: ['is discussed', 'is being discussed', 'discusses', 'was discussing'], correctIndex: 1, explanation: '此刻正在被讨论 is being discussed' },
+  { id: 57, category: 'conditional', difficulty: 'B1', question: 'If it rains, I ___ an umbrella.', options: ['bring', 'will bring', 'would bring', 'brought'], correctIndex: 1, explanation: '真实条件句，if + 现在，主句 will' },
+  { id: 58, category: 'conditional', difficulty: 'B2', question: 'If I ___ rich, I would travel the world.', options: ['am', 'was', 'were', 'be'], correctIndex: 2, explanation: '虚拟条件句，与现在相反用 were' },
+  { id: 59, category: 'conditional', difficulty: 'B2', question: 'If he had studied, he ___ the exam.', options: ['passed', 'would pass', 'would have passed', 'passes'], correctIndex: 2, explanation: '与过去相反的虚拟，would have done' },
+  { id: 60, category: 'conditional', difficulty: 'C1', question: 'Were I you, I ___ differently.', options: ['acted', 'would act', 'would have acted', 'act'], correctIndex: 1, explanation: '倒装虚拟 Were I you = If I were you' },
+  { id: 61, category: 'conditional', difficulty: 'B2', question: '___ you asked me, I could have helped.', options: ['If', 'Had', 'Were', 'Should'], correctIndex: 1, explanation: '倒装虚拟 Had you asked = If you had asked' },
+  { id: 62, category: 'reported', difficulty: 'B1', question: 'She said she ___ the report.', options: ['finishes', 'would finish', 'will finish', 'finished'], correctIndex: 1, explanation: '间接引语，将来变 would' },
+  { id: 63, category: 'reported', difficulty: 'B1', question: 'He told me that he ___ to London.', options: ['goes', 'will go', 'had gone', 'has gone'], correctIndex: 2, explanation: '间接引语，过去时变过去完成时' },
+  { id: 64, category: 'reported', difficulty: 'B2', question: 'The teacher asked us ___ noisy.', options: ["don't be", 'not to be', 'to not be', 'not be'], correctIndex: 1, explanation: 'ask sb not to do 间接祈使句' },
+  { id: 65, category: 'reported', difficulty: 'B2', question: 'She wondered where ___ .', options: ['was the station', 'the station was', 'is the station', 'the station is'], correctIndex: 1, explanation: '间接疑问句用陈述语序' },
+  { id: 66, category: 'modal', difficulty: 'A2', question: 'You ___ brush your teeth before bed.', options: ['must', 'can', 'might', 'would'], correctIndex: 0, explanation: 'must 表示必须做' },
+  { id: 67, category: 'modal', difficulty: 'A2', question: '___ I open the window?', options: ['Must', 'May', 'Need', 'Shall'], correctIndex: 1, explanation: 'May I 请求许可' },
+  { id: 68, category: 'modal', difficulty: 'B1', question: 'You ___ not smoke here.', options: ['must', 'can', 'might', 'could'], correctIndex: 0, explanation: 'must not 禁止' },
+  { id: 69, category: 'modal', difficulty: 'B1', question: 'I ___ swim when I was five.', options: ['can', 'could', 'might', 'should'], correctIndex: 1, explanation: '过去的能力用 could' },
+  { id: 70, category: 'modal', difficulty: 'B2', question: 'You ___ have told me earlier.', options: ['must', 'could', 'should', 'might'], correctIndex: 2, explanation: 'should have done 本应该做而没做' },
+  { id: 71, category: 'modal', difficulty: 'B2', question: 'It ___ rain later. Take an umbrella.', options: ['must', 'might', 'should', 'can'], correctIndex: 1, explanation: 'might 表示可能性不大的推测' },
+  { id: 72, category: 'comparison', difficulty: 'A2', question: 'She is ___ than her sister.', options: ['tall', 'taller', 'tallest', 'more tall'], correctIndex: 1, explanation: 'than 比较级 taller' },
+  { id: 73, category: 'comparison', difficulty: 'A2', question: 'This is the ___ film I have ever seen.', options: ['good', 'better', 'best', 'more good'], correctIndex: 2, explanation: '最高级 the best' },
+  { id: 74, category: 'comparison', difficulty: 'B1', question: 'He is ___ intelligent than his brother.', options: ['more', 'most', 'much', 'very'], correctIndex: 0, explanation: '多音节词比较级用 more' },
+  { id: 75, category: 'comparison', difficulty: 'B1', question: 'This exam is ___ difficult than the last one.', options: ['more', 'most', 'much', 'very'], correctIndex: 0, explanation: '多音节词比较级 more difficult' },
+  { id: 76, category: 'comparison', difficulty: 'B2', question: 'The more you practice, the ___ you become.', options: ['good', 'better', 'best', 'well'], correctIndex: 1, explanation: 'the + 比较级, the + 比较级' },
+  { id: 77, category: 'preposition', difficulty: 'A2', question: 'I go to work ___ bus.', options: ['by', 'on', 'in', 'with'], correctIndex: 0, explanation: '交通工具前用 by' },
+  { id: 78, category: 'preposition', difficulty: 'A2', question: 'She is interested ___ music.', options: ['in', 'on', 'at', 'for'], correctIndex: 0, explanation: 'interested in 固定搭配' },
+  { id: 79, category: 'preposition', difficulty: 'B1', question: 'He is good ___ playing basketball.', options: ['in', 'at', 'on', 'for'], correctIndex: 1, explanation: 'good at 固定搭配' },
+  { id: 80, category: 'preposition', difficulty: 'B1', question: 'The cat is ___ the table.', options: ['in', 'on', 'under', 'between'], correctIndex: 2, explanation: 'under 表示在...下方' },
+  { id: 81, category: 'article', difficulty: 'A2', question: 'I saw ___ elephant at the zoo.', options: ['a', 'an', 'the', 'no article'], correctIndex: 1, explanation: '元音音素前用 an' },
+  { id: 82, category: 'article', difficulty: 'A2', question: '___ sun rises in the east.', options: ['A', 'An', 'The', 'No article'], correctIndex: 2, explanation: '独一无二的事物前用 the' },
+  { id: 83, category: 'article', difficulty: 'B1', question: 'She is ___ honor to our team.', options: ['a', 'an', 'the', 'no article'], correctIndex: 1, explanation: 'honor 元音音素开头用 an' },
+  { id: 84, category: 'article', difficulty: 'B1', question: 'I usually have ___ breakfast at 7 a.m.', options: ['a', 'an', 'the', 'no article'], correctIndex: 3, explanation: '三餐前一般不用冠词' },
+  { id: 85, category: 'infinitive_gerund', difficulty: 'B1', question: 'I enjoy ___ books in my free time.', options: ['read', 'reading', 'to read', 'reads'], correctIndex: 1, explanation: 'enjoy + doing' },
+  { id: 86, category: 'infinitive_gerund', difficulty: 'B1', question: 'She decided ___ a new job.', options: ['find', 'finding', 'to find', 'finds'], correctIndex: 2, explanation: 'decide + to do' },
+  { id: 87, category: 'infinitive_gerund', difficulty: 'B2', question: 'I stopped ___ because I was tired.', options: ['work', 'working', 'to work', 'works'], correctIndex: 1, explanation: 'stop doing 停止做某事' },
+  { id: 88, category: 'infinitive_gerund', difficulty: 'B1', question: 'It is important ___ hard.', options: ['study', 'studying', 'to study', 'studies'], correctIndex: 2, explanation: 'It is + adj + to do' },
+  { id: 89, category: 'infinitive_gerund', difficulty: 'B2', question: 'I remembered ___ the door, but it was open.', options: ['lock', 'locking', 'to lock', 'locked'], correctIndex: 1, explanation: 'remember doing 记得做过某事' },
+  { id: 90, category: 'infinitive_gerund', difficulty: 'C1', question: 'He went on ___ despite the noise.', options: ['work', 'working', 'to work', 'worked'], correctIndex: 1, explanation: 'go on doing 继续做同一件事' },
+  { id: 91, category: 'infinitive_gerund', difficulty: 'B2', question: "She can't help ___ when she sees a funny video.", options: ['laugh', 'laughing', 'to laugh', 'laughed'], correctIndex: 1, explanation: "can't help doing 忍不住做" },
+  { id: 92, category: 'infinitive_gerund', difficulty: 'C1', question: 'I regret ___ you that you failed.', options: ['tell', 'telling', 'to tell', 'told'], correctIndex: 2, explanation: 'regret to tell 遗憾地告诉' },
+  { id: 93, category: 'subjunctive', difficulty: 'B2', question: 'I suggest that he ___ a doctor.', options: ['see', 'sees', 'saw', 'seeing'], correctIndex: 0, explanation: 'suggest that + 动词原形(虚拟)' },
+  { id: 94, category: 'subjunctive', difficulty: 'C1', question: 'It is essential that everyone ___ on time.', options: ['is', 'be', 'was', 'being'], correctIndex: 1, explanation: 'essential that + 动词原形(虚拟)' },
+  { id: 95, category: 'subjunctive', difficulty: 'C1', question: 'The doctor recommended that she ___ more water.', options: ['drinks', 'drink', 'drank', 'drinking'], correctIndex: 1, explanation: 'recommend that + 动词原形' },
+  { id: 96, category: 'subjunctive', difficulty: 'B2', question: 'I wish I ___ fly.', options: ['can', 'could', 'will', 'would'], correctIndex: 1, explanation: 'wish + 过去式表示虚拟愿望' },
+  { id: 97, category: 'subjunctive', difficulty: 'C1', question: 'Had I known, I ___ differently.', options: ['acted', 'would act', 'would have acted', 'act'], correctIndex: 2, explanation: 'Had I known 倒装虚拟，主句 would have done' },
+  { id: 98, category: 'tense', difficulty: 'C1', question: 'She will have been working here for 10 years next month.', options: ['works', 'worked', 'will have been working', 'has worked'], correctIndex: 2, explanation: 'by next month + for 10 years，将来完成进行时' },
+  { id: 99, category: 'clause', difficulty: 'C1', question: 'No matter ___ hard he tries, he never succeeds.', options: ['what', 'how', 'which', 'why'], correctIndex: 1, explanation: 'no matter how 无论多么' },
+  { id: 100, category: 'clause', difficulty: 'C1', question: 'Such ___ the situation that no one could help.', options: ['was', 'were', 'is', 'are'], correctIndex: 0, explanation: 'Such was...that 倒装结构' },
+] as GrammarQuestion[];

@@ -2,16 +2,30 @@ import { useState } from 'react';
 import { useProgress } from '../hooks/useProgress';
 import { loadProgress, getUnlockedAchievements } from '../utils/storage';
 
-import { getDayNumber, getTotalDays, getCEFRProgress } from '../utils/scheduler';
+import { getDayNumber, getTotalDays, getCEFRProgress, getSelectedLevel } from '../utils/scheduler';
 import { Flame, BookOpen, Trophy, Target, Zap } from 'lucide-react';
 import ProgressRing from '../components/ProgressRing';
 
 export default function Stats() {
   const [previewLevel, setPreviewLevel] = useState<string | null>(null);
+  const [expandedLevel, setExpandedLevel] = useState<string | null>(null);
+  const CEFR_DETAILS: Record<string, {topics: string, words: string, nextLabel: string}> = {
+    A1: {topics: '问候·数字·颜色·家庭·食物·交通·购物·时间·天气', words: '~1000 词', nextLabel: 'A2 初级 (Day 51)'},
+    A2: {topics: '工作·旅游·科技·社交·健康·餐饮·兴趣爱好·节日·教育', words: '~2000 词', nextLabel: 'B1 中级 (Day 101)'},
+    B1: {topics: '观点表达·文化讨论·深度对话·思辨·新闻·社会话题·旅行·科技', words: '~3000 词', nextLabel: 'B2 中高级 (Day 151)'},
+    B2: {topics: '学术讨论·专业话题·辩论演讲·复杂阅读·抽象概念·商业', words: '~4000 词', nextLabel: 'C1 高级 (Day 201)'},
+    C1: {topics: '流利表达·抽象概念·高级写作·地道习语·学术论文·文化赏析', words: '~5000 词', nextLabel: 'C2 精通 (Day 251)'},
+    C2: {topics: '母语级·文学赏析·专业学术·文化精通·高级辩论·抽象思维', words: '~6000 词', nextLabel: '已完成全部级别'},
+  };
   const { progress } = useProgress();
+  const CEFR_OFFSETS: Record<string, number> = { A1: 0, A2: 50, B1: 100, B2: 150, C1: 200, C2: 250 };
   const day = getDayNumber();
   const totalDays = getTotalDays();
   const cefrData = getCEFRProgress(day);
+  const currentOffset = CEFR_OFFSETS[getSelectedLevel()] || 0;
+  const baseDay = Math.max(1, day - currentOffset);
+  const previewDay = previewLevel ? Math.min(baseDay + (CEFR_OFFSETS[previewLevel] || 0), totalDays) : day;
+  const previewCefrData = getCEFRProgress(previewDay);
 
   // Calculate stats
   const achievements = getUnlockedAchievements(loadProgress());
@@ -55,14 +69,14 @@ export default function Stats() {
         <h2 className="text-base font-bold text-gray-900 mb-4">学习进度</h2>
         <div className="flex items-center justify-around">
           <div className="text-center">
-            <ProgressRing progress={(day / totalDays) * 100} size={90} />
+            <ProgressRing progress={(previewDay / totalDays) * 100} size={90} />
             <p className="text-xs text-gray-500 mt-2">总进度</p>
-            <p className="text-sm font-medium">Day {day}/{totalDays}</p>
+            <p className="text-sm font-medium">Day {previewDay}/{totalDays}</p>
           </div>
           <div className="text-center">
-            <ProgressRing progress={cefrData.progress} size={90} color="#8b5cf6" />
+            <ProgressRing progress={previewCefrData.progress} size={90} color="#8b5cf6" />
             <p className="text-xs text-gray-500 mt-2">当前阶段</p>
-            <p className="text-sm font-medium">{cefrData.level} {cefrData.label}</p>
+            <p className="text-sm font-medium">{previewCefrData.level} {previewCefrData.label}</p>
           </div>
           <div className="text-center">
             <ProgressRing progress={overallAccuracy} size={90} color="#10b981" />
@@ -127,13 +141,14 @@ export default function Stats() {
             { level: 'B2', label: 'B2 中高级', days: 'Day 151-200', desc: '学术讨论、专业话题、辩论演讲、复杂阅读', active: (previewLevel || cefrData.level) === 'B2' },
             { level: 'C1', label: 'C1 高级', days: 'Day 201-250', desc: '流利表达、抽象概念、高级写作、地道习语', active: (previewLevel || cefrData.level) === 'C1' },
             { level: 'C2', label: 'C2 精通', days: 'Day 251-300', desc: '接近母语水平、文学赏析、专业学术、文化精通', active: (previewLevel || cefrData.level) === 'C2' },
-          ].map(s => (
+          ].map(s => {
+            return (
             <div
               key={s.level}
               className={`rounded-xl p-3.5 border transition-all cursor-pointer ${
                 s.active ? 'border-[var(--primary)] bg-[var(--primary-light)]' : 'border-gray-100 bg-gray-50 hover:border-gray-300'
               }`}
-              onClick={() => setPreviewLevel(s.level === previewLevel ? null : s.level)}
+              onClick={() => { setPreviewLevel(s.level === previewLevel ? null : s.level); setExpandedLevel(s.level === expandedLevel ? null : s.level); }}
             >
               <div className="flex items-center justify-between mb-1">
                 <p className={`text-sm font-medium ${s.active ? 'text-[var(--primary)]' : 'text-gray-600'}`}>
@@ -144,8 +159,30 @@ export default function Stats() {
                 </span>
               </div>
               <p className="text-xs text-gray-400">{s.desc}</p>
-            </div>
-          ))}
+            {expandedLevel === s.level && (
+              <div className="mt-2 p-4 rounded-xl bg-purple-50 border border-purple-200 animate-fadeIn">
+                <div className="flex items-center gap-2 text-xs text-gray-600 mb-2">
+                  <span>📚 {CEFR_DETAILS[s.level]?.topics}</span>
+                </div>
+                <div className="flex items-center gap-2 text-xs text-gray-600 mb-2">
+                  <span>📖 词汇量 {CEFR_DETAILS[s.level]?.words}</span>
+                </div>
+                <div className="mb-2">
+                  <div className="flex justify-between text-xs text-gray-500 mb-1">
+                    <span>本阶段进度</span>
+                    <span>{Math.min(100, Math.round((previewLevel === s.level ? previewDay : day) / ((s.level === 'A1' ? 50 : s.level === 'A2' ? 100 : s.level === 'B1' ? 150 : s.level === 'B2' ? 200 : s.level === 'C1' ? 250 : 300) / 300 * totalDays) * 100))}%</span>
+                  </div>
+                  <div className="w-full bg-purple-200 rounded-full h-1.5">
+                    <div className="bg-purple-600 rounded-full h-1.5 transition-all" style={{width: `${Math.min(100, Math.round((previewLevel === s.level ? previewDay : day) / ((s.level === 'A1' ? 50 : s.level === 'A2' ? 100 : s.level === 'B1' ? 150 : s.level === 'B2' ? 200 : s.level === 'C1' ? 250 : 300) / 300 * totalDays) * 100))}%`}} />
+                  </div>
+                </div>
+                <p className="text-xs text-gray-500 mb-2">🏁 下一阶段：{CEFR_DETAILS[s.level]?.nextLabel}</p>
+                <a href="/learn" className="inline-block text-xs font-medium text-[var(--primary)] hover:underline">▶ 继续学习</a>
+              </div>
+            )}
+          </div>
+        );
+      })} 
         </div>
       </div>
     </div>

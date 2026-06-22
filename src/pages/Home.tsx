@@ -106,7 +106,7 @@ export default function Home() {
           📖 {cefrData.level} {cefrLabel} · Day {day}/{totalDays}
         </p>
         <div className="flex items-center gap-2 text-xs text-gray-500 mb-2">
-          <span className="px-2 py-0.5 rounded-full bg-white border border-purple-200">词汇量 ~{(cefrData.level === 'A1' ? 500 : cefrData.level === 'A2' ? 1000 : cefrData.level === 'B1' ? 2000 : cefrData.level === 'B2' ? 3000 : cefrData.level === 'C1' ? 4000 : 5000)} 词</span>
+          <span className="px-2 py-0.5 rounded-full bg-white border border-purple-200">词汇量 ~{(cefrData.level === 'A1' ? 1000 : cefrData.level === 'A2' ? 2000 : cefrData.level === 'B1' ? 3000 : cefrData.level === 'B2' ? 4000 : cefrData.level === 'C1' ? 5000 : 6000)} 词</span>
           <span>Day {cefrData.dayStart}-{cefrData.dayEnd}</span>
         </div>
         <p className="text-xs text-gray-500 leading-relaxed mb-1">{cefrData.level === 'A1' ? '问候、数字、颜色、家庭、食物、交通、购物、时间、天气' : cefrData.level === 'A2' ? '工作、旅游、科技、社交、健康、餐饮、兴趣爱好、节日' : cefrData.level === 'B1' ? '观点表达、文化讨论、深度对话、新闻、社会话题、旅行体验' : cefrData.level === 'B2' ? '学术讨论、专业话题、辩论演讲、复杂阅读、抽象概念、商业环境' : cefrData.level === 'C1' ? '流利表达、抽象概念、高级写作、地道习语、学术论文、文化赏析' : '接近母语、文学赏析、专业学术、文化精通、高级辩论、抽象思维'}</p>
