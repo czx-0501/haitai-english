@@ -1,9 +1,11 @@
+import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useProgress } from '../hooks/useProgress';
 import { getTodayData, getDayNumber, getTotalDays, getCEFRProgress, getCEFROptions, getSelectedLevel, setSelectedLevel } from '../utils/scheduler';
 import { getDueCount } from '../utils/storage';
 
 export default function Home() {
+  const [, forceUpdate] = useState(0);
   const { progress, todayProgress } = useProgress();
   const dayData = getTodayData();
   const day = getDayNumber();
@@ -88,7 +90,7 @@ export default function Home() {
           {getCEFROptions().map(opt => {
             const cur = getSelectedLevel();
             return (
-              <button key={opt.value} onClick={() => setSelectedLevel(opt.value)}
+              <button key={opt.value} onClick={() => { setSelectedLevel(opt.value); forceUpdate(i => i + 1); }}
                 className={'px-3 py-1.5 rounded-xl text-xs font-medium transition-all ' + (cur === opt.value ? 'bg-[var(--primary)] text-white' : 'bg-gray-100 text-gray-500 hover:bg-gray-200')}>
                 {opt.label}
               </button>
