@@ -22,6 +22,13 @@ export default function Learn() {
     saveProgress(word);
   };
 
+  const [showQuiz, setShowQuiz] = useState(false);
+  const [quizIndex, setQuizIndex] = useState(0);
+  const [quizOptions, setQuizOptions] = useState<string[]>([]);
+  const [quizSelected, setQuizSelected] = useState<number | null>(null);
+  const [quizCorrectIdx, setQuizCorrectIdx] = useState(0);
+  const [quizCorrect, setQuizCorrect] = useState(0);
+  const [quizFinished, setQuizFinished] = useState(false);
   const [showRanking, setShowRanking] = useState(false);
   const [rankingList, setRankingList] = useState<any[]>([]);
 
@@ -45,6 +52,39 @@ export default function Learn() {
         setRankingList(profiles);
       }
     } catch(e) { console.error(e); }
+  }
+
+  function startQuiz() {
+    if (!words || words.length === 0) return;
+    setShowQuiz(true);
+    setQuizIndex(0);
+    setQuizCorrect(0);
+    setQuizSelected(null);
+    setQuizFinished(false);
+    buildQuestion(0, words);
+  }
+
+  function closeQuiz() {
+    setShowQuiz(false);
+    setQuizFinished(false);
+  }
+
+  function buildQuestion(idx: number, allWords: any[]) {
+    if (idx >= allWords.length) { setQuizFinished(true); return; }
+    const correct = allWords[idx];
+    const wrongs = allWords.filter((w: any) => w.w !== correct.w).sort(() => Math.random() - 0.5).slice(0, 3).map((w: any) => w.m);
+    const opts = [correct.m, ...wrongs].sort(() => Math.random() - 0.5);
+    setQuizOptions(opts as string[]);
+    setQuizCorrectIdx(opts.indexOf(correct.m));
+    setQuizSelected(null);
+    setQuizIndex(idx);
+  }
+
+  function selectAnswer(idx: number) {
+    if (quizSelected !== null) return;
+    setQuizSelected(idx);
+    if (idx === quizCorrectIdx) setQuizCorrect(prev => prev + 1);
+    setTimeout(() => { buildQuestion(quizIndex + 1, words); }, 1000);
   }
 
   if (!currentWord || !words.length) {
@@ -98,23 +138,57 @@ export default function Learn() {
           totalWords={totalWords}
         />
       )}
+      {/* Inline Quiz */}
+      {showQuiz && (
+        <div className="bg-white rounded-2xl p-5 shadow-sm border border-gray-100 mt-4">
+          {quizFinished ? (
+            <div className="text-center py-6">
+              <p className="text-4xl mb-2">{quizCorrect / (words.length || 1) >= 0.8 ? '🎉' : quizCorrect / (words.length || 1) >= 0.5 ? '👍' : '💪'}</p>
+              <p className="font-medium text-gray-900">正确 {quizCorrect} / {words.length}</p>
+              <button onClick={closeQuiz} className="mt-3 px-6 py-2 rounded-xl bg-[var(--primary)] text-white text-sm font-medium">完成</button>
+            </div>
+          ) : (
+            <>
+              <div className="flex items-center justify-between mb-3">
+                <h3 className="font-bold text-gray-900">每日小测</h3>
+                <button onClick={closeQuiz} className="text-gray-400 p-1"><X size={18} /></button>
+              </div>
+              <p className="text-xs text-gray-400 mb-3">第 {quizIndex + 1} / {words.length} 题</p>
+              <p className="text-center text-xl font-bold text-gray-900 mb-4">{words[quizIndex]?.w}</p>
+              <div className="space-y-2">
+                {quizOptions.map((opt, i) => (
+                  <button key={i} onClick={() => selectAnswer(i)}
+                    className={'w-full p-3 rounded-xl text-sm text-center transition-all ' + (
+                      quizSelected !== null
+                        ? (i === quizCorrectIdx ? 'bg-green-50 border border-green-300 text-green-700 font-medium' : (quizSelected === i ? 'bg-red-50 border border-red-300 text-red-700 font-medium' : 'bg-gray-50 border border-gray-200 text-gray-400'))
+                        : 'bg-gray-50 border border-gray-200 text-gray-700 hover:bg-gray-100'
+                    )}>
+                    {opt}
+                  </button>
+                ))}
+              </div>
+            </>
+          )}
+        </div>
+      )}
+
       {/* Quick access cards */}
       <div className="grid grid-cols-2 gap-3 mt-6">
-        <a href="/quiz" className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 hover:shadow-md transition-all">
+        <button onClick={startQuiz} className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 hover:shadow-md transition-all text-left w-full">
           <div className="w-10 h-10 rounded-xl bg-amber-50 flex items-center justify-center mb-3">
             <ClipboardCheck size={20} className="text-amber-500" />
           </div>
           <p className="font-medium text-gray-900">每日小测</p>
           <p className="text-xs text-gray-400 mt-0.5">检验今日学习成果</p>
         </a>
-        <a href="/review" className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 hover:shadow-md transition-all">
+        <a href="/review" className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 hover:shadow-md transition-all text-left w-full">
           <div className="w-10 h-10 rounded-xl bg-red-50 flex items-center justify-center mb-3">
             <TrendingUp size={20} className="text-red-400" />
           </div>
           <p className="font-medium text-gray-900">错题复习</p>
           <p className="text-xs text-gray-400 mt-0.5">间隔复习巩固</p>
         </a>
-        <a href="/practice" className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 hover:shadow-md transition-all">
+        <a href="/practice" className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 hover:shadow-md transition-all text-left w-full">
           <div className="w-10 h-10 rounded-xl bg-teal-50 flex items-center justify-center mb-3 text-lg">📝</div>
           <p className="font-medium text-gray-900">专项练习</p>
           <p className="text-xs text-gray-400 mt-0.5">语法·阅读·听力</p>
