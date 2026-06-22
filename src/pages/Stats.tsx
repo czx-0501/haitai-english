@@ -2,12 +2,12 @@ import { useState } from 'react';
 import { useProgress } from '../hooks/useProgress';
 import { loadProgress, getUnlockedAchievements } from '../utils/storage';
 
-import { getDayNumber, getTotalDays, getCEFRProgress } from '../utils/scheduler';
+import { getDayNumber, getTotalDays, getCEFRProgress, setSelectedLevel } from '../utils/scheduler';
 import { Flame, BookOpen, Trophy, Target, Zap } from 'lucide-react';
 import ProgressRing from '../components/ProgressRing';
 
 export default function Stats() {
-  const [previewLevel, setPreviewLevel] = useState<string | null>(null);
+  const [, forceUpdate] = useState(0);
   const { progress } = useProgress();
   const day = getDayNumber();
   const totalDays = getTotalDays();
@@ -121,19 +121,19 @@ export default function Stats() {
         <h2 className="text-base font-bold text-gray-900 mb-3">CEFR 学习路径</h2>
         <div className="space-y-3">
           {[
-            { level: 'A1', label: 'A1 入门', days: 'Day 1-50', desc: '问候、数字、购物、餐厅、交通等基础表达', active: (previewLevel || cefrData.level) === 'A1' },
-            { level: 'A2', label: 'A2 初级', days: 'Day 51-100', desc: '工作、旅游、科技、社交、健康等场景', active: (previewLevel || cefrData.level) === 'A2' },
-            { level: 'B1', label: 'B1 中级', days: 'Day 101-150', desc: '观点表达、文化讨论、深度对话、思辨能力', active: (previewLevel || cefrData.level) === 'B1' },
-            { level: 'B2', label: 'B2 中高级', days: 'Day 151-200', desc: '学术讨论、专业话题、辩论演讲、复杂阅读', active: (previewLevel || cefrData.level) === 'B2' },
-            { level: 'C1', label: 'C1 高级', days: 'Day 201-250', desc: '流利表达、抽象概念、高级写作、地道习语', active: (previewLevel || cefrData.level) === 'C1' },
-            { level: 'C2', label: 'C2 精通', days: 'Day 251-300', desc: '接近母语水平、文学赏析、专业学术、文化精通', active: (previewLevel || cefrData.level) === 'C2' },
+            { level: 'A1', label: 'A1 入门', days: 'Day 1-50', desc: '问候、数字、购物、餐厅、交通等基础表达', active: cefrData.level === 'A1' },
+            { level: 'A2', label: 'A2 初级', days: 'Day 51-100', desc: '工作、旅游、科技、社交、健康等场景', active: cefrData.level === 'A2' },
+            { level: 'B1', label: 'B1 中级', days: 'Day 101-150', desc: '观点表达、文化讨论、深度对话、思辨能力', active: cefrData.level === 'B1' },
+            { level: 'B2', label: 'B2 中高级', days: 'Day 151-200', desc: '学术讨论、专业话题、辩论演讲、复杂阅读', active: cefrData.level === 'B2' },
+            { level: 'C1', label: 'C1 高级', days: 'Day 201-250', desc: '流利表达、抽象概念、高级写作、地道习语', active: cefrData.level === 'C1' },
+            { level: 'C2', label: 'C2 精通', days: 'Day 251-300', desc: '接近母语水平、文学赏析、专业学术、文化精通', active: cefrData.level === 'C2' },
           ].map(s => (
             <div
               key={s.level}
               className={`rounded-xl p-3.5 border transition-all cursor-pointer ${
                 s.active ? 'border-[var(--primary)] bg-[var(--primary-light)]' : 'border-gray-100 bg-gray-50 hover:border-gray-300'
               }`}
-              onClick={() => setPreviewLevel(s.level === previewLevel ? null : s.level)}
+              onClick={() => { setSelectedLevel(s.level); forceUpdate(i => i + 1); }}
             >
               <div className="flex items-center justify-between mb-1">
                 <p className={`text-sm font-medium ${s.active ? 'text-[var(--primary)]' : 'text-gray-600'}`}>
