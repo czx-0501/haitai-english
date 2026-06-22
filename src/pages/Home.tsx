@@ -1,19 +1,20 @@
-import { getLearningMode, setLearningMode } from '../utils/scheduler';
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useProgress } from '../hooks/useProgress';
-import { getTodayData, getDayNumber, getTotalDays, getCEFRProgress, getCEFROptions, getSelectedLevel, setSelectedLevel } from '../utils/scheduler';
+import { getTodayData, getDayNumber, getTotalDays, getCEFRProgress, getCEFROptions, getSelectedLevel, setSelectedLevel, getLearningMode, setLearningMode } from '../utils/scheduler';
 import { getDueCount } from '../utils/storage';
 
 export default function Home() {
   const [currentMode, setCurrentMode] = useState<string>(getLearningMode());
   const [, forceUpdate] = useState(0);
+  const [previewCefr, setPreviewCefr] = useState<string | null>(null);
   const { progress, todayProgress } = useProgress();
   const dayData = getTodayData();
   const day = getDayNumber();
   const totalDays = getTotalDays();
   const cefrData = getCEFRProgress(day);
   const cefrLabel = cefrData.label;
+  const displayLevel = previewCefr || cefrData.level;
   const dueCount = getDueCount();
 
   const todayLearnedPercent = todayProgress
@@ -114,6 +115,15 @@ export default function Home() {
               </button>
             );
           })}
+          <span className="w-px h-6 bg-gray-200 mx-1 self-center"></span>
+          <button onClick={() => { setSelectedLevel('TOEFL'); setPreviewCefr('TOEFL'); setLearningMode('TOEFL'); forceUpdate(i => i + 1); }}
+            className={'px-3 py-1.5 rounded-xl text-xs font-medium transition-all ' + ((previewCefr || getSelectedLevel()) === 'TOEFL' ? 'bg-green-600 text-white' : 'bg-gray-100 text-gray-500 hover:bg-gray-200')}>
+            TOEFL
+          </button>
+          <button onClick={() => { setSelectedLevel('IELTS'); setPreviewCefr('IELTS'); setLearningMode('IELTS'); forceUpdate(i => i + 1); }}
+            className={'px-3 py-1.5 rounded-xl text-xs font-medium transition-all ' + ((previewCefr || getSelectedLevel()) === 'IELTS' ? 'bg-blue-600 text-white' : 'bg-gray-100 text-gray-500 hover:bg-gray-200')}>
+            IELTS
+          </button>
         </div>
         <p className="text-xs text-gray-400">点选级别查看学习目标与计划</p>
       </div>
@@ -124,7 +134,7 @@ export default function Home() {
           📖 {cefrData.level} {cefrLabel} · Day {day}/{totalDays}
         </p>
         <div className="flex items-center gap-2 text-xs text-gray-500 mb-2">
-          <span className="px-2 py-0.5 rounded-full bg-white border border-purple-200">词汇量 ~{(cefrData.level === 'A1' ? 1000 : cefrData.level === 'A2' ? 2000 : cefrData.level === 'B1' ? 3000 : cefrData.level === 'B2' ? 4000 : cefrData.level === 'C1' ? 5000 : 6000)} 词</span>
+          <span className="px-2 py-0.5 rounded-full bg-white border border-purple-200">词汇量 ~{(displayLevel === 'TOEFL' || displayLevel === 'IELTS' ? 3000 : displayLevel === 'A1' ? 1000 : cefrData.level === 'A2' ? 2000 : cefrData.level === 'B1' ? 3000 : cefrData.level === 'B2' ? 4000 : cefrData.level === 'C1' ? 5000 : 6000)} 词</span>
           <span>Day {cefrData.dayStart}-{cefrData.dayEnd}</span>
         </div>
         <p className="text-xs text-gray-500 leading-relaxed mb-1">{cefrData.level === 'A1' ? '问候、数字、颜色、家庭、食物、交通、购物、时间、天气' : cefrData.level === 'A2' ? '工作、旅游、科技、社交、健康、餐饮、兴趣爱好、节日' : cefrData.level === 'B1' ? '观点表达、文化讨论、深度对话、新闻、社会话题、旅行体验' : cefrData.level === 'B2' ? '学术讨论、专业话题、辩论演讲、复杂阅读、抽象概念、商业环境' : cefrData.level === 'C1' ? '流利表达、抽象概念、高级写作、地道习语、学术论文、文化赏析' : '接近母语、文学赏析、专业学术、文化精通、高级辩论、抽象思维'}</p>
