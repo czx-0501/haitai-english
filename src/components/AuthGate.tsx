@@ -22,6 +22,12 @@ export default function AuthGate({ children }: { children: React.ReactNode }) {
     return () => subscription.unsubscribe();
   }, []);
 
+  useEffect(() => {
+    if (session) {
+      setTimeout(() => window.dispatchEvent(new Event('resize')), 50);
+    }
+  }, [session]);
+
   async function handleAuth(e: React.FormEvent) {
     e.preventDefault();
     setError('');
@@ -46,14 +52,13 @@ export default function AuthGate({ children }: { children: React.ReactNode }) {
         return;
       }
 
-     const { error: signInErr } = await supabase.auth.signInWithPassword({ email, password });
-      if (signInErr) { setError(signInErr.message); setAuthLoading(false); return; }
-      const { data: { session: s } } = await supabase.auth.getSession();
-      if (s) setSession(s);
-      setAuthLoading(false);
-      return;
-    } catch (e: any) {
-      setError(e.message || '操作失败');
+    const { data, error: signInErr } = await supabase.auth.signInWithPassword({ email, password });
+    if (signInErr) { setError(signInErr.message); setAuthLoading(false); return; }
+    if (data?.session) setSession(data.session);
+    setAuthLoading(false);
+    return;
+  } catch (e: any) {
+     setError(e.message || '操作失败');
     }
   }
 
