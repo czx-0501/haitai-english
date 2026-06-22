@@ -1,10 +1,9 @@
 import { useEffect } from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import Layout from './components/Layout';
 import AuthGate from './components/AuthGate';
 import Home from './pages/Home';
 import Learn from './pages/Learn';
-import QuizPage from './pages/QuizPage';
 import Review from './pages/Review';
 import Stats from './pages/Stats';
 import Circle from './social/Circle';

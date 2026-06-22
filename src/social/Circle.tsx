@@ -28,7 +28,7 @@ export default function Circle() {
   }
 
   async function loadFeed(mode: string, ids: string[]) {
-    const { data, error } = await getPosts();
+    const { data } = await getPosts();
     if (data) {
       if (mode === 'friends' && ids.length > 0) {
         const uid = user?.id;
@@ -71,9 +71,9 @@ export default function Circle() {
 
   async function handlePost() {
     if (!newPost.trim()) return;
-    const { error } = await createPost(newPost.trim(), postImage || undefined);
-    if (error) {
-      alert('发布失败: ' + (typeof error === 'string' ? error : error?.message || JSON.stringify(error)));
+    const result = await createPost(newPost.trim(), postImage || undefined);
+    if (result?.error) {
+      alert('发布失败: ' + (typeof result.error === 'string' ? result.error : result.error?.message || JSON.stringify(result.error)));
       return;
     }
     setNewPost('');
@@ -268,7 +268,7 @@ export default function Circle() {
                   {post.user?.nickname?.[0] || '?'}
                 </div>
                 <div>
-                  <p className="text-sm font-medium">{post.user?.nickname || {post.user?.nickname || '匿名'}</p>
+                  <p className="text-sm font-medium">{post.user?.nickname || '匿名'}</p>
                   <p className="text-xs text-gray-400">{new Date(post.created_at).toLocaleDateString('zh-CN')}</p>
                 </div>
               </div>

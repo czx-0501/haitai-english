@@ -1,7 +1,7 @@
 import { useProgress } from '../hooks/useProgress';
 import { loadProgress, getUnlockedAchievements } from '../utils/storage';
 
-import { getDayNumber, getTotalDays, getCEFRProgress, getCEFROptions, getSelectedLevel, setSelectedLevel } from '../utils/scheduler';
+import { getDayNumber, getTotalDays, getCEFRProgress, setSelectedLevel } from '../utils/scheduler';
 import { Flame, BookOpen, Trophy, Target, Zap } from 'lucide-react';
 import ProgressRing from '../components/ProgressRing';
 

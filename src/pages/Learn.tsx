@@ -180,7 +180,7 @@ export default function Learn() {
           </div>
           <p className="font-medium text-gray-900">每日小测</p>
           <p className="text-xs text-gray-400 mt-0.5">检验今日学习成果</p>
-        </a>
+        </button>
         <a href="/review" className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 hover:shadow-md transition-all text-left w-full">
           <div className="w-10 h-10 rounded-xl bg-red-50 flex items-center justify-center mb-3">
             <TrendingUp size={20} className="text-red-400" />

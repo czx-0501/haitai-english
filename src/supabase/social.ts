@@ -149,17 +149,13 @@ export async function getFriends() {
 
 // === 打卡分享 ===
 export async function shareStudyResult(wordsLearned: number, correctRate: number, day: number) {
-  const content = `📚 海苔英语 Day ${day}
+  const content = `📚 海苔英语 Day ${day} 打卡\n学习了 ${wordsLearned} 个单词\n正确率 ${correctRate}%\n#海苔英语 #每日打卡`;
+  return createPost(content, undefined, 'study');
+}
+
 export async function deletePost(postId: string) {
   const { data: { user } } = await supabase.auth.getUser();
   if (!user) return { error: 'Not logged in' };
-  const { error } = await supabase
-    .from('posts')
-    .delete()
-    .eq('id', postId)
-    .eq('user_id', user.id);
+  const { error } = await supabase.from('posts').delete().eq('id', postId).eq('user_id', user.id);
   return { error };
-}
- 打卡\n学习了 ${wordsLearned} 个单词\n正确率 ${correctRate}%\n#海苔英语 #每日打卡`;
-  return createPost(content, undefined, 'study');
 }
