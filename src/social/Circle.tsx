@@ -150,7 +150,7 @@ export default function Circle() {
       </div>
 
       {/* Feed mode toggle */}
-      <div className="flex bg-gray-100 rounded-xl p-1 mb-3">
+      <div className="flex bg-gray-100 rounded-lg p-0.5 mb-3">
         <button onClick={() => switchFeedMode('all')}
           className={'flex-1 py-2 text-sm rounded-lg text-center transition-all ' + (feedMode === 'all' ? 'bg-white text-[var(--primary)] font-medium shadow-sm' : 'text-gray-500')}>
           🌍 世界
@@ -179,8 +179,8 @@ export default function Circle() {
 
             {/* Search users */}
             <div className="flex items-center gap-2 mb-4">
-              <input value={friendSearch} onChange={e => setFriendSearch(e.target.value)} placeholder="搜索用户昵称..." className="flex-1 px-3 py-2 rounded-xl border border-gray-200 text-sm" />
-              <button onClick={handleSearchUsers} className="p-2 rounded-xl bg-[var(--primary)] text-white"><Search size={16} /></button>
+              <input value={friendSearch} onChange={e => setFriendSearch(e.target.value)} placeholder="搜索用户昵称..." className="flex-1 px-3 py-3 rounded-xl border border-gray-200 text-xs" />
+              <button onClick={handleSearchUsers} className="px-4 py-2 rounded-xl bg-[var(--primary)] text-white text-xs"><Search size={16} /></button>
             </div>
 
             {/* Search results */}
@@ -190,7 +190,7 @@ export default function Circle() {
                 {searchResults.map(u => (
                   <div key={u.id} className="flex items-center justify-between py-2">
                     <div className="flex items-center gap-2">
-                      <div className="w-8 h-8 rounded-full bg-[var(--primary-light)] flex items-center justify-center text-sm font-medium text-[var(--primary)]">{u.nickname[0]}</div>
+                      <div className="w-7 h-7 rounded-full bg-[var(--primary-light)] flex items-center justify-center text-xs font-medium text-[var(--primary)]">{u.nickname[0]}</div>
                       <span className="text-sm">{u.nickname}</span>
                     </div>
                     <button
@@ -225,8 +225,8 @@ export default function Circle() {
 
       {/* Create Post */}
       {user && (
-        <div className="bg-white rounded-2xl p-4 shadow-sm border border-gray-100 mb-4">
-          <textarea value={newPost} onChange={e => setNewPost(e.target.value)} placeholder="分享你的学习心得..." rows={2} className="w-full text-sm resize-none outline-none" />
+        <div className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 mb-4">
+          <textarea value={newPost} onChange={e => setNewPost(e.target.value)} placeholder="分享你的学习心得..." rows={2} className="w-full text-xs min-h-[50px] resize-none outline-none" />
           {postImage && (
             <div className="relative inline-block mt-2">
               <img src={postImage} className="w-20 h-20 rounded-xl object-cover border border-gray-200" />
@@ -253,7 +253,7 @@ export default function Circle() {
 
       {/* Feed */}
       {posts.length === 0 ? (
-        <div className="text-center py-16 text-gray-400">
+        <div className="text-center py-32 text-gray-400">
           <MessageCircle size={48} className="mx-auto mb-4 opacity-50" />
           <p>还没有动态</p>
           <p className="text-sm mt-1">学习完单词来打卡吧！</p>
@@ -261,14 +261,14 @@ export default function Circle() {
       ) : (
         <div className="space-y-4">
           {posts.map(post => (
-            <div key={post.id} className="bg-white rounded-2xl p-4 shadow-sm border border-gray-100">
+            <div key={post.id} className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100">
               {/* Post header */}
               <div className="flex items-center gap-2 mb-3">
-                <div className="w-8 h-8 rounded-full bg-[var(--primary-light)] flex items-center justify-center text-sm font-medium text-[var(--primary)]">
+                <div className="w-7 h-7 rounded-full bg-[var(--primary-light)] flex items-center justify-center text-xs font-medium text-[var(--primary)]">
                   {post.user?.nickname?.[0] || '?'}
                 </div>
                 <div>
-                  <p className="text-sm font-medium">{post.user?.nickname || '匿名'}</p>
+                  <p className="text-sm font-medium">{post.user?.nickname || {post.user?.nickname || '匿名'}</p>
                   <p className="text-xs text-gray-400">{new Date(post.created_at).toLocaleDateString('zh-CN')}</p>
                 </div>
               </div>

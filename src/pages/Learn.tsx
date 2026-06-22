@@ -100,21 +100,21 @@ export default function Learn() {
       )}
       {/* Quick access cards */}
       <div className="grid grid-cols-2 gap-3 mt-6">
-        <a href="/quiz" className="bg-white rounded-2xl p-4 shadow-sm border border-gray-100 hover:shadow-md transition-all">
+        <a href="/quiz" className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 hover:shadow-md transition-all">
           <div className="w-10 h-10 rounded-xl bg-amber-50 flex items-center justify-center mb-3">
             <ClipboardCheck size={20} className="text-amber-500" />
           </div>
           <p className="font-medium text-gray-900">每日小测</p>
           <p className="text-xs text-gray-400 mt-0.5">检验今日学习成果</p>
         </a>
-        <a href="/review" className="bg-white rounded-2xl p-4 shadow-sm border border-gray-100 hover:shadow-md transition-all">
+        <a href="/review" className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 hover:shadow-md transition-all">
           <div className="w-10 h-10 rounded-xl bg-red-50 flex items-center justify-center mb-3">
             <TrendingUp size={20} className="text-red-400" />
           </div>
           <p className="font-medium text-gray-900">错题复习</p>
           <p className="text-xs text-gray-400 mt-0.5">间隔复习巩固</p>
         </a>
-        <a href="/practice" className="bg-white rounded-2xl p-4 shadow-sm border border-gray-100 hover:shadow-md transition-all">
+        <a href="/practice" className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 hover:shadow-md transition-all">
           <div className="w-10 h-10 rounded-xl bg-teal-50 flex items-center justify-center mb-3 text-lg">📝</div>
           <p className="font-medium text-gray-900">专项练习</p>
           <p className="text-xs text-gray-400 mt-0.5">语法·阅读·听力</p>
