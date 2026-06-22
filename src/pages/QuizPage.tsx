@@ -5,7 +5,8 @@ import Quiz from '../components/Quiz';
 import { ClipboardCheck, ArrowRight } from 'lucide-react';
 
 export default function QuizPage() {
-  const [started, setStarted] = useState(false);
+ const [started, setStarted] = useState(false);
+  const [quizVersion, setQuizVersion] = useState(0);
   const { recordQuiz, todayProgress } = useProgress();
   const dayData = getTodayData();
 
@@ -38,7 +39,7 @@ export default function QuizPage() {
               正确 {todayProgress.quizCorrect} / {todayProgress.quizTotal}
             </p>
             <button
-              onClick={() => setStarted(true)}
+              onClick={() => { setQuizVersion(v => v + 1); setStarted(true); }}
               className="mt-4 px-6 py-2.5 rounded-xl bg-[var(--primary)] text-white hover:bg-blue-600 transition-all font-medium"
             >
               重测一次
@@ -54,7 +55,7 @@ export default function QuizPage() {
               根据今天学习的 20 个单词，选择正确的中文释义
             </p>
             <button
-              onClick={() => setStarted(true)}
+              onClick={() => { setQuizVersion(v => v + 1); setStarted(true); }}
               className="inline-flex items-center gap-2 px-8 py-3 rounded-xl bg-[var(--primary)] text-white font-medium hover:bg-blue-600 transition-all shadow-sm"
             >
               开始小测 <ArrowRight size={18} />
@@ -74,7 +75,7 @@ export default function QuizPage() {
         </span>
       </div>
       <Quiz
-        key={Date.now()}
+        key={quizVersion}
         words={dayData.words}
         onComplete={handleComplete}
       />
