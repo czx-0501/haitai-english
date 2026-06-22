@@ -100,84 +100,9 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Quick actions */}
-      <div className="grid grid-cols-2 gap-3">
-        <Link
-          to="/learn"
-          className="bg-white rounded-2xl p-4 shadow-sm border border-gray-100 hover:shadow-md transition-all"
-        >
-          <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center mb-3">
-            <BookOpen size={20} className="text-[var(--primary)]" />
-          </div>
-          <p className="font-medium text-gray-900">学单词</p>
-          <p className="text-xs text-gray-400 mt-0.5">每日 20 词卡片学习</p>
-        </Link>
-        <Link
-          to="/quiz"
-          className="bg-white rounded-2xl p-4 shadow-sm border border-gray-100 hover:shadow-md transition-all"
-        >
-          <div className="w-10 h-10 rounded-xl bg-amber-50 flex items-center justify-center mb-3">
-            <ClipboardCheck size={20} className="text-amber-500" />
-          </div>
-          <p className="font-medium text-gray-900">每日小测</p>
-          <p className="text-xs text-gray-400 mt-0.5">检验今日学习成果</p>
-        </Link>
-        <Link
-          to="/review"
-          className="bg-white rounded-2xl p-4 shadow-sm border border-gray-100 hover:shadow-md transition-all"
-        >
-          <div className="w-10 h-10 rounded-xl bg-red-50 flex items-center justify-center mb-3">
-            <TrendingUp size={20} className="text-red-400" />
-          </div>
-          <p className="font-medium text-gray-900">错题复习</p>
-          <p className="text-xs text-gray-400 mt-0.5">巩固薄弱单词</p>
-        </Link>
-        <Link
-          to="/stats"
-          className="bg-white rounded-2xl p-4 shadow-sm border border-gray-100 hover:shadow-md transition-all"
-        >
-          <div className="w-10 h-10 rounded-xl bg-green-50 flex items-center justify-center mb-3">
-            <Zap size={20} className="text-green-500" />
-          </div>
-          <p className="font-medium text-gray-900">学习统计</p>
-          <p className="text-xs text-gray-400 mt-0.5">查看学习趋势</p>
-        </Link>
-      </div>
 
-      {/* Practice section */}
-      <div className="space-y-3">
-        <h2 className="text-lg font-bold text-gray-900 mt-2">综合练习</h2>
-        <Link to="/practice/grammar" className="block">
-          <div className="bg-white rounded-2xl p-4 shadow-sm border border-gray-100 hover:shadow-md transition-all flex items-center gap-3">
-            <div className="w-10 h-10 rounded-xl bg-indigo-50 flex items-center justify-center text-lg">📝</div>
-            <div className="flex-1 min-w-0">
-              <p className="font-medium text-gray-900">语法练习</p>
-              <p className="text-xs text-gray-400">时态、从句、虚拟语气</p>
-            </div>
-            <span className="text-gray-300 text-lg">›</span>
-          </div>
-        </Link>
-        <Link to="/practice/reading" className="block">
-          <div className="bg-white rounded-2xl p-4 shadow-sm border border-gray-100 hover:shadow-md transition-all flex items-center gap-3">
-            <div className="w-10 h-10 rounded-xl bg-amber-50 flex items-center justify-center text-lg">📖</div>
-            <div className="flex-1 min-w-0">
-              <p className="font-medium text-gray-900">短文阅读</p>
-              <p className="text-xs text-gray-400">分级短文 + 阅读理解</p>
-            </div>
-            <span className="text-gray-300 text-lg">›</span>
-          </div>
-        </Link>
-        <Link to="/practice/listening" className="block">
-          <div className="bg-white rounded-2xl p-4 shadow-sm border border-gray-100 hover:shadow-md transition-all flex items-center gap-3">
-            <div className="w-10 h-10 rounded-xl bg-emerald-50 flex items-center justify-center text-lg">🎧</div>
-            <div className="flex-1 min-w-0">
-              <p className="font-medium text-gray-900">听力训练</p>
-              <p className="text-xs text-gray-400">单词和句子听写练习</p>
-            </div>
-            <span className="text-gray-300 text-lg">›</span>
-          </div>
-        </Link>
-      </div>
+
+
 
       {/* CEFR Level selector */}
       <div className="bg-white rounded-2xl p-5 shadow-sm border border-gray-100">
