@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useProgress } from '../hooks/useProgress';
-import { getTodayData, getDayNumber, getTotalDays, getCEFRProgress, getCEFROptions, getSelectedLevel, setSelectedLevel } from '../utils/scheduler';
+import { getTodayData, getDayNumber, getTotalDays, getCEFRProgress, getCEFROptions, getSelectedLevel, setSelectedLevel, setLearningMode } from '../utils/scheduler';
 import { getDueCount } from '../utils/storage';
 
 export default function Home() {
@@ -92,17 +92,17 @@ export default function Home() {
            {getCEFROptions().map(opt => {
              const cur = getSelectedLevel();
              return (
-              <button key={opt.value} onClick={() => { setSelectedLevel(opt.value); setPreviewCefr(null); forceUpdate(i => i + 1); }}
+              <button key={opt.value} onClick={() => { setSelectedLevel(opt.value); setLearningMode('CEFR'); setPreviewCefr(null); forceUpdate(i => i + 1); }}
                  className={'px-3 py-1.5 rounded-xl text-xs font-medium transition-all ' + (cur === opt.value ? 'bg-[var(--primary)] text-white' : 'bg-gray-100 text-gray-500 hover:bg-gray-200')}>
                  {opt.label}
                </button>
             );
           })}
-          <button onClick={() => { setSelectedLevel('TOEFL'); setPreviewCefr('TOEFL'); forceUpdate(i => i + 1); }}
+          <button onClick={() => { setSelectedLevel('TOEFL'); setLearningMode('TOEFL'); setPreviewCefr('TOEFL'); forceUpdate(i => i + 1); }}
             className={'px-3 py-1.5 rounded-xl text-xs font-medium transition-all ' + (getSelectedLevel() === 'TOEFL' ? 'bg-[var(--primary)] text-white' : 'bg-gray-100 text-gray-500 hover:bg-gray-200')}>
             TOEFL
           </button>
-          <button onClick={() => { setSelectedLevel('IELTS'); setPreviewCefr('IELTS'); forceUpdate(i => i + 1); }}
+          <button onClick={() => { setSelectedLevel('IELTS'); setLearningMode('IELTS'); setPreviewCefr('IELTS'); forceUpdate(i => i + 1); }}
             className={'px-3 py-1.5 rounded-xl text-xs font-medium transition-all ' + (getSelectedLevel() === 'IELTS' ? 'bg-[var(--primary)] text-white' : 'bg-gray-100 text-gray-500 hover:bg-gray-200')}>
             IELTS
           </button>
