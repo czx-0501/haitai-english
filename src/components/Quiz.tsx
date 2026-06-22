@@ -115,9 +115,14 @@ export default function Quiz({ words, onComplete }: Props) {
                 </span>
               ))}
             </div>
-          </div>
+         </div>
+       )}
+        {wrongList.length > 0 && (
+          <a href="/review" className="block text-center mb-4 px-5 py-2.5 rounded-xl bg-red-50 text-red-600 text-sm font-medium hover:bg-red-100 transition-all">
+            📖 去错题复习 →
+          </a>
         )}
-        <button
+       <button
           onClick={handleRestart}
           className="flex items-center gap-2 mx-auto px-6 py-3 rounded-xl bg-[var(--primary)] text-white hover:bg-blue-600 transition-all font-medium"
         >

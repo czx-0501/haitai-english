@@ -105,11 +105,20 @@ export default function Circle() {
       const data = await getComments(postId);
       setComments(prev => ({ ...prev, [postId]: data }));
       await loadPosts();
-    }
+   }
+ }
+
+  function handlePhotoPick(e: React.ChangeEvent<HTMLInputElement>) {
+    const file = e.target.files?.[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = () => setPostImage(reader.result as string);
+    reader.readAsDataURL(file);
+    e.target.value = '';
   }
 
-  // === Friends ===
-  async function handleOpenFriends() {
+ // === Friends ===
+ async function handleOpenFriends() {
     setShowFriends(true);
     const data = await getFriends();
     setFriends(data);
@@ -234,15 +243,13 @@ export default function Circle() {
             </div>
           )}
           <div className="flex items-center justify-between mt-2">
+           <label className="flex items-center gap-1 px-3 py-1.5 rounded-xl bg-gray-100 text-gray-500 text-sm cursor-pointer hover:bg-gray-200">
+              <input type="file" accept="image/*" className="hidden" onChange={handlePhotoPick} />
+             🖼️ 图片
+           </label>
             <label className="flex items-center gap-1 px-3 py-1.5 rounded-xl bg-gray-100 text-gray-500 text-sm cursor-pointer hover:bg-gray-200">
-              <input type="file" accept="image/*" className="hidden" onChange={e => {
-                const file = e.target.files?.[0];
-                if (!file) return;
-                const reader = new FileReader();
-                reader.onload = () => setPostImage(reader.result as string);
-                reader.readAsDataURL(file);
-              }} />
-              🖼️ 图片
+              <input type="file" accept="image/*" capture="environment" className="hidden" onChange={handlePhotoPick} />
+              📷 拍照
             </label>
             <button onClick={handlePost} disabled={!newPost.trim()} className="flex items-center gap-1 px-4 py-1.5 rounded-xl bg-[var(--primary)] text-white text-sm disabled:opacity-50">
               <Plus size={16} /> 发布
