@@ -1,3 +1,4 @@
+import { getLearningMode, setLearningMode } from '../utils/scheduler';
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useProgress } from '../hooks/useProgress';
@@ -5,6 +6,7 @@ import { getTodayData, getDayNumber, getTotalDays, getCEFRProgress, getCEFROptio
 import { getDueCount } from '../utils/storage';
 
 export default function Home() {
+  const [currentMode, setCurrentMode] = useState<string>(getLearningMode());
   const [, forceUpdate] = useState(0);
   const { progress, todayProgress } = useProgress();
   const dayData = getTodayData();
@@ -24,6 +26,22 @@ export default function Home() {
       <div className="text-center pt-2 pb-1">
         <h1 className="text-2xl font-bold text-gray-900">海苔英语</h1>
         <p className="text-sm text-gray-400 mt-0.5">从小白到英语大师</p>
+      </div>
+
+      {/* Mode Selector */}
+      <div className="flex bg-gray-100 rounded-lg p-0.5 mb-3">
+        <button onClick={() => { setCurrentMode('CEFR'); setLearningMode('CEFR'); }}
+          className={'flex-1 py-2 text-xs rounded-lg text-center transition-all ' + (currentMode === 'CEFR' ? 'bg-white text-[var(--primary)] font-medium shadow-sm' : 'text-gray-500')}>
+          CEFR
+        </button>
+        <button onClick={() => { setCurrentMode('TOEFL'); setLearningMode('TOEFL'); }}
+          className={'flex-1 py-2 text-xs rounded-lg text-center transition-all ' + (currentMode === 'TOEFL' ? 'bg-white text-[var(--primary)] font-medium shadow-sm' : 'text-gray-500')}>
+          TOEFL
+        </button>
+        <button onClick={() => { setCurrentMode('IELTS'); setLearningMode('IELTS'); }}
+          className={'flex-1 py-2 text-xs rounded-lg text-center transition-all ' + (currentMode === 'IELTS' ? 'bg-white text-[var(--primary)] font-medium shadow-sm' : 'text-gray-500')}>
+          IELTS
+        </button>
       </div>
 
       {/* Hero Card */}

@@ -11,6 +11,10 @@ export function getDayNumber(): number {
   return Math.min(baseDay + offset, 300);
 }
 
+const LEARNING_MODE_KEY = 'engdaily_learning_mode';
+export function getLearningMode() { try { return localStorage.getItem(LEARNING_MODE_KEY) || 'CEFR'; } catch(e) { return 'CEFR'; } }
+export function setLearningMode(mode: string) { try { localStorage.setItem(LEARNING_MODE_KEY, mode); } catch(e) {} }
+
 export function getTodayData(): DayData | null {
   const day = getDayNumber();
   return vocabulary.find(d => d.day === day) || null;
