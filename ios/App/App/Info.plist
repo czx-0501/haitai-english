@@ -45,7 +45,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>UIViewControllerBasedStatusBarAppearance</key>
+		<key>NSCameraUsageDescription</key>
+	<string>海苔英语需要使用相机来拍照上传学习分享</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>海苔英语需要访问您的相册来选择图片分享学习成果</string>
+<key>UIViewControllerBasedStatusBarAppearance</key>
 	<true/>
 </dict>
 </plist>

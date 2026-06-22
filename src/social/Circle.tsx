@@ -17,10 +17,7 @@ export default function Circle() {
   const [friendSearch, setFriendSearch] = useState('');
   const [searchResults, setSearchResults] = useState<any[]>([]);
  const [postImage, setPostImage] = useState<string>('');
-  const [postLink, setPostLink] = useState<string>('');
-  const [showAttachMenu, setShowAttachMenu] = useState(false);
   const albumInputRef = useRef<HTMLInputElement>(null);
-  const cameraInputRef = useRef<HTMLInputElement>(null);
  const [feedMode, setFeedMode] = useState<'all' | 'friends'>('all');
   const [friendIds, setFriendIds] = useState<string[]>([]);
 
@@ -75,15 +72,13 @@ export default function Circle() {
 
   async function handlePost() {
    if (!newPost.trim()) return;
-    const content = postLink ? `${newPost.trim()}\n\n${postLink}` : newPost.trim();
-    const result = await createPost(content, postImage || undefined);
+    const result = await createPost(newPost.trim(), postImage || undefined);
     if (result?.error) {
       alert('发布失败: ' + (typeof result.error === 'string' ? result.error : result.error?.message || JSON.stringify(result.error)));
       return;
     }
    setNewPost('');
    setPostImage('');
-    setPostLink('');
    await loadPosts();
   }
 
@@ -122,14 +117,6 @@ export default function Circle() {
     reader.readAsDataURL(file);
    e.target.value = '';
  }
-
-  function handleAddLink() {
-    const url = prompt('请输入链接地址：');
-    if (url && url.trim()) {
-      setPostLink(url.trim());
-      setShowAttachMenu(false);
-    }
-  }
 
  // === Friends ===
  async function handleOpenFriends() {
@@ -256,32 +243,12 @@ export default function Circle() {
               <button onClick={() => setPostImage('')} className="absolute -top-2 -right-2 w-5 h-5 rounded-full bg-gray-800 text-white text-xs flex items-center justify-center">✕</button>
             </div>
           )}
-          {postLink && (
-            <div className="mt-2 flex items-center gap-2 bg-blue-50 rounded-xl px-3 py-2">
-              <span className="text-xs text-blue-600 truncate flex-1">{postLink}</span>
-              <button onClick={() => setPostLink('')} className="text-gray-400 text-xs">✕</button>
-            </div>
-          )}
           <div className="flex items-center justify-between mt-2">
             <div className="relative">
-              <button onClick={() => setShowAttachMenu(!showAttachMenu)} className="flex items-center gap-1 px-3 py-1.5 rounded-xl bg-gray-100 text-gray-500 text-sm hover:bg-gray-200">
+              <button onClick={() => albumInputRef.current?.click()} className="flex items-center gap-1 px-3 py-1.5 rounded-xl bg-gray-100 text-gray-500 text-sm hover:bg-gray-200">
                 ➕
               </button>
-              {showAttachMenu && (
-                <div className="absolute bottom-full left-0 mb-1 bg-white rounded-xl shadow-lg border border-gray-100 p-1 z-10">
-                  <button onClick={() => { cameraInputRef.current?.click(); setShowAttachMenu(false); }} className="flex items-center gap-2 w-full px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 rounded-lg whitespace-nowrap">
-                    📷 拍照
-                  </button>
-                  <button onClick={() => { albumInputRef.current?.click(); setShowAttachMenu(false); }} className="flex items-center gap-2 w-full px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 rounded-lg whitespace-nowrap">
-                    🖼️ 图片
-                  </button>
-                  <button onClick={() => { handleAddLink(); setShowAttachMenu(false); }} className="flex items-center gap-2 w-full px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 rounded-lg whitespace-nowrap">
-                    🔗 文件链接
-                  </button>
-                </div>
-              )}
               <input ref={albumInputRef} type="file" accept="image/*" className="hidden" onChange={e => { handlePhotoPick(e); e.target.value = ''; }} />
-              <input ref={cameraInputRef} type="file" accept="image/*" capture="environment" className="hidden" onChange={e => { handlePhotoPick(e); e.target.value = ''; }} />
             </div>
             <button onClick={handlePost} disabled={!newPost.trim()} className="flex items-center gap-1 px-4 py-1.5 rounded-xl bg-[var(--primary)] text-white text-sm disabled:opacity-50">
               <Plus size={16} /> 发布
