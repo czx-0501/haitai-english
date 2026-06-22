@@ -57,7 +57,7 @@ export default function WordCard({
         >
           {/* Front */}
           <div className="card-front bg-white rounded-2xl shadow-lg border border-gray-100 flex flex-col items-center justify-center p-8">
-            <div className="flex items-center gap-3 mb-4">
+            <div className="flex items-center justify-center gap-3 mb-4">
               <h2 className="text-4xl font-bold text-gray-900">{word.w}</h2>
               <button
                 onClick={handleSpeak}
@@ -74,7 +74,7 @@ export default function WordCard({
 
           {/* Back */}
           <div className="card-back bg-white rounded-2xl shadow-lg border border-gray-100 flex flex-col items-center justify-center p-8">
-            <div className="flex items-center gap-3 mb-2">
+            <div className="flex items-center justify-center gap-3 mb-3">
               <h2 className="text-3xl font-bold text-gray-900">{word.w}</h2>
               <button
                 onClick={handleSpeak}
@@ -84,8 +84,7 @@ export default function WordCard({
                 <Volume2 size={20} className="text-[var(--primary)]" />
               </button>
             </div>
-            <p className="text-lg text-[var(--primary)] font-medium mb-1">{word.m}</p>
-            <p className="text-sm text-gray-400 mb-4">{word.p} · {word.pos}</p>
+            <p className="text-lg text-[var(--primary)] font-medium text-center mb-4">{word.m}</p>
             <div className="w-full space-y-3">
               {word.ex.map((ex, i) => (
                 <div key={i} className="bg-gray-50 rounded-xl p-3 text-left">
