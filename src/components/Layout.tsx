@@ -1,12 +1,11 @@
 import { useEffect } from 'react';
 import { NavLink } from 'react-router-dom';
-import { Home, BookOpen, ClipboardCheck, BarChart3, Users } from 'lucide-react';
+import { Home, BookOpen, BarChart3, Users } from 'lucide-react';
 import { initNativeFeatures } from '../utils/native';
 
 const navItems = [
   { to: '/', icon: Home, label: '首页' },
   { to: '/learn', icon: BookOpen, label: '学习' },
-  { to: '/quiz', icon: ClipboardCheck, label: '小测' },
   { to: '/circle', icon: Users, label: '圈子' },
   { to: '/stats', icon: BarChart3, label: '统计' },
 ];

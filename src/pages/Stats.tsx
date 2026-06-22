@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import { useProgress } from '../hooks/useProgress';
 import { loadProgress, getUnlockedAchievements } from '../utils/storage';
 
@@ -6,6 +7,7 @@ import { Flame, BookOpen, Trophy, Target, Zap } from 'lucide-react';
 import ProgressRing from '../components/ProgressRing';
 
 export default function Stats() {
+  const [, forceUpdate] = useState(0);
   const { progress } = useProgress();
   const day = getDayNumber();
   const totalDays = getTotalDays();
@@ -131,7 +133,7 @@ export default function Stats() {
               className={`rounded-xl p-3.5 border transition-all cursor-pointer ${
                 s.active ? 'border-[var(--primary)] bg-[var(--primary-light)]' : 'border-gray-100 bg-gray-50 hover:border-gray-300'
               }`}
-              onClick={() => { setSelectedLevel(s.level); window.location.reload(); }}
+              onClick={() => { setSelectedLevel(s.level); forceUpdate(i => i + 1); }}
             >
               <div className="flex items-center justify-between mb-1">
                 <p className={`text-sm font-medium ${s.active ? 'text-[var(--primary)]' : 'text-gray-600'}`}>

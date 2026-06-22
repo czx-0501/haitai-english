@@ -103,13 +103,16 @@ export default function Home() {
         <p className="text-sm font-medium text-gray-700 mb-2">
           📖 {cefrData.level} {cefrLabel} · Day {day}/{totalDays}
         </p>
-        <p className="text-xs text-gray-500 leading-relaxed mb-2">
-          当前阶段：Day {cefrData.dayStart}-{cefrData.dayEnd}，进度 {Math.round(cefrData.progress)}%
-        </p>
-        <div className="w-full bg-purple-200 rounded-full h-1.5">
+        <div className="flex items-center gap-2 text-xs text-gray-500 mb-2">
+          <span className="px-2 py-0.5 rounded-full bg-white border border-purple-200">词汇量 ~{(cefrData.level === 'A1' ? 500 : cefrData.level === 'A2' ? 1000 : cefrData.level === 'B1' ? 2000 : cefrData.level === 'B2' ? 3000 : cefrData.level === 'C1' ? 4000 : 5000)} 词</span>
+          <span>Day {cefrData.dayStart}-{cefrData.dayEnd}</span>
+        </div>
+        <p className="text-xs text-gray-500 leading-relaxed mb-1">{cefrData.level === 'A1' ? '问候、数字、颜色、家庭、食物、交通、购物、时间、天气' : cefrData.level === 'A2' ? '工作、旅游、科技、社交、健康、餐饮、兴趣爱好、节日' : cefrData.level === 'B1' ? '观点表达、文化讨论、深度对话、新闻、社会话题、旅行体验' : cefrData.level === 'B2' ? '学术讨论、专业话题、辩论演讲、复杂阅读、抽象概念、商业环境' : cefrData.level === 'C1' ? '流利表达、抽象概念、高级写作、地道习语、学术论文、文化赏析' : '接近母语、文学赏析、专业学术、文化精通、高级辩论、抽象思维'}</p>
+        <p className="text-xs text-gray-500 mt-2 mb-2">目标：{cefrData.level === 'A1' ? '掌握问候、自我介绍、数字、颜色、家庭等日常表达；能进行简单购物和问路' : cefrData.level === 'A2' ? '能在工作、旅行、社交等常见场景中交流；能描述经历、表达喜好和计划' : cefrData.level === 'B1' ? '能就熟悉话题发表观点、参与讨论；能应对旅行中大部分场景；能写简单连贯文章' : cefrData.level === 'B2' ? '能与母语者流畅交流；能理解复杂文本；能在专业领域进行讨论和辩论' : cefrData.level === 'C1' ? '能流利自然地表达；能灵活有效地使用语言应对社交、学术和专业场景' : '接近母语水平；能轻松理解听到和读到的任何内容；能区分细微含义差异'}</p>
+        <div className="w-full bg-purple-200 rounded-full h-1.5 mb-2">
           <div className="bg-purple-600 rounded-full h-1.5 transition-all" style={{width: `${Math.round(cefrData.progress)}%`}} />
         </div>
-        <Link to="/learn" className="inline-block mt-3 text-xs text-[var(--primary)] font-medium">
+        <Link to="/learn" className="inline-block text-xs text-[var(--primary)] font-medium">
           开始学习 →
         </Link>
       </div>

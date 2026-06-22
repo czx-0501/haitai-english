@@ -1,11 +1,12 @@
 import { useEffect } from 'react';
-import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Layout from './components/Layout';
 import AuthGate from './components/AuthGate';
 import Home from './pages/Home';
 import Learn from './pages/Learn';
 import Review from './pages/Review';
 import Stats from './pages/Stats';
+import QuizPage from './pages/QuizPage';
 import Circle from './social/Circle';
 import Practice from './pages/Practice';
 import Grammar from './pages/Grammar';
@@ -25,7 +26,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/learn" element={<Learn />} />
-          <Route path="/quiz" element={<Navigate to="/learn" replace />} />
+          <Route path="/quiz" element={<QuizPage />} />
           <Route path="/review" element={<Review />} />
           <Route path="/stats" element={<Stats />} />
           <Route path="/circle" element={<Circle />} />
