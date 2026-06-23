@@ -3,7 +3,8 @@ import { useProgress } from '../hooks/useProgress';
 import WordCard from '../components/WordCard';
 import { getTodayData } from '../utils/scheduler';
 import { BookOpen, CheckCircle, Users, X, TrendingUp, ClipboardCheck } from 'lucide-react';
-import { useState } from 'react';
+import { addNotification } from '../utils/notifications';
+import { useState, useEffect } from 'react';
 import { supabase } from '../supabase/client';
 import { getCurrentUser } from '../supabase/auth';
 
@@ -58,6 +59,9 @@ if (!currentWord || !words.length) {
 
   // All learned
   const allLearned = learnedCount >= totalWords;
+  useEffect(() => {
+    if (allLearned && totalWords > 0) addNotification('learning_complete', '\ud83d\udcd6 \u4eca\u65e5\u5b66\u4e60\u5b8c\u6210', `\u4eca\u65e5 ${totalWords} \u4e2a\u5355\u8bcd\u5df2\u5168\u90e8\u5b66\u5b8c\uff01`);
+  }, [allLearned]);
 
   return (
     <div>

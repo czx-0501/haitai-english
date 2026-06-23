@@ -1,12 +1,14 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { useProgress } from '../hooks/useProgress';
 import { getTodayData, getDayNumber, getTotalDays, getCEFRProgress, getCEFROptions, getSelectedLevel, setSelectedLevel, setLearningMode } from '../utils/scheduler';
 import { getDueCount } from '../utils/storage';
 import { shareStudyResult } from '../supabase/social';
+import { addNotification, checkAchievements } from '../utils/notifications';
 
 export default function Home() {
   const [, forceUpdate] = useState(0);
+  useEffect(() => { checkAchievements(progress.streak.current, progress.totalLearnedWords); }, []);
   const [previewCefr, setPreviewCefr] = useState<string | null>(null);
   const { progress, todayProgress } = useProgress();
   const dayData = getTodayData();

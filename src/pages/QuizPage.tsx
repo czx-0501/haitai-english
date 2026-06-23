@@ -1,7 +1,8 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useProgress } from '../hooks/useProgress';
 import { getTodayData } from '../utils/scheduler';
 import Quiz from '../components/Quiz';
+import { addNotification } from '../utils/notifications';
 import { ClipboardCheck, ArrowRight, ArrowLeft } from 'lucide-react';
 
 export default function QuizPage() {
@@ -21,6 +22,7 @@ export default function QuizPage() {
 
   const handleComplete = (correct: number, total: number, wrongWords: string[]) => {
     recordQuiz(correct, total, wrongWords);
+    addNotification('quiz_complete', '\ud83d\udcdd \u5c0f\u6d4b\u5b8c\u6210', `\u6b63\u786e ${correct}/${total} \u9898`);
   };
 
   if (!started) {
