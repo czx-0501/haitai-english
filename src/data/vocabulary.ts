@@ -10,6 +10,7 @@ export interface DayData {
   day: number;
   theme: string;
   stage: number;
+  cefr?: string;
   words: WordEntry[];
 }
 
