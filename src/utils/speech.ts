@@ -13,8 +13,34 @@ function getAzureRegion() {
   return import.meta.env.VITE_AZURE_TTS_REGION || 'eastasia';
 }
 
+/**
+ * 预加热语音引擎（解决 iOS WKWebView 首次发音延迟）
+ * 在 App 启动时调用，让引擎提前加载
+ */
+export function prewarmTTS(): void {
+  if (!('speechSynthesis' in window)) return;
+  try {
+    const u = new SpeechSynthesisUtterance('a');
+    window.speechSynthesis.speak(u);
+    setTimeout(() => window.speechSynthesis.cancel(), 5);
+    window.speechSynthesis.getVoices();
+  } catch {}
+}
+
 export async function speak(text: string): Promise<void> {
   if (!text.trim()) return;
+
+  // 检测是否在 Capacitor 原生环境（iOS App），跳过网络请求方案
+  const isNative = !!((window as any).Capacitor?.isNativePlatform?.());
+  if (isNative) {
+    if ('speechSynthesis' in window) {
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.lang = 'en-US';
+      utterance.rate = 0.85;
+      window.speechSynthesis.speak(utterance);
+    }
+    return;
+  }
 
   // 方案 A：Azure TTS（部署到线上时自动启用）
   const azureKey = getAzureKey();

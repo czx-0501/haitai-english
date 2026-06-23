@@ -12,11 +12,12 @@ import Practice from './pages/Practice';
 import Grammar from './pages/Grammar';
 import Reading from './pages/Reading';
 import Listening from './pages/Listening';
-import { preloadVoices } from './utils/speech';
+import { preloadVoices, prewarmTTS } from './utils/speech';
 
 function App() {
   useEffect(() => {
     preloadVoices();
+    prewarmTTS();
   }, []);
 
   return (
