@@ -1,3452 +1,3000 @@
-// IELTS Vocabulary
+// IELTS vocabulary
 export const ieltsVocabulary = [
-{
+  {
     "day": 1,
-    "theme": "Education",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "abstract",
-        "p": "/ˈæbstrækt/",
-        "pos": "adj",
-        "m": "抽象的",
-        "cefr": "IELTS",
+        "w": "academic",
+        "p": "/.../",
+        "pos": "n",
+        "m": "academic",
         "ex": [
           {
-            "e": "The concept is too abstract for children.",
-            "c": "这个概念对孩子来说太抽象了。"
-          },
-          {
-            "e": "She has an abstract painting in her office.",
-            "c": "她的办公室里有一幅抽象画。"
+            "e": "Example for academic.",
+            "c": "academic的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 2,
-    "theme": "Technology",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "enormous",
-        "p": "/ɪˈnɔːrməs/",
-        "pos": "adj",
-        "m": "巨大的",
-        "cefr": "IELTS",
+        "w": "accommodation",
+        "p": "/.../",
+        "pos": "n",
+        "m": "accommodation",
         "ex": [
           {
-            "e": "The project requires an enormous amount of work.",
-            "c": "这个项目需要大量的工作。"
-          },
-          {
-            "e": "They live in an enormous house.",
-            "c": "他们住在一栋巨大的房子里。"
+            "e": "Example for accommodation.",
+            "c": "accommodation的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 3,
-    "theme": "Environment",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "inevitable",
-        "p": "/ɪnˈevɪtəbl/",
-        "pos": "adj",
-        "m": "不可避免的",
-        "cefr": "IELTS",
+        "w": "achieve",
+        "p": "/.../",
+        "pos": "n",
+        "m": "achieve",
         "ex": [
           {
-            "e": "Change is inevitable in any organization.",
-            "c": "变化在任何组织中都是不可避免的。"
-          },
-          {
-            "e": "It was inevitable that mistakes would happen.",
-            "c": "错误的发生是不可避免的。"
+            "e": "Example for achieve.",
+            "c": "achieve的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 4,
-    "theme": "Health",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "adapt",
+        "p": "/.../",
+        "pos": "n",
+        "m": "adapt",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for adapt.",
+            "c": "adapt的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 5,
-    "theme": "Travel",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "adequate",
+        "p": "/.../",
+        "pos": "n",
+        "m": "adequate",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for adequate.",
+            "c": "adequate的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 6,
-    "theme": "Culture",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "administration",
+        "p": "/.../",
+        "pos": "n",
+        "m": "administration",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for administration.",
+            "c": "administration的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 7,
-    "theme": "Work",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "admission",
+        "p": "/.../",
+        "pos": "n",
+        "m": "admission",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for admission.",
+            "c": "admission的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 8,
-    "theme": "Family",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "adopt",
+        "p": "/.../",
+        "pos": "n",
+        "m": "adopt",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for adopt.",
+            "c": "adopt的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 9,
-    "theme": "Food",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "advance",
+        "p": "/.../",
+        "pos": "n",
+        "m": "advance",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for advance.",
+            "c": "advance的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 10,
-    "theme": "Sports",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "advantage",
+        "p": "/.../",
+        "pos": "n",
+        "m": "advantage",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for advantage.",
+            "c": "advantage的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 11,
-    "theme": "Arts",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "adverse",
+        "p": "/.../",
+        "pos": "n",
+        "m": "adverse",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for adverse.",
+            "c": "adverse的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 12,
-    "theme": "Media",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "advocate",
+        "p": "/.../",
+        "pos": "n",
+        "m": "advocate",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for advocate.",
+            "c": "advocate的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 13,
-    "theme": "Science",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "affect",
+        "p": "/.../",
+        "pos": "n",
+        "m": "affect",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for affect.",
+            "c": "affect的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 14,
-    "theme": "History",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "aggregate",
+        "p": "/.../",
+        "pos": "n",
+        "m": "aggregate",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for aggregate.",
+            "c": "aggregate的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 15,
-    "theme": "Economy",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "allocation",
+        "p": "/.../",
+        "pos": "n",
+        "m": "allocation",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for allocation.",
+            "c": "allocation的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 16,
-    "theme": "Politics",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "alternative",
+        "p": "/.../",
+        "pos": "n",
+        "m": "alternative",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for alternative.",
+            "c": "alternative的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 17,
-    "theme": "Global Issues",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "amateur",
+        "p": "/.../",
+        "pos": "n",
+        "m": "amateur",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for amateur.",
+            "c": "amateur的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 18,
-    "theme": "Urban Life",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "ambassador",
+        "p": "/.../",
+        "pos": "n",
+        "m": "ambassador",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for ambassador.",
+            "c": "ambassador的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 19,
-    "theme": "Rural Life",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "amend",
+        "p": "/.../",
+        "pos": "n",
+        "m": "amend",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for amend.",
+            "c": "amend的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 20,
-    "theme": "Transportation",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "analysis",
+        "p": "/.../",
+        "pos": "n",
+        "m": "analysis",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for analysis.",
+            "c": "analysis的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 21,
-    "theme": "Communication",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "annual",
+        "p": "/.../",
+        "pos": "n",
+        "m": "annual",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for annual.",
+            "c": "annual的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 22,
-    "theme": "Fashion",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "anticipate",
+        "p": "/.../",
+        "pos": "n",
+        "m": "anticipate",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for anticipate.",
+            "c": "anticipate的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 23,
-    "theme": "Music",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "apparent",
+        "p": "/.../",
+        "pos": "n",
+        "m": "apparent",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for apparent.",
+            "c": "apparent的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 24,
-    "theme": "Film",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "appeal",
+        "p": "/.../",
+        "pos": "n",
+        "m": "appeal",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for appeal.",
+            "c": "appeal的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 25,
-    "theme": "Books & Reading",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "appliance",
+        "p": "/.../",
+        "pos": "n",
+        "m": "appliance",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for appliance.",
+            "c": "appliance的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 26,
-    "theme": "Language Learning",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "application",
+        "p": "/.../",
+        "pos": "n",
+        "m": "application",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for application.",
+            "c": "application的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 27,
-    "theme": "Career Planning",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "appreciate",
+        "p": "/.../",
+        "pos": "n",
+        "m": "appreciate",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for appreciate.",
+            "c": "appreciate的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 28,
-    "theme": "Mental Health",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "approach",
+        "p": "/.../",
+        "pos": "n",
+        "m": "approach",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for approach.",
+            "c": "approach的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 29,
-    "theme": "Physical Fitness",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "appropriate",
+        "p": "/.../",
+        "pos": "n",
+        "m": "appropriate",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for appropriate.",
+            "c": "appropriate的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 30,
-    "theme": "Diet & Nutrition",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "approve",
+        "p": "/.../",
+        "pos": "n",
+        "m": "approve",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for approve.",
+            "c": "approve的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 31,
-    "theme": "Climate Change",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "approximately",
+        "p": "/.../",
+        "pos": "n",
+        "m": "approximately",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for approximately.",
+            "c": "approximately的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 32,
-    "theme": "Renewable Energy",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "artificial",
+        "p": "/.../",
+        "pos": "n",
+        "m": "artificial",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for artificial.",
+            "c": "artificial的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 33,
-    "theme": "Wildlife Conservation",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "aspect",
+        "p": "/.../",
+        "pos": "n",
+        "m": "aspect",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for aspect.",
+            "c": "aspect的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 34,
-    "theme": "Ocean Pollution",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "assembly",
+        "p": "/.../",
+        "pos": "n",
+        "m": "assembly",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for assembly.",
+            "c": "assembly的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 35,
-    "theme": "Sustainable Living",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "assessment",
+        "p": "/.../",
+        "pos": "n",
+        "m": "assessment",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for assessment.",
+            "c": "assessment的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 36,
-    "theme": "Natural Disasters",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "assign",
+        "p": "/.../",
+        "pos": "n",
+        "m": "assign",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for assign.",
+            "c": "assign的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 37,
-    "theme": "Social Media",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "assist",
+        "p": "/.../",
+        "pos": "n",
+        "m": "assist",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for assist.",
+            "c": "assist的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 38,
-    "theme": "Online Privacy",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "associate",
+        "p": "/.../",
+        "pos": "n",
+        "m": "associate",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for associate.",
+            "c": "associate的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 39,
-    "theme": "Digital Nomads",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "assume",
+        "p": "/.../",
+        "pos": "n",
+        "m": "assume",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for assume.",
+            "c": "assume的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 40,
-    "theme": "Remote Work",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "attach",
+        "p": "/.../",
+        "pos": "n",
+        "m": "attach",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for attach.",
+            "c": "attach的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 41,
-    "theme": "E-commerce",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "attain",
+        "p": "/.../",
+        "pos": "n",
+        "m": "attain",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for attain.",
+            "c": "attain的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 42,
-    "theme": "Artificial Intelligence",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "attempt",
+        "p": "/.../",
+        "pos": "n",
+        "m": "attempt",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for attempt.",
+            "c": "attempt的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 43,
-    "theme": "Traditional vs Modern",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "attend",
+        "p": "/.../",
+        "pos": "n",
+        "m": "attend",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for attend.",
+            "c": "attend的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 44,
-    "theme": "Cultural Heritage",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "attitude",
+        "p": "/.../",
+        "pos": "n",
+        "m": "attitude",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for attitude.",
+            "c": "attitude的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 45,
-    "theme": "Festivals",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "attribute",
+        "p": "/.../",
+        "pos": "n",
+        "m": "attribute",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for attribute.",
+            "c": "attribute的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 46,
-    "theme": "Museums & Galleries",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "authority",
+        "p": "/.../",
+        "pos": "n",
+        "m": "authority",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for authority.",
+            "c": "authority的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 47,
-    "theme": "Street Art",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "automatic",
+        "p": "/.../",
+        "pos": "n",
+        "m": "automatic",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for automatic.",
+            "c": "automatic的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 48,
-    "theme": "Architecture",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "available",
+        "p": "/.../",
+        "pos": "n",
+        "m": "available",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for available.",
+            "c": "available的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 49,
-    "theme": "Child Development",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "awareness",
+        "p": "/.../",
+        "pos": "n",
+        "m": "awareness",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for awareness.",
+            "c": "awareness的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 50,
-    "theme": "Parenting",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "equivalent",
-        "p": "/ɪˈkwɪvələnt/",
-        "pos": "adj",
-        "m": "等同的",
-        "cefr": "IELTS",
+        "w": "barrier",
+        "p": "/.../",
+        "pos": "n",
+        "m": "barrier",
         "ex": [
           {
-            "e": "His salary is equivalent to mine.",
-            "c": "他的薪水和我的一样。"
-          },
-          {
-            "e": "A mile is equivalent to about 1.6 kilometers.",
-            "c": "一英里大约相当于1.6公里。"
+            "e": "Example for barrier.",
+            "c": "barrier的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 51,
-    "theme": "Education Reform",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "aberration",
-        "p": "/ˌæbəˈreɪʃn/",
+        "w": "basis",
+        "p": "/.../",
         "pos": "n",
-        "m": "偏差",
-        "cefr": "IELTS",
+        "m": "basis",
         "ex": [
           {
-            "e": "His behavior was an aberration from the norm.",
-            "c": "他的行为偏离了常态。"
-          },
-          {
-            "e": "The warm weather is an aberration for this season.",
-            "c": "温暖的天气对这个季节来说是一种异常。"
+            "e": "Example for basis.",
+            "c": "basis的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 52,
-    "theme": "Online Learning",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "exacerbate",
-        "p": "/ɪɡˈzæsərbeɪt/",
-        "pos": "v",
-        "m": "加剧",
-        "cefr": "IELTS",
-        "ex": [
-          {
-            "e": "The drought exacerbated the food crisis.",
-            "c": "干旱加剧了粮食危机。"
-          },
-          {
-            "e": "His comments only exacerbated the situation.",
-            "c": "他的评论只会加剧局势。"
-          }
-        ]
-      },
-{
-    "day": 53,
-    "theme": "Life Skills",
-    "stage": 1,
-    "cefr": "IELTS",
-    "words": [
-      {
-        "w": "tenet",
-        "p": "/ˈtenɪt/",
+        "w": "behavior",
+        "p": "/.../",
         "pos": "n",
-        "m": "原则",
-        "cefr": "IELTS",
+        "m": "behavior",
         "ex": [
           {
-            "e": "This is a fundamental tenet of democracy.",
-            "c": "这是民主的基本原则。"
-          },
-          {
-            "e": "The core tenets of the theory remain unchanged.",
-            "c": "该理论的核心原则保持不变。"
+            "e": "Example for behavior.",
+            "c": "behavior的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
+    "day": 53,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "beneficial",
+        "p": "/.../",
+        "pos": "n",
+        "m": "beneficial",
+        "ex": [
+          {
+            "e": "Example for beneficial.",
+            "c": "beneficial的例句。"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "day": 54,
-    "theme": "Critical Thinking",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "bind",
+        "p": "/.../",
+        "pos": "n",
+        "m": "bind",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for bind.",
+            "c": "bind的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 55,
-    "theme": "Immigration",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "boom",
+        "p": "/.../",
+        "pos": "n",
+        "m": "boom",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for boom.",
+            "c": "boom的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 56,
-    "theme": "Multiculturalism",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "budget",
+        "p": "/.../",
+        "pos": "n",
+        "m": "budget",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for budget.",
+            "c": "budget的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 57,
-    "theme": "Global Trade",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "bulk",
+        "p": "/.../",
+        "pos": "n",
+        "m": "bulk",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for bulk.",
+            "c": "bulk的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 58,
-    "theme": "Tourism Impact",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "capacity",
+        "p": "/.../",
+        "pos": "n",
+        "m": "capacity",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for capacity.",
+            "c": "capacity的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 59,
-    "theme": "International Relations",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "category",
+        "p": "/.../",
+        "pos": "n",
+        "m": "category",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for category.",
+            "c": "category的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 60,
-    "theme": "Human Rights",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "cease",
+        "p": "/.../",
+        "pos": "n",
+        "m": "cease",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for cease.",
+            "c": "cease的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 61,
-    "theme": "Entrepreneurship",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "challenge",
+        "p": "/.../",
+        "pos": "n",
+        "m": "challenge",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for challenge.",
+            "c": "challenge的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 62,
-    "theme": "Start-ups",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "channel",
+        "p": "/.../",
+        "pos": "n",
+        "m": "channel",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for channel.",
+            "c": "channel的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 63,
-    "theme": "Innovation",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "characteristic",
+        "p": "/.../",
+        "pos": "n",
+        "m": "characteristic",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for characteristic.",
+            "c": "characteristic的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 64,
-    "theme": "Patents",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "charge",
+        "p": "/.../",
+        "pos": "n",
+        "m": "charge",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for charge.",
+            "c": "charge的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 65,
-    "theme": "Marketing",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "chart",
+        "p": "/.../",
+        "pos": "n",
+        "m": "chart",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for chart.",
+            "c": "chart的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 66,
-    "theme": "Consumer Behavior",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "circumstance",
+        "p": "/.../",
+        "pos": "n",
+        "m": "circumstance",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for circumstance.",
+            "c": "circumstance的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 67,
-    "theme": "Genetics",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "civil",
+        "p": "/.../",
+        "pos": "n",
+        "m": "civil",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for civil.",
+            "c": "civil的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 68,
-    "theme": "Medicine",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "clarify",
+        "p": "/.../",
+        "pos": "n",
+        "m": "clarify",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for clarify.",
+            "c": "clarify的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 69,
-    "theme": "Nutrition Science",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "classic",
+        "p": "/.../",
+        "pos": "n",
+        "m": "classic",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for classic.",
+            "c": "classic的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 70,
-    "theme": "Exercise Science",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "clause",
+        "p": "/.../",
+        "pos": "n",
+        "m": "clause",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for clause.",
+            "c": "clause的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 71,
-    "theme": "Mental Resilience",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "client",
+        "p": "/.../",
+        "pos": "n",
+        "m": "client",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for client.",
+            "c": "client的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 72,
-    "theme": "Sleep Science",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "climate",
+        "p": "/.../",
+        "pos": "n",
+        "m": "climate",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for climate.",
+            "c": "climate的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 73,
-    "theme": "Biodiversity",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "cluster",
+        "p": "/.../",
+        "pos": "n",
+        "m": "cluster",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for cluster.",
+            "c": "cluster的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 74,
-    "theme": "Deforestation",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "code",
+        "p": "/.../",
+        "pos": "n",
+        "m": "code",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for code.",
+            "c": "code的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 75,
-    "theme": "Carbon Footprint",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "collapse",
+        "p": "/.../",
+        "pos": "n",
+        "m": "collapse",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for collapse.",
+            "c": "collapse的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 76,
-    "theme": "Green Technology",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "colleague",
+        "p": "/.../",
+        "pos": "n",
+        "m": "colleague",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for colleague.",
+            "c": "colleague的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 77,
-    "theme": "Water Scarcity",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "commence",
+        "p": "/.../",
+        "pos": "n",
+        "m": "commence",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for commence.",
+            "c": "commence的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 78,
-    "theme": "Waste Management",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "comment",
+        "p": "/.../",
+        "pos": "n",
+        "m": "comment",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for comment.",
+            "c": "comment的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 79,
-    "theme": "Space Exploration",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "commerce",
+        "p": "/.../",
+        "pos": "n",
+        "m": "commerce",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for commerce.",
+            "c": "commerce的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 80,
-    "theme": "Physics",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "commission",
+        "p": "/.../",
+        "pos": "n",
+        "m": "commission",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for commission.",
+            "c": "commission的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 81,
-    "theme": "Chemistry",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "commitment",
+        "p": "/.../",
+        "pos": "n",
+        "m": "commitment",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for commitment.",
+            "c": "commitment的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 82,
-    "theme": "Mathematics",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "commodity",
+        "p": "/.../",
+        "pos": "n",
+        "m": "commodity",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for commodity.",
+            "c": "commodity的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 83,
-    "theme": "Robotics",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "communicate",
+        "p": "/.../",
+        "pos": "n",
+        "m": "communicate",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for communicate.",
+            "c": "communicate的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 84,
-    "theme": "Nanotechnology",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "community",
+        "p": "/.../",
+        "pos": "n",
+        "m": "community",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for community.",
+            "c": "community的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 85,
-    "theme": "Psychology",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "comparable",
+        "p": "/.../",
+        "pos": "n",
+        "m": "comparable",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for comparable.",
+            "c": "comparable的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 86,
-    "theme": "Sociology",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "comparison",
+        "p": "/.../",
+        "pos": "n",
+        "m": "comparison",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for comparison.",
+            "c": "comparison的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 87,
-    "theme": "Anthropology",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "compatible",
+        "p": "/.../",
+        "pos": "n",
+        "m": "compatible",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for compatible.",
+            "c": "compatible的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 88,
-    "theme": "Philosophy",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "compensate",
+        "p": "/.../",
+        "pos": "n",
+        "m": "compensate",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for compensate.",
+            "c": "compensate的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 89,
-    "theme": "Ethics",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "complement",
+        "p": "/.../",
+        "pos": "n",
+        "m": "complement",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for complement.",
+            "c": "complement的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 90,
-    "theme": "Logic & Reasoning",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "complex",
+        "p": "/.../",
+        "pos": "n",
+        "m": "complex",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for complex.",
+            "c": "complex的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 91,
-    "theme": "Democracy",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "component",
+        "p": "/.../",
+        "pos": "n",
+        "m": "component",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for component.",
+            "c": "component的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 92,
-    "theme": "Public Policy",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "compound",
+        "p": "/.../",
+        "pos": "n",
+        "m": "compound",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for compound.",
+            "c": "compound的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 93,
-    "theme": "Voting Systems",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "comprehensive",
+        "p": "/.../",
+        "pos": "n",
+        "m": "comprehensive",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for comprehensive.",
+            "c": "comprehensive的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 94,
-    "theme": "Taxation",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "comprise",
+        "p": "/.../",
+        "pos": "n",
+        "m": "comprise",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for comprise.",
+            "c": "comprise的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 95,
-    "theme": "Welfare",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "compute",
+        "p": "/.../",
+        "pos": "n",
+        "m": "compute",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for compute.",
+            "c": "compute的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 96,
-    "theme": "National Security",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "concentrate",
+        "p": "/.../",
+        "pos": "n",
+        "m": "concentrate",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for concentrate.",
+            "c": "concentrate的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 97,
-    "theme": "Aging Population",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "concept",
+        "p": "/.../",
+        "pos": "n",
+        "m": "concept",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for concept.",
+            "c": "concept的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 98,
-    "theme": "Gender Equality",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "concern",
+        "p": "/.../",
+        "pos": "n",
+        "m": "concern",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for concern.",
+            "c": "concern的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 99,
-    "theme": "Youth Unemployment",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "conclude",
+        "p": "/.../",
+        "pos": "n",
+        "m": "conclude",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for conclude.",
+            "c": "conclude的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 100,
-    "theme": "Housing Crisis",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "expedite",
-        "p": "/ˈekspədaɪt/",
-        "pos": "v",
-        "m": "加速",
-        "cefr": "IELTS",
+        "w": "concrete",
+        "p": "/.../",
+        "pos": "n",
+        "m": "concrete",
         "ex": [
           {
-            "e": "We need to expedite the approval process.",
-            "c": "我们需要加快审批流程。"
-          },
-          {
-            "e": "The software expedites data processing.",
-            "c": "这款软件加速了数据处理。"
+            "e": "Example for concrete.",
+            "c": "concrete的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 101,
-    "theme": "Poverty Reduction",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "acquiesce",
-        "p": "/ˌækwiˈes/",
-        "pos": "v",
-        "m": "默许",
-        "cefr": "IELTS",
+        "w": "conduct",
+        "p": "/.../",
+        "pos": "n",
+        "m": "conduct",
         "ex": [
           {
-            "e": "She acquiesced to their demands.",
-            "c": "她默许了他们的要求。"
-          },
-          {
-            "e": "He acquiesced in the decision without protest.",
-            "c": "他毫无异议地默许了这个决定。"
+            "e": "Example for conduct.",
+            "c": "conduct的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 102,
-    "theme": "Public Health",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "heterogeneous",
-        "p": "/ˌhetərəˈdʒiːniəs/",
-        "pos": "adj",
-        "m": "异质的",
-        "cefr": "IELTS",
+        "w": "confer",
+        "p": "/.../",
+        "pos": "n",
+        "m": "confer",
         "ex": [
           {
-            "e": "The population is highly heterogeneous.",
-            "c": "人口具有高度的异质性。"
-          },
-          {
-            "e": "The group was heterogeneous in terms of age and background.",
-            "c": "这个小组在年龄和背景上具有多样性。"
+            "e": "Example for confer.",
+            "c": "confer的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 103,
-    "theme": "Advertising",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "ubiquitous",
-        "p": "/juːˈbɪkwɪtəs/",
-        "pos": "adj",
-        "m": "无处不在的",
-        "cefr": "IELTS",
+        "w": "confine",
+        "p": "/.../",
+        "pos": "n",
+        "m": "confine",
         "ex": [
           {
-            "e": "Smartphones have become ubiquitous.",
-            "c": "智能手机已经变得无处不在。"
-          },
-          {
-            "e": "The ubiquitous coffee shop chain can be found everywhere.",
-            "c": "这家无处不在的咖啡连锁店到处都能找到。"
+            "e": "Example for confine.",
+            "c": "confine的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 104,
-    "theme": "Branding",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "confirm",
+        "p": "/.../",
+        "pos": "n",
+        "m": "confirm",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for confirm.",
+            "c": "confirm的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 105,
-    "theme": "Social Influence",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "conflict",
+        "p": "/.../",
+        "pos": "n",
+        "m": "conflict",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for conflict.",
+            "c": "conflict的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 106,
-    "theme": "Consumer Rights",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "conform",
+        "p": "/.../",
+        "pos": "n",
+        "m": "conform",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for conform.",
+            "c": "conform的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 107,
-    "theme": "Market Research",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "consent",
+        "p": "/.../",
+        "pos": "n",
+        "m": "consent",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for consent.",
+            "c": "consent的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 108,
-    "theme": "Product Design",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "consequence",
+        "p": "/.../",
+        "pos": "n",
+        "m": "consequence",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for consequence.",
+            "c": "consequence的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 109,
-    "theme": "Economic Growth",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "conservative",
+        "p": "/.../",
+        "pos": "n",
+        "m": "conservative",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for conservative.",
+            "c": "conservative的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 110,
-    "theme": "Inflation",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "considerable",
+        "p": "/.../",
+        "pos": "n",
+        "m": "considerable",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for considerable.",
+            "c": "considerable的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 111,
-    "theme": "Interest Rates",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "consist",
+        "p": "/.../",
+        "pos": "n",
+        "m": "consist",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for consist.",
+            "c": "consist的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 112,
-    "theme": "Investment",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "constant",
+        "p": "/.../",
+        "pos": "n",
+        "m": "constant",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for constant.",
+            "c": "constant的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 113,
-    "theme": "Banking",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "constitute",
+        "p": "/.../",
+        "pos": "n",
+        "m": "constitute",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for constitute.",
+            "c": "constitute的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 114,
-    "theme": "Cryptocurrency",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "constrain",
+        "p": "/.../",
+        "pos": "n",
+        "m": "constrain",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for constrain.",
+            "c": "constrain的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 115,
-    "theme": "Cultural Identity",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "construct",
+        "p": "/.../",
+        "pos": "n",
+        "m": "construct",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for construct.",
+            "c": "construct的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 116,
-    "theme": "Language Preservation",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "consultant",
+        "p": "/.../",
+        "pos": "n",
+        "m": "consultant",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for consultant.",
+            "c": "consultant的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 117,
-    "theme": "Global English",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "consume",
+        "p": "/.../",
+        "pos": "n",
+        "m": "consume",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for consume.",
+            "c": "consume的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 118,
-    "theme": "Endangered Languages",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "consumer",
+        "p": "/.../",
+        "pos": "n",
+        "m": "consumer",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for consumer.",
+            "c": "consumer的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 119,
-    "theme": "Translation",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "contact",
+        "p": "/.../",
+        "pos": "n",
+        "m": "contact",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for contact.",
+            "c": "contact的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 120,
-    "theme": "Intercultural Communication",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "contemporary",
+        "p": "/.../",
+        "pos": "n",
+        "m": "contemporary",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for contemporary.",
+            "c": "contemporary的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 121,
-    "theme": "Test Strategies",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "contract",
+        "p": "/.../",
+        "pos": "n",
+        "m": "contract",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for contract.",
+            "c": "contract的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 122,
-    "theme": "Time Management",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "contradiction",
+        "p": "/.../",
+        "pos": "n",
+        "m": "contradiction",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for contradiction.",
+            "c": "contradiction的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 123,
-    "theme": "Reading Skills",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "contrary",
+        "p": "/.../",
+        "pos": "n",
+        "m": "contrary",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for contrary.",
+            "c": "contrary的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 124,
-    "theme": "Writing Task 1",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "contrast",
+        "p": "/.../",
+        "pos": "n",
+        "m": "contrast",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for contrast.",
+            "c": "contrast的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 125,
-    "theme": "Writing Task 2",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "contribute",
+        "p": "/.../",
+        "pos": "n",
+        "m": "contribute",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for contribute.",
+            "c": "contribute的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 126,
-    "theme": "Speaking Test",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "controversy",
+        "p": "/.../",
+        "pos": "n",
+        "m": "controversy",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for controversy.",
+            "c": "controversy的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 127,
-    "theme": "Listening Test",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "convention",
+        "p": "/.../",
+        "pos": "n",
+        "m": "convention",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for convention.",
+            "c": "convention的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 128,
-    "theme": "Grammar Review",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "converge",
+        "p": "/.../",
+        "pos": "n",
+        "m": "converge",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for converge.",
+            "c": "converge的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 129,
-    "theme": "Vocabulary Review",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "conversely",
+        "p": "/.../",
+        "pos": "n",
+        "m": "conversely",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for conversely.",
+            "c": "conversely的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 130,
-    "theme": "Mock Test 1",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "conversion",
+        "p": "/.../",
+        "pos": "n",
+        "m": "conversion",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for conversion.",
+            "c": "conversion的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 131,
-    "theme": "Mock Test 2",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "convey",
+        "p": "/.../",
+        "pos": "n",
+        "m": "convey",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for convey.",
+            "c": "convey的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 132,
-    "theme": "Final Review",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "convince",
+        "p": "/.../",
+        "pos": "n",
+        "m": "convince",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for convince.",
+            "c": "convince的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 133,
-    "theme": "Education",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "cooperate",
+        "p": "/.../",
+        "pos": "n",
+        "m": "cooperate",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for cooperate.",
+            "c": "cooperate的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 134,
-    "theme": "Technology",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "coordinate",
+        "p": "/.../",
+        "pos": "n",
+        "m": "coordinate",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for coordinate.",
+            "c": "coordinate的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 135,
-    "theme": "Environment",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "copyright",
+        "p": "/.../",
+        "pos": "n",
+        "m": "copyright",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for copyright.",
+            "c": "copyright的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 136,
-    "theme": "Health",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "corporate",
+        "p": "/.../",
+        "pos": "n",
+        "m": "corporate",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for corporate.",
+            "c": "corporate的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 137,
-    "theme": "Travel",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "correspond",
+        "p": "/.../",
+        "pos": "n",
+        "m": "correspond",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for correspond.",
+            "c": "correspond的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 138,
-    "theme": "Culture",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "counsel",
+        "p": "/.../",
+        "pos": "n",
+        "m": "counsel",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for counsel.",
+            "c": "counsel的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 139,
-    "theme": "Work",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "couple",
+        "p": "/.../",
+        "pos": "n",
+        "m": "couple",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for couple.",
+            "c": "couple的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 140,
-    "theme": "Family",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "create",
+        "p": "/.../",
+        "pos": "n",
+        "m": "create",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for create.",
+            "c": "create的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 141,
-    "theme": "Food",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "credit",
+        "p": "/.../",
+        "pos": "n",
+        "m": "credit",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for credit.",
+            "c": "credit的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 142,
-    "theme": "Sports",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "criteria",
+        "p": "/.../",
+        "pos": "n",
+        "m": "criteria",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for criteria.",
+            "c": "criteria的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 143,
-    "theme": "Arts",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "crucial",
+        "p": "/.../",
+        "pos": "n",
+        "m": "crucial",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for crucial.",
+            "c": "crucial的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 144,
-    "theme": "Media",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "cultivate",
+        "p": "/.../",
+        "pos": "n",
+        "m": "cultivate",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for cultivate.",
+            "c": "cultivate的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 145,
-    "theme": "Science",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "culture",
+        "p": "/.../",
+        "pos": "n",
+        "m": "culture",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for culture.",
+            "c": "culture的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 146,
-    "theme": "History",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "currency",
+        "p": "/.../",
+        "pos": "n",
+        "m": "currency",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for currency.",
+            "c": "currency的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 147,
-    "theme": "Economy",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "cycle",
+        "p": "/.../",
+        "pos": "n",
+        "m": "cycle",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for cycle.",
+            "c": "cycle的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 148,
-    "theme": "Politics",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "data",
+        "p": "/.../",
+        "pos": "n",
+        "m": "data",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for data.",
+            "c": "data的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 149,
-    "theme": "Global Issues",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "debate",
+        "p": "/.../",
+        "pos": "n",
+        "m": "debate",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for debate.",
+            "c": "debate的例句。"
           }
         ]
-      },
-{
+      }
+    ]
+  },
+  {
     "day": 150,
-    "theme": "Urban Life",
+    "theme": "Vocabulary",
     "stage": 1,
     "cefr": "IELTS",
     "words": [
       {
-        "w": "hypothetical",
-        "p": "/ˌhaɪpəˈθetɪkl/",
-        "pos": "adj",
-        "m": "假设的",
-        "cefr": "IELTS",
+        "w": "decade",
+        "p": "/.../",
+        "pos": "n",
+        "m": "decade",
         "ex": [
           {
-            "e": "Let's consider a hypothetical situation.",
-            "c": "让我们考虑一个假设的情况。"
-          },
-          {
-            "e": "The question was purely hypothetical.",
-            "c": "这个问题纯粹是假设性的。"
+            "e": "Example for decade.",
+            "c": "decade的例句。"
           }
         ]
       }
