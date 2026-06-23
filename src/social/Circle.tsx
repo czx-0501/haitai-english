@@ -81,17 +81,6 @@ export default function Circle() {
    setPostImage('');
    await loadPosts();
   }
-
- async function handleShareStudy() {
-    try {
-      await shareStudyResult(20, 85, 1);
-      alert('✅ 打卡成功！');
-      await loadPosts();
-    } catch (e: any) {
-      alert('❌ ' + (e.message || '打卡失败'));
-    }
-  }
-
   async function handleSharePost(content: string) {
     if (navigator.share) {
       try {
