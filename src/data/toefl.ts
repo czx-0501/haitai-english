@@ -3,29 +3,20661 @@ export const toeflVocabulary = [
     "day": 1,
     "theme": "Vocabulary",
     "stage": 1,
-    "cefr": "TOEFL",
+    "cefr": "X",
     "words": [
       {
-        "w": "actaea",
-        "p": "/actaea/",
+        "w": "aardvarks",
+        "p": "/aardvarks/",
         "pos": "n",
-        "m": "actaea",
+        "m": "aardvarks",
         "ex": [
           {
-            "e": "Study actaea.",
-            "c": "学习actaea。"
+            "e": "Study aardvarks.",
+            "c": "学习aardvarks。"
           }
         ]
       },
       {
-        "w": "actaeaceae",
-        "p": "/actaeaceae/",
+        "w": "aaronic",
+        "p": "/aaronic/",
         "pos": "n",
-        "m": "actaeaceae",
+        "m": "aaronic",
         "ex": [
           {
-            "e": "Study actaeaceae.",
-            "c": "学习actaeaceae。"
+            "e": "Study aaronic.",
+            "c": "学习aaronic。"
+          }
+        ]
+      },
+      {
+        "w": "aaronical",
+        "p": "/aaronical/",
+        "pos": "n",
+        "m": "aaronical",
+        "ex": [
+          {
+            "e": "Study aaronical.",
+            "c": "学习aaronical。"
+          }
+        ]
+      },
+      {
+        "w": "aaronitic",
+        "p": "/aaronitic/",
+        "pos": "n",
+        "m": "aaronitic",
+        "ex": [
+          {
+            "e": "Study aaronitic.",
+            "c": "学习aaronitic。"
+          }
+        ]
+      },
+      {
+        "w": "aarrghh",
+        "p": "/aarrghh/",
+        "pos": "n",
+        "m": "aarrghh",
+        "ex": [
+          {
+            "e": "Study aarrghh.",
+            "c": "学习aarrghh。"
+          }
+        ]
+      },
+      {
+        "w": "aasvogels",
+        "p": "/aasvogels/",
+        "pos": "n",
+        "m": "aasvogels",
+        "ex": [
+          {
+            "e": "Study aasvogels.",
+            "c": "学习aasvogels。"
+          }
+        ]
+      },
+      {
+        "w": "ababdeh",
+        "p": "/ababdeh/",
+        "pos": "n",
+        "m": "ababdeh",
+        "ex": [
+          {
+            "e": "Study ababdeh.",
+            "c": "学习ababdeh。"
+          }
+        ]
+      },
+      {
+        "w": "abacate",
+        "p": "/abacate/",
+        "pos": "n",
+        "m": "abacate",
+        "ex": [
+          {
+            "e": "Study abacate.",
+            "c": "学习abacate。"
+          }
+        ]
+      },
+      {
+        "w": "abacaxi",
+        "p": "/abacaxi/",
+        "pos": "n",
+        "m": "abacaxi",
+        "ex": [
+          {
+            "e": "Study abacaxi.",
+            "c": "学习abacaxi。"
+          }
+        ]
+      },
+      {
+        "w": "abacinate",
+        "p": "/abacinate/",
+        "pos": "n",
+        "m": "abacinate",
+        "ex": [
+          {
+            "e": "Study abacinate.",
+            "c": "学习abacinate。"
+          }
+        ]
+      },
+      {
+        "w": "abacination",
+        "p": "/abacination/",
+        "pos": "n",
+        "m": "abacination",
+        "ex": [
+          {
+            "e": "Study abacination.",
+            "c": "学习abacination。"
+          }
+        ]
+      },
+      {
+        "w": "abaciscus",
+        "p": "/abaciscus/",
+        "pos": "n",
+        "m": "abaciscus",
+        "ex": [
+          {
+            "e": "Study abaciscus.",
+            "c": "学习abaciscus。"
+          }
+        ]
+      },
+      {
+        "w": "abacist",
+        "p": "/abacist/",
+        "pos": "n",
+        "m": "abacist",
+        "ex": [
+          {
+            "e": "Study abacist.",
+            "c": "学习abacist。"
+          }
+        ]
+      },
+      {
+        "w": "abactinal",
+        "p": "/abactinal/",
+        "pos": "n",
+        "m": "abactinal",
+        "ex": [
+          {
+            "e": "Study abactinal.",
+            "c": "学习abactinal。"
+          }
+        ]
+      },
+      {
+        "w": "abactinally",
+        "p": "/abactinally/",
+        "pos": "n",
+        "m": "abactinally",
+        "ex": [
+          {
+            "e": "Study abactinally.",
+            "c": "学习abactinally。"
+          }
+        ]
+      },
+      {
+        "w": "abactor",
+        "p": "/abactor/",
+        "pos": "n",
+        "m": "abactor",
+        "ex": [
+          {
+            "e": "Study abactor.",
+            "c": "学习abactor。"
+          }
+        ]
+      },
+      {
+        "w": "abaculi",
+        "p": "/abaculi/",
+        "pos": "n",
+        "m": "abaculi",
+        "ex": [
+          {
+            "e": "Study abaculi.",
+            "c": "学习abaculi。"
+          }
+        ]
+      },
+      {
+        "w": "abaddon",
+        "p": "/abaddon/",
+        "pos": "n",
+        "m": "abaddon",
+        "ex": [
+          {
+            "e": "Study abaddon.",
+            "c": "学习abaddon。"
+          }
+        ]
+      },
+      {
+        "w": "abadejo",
+        "p": "/abadejo/",
+        "pos": "n",
+        "m": "abadejo",
+        "ex": [
+          {
+            "e": "Study abadejo.",
+            "c": "学习abadejo。"
+          }
+        ]
+      },
+      {
+        "w": "abadite",
+        "p": "/abadite/",
+        "pos": "n",
+        "m": "abadite",
+        "ex": [
+          {
+            "e": "Study abadite.",
+            "c": "学习abadite。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abaisance",
+        "p": "/abaisance/",
+        "pos": "n",
+        "m": "abaisance",
+        "ex": [
+          {
+            "e": "Study abaisance.",
+            "c": "学习abaisance。"
+          }
+        ]
+      },
+      {
+        "w": "abaised",
+        "p": "/abaised/",
+        "pos": "n",
+        "m": "abaised",
+        "ex": [
+          {
+            "e": "Study abaised.",
+            "c": "学习abaised。"
+          }
+        ]
+      },
+      {
+        "w": "abaiser",
+        "p": "/abaiser/",
+        "pos": "n",
+        "m": "abaiser",
+        "ex": [
+          {
+            "e": "Study abaiser.",
+            "c": "学习abaiser。"
+          }
+        ]
+      },
+      {
+        "w": "abaisse",
+        "p": "/abaisse/",
+        "pos": "n",
+        "m": "abaisse",
+        "ex": [
+          {
+            "e": "Study abaisse.",
+            "c": "学习abaisse。"
+          }
+        ]
+      },
+      {
+        "w": "abalation",
+        "p": "/abalation/",
+        "pos": "n",
+        "m": "abalation",
+        "ex": [
+          {
+            "e": "Study abalation.",
+            "c": "学习abalation。"
+          }
+        ]
+      },
+      {
+        "w": "abalienated",
+        "p": "/abalienated/",
+        "pos": "n",
+        "m": "abalienated",
+        "ex": [
+          {
+            "e": "Study abalienated.",
+            "c": "学习abalienated。"
+          }
+        ]
+      },
+      {
+        "w": "abalienating",
+        "p": "/abalienating/",
+        "pos": "n",
+        "m": "abalienating",
+        "ex": [
+          {
+            "e": "Study abalienating.",
+            "c": "学习abalienating。"
+          }
+        ]
+      },
+      {
+        "w": "abalienation",
+        "p": "/abalienation/",
+        "pos": "n",
+        "m": "abalienation",
+        "ex": [
+          {
+            "e": "Study abalienation.",
+            "c": "学习abalienation。"
+          }
+        ]
+      },
+      {
+        "w": "abalone",
+        "p": "/abalone/",
+        "pos": "n",
+        "m": "abalone",
+        "ex": [
+          {
+            "e": "Study abalone.",
+            "c": "学习abalone。"
+          }
+        ]
+      },
+      {
+        "w": "abamperes",
+        "p": "/abamperes/",
+        "pos": "n",
+        "m": "abamperes",
+        "ex": [
+          {
+            "e": "Study abamperes.",
+            "c": "学习abamperes。"
+          }
+        ]
+      },
+      {
+        "w": "abandon",
+        "p": "/abandon/",
+        "pos": "n",
+        "m": "abandon",
+        "ex": [
+          {
+            "e": "Study abandon.",
+            "c": "学习abandon。"
+          }
+        ]
+      },
+      {
+        "w": "abandonable",
+        "p": "/abandonable/",
+        "pos": "n",
+        "m": "abandonable",
+        "ex": [
+          {
+            "e": "Study abandonable.",
+            "c": "学习abandonable。"
+          }
+        ]
+      },
+      {
+        "w": "abandoned",
+        "p": "/abandoned/",
+        "pos": "n",
+        "m": "abandoned",
+        "ex": [
+          {
+            "e": "Study abandoned.",
+            "c": "学习abandoned。"
+          }
+        ]
+      },
+      {
+        "w": "abandonedly",
+        "p": "/abandonedly/",
+        "pos": "n",
+        "m": "abandonedly",
+        "ex": [
+          {
+            "e": "Study abandonedly.",
+            "c": "学习abandonedly。"
+          }
+        ]
+      },
+      {
+        "w": "abandonee",
+        "p": "/abandonee/",
+        "pos": "n",
+        "m": "abandonee",
+        "ex": [
+          {
+            "e": "Study abandonee.",
+            "c": "学习abandonee。"
+          }
+        ]
+      },
+      {
+        "w": "abandoner",
+        "p": "/abandoner/",
+        "pos": "n",
+        "m": "abandoner",
+        "ex": [
+          {
+            "e": "Study abandoner.",
+            "c": "学习abandoner。"
+          }
+        ]
+      },
+      {
+        "w": "abandonment",
+        "p": "/abandonment/",
+        "pos": "n",
+        "m": "abandonment",
+        "ex": [
+          {
+            "e": "Study abandonment.",
+            "c": "学习abandonment。"
+          }
+        ]
+      },
+      {
+        "w": "abandonments",
+        "p": "/abandonments/",
+        "pos": "n",
+        "m": "abandonments",
+        "ex": [
+          {
+            "e": "Study abandonments.",
+            "c": "学习abandonments。"
+          }
+        ]
+      },
+      {
+        "w": "abandum",
+        "p": "/abandum/",
+        "pos": "n",
+        "m": "abandum",
+        "ex": [
+          {
+            "e": "Study abandum.",
+            "c": "学习abandum。"
+          }
+        ]
+      },
+      {
+        "w": "abantes",
+        "p": "/abantes/",
+        "pos": "n",
+        "m": "abantes",
+        "ex": [
+          {
+            "e": "Study abantes.",
+            "c": "学习abantes。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abarthrosis",
+        "p": "/abarthrosis/",
+        "pos": "n",
+        "m": "abarthrosis",
+        "ex": [
+          {
+            "e": "Study abarthrosis.",
+            "c": "学习abarthrosis。"
+          }
+        ]
+      },
+      {
+        "w": "abarticular",
+        "p": "/abarticular/",
+        "pos": "n",
+        "m": "abarticular",
+        "ex": [
+          {
+            "e": "Study abarticular.",
+            "c": "学习abarticular。"
+          }
+        ]
+      },
+      {
+        "w": "abarticulation",
+        "p": "/abarticulation/",
+        "pos": "n",
+        "m": "abarticulation",
+        "ex": [
+          {
+            "e": "Study abarticulation.",
+            "c": "学习abarticulation。"
+          }
+        ]
+      },
+      {
+        "w": "abasement",
+        "p": "/abasement/",
+        "pos": "n",
+        "m": "abasement",
+        "ex": [
+          {
+            "e": "Study abasement.",
+            "c": "学习abasement。"
+          }
+        ]
+      },
+      {
+        "w": "abasers",
+        "p": "/abasers/",
+        "pos": "n",
+        "m": "abasers",
+        "ex": [
+          {
+            "e": "Study abasers.",
+            "c": "学习abasers。"
+          }
+        ]
+      },
+      {
+        "w": "abashed",
+        "p": "/abashed/",
+        "pos": "n",
+        "m": "abashed",
+        "ex": [
+          {
+            "e": "Study abashed.",
+            "c": "学习abashed。"
+          }
+        ]
+      },
+      {
+        "w": "abashedly",
+        "p": "/abashedly/",
+        "pos": "n",
+        "m": "abashedly",
+        "ex": [
+          {
+            "e": "Study abashedly.",
+            "c": "学习abashedly。"
+          }
+        ]
+      },
+      {
+        "w": "abashedness",
+        "p": "/abashedness/",
+        "pos": "n",
+        "m": "abashedness",
+        "ex": [
+          {
+            "e": "Study abashedness.",
+            "c": "学习abashedness。"
+          }
+        ]
+      },
+      {
+        "w": "abashes",
+        "p": "/abashes/",
+        "pos": "n",
+        "m": "abashes",
+        "ex": [
+          {
+            "e": "Study abashes.",
+            "c": "学习abashes。"
+          }
+        ]
+      },
+      {
+        "w": "abashless",
+        "p": "/abashless/",
+        "pos": "n",
+        "m": "abashless",
+        "ex": [
+          {
+            "e": "Study abashless.",
+            "c": "学习abashless。"
+          }
+        ]
+      },
+      {
+        "w": "abashlessly",
+        "p": "/abashlessly/",
+        "pos": "n",
+        "m": "abashlessly",
+        "ex": [
+          {
+            "e": "Study abashlessly.",
+            "c": "学习abashlessly。"
+          }
+        ]
+      },
+      {
+        "w": "abashment",
+        "p": "/abashment/",
+        "pos": "n",
+        "m": "abashment",
+        "ex": [
+          {
+            "e": "Study abashment.",
+            "c": "学习abashment。"
+          }
+        ]
+      },
+      {
+        "w": "abasias",
+        "p": "/abasias/",
+        "pos": "n",
+        "m": "abasias",
+        "ex": [
+          {
+            "e": "Study abasias.",
+            "c": "学习abasias。"
+          }
+        ]
+      },
+      {
+        "w": "abasing",
+        "p": "/abasing/",
+        "pos": "n",
+        "m": "abasing",
+        "ex": [
+          {
+            "e": "Study abasing.",
+            "c": "学习abasing。"
+          }
+        ]
+      },
+      {
+        "w": "abassin",
+        "p": "/abassin/",
+        "pos": "n",
+        "m": "abassin",
+        "ex": [
+          {
+            "e": "Study abassin.",
+            "c": "学习abassin。"
+          }
+        ]
+      },
+      {
+        "w": "abastardize",
+        "p": "/abastardize/",
+        "pos": "n",
+        "m": "abastardize",
+        "ex": [
+          {
+            "e": "Study abastardize.",
+            "c": "学习abastardize。"
+          }
+        ]
+      },
+      {
+        "w": "abatage",
+        "p": "/abatage/",
+        "pos": "n",
+        "m": "abatage",
+        "ex": [
+          {
+            "e": "Study abatage.",
+            "c": "学习abatage。"
+          }
+        ]
+      },
+      {
+        "w": "abatement",
+        "p": "/abatement/",
+        "pos": "n",
+        "m": "abatement",
+        "ex": [
+          {
+            "e": "Study abatement.",
+            "c": "学习abatement。"
+          }
+        ]
+      },
+      {
+        "w": "abaters",
+        "p": "/abaters/",
+        "pos": "n",
+        "m": "abaters",
+        "ex": [
+          {
+            "e": "Study abaters.",
+            "c": "学习abaters。"
+          }
+        ]
+      },
+      {
+        "w": "abating",
+        "p": "/abating/",
+        "pos": "n",
+        "m": "abating",
+        "ex": [
+          {
+            "e": "Study abating.",
+            "c": "学习abating。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abatjours",
+        "p": "/abatjours/",
+        "pos": "n",
+        "m": "abatjours",
+        "ex": [
+          {
+            "e": "Study abatjours.",
+            "c": "学习abatjours。"
+          }
+        ]
+      },
+      {
+        "w": "abators",
+        "p": "/abators/",
+        "pos": "n",
+        "m": "abators",
+        "ex": [
+          {
+            "e": "Study abators.",
+            "c": "学习abators。"
+          }
+        ]
+      },
+      {
+        "w": "abattis",
+        "p": "/abattis/",
+        "pos": "n",
+        "m": "abattis",
+        "ex": [
+          {
+            "e": "Study abattis.",
+            "c": "学习abattis。"
+          }
+        ]
+      },
+      {
+        "w": "abattised",
+        "p": "/abattised/",
+        "pos": "n",
+        "m": "abattised",
+        "ex": [
+          {
+            "e": "Study abattised.",
+            "c": "学习abattised。"
+          }
+        ]
+      },
+      {
+        "w": "abattises",
+        "p": "/abattises/",
+        "pos": "n",
+        "m": "abattises",
+        "ex": [
+          {
+            "e": "Study abattises.",
+            "c": "学习abattises。"
+          }
+        ]
+      },
+      {
+        "w": "abattoirs",
+        "p": "/abattoirs/",
+        "pos": "n",
+        "m": "abattoirs",
+        "ex": [
+          {
+            "e": "Study abattoirs.",
+            "c": "学习abattoirs。"
+          }
+        ]
+      },
+      {
+        "w": "abattue",
+        "p": "/abattue/",
+        "pos": "n",
+        "m": "abattue",
+        "ex": [
+          {
+            "e": "Study abattue.",
+            "c": "学习abattue。"
+          }
+        ]
+      },
+      {
+        "w": "abature",
+        "p": "/abature/",
+        "pos": "n",
+        "m": "abature",
+        "ex": [
+          {
+            "e": "Study abature.",
+            "c": "学习abature。"
+          }
+        ]
+      },
+      {
+        "w": "abaxial",
+        "p": "/abaxial/",
+        "pos": "n",
+        "m": "abaxial",
+        "ex": [
+          {
+            "e": "Study abaxial.",
+            "c": "学习abaxial。"
+          }
+        ]
+      },
+      {
+        "w": "abaxile",
+        "p": "/abaxile/",
+        "pos": "n",
+        "m": "abaxile",
+        "ex": [
+          {
+            "e": "Study abaxile.",
+            "c": "学习abaxile。"
+          }
+        ]
+      },
+      {
+        "w": "abbacomes",
+        "p": "/abbacomes/",
+        "pos": "n",
+        "m": "abbacomes",
+        "ex": [
+          {
+            "e": "Study abbacomes.",
+            "c": "学习abbacomes。"
+          }
+        ]
+      },
+      {
+        "w": "abbandono",
+        "p": "/abbandono/",
+        "pos": "n",
+        "m": "abbandono",
+        "ex": [
+          {
+            "e": "Study abbandono.",
+            "c": "学习abbandono。"
+          }
+        ]
+      },
+      {
+        "w": "abbasid",
+        "p": "/abbasid/",
+        "pos": "n",
+        "m": "abbasid",
+        "ex": [
+          {
+            "e": "Study abbasid.",
+            "c": "学习abbasid。"
+          }
+        ]
+      },
+      {
+        "w": "abbassi",
+        "p": "/abbassi/",
+        "pos": "n",
+        "m": "abbassi",
+        "ex": [
+          {
+            "e": "Study abbassi.",
+            "c": "学习abbassi。"
+          }
+        ]
+      },
+      {
+        "w": "abbasside",
+        "p": "/abbasside/",
+        "pos": "n",
+        "m": "abbasside",
+        "ex": [
+          {
+            "e": "Study abbasside.",
+            "c": "学习abbasside。"
+          }
+        ]
+      },
+      {
+        "w": "abbatical",
+        "p": "/abbatical/",
+        "pos": "n",
+        "m": "abbatical",
+        "ex": [
+          {
+            "e": "Study abbatical.",
+            "c": "学习abbatical。"
+          }
+        ]
+      },
+      {
+        "w": "abbatie",
+        "p": "/abbatie/",
+        "pos": "n",
+        "m": "abbatie",
+        "ex": [
+          {
+            "e": "Study abbatie.",
+            "c": "学习abbatie。"
+          }
+        ]
+      },
+      {
+        "w": "abbevillian",
+        "p": "/abbevillian/",
+        "pos": "n",
+        "m": "abbevillian",
+        "ex": [
+          {
+            "e": "Study abbevillian.",
+            "c": "学习abbevillian。"
+          }
+        ]
+      },
+      {
+        "w": "abboccato",
+        "p": "/abboccato/",
+        "pos": "n",
+        "m": "abboccato",
+        "ex": [
+          {
+            "e": "Study abboccato.",
+            "c": "学习abboccato。"
+          }
+        ]
+      },
+      {
+        "w": "abbotcies",
+        "p": "/abbotcies/",
+        "pos": "n",
+        "m": "abbotcies",
+        "ex": [
+          {
+            "e": "Study abbotcies.",
+            "c": "学习abbotcies。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abbotcy",
+        "p": "/abbotcy/",
+        "pos": "n",
+        "m": "abbotcy",
+        "ex": [
+          {
+            "e": "Study abbotcy.",
+            "c": "学习abbotcy。"
+          }
+        ]
+      },
+      {
+        "w": "abbotnullius",
+        "p": "/abbotnullius/",
+        "pos": "n",
+        "m": "abbotnullius",
+        "ex": [
+          {
+            "e": "Study abbotnullius.",
+            "c": "学习abbotnullius。"
+          }
+        ]
+      },
+      {
+        "w": "abbotship",
+        "p": "/abbotship/",
+        "pos": "n",
+        "m": "abbotship",
+        "ex": [
+          {
+            "e": "Study abbotship.",
+            "c": "学习abbotship。"
+          }
+        ]
+      },
+      {
+        "w": "abbozzo",
+        "p": "/abbozzo/",
+        "pos": "n",
+        "m": "abbozzo",
+        "ex": [
+          {
+            "e": "Study abbozzo.",
+            "c": "学习abbozzo。"
+          }
+        ]
+      },
+      {
+        "w": "abbreviatable",
+        "p": "/abbreviatable/",
+        "pos": "n",
+        "m": "abbreviatable",
+        "ex": [
+          {
+            "e": "Study abbreviatable.",
+            "c": "学习abbreviatable。"
+          }
+        ]
+      },
+      {
+        "w": "abbreviated",
+        "p": "/abbreviated/",
+        "pos": "n",
+        "m": "abbreviated",
+        "ex": [
+          {
+            "e": "Study abbreviated.",
+            "c": "学习abbreviated。"
+          }
+        ]
+      },
+      {
+        "w": "abbreviately",
+        "p": "/abbreviately/",
+        "pos": "n",
+        "m": "abbreviately",
+        "ex": [
+          {
+            "e": "Study abbreviately.",
+            "c": "学习abbreviately。"
+          }
+        ]
+      },
+      {
+        "w": "abbreviates",
+        "p": "/abbreviates/",
+        "pos": "n",
+        "m": "abbreviates",
+        "ex": [
+          {
+            "e": "Study abbreviates.",
+            "c": "学习abbreviates。"
+          }
+        ]
+      },
+      {
+        "w": "abbreviating",
+        "p": "/abbreviating/",
+        "pos": "n",
+        "m": "abbreviating",
+        "ex": [
+          {
+            "e": "Study abbreviating.",
+            "c": "学习abbreviating。"
+          }
+        ]
+      },
+      {
+        "w": "abbreviation",
+        "p": "/abbreviation/",
+        "pos": "n",
+        "m": "abbreviation",
+        "ex": [
+          {
+            "e": "Study abbreviation.",
+            "c": "学习abbreviation。"
+          }
+        ]
+      },
+      {
+        "w": "abbreviations",
+        "p": "/abbreviations/",
+        "pos": "n",
+        "m": "abbreviations",
+        "ex": [
+          {
+            "e": "Study abbreviations.",
+            "c": "学习abbreviations。"
+          }
+        ]
+      },
+      {
+        "w": "abbreviator",
+        "p": "/abbreviator/",
+        "pos": "n",
+        "m": "abbreviator",
+        "ex": [
+          {
+            "e": "Study abbreviator.",
+            "c": "学习abbreviator。"
+          }
+        ]
+      },
+      {
+        "w": "abbreviators",
+        "p": "/abbreviators/",
+        "pos": "n",
+        "m": "abbreviators",
+        "ex": [
+          {
+            "e": "Study abbreviators.",
+            "c": "学习abbreviators。"
+          }
+        ]
+      },
+      {
+        "w": "abbreviatory",
+        "p": "/abbreviatory/",
+        "pos": "n",
+        "m": "abbreviatory",
+        "ex": [
+          {
+            "e": "Study abbreviatory.",
+            "c": "学习abbreviatory。"
+          }
+        ]
+      },
+      {
+        "w": "abbreviature",
+        "p": "/abbreviature/",
+        "pos": "n",
+        "m": "abbreviature",
+        "ex": [
+          {
+            "e": "Study abbreviature.",
+            "c": "学习abbreviature。"
+          }
+        ]
+      },
+      {
+        "w": "abbroachment",
+        "p": "/abbroachment/",
+        "pos": "n",
+        "m": "abbroachment",
+        "ex": [
+          {
+            "e": "Study abbroachment.",
+            "c": "学习abbroachment。"
+          }
+        ]
+      },
+      {
+        "w": "abcissa",
+        "p": "/abcissa/",
+        "pos": "n",
+        "m": "abcissa",
+        "ex": [
+          {
+            "e": "Study abcissa.",
+            "c": "学习abcissa。"
+          }
+        ]
+      },
+      {
+        "w": "abcoulomb",
+        "p": "/abcoulomb/",
+        "pos": "n",
+        "m": "abcoulomb",
+        "ex": [
+          {
+            "e": "Study abcoulomb.",
+            "c": "学习abcoulomb。"
+          }
+        ]
+      },
+      {
+        "w": "abdaria",
+        "p": "/abdaria/",
+        "pos": "n",
+        "m": "abdaria",
+        "ex": [
+          {
+            "e": "Study abdaria.",
+            "c": "学习abdaria。"
+          }
+        ]
+      },
+      {
+        "w": "abdicable",
+        "p": "/abdicable/",
+        "pos": "n",
+        "m": "abdicable",
+        "ex": [
+          {
+            "e": "Study abdicable.",
+            "c": "学习abdicable。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abdicated",
+        "p": "/abdicated/",
+        "pos": "n",
+        "m": "abdicated",
+        "ex": [
+          {
+            "e": "Study abdicated.",
+            "c": "学习abdicated。"
+          }
+        ]
+      },
+      {
+        "w": "abdicates",
+        "p": "/abdicates/",
+        "pos": "n",
+        "m": "abdicates",
+        "ex": [
+          {
+            "e": "Study abdicates.",
+            "c": "学习abdicates。"
+          }
+        ]
+      },
+      {
+        "w": "abdications",
+        "p": "/abdications/",
+        "pos": "n",
+        "m": "abdications",
+        "ex": [
+          {
+            "e": "Study abdications.",
+            "c": "学习abdications。"
+          }
+        ]
+      },
+      {
+        "w": "abdicator",
+        "p": "/abdicator/",
+        "pos": "n",
+        "m": "abdicator",
+        "ex": [
+          {
+            "e": "Study abdicator.",
+            "c": "学习abdicator。"
+          }
+        ]
+      },
+      {
+        "w": "abdomen",
+        "p": "/abdomen/",
+        "pos": "n",
+        "m": "abdomen",
+        "ex": [
+          {
+            "e": "Study abdomen.",
+            "c": "学习abdomen。"
+          }
+        ]
+      },
+      {
+        "w": "abdominal",
+        "p": "/abdominal/",
+        "pos": "n",
+        "m": "abdominal",
+        "ex": [
+          {
+            "e": "Study abdominal.",
+            "c": "学习abdominal。"
+          }
+        ]
+      },
+      {
+        "w": "abdominales",
+        "p": "/abdominales/",
+        "pos": "n",
+        "m": "abdominales",
+        "ex": [
+          {
+            "e": "Study abdominales.",
+            "c": "学习abdominales。"
+          }
+        ]
+      },
+      {
+        "w": "abdominalia",
+        "p": "/abdominalia/",
+        "pos": "n",
+        "m": "abdominalia",
+        "ex": [
+          {
+            "e": "Study abdominalia.",
+            "c": "学习abdominalia。"
+          }
+        ]
+      },
+      {
+        "w": "abdominalian",
+        "p": "/abdominalian/",
+        "pos": "n",
+        "m": "abdominalian",
+        "ex": [
+          {
+            "e": "Study abdominalian.",
+            "c": "学习abdominalian。"
+          }
+        ]
+      },
+      {
+        "w": "abdominally",
+        "p": "/abdominally/",
+        "pos": "n",
+        "m": "abdominally",
+        "ex": [
+          {
+            "e": "Study abdominally.",
+            "c": "学习abdominally。"
+          }
+        ]
+      },
+      {
+        "w": "abdominocardiac",
+        "p": "/abdominocardiac/",
+        "pos": "n",
+        "m": "abdominocardiac",
+        "ex": [
+          {
+            "e": "Study abdominocardiac.",
+            "c": "学习abdominocardiac。"
+          }
+        ]
+      },
+      {
+        "w": "abdominocystic",
+        "p": "/abdominocystic/",
+        "pos": "n",
+        "m": "abdominocystic",
+        "ex": [
+          {
+            "e": "Study abdominocystic.",
+            "c": "学习abdominocystic。"
+          }
+        ]
+      },
+      {
+        "w": "abdominogenital",
+        "p": "/abdominogenital/",
+        "pos": "n",
+        "m": "abdominogenital",
+        "ex": [
+          {
+            "e": "Study abdominogenital.",
+            "c": "学习abdominogenital。"
+          }
+        ]
+      },
+      {
+        "w": "abdominoscope",
+        "p": "/abdominoscope/",
+        "pos": "n",
+        "m": "abdominoscope",
+        "ex": [
+          {
+            "e": "Study abdominoscope.",
+            "c": "学习abdominoscope。"
+          }
+        ]
+      },
+      {
+        "w": "abdominoscopy",
+        "p": "/abdominoscopy/",
+        "pos": "n",
+        "m": "abdominoscopy",
+        "ex": [
+          {
+            "e": "Study abdominoscopy.",
+            "c": "学习abdominoscopy。"
+          }
+        ]
+      },
+      {
+        "w": "abdominovaginal",
+        "p": "/abdominovaginal/",
+        "pos": "n",
+        "m": "abdominovaginal",
+        "ex": [
+          {
+            "e": "Study abdominovaginal.",
+            "c": "学习abdominovaginal。"
+          }
+        ]
+      },
+      {
+        "w": "abdominovesical",
+        "p": "/abdominovesical/",
+        "pos": "n",
+        "m": "abdominovesical",
+        "ex": [
+          {
+            "e": "Study abdominovesical.",
+            "c": "学习abdominovesical。"
+          }
+        ]
+      },
+      {
+        "w": "abduced",
+        "p": "/abduced/",
+        "pos": "n",
+        "m": "abduced",
+        "ex": [
+          {
+            "e": "Study abduced.",
+            "c": "学习abduced。"
+          }
+        ]
+      },
+      {
+        "w": "abduces",
+        "p": "/abduces/",
+        "pos": "n",
+        "m": "abduces",
+        "ex": [
+          {
+            "e": "Study abduces.",
+            "c": "学习abduces。"
+          }
+        ]
+      },
+      {
+        "w": "abducting",
+        "p": "/abducting/",
+        "pos": "n",
+        "m": "abducting",
+        "ex": [
+          {
+            "e": "Study abducting.",
+            "c": "学习abducting。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abduction",
+        "p": "/abduction/",
+        "pos": "n",
+        "m": "abduction",
+        "ex": [
+          {
+            "e": "Study abduction.",
+            "c": "学习abduction。"
+          }
+        ]
+      },
+      {
+        "w": "abductors",
+        "p": "/abductors/",
+        "pos": "n",
+        "m": "abductors",
+        "ex": [
+          {
+            "e": "Study abductors.",
+            "c": "学习abductors。"
+          }
+        ]
+      },
+      {
+        "w": "abducts",
+        "p": "/abducts/",
+        "pos": "n",
+        "m": "abducts",
+        "ex": [
+          {
+            "e": "Study abducts.",
+            "c": "学习abducts。"
+          }
+        ]
+      },
+      {
+        "w": "abearance",
+        "p": "/abearance/",
+        "pos": "n",
+        "m": "abearance",
+        "ex": [
+          {
+            "e": "Study abearance.",
+            "c": "学习abearance。"
+          }
+        ]
+      },
+      {
+        "w": "abecedarian",
+        "p": "/abecedarian/",
+        "pos": "n",
+        "m": "abecedarian",
+        "ex": [
+          {
+            "e": "Study abecedarian.",
+            "c": "学习abecedarian。"
+          }
+        ]
+      },
+      {
+        "w": "abecedarians",
+        "p": "/abecedarians/",
+        "pos": "n",
+        "m": "abecedarians",
+        "ex": [
+          {
+            "e": "Study abecedarians.",
+            "c": "学习abecedarians。"
+          }
+        ]
+      },
+      {
+        "w": "abecedaries",
+        "p": "/abecedaries/",
+        "pos": "n",
+        "m": "abecedaries",
+        "ex": [
+          {
+            "e": "Study abecedaries.",
+            "c": "学习abecedaries。"
+          }
+        ]
+      },
+      {
+        "w": "abecedarium",
+        "p": "/abecedarium/",
+        "pos": "n",
+        "m": "abecedarium",
+        "ex": [
+          {
+            "e": "Study abecedarium.",
+            "c": "学习abecedarium。"
+          }
+        ]
+      },
+      {
+        "w": "abecedarius",
+        "p": "/abecedarius/",
+        "pos": "n",
+        "m": "abecedarius",
+        "ex": [
+          {
+            "e": "Study abecedarius.",
+            "c": "学习abecedarius。"
+          }
+        ]
+      },
+      {
+        "w": "abecedary",
+        "p": "/abecedary/",
+        "pos": "n",
+        "m": "abecedary",
+        "ex": [
+          {
+            "e": "Study abecedary.",
+            "c": "学习abecedary。"
+          }
+        ]
+      },
+      {
+        "w": "abelian",
+        "p": "/abelian/",
+        "pos": "n",
+        "m": "abelian",
+        "ex": [
+          {
+            "e": "Study abelian.",
+            "c": "学习abelian。"
+          }
+        ]
+      },
+      {
+        "w": "abelite",
+        "p": "/abelite/",
+        "pos": "n",
+        "m": "abelite",
+        "ex": [
+          {
+            "e": "Study abelite.",
+            "c": "学习abelite。"
+          }
+        ]
+      },
+      {
+        "w": "abelmoschus",
+        "p": "/abelmoschus/",
+        "pos": "n",
+        "m": "abelmoschus",
+        "ex": [
+          {
+            "e": "Study abelmoschus.",
+            "c": "学习abelmoschus。"
+          }
+        ]
+      },
+      {
+        "w": "abelmosks",
+        "p": "/abelmosks/",
+        "pos": "n",
+        "m": "abelmosks",
+        "ex": [
+          {
+            "e": "Study abelmosks.",
+            "c": "学习abelmosks。"
+          }
+        ]
+      },
+      {
+        "w": "abelonian",
+        "p": "/abelonian/",
+        "pos": "n",
+        "m": "abelonian",
+        "ex": [
+          {
+            "e": "Study abelonian.",
+            "c": "学习abelonian。"
+          }
+        ]
+      },
+      {
+        "w": "abencerrages",
+        "p": "/abencerrages/",
+        "pos": "n",
+        "m": "abencerrages",
+        "ex": [
+          {
+            "e": "Study abencerrages.",
+            "c": "学习abencerrages。"
+          }
+        ]
+      },
+      {
+        "w": "abenteric",
+        "p": "/abenteric/",
+        "pos": "n",
+        "m": "abenteric",
+        "ex": [
+          {
+            "e": "Study abenteric.",
+            "c": "学习abenteric。"
+          }
+        ]
+      },
+      {
+        "w": "abepithymia",
+        "p": "/abepithymia/",
+        "pos": "n",
+        "m": "abepithymia",
+        "ex": [
+          {
+            "e": "Study abepithymia.",
+            "c": "学习abepithymia。"
+          }
+        ]
+      },
+      {
+        "w": "abernethy",
+        "p": "/abernethy/",
+        "pos": "n",
+        "m": "abernethy",
+        "ex": [
+          {
+            "e": "Study abernethy.",
+            "c": "学习abernethy。"
+          }
+        ]
+      },
+      {
+        "w": "aberrance",
+        "p": "/aberrance/",
+        "pos": "n",
+        "m": "aberrance",
+        "ex": [
+          {
+            "e": "Study aberrance.",
+            "c": "学习aberrance。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 8,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "aberrancies",
+        "p": "/aberrancies/",
+        "pos": "n",
+        "m": "aberrancies",
+        "ex": [
+          {
+            "e": "Study aberrancies.",
+            "c": "学习aberrancies。"
+          }
+        ]
+      },
+      {
+        "w": "aberrancy",
+        "p": "/aberrancy/",
+        "pos": "n",
+        "m": "aberrancy",
+        "ex": [
+          {
+            "e": "Study aberrancy.",
+            "c": "学习aberrancy。"
+          }
+        ]
+      },
+      {
+        "w": "aberrants",
+        "p": "/aberrants/",
+        "pos": "n",
+        "m": "aberrants",
+        "ex": [
+          {
+            "e": "Study aberrants.",
+            "c": "学习aberrants。"
+          }
+        ]
+      },
+      {
+        "w": "aberrated",
+        "p": "/aberrated/",
+        "pos": "n",
+        "m": "aberrated",
+        "ex": [
+          {
+            "e": "Study aberrated.",
+            "c": "学习aberrated。"
+          }
+        ]
+      },
+      {
+        "w": "aberrational",
+        "p": "/aberrational/",
+        "pos": "n",
+        "m": "aberrational",
+        "ex": [
+          {
+            "e": "Study aberrational.",
+            "c": "学习aberrational。"
+          }
+        ]
+      },
+      {
+        "w": "aberrations",
+        "p": "/aberrations/",
+        "pos": "n",
+        "m": "aberrations",
+        "ex": [
+          {
+            "e": "Study aberrations.",
+            "c": "学习aberrations。"
+          }
+        ]
+      },
+      {
+        "w": "aberrator",
+        "p": "/aberrator/",
+        "pos": "n",
+        "m": "aberrator",
+        "ex": [
+          {
+            "e": "Study aberrator.",
+            "c": "学习aberrator。"
+          }
+        ]
+      },
+      {
+        "w": "aberrometer",
+        "p": "/aberrometer/",
+        "pos": "n",
+        "m": "aberrometer",
+        "ex": [
+          {
+            "e": "Study aberrometer.",
+            "c": "学习aberrometer。"
+          }
+        ]
+      },
+      {
+        "w": "aberroscope",
+        "p": "/aberroscope/",
+        "pos": "n",
+        "m": "aberroscope",
+        "ex": [
+          {
+            "e": "Study aberroscope.",
+            "c": "学习aberroscope。"
+          }
+        ]
+      },
+      {
+        "w": "aberuncator",
+        "p": "/aberuncator/",
+        "pos": "n",
+        "m": "aberuncator",
+        "ex": [
+          {
+            "e": "Study aberuncator.",
+            "c": "学习aberuncator。"
+          }
+        ]
+      },
+      {
+        "w": "abetments",
+        "p": "/abetments/",
+        "pos": "n",
+        "m": "abetments",
+        "ex": [
+          {
+            "e": "Study abetments.",
+            "c": "学习abetments。"
+          }
+        ]
+      },
+      {
+        "w": "abettal",
+        "p": "/abettal/",
+        "pos": "n",
+        "m": "abettal",
+        "ex": [
+          {
+            "e": "Study abettal.",
+            "c": "学习abettal。"
+          }
+        ]
+      },
+      {
+        "w": "abetted",
+        "p": "/abetted/",
+        "pos": "n",
+        "m": "abetted",
+        "ex": [
+          {
+            "e": "Study abetted.",
+            "c": "学习abetted。"
+          }
+        ]
+      },
+      {
+        "w": "abetter",
+        "p": "/abetter/",
+        "pos": "n",
+        "m": "abetter",
+        "ex": [
+          {
+            "e": "Study abetter.",
+            "c": "学习abetter。"
+          }
+        ]
+      },
+      {
+        "w": "abettor",
+        "p": "/abettor/",
+        "pos": "n",
+        "m": "abettor",
+        "ex": [
+          {
+            "e": "Study abettor.",
+            "c": "学习abettor。"
+          }
+        ]
+      },
+      {
+        "w": "abevacuation",
+        "p": "/abevacuation/",
+        "pos": "n",
+        "m": "abevacuation",
+        "ex": [
+          {
+            "e": "Study abevacuation.",
+            "c": "学习abevacuation。"
+          }
+        ]
+      },
+      {
+        "w": "abeyances",
+        "p": "/abeyances/",
+        "pos": "n",
+        "m": "abeyances",
+        "ex": [
+          {
+            "e": "Study abeyances.",
+            "c": "学习abeyances。"
+          }
+        ]
+      },
+      {
+        "w": "abeyant",
+        "p": "/abeyant/",
+        "pos": "n",
+        "m": "abeyant",
+        "ex": [
+          {
+            "e": "Study abeyant.",
+            "c": "学习abeyant。"
+          }
+        ]
+      },
+      {
+        "w": "abfarad",
+        "p": "/abfarad/",
+        "pos": "n",
+        "m": "abfarad",
+        "ex": [
+          {
+            "e": "Study abfarad.",
+            "c": "学习abfarad。"
+          }
+        ]
+      },
+      {
+        "w": "abhenries",
+        "p": "/abhenries/",
+        "pos": "n",
+        "m": "abhenries",
+        "ex": [
+          {
+            "e": "Study abhenries.",
+            "c": "学习abhenries。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 9,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abhenry",
+        "p": "/abhenry/",
+        "pos": "n",
+        "m": "abhenry",
+        "ex": [
+          {
+            "e": "Study abhenry.",
+            "c": "学习abhenry。"
+          }
+        ]
+      },
+      {
+        "w": "abhominable",
+        "p": "/abhominable/",
+        "pos": "n",
+        "m": "abhominable",
+        "ex": [
+          {
+            "e": "Study abhominable.",
+            "c": "学习abhominable。"
+          }
+        ]
+      },
+      {
+        "w": "abhorrences",
+        "p": "/abhorrences/",
+        "pos": "n",
+        "m": "abhorrences",
+        "ex": [
+          {
+            "e": "Study abhorrences.",
+            "c": "学习abhorrences。"
+          }
+        ]
+      },
+      {
+        "w": "abhorrent",
+        "p": "/abhorrent/",
+        "pos": "n",
+        "m": "abhorrent",
+        "ex": [
+          {
+            "e": "Study abhorrent.",
+            "c": "学习abhorrent。"
+          }
+        ]
+      },
+      {
+        "w": "abhorrently",
+        "p": "/abhorrently/",
+        "pos": "n",
+        "m": "abhorrently",
+        "ex": [
+          {
+            "e": "Study abhorrently.",
+            "c": "学习abhorrently。"
+          }
+        ]
+      },
+      {
+        "w": "abhorrers",
+        "p": "/abhorrers/",
+        "pos": "n",
+        "m": "abhorrers",
+        "ex": [
+          {
+            "e": "Study abhorrers.",
+            "c": "学习abhorrers。"
+          }
+        ]
+      },
+      {
+        "w": "abhorring",
+        "p": "/abhorring/",
+        "pos": "n",
+        "m": "abhorring",
+        "ex": [
+          {
+            "e": "Study abhorring.",
+            "c": "学习abhorring。"
+          }
+        ]
+      },
+      {
+        "w": "abidances",
+        "p": "/abidances/",
+        "pos": "n",
+        "m": "abidances",
+        "ex": [
+          {
+            "e": "Study abidances.",
+            "c": "学习abidances。"
+          }
+        ]
+      },
+      {
+        "w": "abidden",
+        "p": "/abidden/",
+        "pos": "n",
+        "m": "abidden",
+        "ex": [
+          {
+            "e": "Study abidden.",
+            "c": "学习abidden。"
+          }
+        ]
+      },
+      {
+        "w": "abiders",
+        "p": "/abiders/",
+        "pos": "n",
+        "m": "abiders",
+        "ex": [
+          {
+            "e": "Study abiders.",
+            "c": "学习abiders。"
+          }
+        ]
+      },
+      {
+        "w": "abiding",
+        "p": "/abiding/",
+        "pos": "n",
+        "m": "abiding",
+        "ex": [
+          {
+            "e": "Study abiding.",
+            "c": "学习abiding。"
+          }
+        ]
+      },
+      {
+        "w": "abidingly",
+        "p": "/abidingly/",
+        "pos": "n",
+        "m": "abidingly",
+        "ex": [
+          {
+            "e": "Study abidingly.",
+            "c": "学习abidingly。"
+          }
+        ]
+      },
+      {
+        "w": "abidingness",
+        "p": "/abidingness/",
+        "pos": "n",
+        "m": "abidingness",
+        "ex": [
+          {
+            "e": "Study abidingness.",
+            "c": "学习abidingness。"
+          }
+        ]
+      },
+      {
+        "w": "abience",
+        "p": "/abience/",
+        "pos": "n",
+        "m": "abience",
+        "ex": [
+          {
+            "e": "Study abience.",
+            "c": "学习abience。"
+          }
+        ]
+      },
+      {
+        "w": "abietic",
+        "p": "/abietic/",
+        "pos": "n",
+        "m": "abietic",
+        "ex": [
+          {
+            "e": "Study abietic.",
+            "c": "学习abietic。"
+          }
+        ]
+      },
+      {
+        "w": "abietin",
+        "p": "/abietin/",
+        "pos": "n",
+        "m": "abietin",
+        "ex": [
+          {
+            "e": "Study abietin.",
+            "c": "学习abietin。"
+          }
+        ]
+      },
+      {
+        "w": "abietineous",
+        "p": "/abietineous/",
+        "pos": "n",
+        "m": "abietineous",
+        "ex": [
+          {
+            "e": "Study abietineous.",
+            "c": "学习abietineous。"
+          }
+        ]
+      },
+      {
+        "w": "abietinic",
+        "p": "/abietinic/",
+        "pos": "n",
+        "m": "abietinic",
+        "ex": [
+          {
+            "e": "Study abietinic.",
+            "c": "学习abietinic。"
+          }
+        ]
+      },
+      {
+        "w": "abiezer",
+        "p": "/abiezer/",
+        "pos": "n",
+        "m": "abiezer",
+        "ex": [
+          {
+            "e": "Study abiezer.",
+            "c": "学习abiezer。"
+          }
+        ]
+      },
+      {
+        "w": "abigail",
+        "p": "/abigail/",
+        "pos": "n",
+        "m": "abigail",
+        "ex": [
+          {
+            "e": "Study abigail.",
+            "c": "学习abigail。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 10,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abigailship",
+        "p": "/abigailship/",
+        "pos": "n",
+        "m": "abigailship",
+        "ex": [
+          {
+            "e": "Study abigailship.",
+            "c": "学习abigailship。"
+          }
+        ]
+      },
+      {
+        "w": "abigeat",
+        "p": "/abigeat/",
+        "pos": "n",
+        "m": "abigeat",
+        "ex": [
+          {
+            "e": "Study abigeat.",
+            "c": "学习abigeat。"
+          }
+        ]
+      },
+      {
+        "w": "abigeus",
+        "p": "/abigeus/",
+        "pos": "n",
+        "m": "abigeus",
+        "ex": [
+          {
+            "e": "Study abigeus.",
+            "c": "学习abigeus。"
+          }
+        ]
+      },
+      {
+        "w": "abilene",
+        "p": "/abilene/",
+        "pos": "n",
+        "m": "abilene",
+        "ex": [
+          {
+            "e": "Study abilene.",
+            "c": "学习abilene。"
+          }
+        ]
+      },
+      {
+        "w": "abiliment",
+        "p": "/abiliment/",
+        "pos": "n",
+        "m": "abiliment",
+        "ex": [
+          {
+            "e": "Study abiliment.",
+            "c": "学习abiliment。"
+          }
+        ]
+      },
+      {
+        "w": "abilities",
+        "p": "/abilities/",
+        "pos": "n",
+        "m": "abilities",
+        "ex": [
+          {
+            "e": "Study abilities.",
+            "c": "学习abilities。"
+          }
+        ]
+      },
+      {
+        "w": "ability",
+        "p": "/ability/",
+        "pos": "n",
+        "m": "ability",
+        "ex": [
+          {
+            "e": "Study ability.",
+            "c": "学习ability。"
+          }
+        ]
+      },
+      {
+        "w": "abintestate",
+        "p": "/abintestate/",
+        "pos": "n",
+        "m": "abintestate",
+        "ex": [
+          {
+            "e": "Study abintestate.",
+            "c": "学习abintestate。"
+          }
+        ]
+      },
+      {
+        "w": "abiogeneses",
+        "p": "/abiogeneses/",
+        "pos": "n",
+        "m": "abiogeneses",
+        "ex": [
+          {
+            "e": "Study abiogeneses.",
+            "c": "学习abiogeneses。"
+          }
+        ]
+      },
+      {
+        "w": "abiogenesis",
+        "p": "/abiogenesis/",
+        "pos": "n",
+        "m": "abiogenesis",
+        "ex": [
+          {
+            "e": "Study abiogenesis.",
+            "c": "学习abiogenesis。"
+          }
+        ]
+      },
+      {
+        "w": "abiogenesist",
+        "p": "/abiogenesist/",
+        "pos": "n",
+        "m": "abiogenesist",
+        "ex": [
+          {
+            "e": "Study abiogenesist.",
+            "c": "学习abiogenesist。"
+          }
+        ]
+      },
+      {
+        "w": "abiogenetic",
+        "p": "/abiogenetic/",
+        "pos": "n",
+        "m": "abiogenetic",
+        "ex": [
+          {
+            "e": "Study abiogenetic.",
+            "c": "学习abiogenetic。"
+          }
+        ]
+      },
+      {
+        "w": "abiogenetical",
+        "p": "/abiogenetical/",
+        "pos": "n",
+        "m": "abiogenetical",
+        "ex": [
+          {
+            "e": "Study abiogenetical.",
+            "c": "学习abiogenetical。"
+          }
+        ]
+      },
+      {
+        "w": "abiogenetically",
+        "p": "/abiogenetically/",
+        "pos": "n",
+        "m": "abiogenetically",
+        "ex": [
+          {
+            "e": "Study abiogenetically.",
+            "c": "学习abiogenetically。"
+          }
+        ]
+      },
+      {
+        "w": "abiological",
+        "p": "/abiological/",
+        "pos": "n",
+        "m": "abiological",
+        "ex": [
+          {
+            "e": "Study abiological.",
+            "c": "学习abiological。"
+          }
+        ]
+      },
+      {
+        "w": "abiologically",
+        "p": "/abiologically/",
+        "pos": "n",
+        "m": "abiologically",
+        "ex": [
+          {
+            "e": "Study abiologically.",
+            "c": "学习abiologically。"
+          }
+        ]
+      },
+      {
+        "w": "abioses",
+        "p": "/abioses/",
+        "pos": "n",
+        "m": "abioses",
+        "ex": [
+          {
+            "e": "Study abioses.",
+            "c": "学习abioses。"
+          }
+        ]
+      },
+      {
+        "w": "abiosis",
+        "p": "/abiosis/",
+        "pos": "n",
+        "m": "abiosis",
+        "ex": [
+          {
+            "e": "Study abiosis.",
+            "c": "学习abiosis。"
+          }
+        ]
+      },
+      {
+        "w": "abiotic",
+        "p": "/abiotic/",
+        "pos": "n",
+        "m": "abiotic",
+        "ex": [
+          {
+            "e": "Study abiotic.",
+            "c": "学习abiotic。"
+          }
+        ]
+      },
+      {
+        "w": "abiotical",
+        "p": "/abiotical/",
+        "pos": "n",
+        "m": "abiotical",
+        "ex": [
+          {
+            "e": "Study abiotical.",
+            "c": "学习abiotical。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 11,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abiotically",
+        "p": "/abiotically/",
+        "pos": "n",
+        "m": "abiotically",
+        "ex": [
+          {
+            "e": "Study abiotically.",
+            "c": "学习abiotically。"
+          }
+        ]
+      },
+      {
+        "w": "abiotrophic",
+        "p": "/abiotrophic/",
+        "pos": "n",
+        "m": "abiotrophic",
+        "ex": [
+          {
+            "e": "Study abiotrophic.",
+            "c": "学习abiotrophic。"
+          }
+        ]
+      },
+      {
+        "w": "abirritated",
+        "p": "/abirritated/",
+        "pos": "n",
+        "m": "abirritated",
+        "ex": [
+          {
+            "e": "Study abirritated.",
+            "c": "学习abirritated。"
+          }
+        ]
+      },
+      {
+        "w": "abirritating",
+        "p": "/abirritating/",
+        "pos": "n",
+        "m": "abirritating",
+        "ex": [
+          {
+            "e": "Study abirritating.",
+            "c": "学习abirritating。"
+          }
+        ]
+      },
+      {
+        "w": "abirritation",
+        "p": "/abirritation/",
+        "pos": "n",
+        "m": "abirritation",
+        "ex": [
+          {
+            "e": "Study abirritation.",
+            "c": "学习abirritation。"
+          }
+        ]
+      },
+      {
+        "w": "abirritative",
+        "p": "/abirritative/",
+        "pos": "n",
+        "m": "abirritative",
+        "ex": [
+          {
+            "e": "Study abirritative.",
+            "c": "学习abirritative。"
+          }
+        ]
+      },
+      {
+        "w": "abiston",
+        "p": "/abiston/",
+        "pos": "n",
+        "m": "abiston",
+        "ex": [
+          {
+            "e": "Study abiston.",
+            "c": "学习abiston。"
+          }
+        ]
+      },
+      {
+        "w": "abitibi",
+        "p": "/abitibi/",
+        "pos": "n",
+        "m": "abitibi",
+        "ex": [
+          {
+            "e": "Study abitibi.",
+            "c": "学习abitibi。"
+          }
+        ]
+      },
+      {
+        "w": "abiuret",
+        "p": "/abiuret/",
+        "pos": "n",
+        "m": "abiuret",
+        "ex": [
+          {
+            "e": "Study abiuret.",
+            "c": "学习abiuret。"
+          }
+        ]
+      },
+      {
+        "w": "abjectedness",
+        "p": "/abjectedness/",
+        "pos": "n",
+        "m": "abjectedness",
+        "ex": [
+          {
+            "e": "Study abjectedness.",
+            "c": "学习abjectedness。"
+          }
+        ]
+      },
+      {
+        "w": "abjection",
+        "p": "/abjection/",
+        "pos": "n",
+        "m": "abjection",
+        "ex": [
+          {
+            "e": "Study abjection.",
+            "c": "学习abjection。"
+          }
+        ]
+      },
+      {
+        "w": "abjective",
+        "p": "/abjective/",
+        "pos": "n",
+        "m": "abjective",
+        "ex": [
+          {
+            "e": "Study abjective.",
+            "c": "学习abjective。"
+          }
+        ]
+      },
+      {
+        "w": "abjoint",
+        "p": "/abjoint/",
+        "pos": "n",
+        "m": "abjoint",
+        "ex": [
+          {
+            "e": "Study abjoint.",
+            "c": "学习abjoint。"
+          }
+        ]
+      },
+      {
+        "w": "abjudge",
+        "p": "/abjudge/",
+        "pos": "n",
+        "m": "abjudge",
+        "ex": [
+          {
+            "e": "Study abjudge.",
+            "c": "学习abjudge。"
+          }
+        ]
+      },
+      {
+        "w": "abjudging",
+        "p": "/abjudging/",
+        "pos": "n",
+        "m": "abjudging",
+        "ex": [
+          {
+            "e": "Study abjudging.",
+            "c": "学习abjudging。"
+          }
+        ]
+      },
+      {
+        "w": "abjudicated",
+        "p": "/abjudicated/",
+        "pos": "n",
+        "m": "abjudicated",
+        "ex": [
+          {
+            "e": "Study abjudicated.",
+            "c": "学习abjudicated。"
+          }
+        ]
+      },
+      {
+        "w": "abjudicating",
+        "p": "/abjudicating/",
+        "pos": "n",
+        "m": "abjudicating",
+        "ex": [
+          {
+            "e": "Study abjudicating.",
+            "c": "学习abjudicating。"
+          }
+        ]
+      },
+      {
+        "w": "abjudication",
+        "p": "/abjudication/",
+        "pos": "n",
+        "m": "abjudication",
+        "ex": [
+          {
+            "e": "Study abjudication.",
+            "c": "学习abjudication。"
+          }
+        ]
+      },
+      {
+        "w": "abjudicator",
+        "p": "/abjudicator/",
+        "pos": "n",
+        "m": "abjudicator",
+        "ex": [
+          {
+            "e": "Study abjudicator.",
+            "c": "学习abjudicator。"
+          }
+        ]
+      },
+      {
+        "w": "abjunct",
+        "p": "/abjunct/",
+        "pos": "n",
+        "m": "abjunct",
+        "ex": [
+          {
+            "e": "Study abjunct.",
+            "c": "学习abjunct。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 12,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abjurations",
+        "p": "/abjurations/",
+        "pos": "n",
+        "m": "abjurations",
+        "ex": [
+          {
+            "e": "Study abjurations.",
+            "c": "学习abjurations。"
+          }
+        ]
+      },
+      {
+        "w": "abjured",
+        "p": "/abjured/",
+        "pos": "n",
+        "m": "abjured",
+        "ex": [
+          {
+            "e": "Study abjured.",
+            "c": "学习abjured。"
+          }
+        ]
+      },
+      {
+        "w": "abjurer",
+        "p": "/abjurer/",
+        "pos": "n",
+        "m": "abjurer",
+        "ex": [
+          {
+            "e": "Study abjurer.",
+            "c": "学习abjurer。"
+          }
+        ]
+      },
+      {
+        "w": "abjures",
+        "p": "/abjures/",
+        "pos": "n",
+        "m": "abjures",
+        "ex": [
+          {
+            "e": "Study abjures.",
+            "c": "学习abjures。"
+          }
+        ]
+      },
+      {
+        "w": "abkhasian",
+        "p": "/abkhasian/",
+        "pos": "n",
+        "m": "abkhasian",
+        "ex": [
+          {
+            "e": "Study abkhasian.",
+            "c": "学习abkhasian。"
+          }
+        ]
+      },
+      {
+        "w": "ablactate",
+        "p": "/ablactate/",
+        "pos": "n",
+        "m": "ablactate",
+        "ex": [
+          {
+            "e": "Study ablactate.",
+            "c": "学习ablactate。"
+          }
+        ]
+      },
+      {
+        "w": "ablactating",
+        "p": "/ablactating/",
+        "pos": "n",
+        "m": "ablactating",
+        "ex": [
+          {
+            "e": "Study ablactating.",
+            "c": "学习ablactating。"
+          }
+        ]
+      },
+      {
+        "w": "ablactation",
+        "p": "/ablactation/",
+        "pos": "n",
+        "m": "ablactation",
+        "ex": [
+          {
+            "e": "Study ablactation.",
+            "c": "学习ablactation。"
+          }
+        ]
+      },
+      {
+        "w": "ablastous",
+        "p": "/ablastous/",
+        "pos": "n",
+        "m": "ablastous",
+        "ex": [
+          {
+            "e": "Study ablastous.",
+            "c": "学习ablastous。"
+          }
+        ]
+      },
+      {
+        "w": "ablated",
+        "p": "/ablated/",
+        "pos": "n",
+        "m": "ablated",
+        "ex": [
+          {
+            "e": "Study ablated.",
+            "c": "学习ablated。"
+          }
+        ]
+      },
+      {
+        "w": "ablates",
+        "p": "/ablates/",
+        "pos": "n",
+        "m": "ablates",
+        "ex": [
+          {
+            "e": "Study ablates.",
+            "c": "学习ablates。"
+          }
+        ]
+      },
+      {
+        "w": "ablations",
+        "p": "/ablations/",
+        "pos": "n",
+        "m": "ablations",
+        "ex": [
+          {
+            "e": "Study ablations.",
+            "c": "学习ablations。"
+          }
+        ]
+      },
+      {
+        "w": "ablatitious",
+        "p": "/ablatitious/",
+        "pos": "n",
+        "m": "ablatitious",
+        "ex": [
+          {
+            "e": "Study ablatitious.",
+            "c": "学习ablatitious。"
+          }
+        ]
+      },
+      {
+        "w": "ablatival",
+        "p": "/ablatival/",
+        "pos": "n",
+        "m": "ablatival",
+        "ex": [
+          {
+            "e": "Study ablatival.",
+            "c": "学习ablatival。"
+          }
+        ]
+      },
+      {
+        "w": "ablatives",
+        "p": "/ablatives/",
+        "pos": "n",
+        "m": "ablatives",
+        "ex": [
+          {
+            "e": "Study ablatives.",
+            "c": "学习ablatives。"
+          }
+        ]
+      },
+      {
+        "w": "ablator",
+        "p": "/ablator/",
+        "pos": "n",
+        "m": "ablator",
+        "ex": [
+          {
+            "e": "Study ablator.",
+            "c": "学习ablator。"
+          }
+        ]
+      },
+      {
+        "w": "ablauts",
+        "p": "/ablauts/",
+        "pos": "n",
+        "m": "ablauts",
+        "ex": [
+          {
+            "e": "Study ablauts.",
+            "c": "学习ablauts。"
+          }
+        ]
+      },
+      {
+        "w": "ableeze",
+        "p": "/ableeze/",
+        "pos": "n",
+        "m": "ableeze",
+        "ex": [
+          {
+            "e": "Study ableeze.",
+            "c": "学习ableeze。"
+          }
+        ]
+      },
+      {
+        "w": "ablegates",
+        "p": "/ablegates/",
+        "pos": "n",
+        "m": "ablegates",
+        "ex": [
+          {
+            "e": "Study ablegates.",
+            "c": "学习ablegates。"
+          }
+        ]
+      },
+      {
+        "w": "ablepharous",
+        "p": "/ablepharous/",
+        "pos": "n",
+        "m": "ablepharous",
+        "ex": [
+          {
+            "e": "Study ablepharous.",
+            "c": "学习ablepharous。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 13,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "ablepsy",
+        "p": "/ablepsy/",
+        "pos": "n",
+        "m": "ablepsy",
+        "ex": [
+          {
+            "e": "Study ablepsy.",
+            "c": "学习ablepsy。"
+          }
+        ]
+      },
+      {
+        "w": "ableptically",
+        "p": "/ableptically/",
+        "pos": "n",
+        "m": "ableptically",
+        "ex": [
+          {
+            "e": "Study ableptically.",
+            "c": "学习ableptically。"
+          }
+        ]
+      },
+      {
+        "w": "ablesse",
+        "p": "/ablesse/",
+        "pos": "n",
+        "m": "ablesse",
+        "ex": [
+          {
+            "e": "Study ablesse.",
+            "c": "学习ablesse。"
+          }
+        ]
+      },
+      {
+        "w": "ablewhackets",
+        "p": "/ablewhackets/",
+        "pos": "n",
+        "m": "ablewhackets",
+        "ex": [
+          {
+            "e": "Study ablewhackets.",
+            "c": "学习ablewhackets。"
+          }
+        ]
+      },
+      {
+        "w": "ablings",
+        "p": "/ablings/",
+        "pos": "n",
+        "m": "ablings",
+        "ex": [
+          {
+            "e": "Study ablings.",
+            "c": "学习ablings。"
+          }
+        ]
+      },
+      {
+        "w": "abluent",
+        "p": "/abluent/",
+        "pos": "n",
+        "m": "abluent",
+        "ex": [
+          {
+            "e": "Study abluent.",
+            "c": "学习abluent。"
+          }
+        ]
+      },
+      {
+        "w": "abluted",
+        "p": "/abluted/",
+        "pos": "n",
+        "m": "abluted",
+        "ex": [
+          {
+            "e": "Study abluted.",
+            "c": "学习abluted。"
+          }
+        ]
+      },
+      {
+        "w": "ablutionary",
+        "p": "/ablutionary/",
+        "pos": "n",
+        "m": "ablutionary",
+        "ex": [
+          {
+            "e": "Study ablutionary.",
+            "c": "学习ablutionary。"
+          }
+        ]
+      },
+      {
+        "w": "ablutions",
+        "p": "/ablutions/",
+        "pos": "n",
+        "m": "ablutions",
+        "ex": [
+          {
+            "e": "Study ablutions.",
+            "c": "学习ablutions。"
+          }
+        ]
+      },
+      {
+        "w": "abmodalities",
+        "p": "/abmodalities/",
+        "pos": "n",
+        "m": "abmodalities",
+        "ex": [
+          {
+            "e": "Study abmodalities.",
+            "c": "学习abmodalities。"
+          }
+        ]
+      },
+      {
+        "w": "abnegated",
+        "p": "/abnegated/",
+        "pos": "n",
+        "m": "abnegated",
+        "ex": [
+          {
+            "e": "Study abnegated.",
+            "c": "学习abnegated。"
+          }
+        ]
+      },
+      {
+        "w": "abnegates",
+        "p": "/abnegates/",
+        "pos": "n",
+        "m": "abnegates",
+        "ex": [
+          {
+            "e": "Study abnegates.",
+            "c": "学习abnegates。"
+          }
+        ]
+      },
+      {
+        "w": "abnegations",
+        "p": "/abnegations/",
+        "pos": "n",
+        "m": "abnegations",
+        "ex": [
+          {
+            "e": "Study abnegations.",
+            "c": "学习abnegations。"
+          }
+        ]
+      },
+      {
+        "w": "abnegator",
+        "p": "/abnegator/",
+        "pos": "n",
+        "m": "abnegator",
+        "ex": [
+          {
+            "e": "Study abnegator.",
+            "c": "学习abnegator。"
+          }
+        ]
+      },
+      {
+        "w": "abnormalcies",
+        "p": "/abnormalcies/",
+        "pos": "n",
+        "m": "abnormalcies",
+        "ex": [
+          {
+            "e": "Study abnormalcies.",
+            "c": "学习abnormalcies。"
+          }
+        ]
+      },
+      {
+        "w": "abnormalise",
+        "p": "/abnormalise/",
+        "pos": "n",
+        "m": "abnormalise",
+        "ex": [
+          {
+            "e": "Study abnormalise.",
+            "c": "学习abnormalise。"
+          }
+        ]
+      },
+      {
+        "w": "abnormalised",
+        "p": "/abnormalised/",
+        "pos": "n",
+        "m": "abnormalised",
+        "ex": [
+          {
+            "e": "Study abnormalised.",
+            "c": "学习abnormalised。"
+          }
+        ]
+      },
+      {
+        "w": "abnormalising",
+        "p": "/abnormalising/",
+        "pos": "n",
+        "m": "abnormalising",
+        "ex": [
+          {
+            "e": "Study abnormalising.",
+            "c": "学习abnormalising。"
+          }
+        ]
+      },
+      {
+        "w": "abnormalism",
+        "p": "/abnormalism/",
+        "pos": "n",
+        "m": "abnormalism",
+        "ex": [
+          {
+            "e": "Study abnormalism.",
+            "c": "学习abnormalism。"
+          }
+        ]
+      },
+      {
+        "w": "abnormalist",
+        "p": "/abnormalist/",
+        "pos": "n",
+        "m": "abnormalist",
+        "ex": [
+          {
+            "e": "Study abnormalist.",
+            "c": "学习abnormalist。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 14,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abnormalities",
+        "p": "/abnormalities/",
+        "pos": "n",
+        "m": "abnormalities",
+        "ex": [
+          {
+            "e": "Study abnormalities.",
+            "c": "学习abnormalities。"
+          }
+        ]
+      },
+      {
+        "w": "abnormality",
+        "p": "/abnormality/",
+        "pos": "n",
+        "m": "abnormality",
+        "ex": [
+          {
+            "e": "Study abnormality.",
+            "c": "学习abnormality。"
+          }
+        ]
+      },
+      {
+        "w": "abnormalize",
+        "p": "/abnormalize/",
+        "pos": "n",
+        "m": "abnormalize",
+        "ex": [
+          {
+            "e": "Study abnormalize.",
+            "c": "学习abnormalize。"
+          }
+        ]
+      },
+      {
+        "w": "abnormalized",
+        "p": "/abnormalized/",
+        "pos": "n",
+        "m": "abnormalized",
+        "ex": [
+          {
+            "e": "Study abnormalized.",
+            "c": "学习abnormalized。"
+          }
+        ]
+      },
+      {
+        "w": "abnormalizing",
+        "p": "/abnormalizing/",
+        "pos": "n",
+        "m": "abnormalizing",
+        "ex": [
+          {
+            "e": "Study abnormalizing.",
+            "c": "学习abnormalizing。"
+          }
+        ]
+      },
+      {
+        "w": "abnormalness",
+        "p": "/abnormalness/",
+        "pos": "n",
+        "m": "abnormalness",
+        "ex": [
+          {
+            "e": "Study abnormalness.",
+            "c": "学习abnormalness。"
+          }
+        ]
+      },
+      {
+        "w": "abnormals",
+        "p": "/abnormals/",
+        "pos": "n",
+        "m": "abnormals",
+        "ex": [
+          {
+            "e": "Study abnormals.",
+            "c": "学习abnormals。"
+          }
+        ]
+      },
+      {
+        "w": "abnormities",
+        "p": "/abnormities/",
+        "pos": "n",
+        "m": "abnormities",
+        "ex": [
+          {
+            "e": "Study abnormities.",
+            "c": "学习abnormities。"
+          }
+        ]
+      },
+      {
+        "w": "abnormity",
+        "p": "/abnormity/",
+        "pos": "n",
+        "m": "abnormity",
+        "ex": [
+          {
+            "e": "Study abnormity.",
+            "c": "学习abnormity。"
+          }
+        ]
+      },
+      {
+        "w": "abnormous",
+        "p": "/abnormous/",
+        "pos": "n",
+        "m": "abnormous",
+        "ex": [
+          {
+            "e": "Study abnormous.",
+            "c": "学习abnormous。"
+          }
+        ]
+      },
+      {
+        "w": "abnumerable",
+        "p": "/abnumerable/",
+        "pos": "n",
+        "m": "abnumerable",
+        "ex": [
+          {
+            "e": "Study abnumerable.",
+            "c": "学习abnumerable。"
+          }
+        ]
+      },
+      {
+        "w": "aboardage",
+        "p": "/aboardage/",
+        "pos": "n",
+        "m": "aboardage",
+        "ex": [
+          {
+            "e": "Study aboardage.",
+            "c": "学习aboardage。"
+          }
+        ]
+      },
+      {
+        "w": "abococket",
+        "p": "/abococket/",
+        "pos": "n",
+        "m": "abococket",
+        "ex": [
+          {
+            "e": "Study abococket.",
+            "c": "学习abococket。"
+          }
+        ]
+      },
+      {
+        "w": "abodement",
+        "p": "/abodement/",
+        "pos": "n",
+        "m": "abodement",
+        "ex": [
+          {
+            "e": "Study abodement.",
+            "c": "学习abodement。"
+          }
+        ]
+      },
+      {
+        "w": "aboding",
+        "p": "/aboding/",
+        "pos": "n",
+        "m": "aboding",
+        "ex": [
+          {
+            "e": "Study aboding.",
+            "c": "学习aboding。"
+          }
+        ]
+      },
+      {
+        "w": "abogado",
+        "p": "/abogado/",
+        "pos": "n",
+        "m": "abogado",
+        "ex": [
+          {
+            "e": "Study abogado.",
+            "c": "学习abogado。"
+          }
+        ]
+      },
+      {
+        "w": "aboideaus",
+        "p": "/aboideaus/",
+        "pos": "n",
+        "m": "aboideaus",
+        "ex": [
+          {
+            "e": "Study aboideaus.",
+            "c": "学习aboideaus。"
+          }
+        ]
+      },
+      {
+        "w": "aboideaux",
+        "p": "/aboideaux/",
+        "pos": "n",
+        "m": "aboideaux",
+        "ex": [
+          {
+            "e": "Study aboideaux.",
+            "c": "学习aboideaux。"
+          }
+        ]
+      },
+      {
+        "w": "aboiteaus",
+        "p": "/aboiteaus/",
+        "pos": "n",
+        "m": "aboiteaus",
+        "ex": [
+          {
+            "e": "Study aboiteaus.",
+            "c": "学习aboiteaus。"
+          }
+        ]
+      },
+      {
+        "w": "aboiteaux",
+        "p": "/aboiteaux/",
+        "pos": "n",
+        "m": "aboiteaux",
+        "ex": [
+          {
+            "e": "Study aboiteaux.",
+            "c": "学习aboiteaux。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 15,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abolete",
+        "p": "/abolete/",
+        "pos": "n",
+        "m": "abolete",
+        "ex": [
+          {
+            "e": "Study abolete.",
+            "c": "学习abolete。"
+          }
+        ]
+      },
+      {
+        "w": "abolish",
+        "p": "/abolish/",
+        "pos": "n",
+        "m": "abolish",
+        "ex": [
+          {
+            "e": "Study abolish.",
+            "c": "学习abolish。"
+          }
+        ]
+      },
+      {
+        "w": "abolishable",
+        "p": "/abolishable/",
+        "pos": "n",
+        "m": "abolishable",
+        "ex": [
+          {
+            "e": "Study abolishable.",
+            "c": "学习abolishable。"
+          }
+        ]
+      },
+      {
+        "w": "abolished",
+        "p": "/abolished/",
+        "pos": "n",
+        "m": "abolished",
+        "ex": [
+          {
+            "e": "Study abolished.",
+            "c": "学习abolished。"
+          }
+        ]
+      },
+      {
+        "w": "abolisher",
+        "p": "/abolisher/",
+        "pos": "n",
+        "m": "abolisher",
+        "ex": [
+          {
+            "e": "Study abolisher.",
+            "c": "学习abolisher。"
+          }
+        ]
+      },
+      {
+        "w": "abolishes",
+        "p": "/abolishes/",
+        "pos": "n",
+        "m": "abolishes",
+        "ex": [
+          {
+            "e": "Study abolishes.",
+            "c": "学习abolishes。"
+          }
+        ]
+      },
+      {
+        "w": "abolishment",
+        "p": "/abolishment/",
+        "pos": "n",
+        "m": "abolishment",
+        "ex": [
+          {
+            "e": "Study abolishment.",
+            "c": "学习abolishment。"
+          }
+        ]
+      },
+      {
+        "w": "abolishments",
+        "p": "/abolishments/",
+        "pos": "n",
+        "m": "abolishments",
+        "ex": [
+          {
+            "e": "Study abolishments.",
+            "c": "学习abolishments。"
+          }
+        ]
+      },
+      {
+        "w": "abolition",
+        "p": "/abolition/",
+        "pos": "n",
+        "m": "abolition",
+        "ex": [
+          {
+            "e": "Study abolition.",
+            "c": "学习abolition。"
+          }
+        ]
+      },
+      {
+        "w": "abolitionary",
+        "p": "/abolitionary/",
+        "pos": "n",
+        "m": "abolitionary",
+        "ex": [
+          {
+            "e": "Study abolitionary.",
+            "c": "学习abolitionary。"
+          }
+        ]
+      },
+      {
+        "w": "abolitionise",
+        "p": "/abolitionise/",
+        "pos": "n",
+        "m": "abolitionise",
+        "ex": [
+          {
+            "e": "Study abolitionise.",
+            "c": "学习abolitionise。"
+          }
+        ]
+      },
+      {
+        "w": "abolitionised",
+        "p": "/abolitionised/",
+        "pos": "n",
+        "m": "abolitionised",
+        "ex": [
+          {
+            "e": "Study abolitionised.",
+            "c": "学习abolitionised。"
+          }
+        ]
+      },
+      {
+        "w": "abolitionising",
+        "p": "/abolitionising/",
+        "pos": "n",
+        "m": "abolitionising",
+        "ex": [
+          {
+            "e": "Study abolitionising.",
+            "c": "学习abolitionising。"
+          }
+        ]
+      },
+      {
+        "w": "abolitionism",
+        "p": "/abolitionism/",
+        "pos": "n",
+        "m": "abolitionism",
+        "ex": [
+          {
+            "e": "Study abolitionism.",
+            "c": "学习abolitionism。"
+          }
+        ]
+      },
+      {
+        "w": "abolitionist",
+        "p": "/abolitionist/",
+        "pos": "n",
+        "m": "abolitionist",
+        "ex": [
+          {
+            "e": "Study abolitionist.",
+            "c": "学习abolitionist。"
+          }
+        ]
+      },
+      {
+        "w": "abolitionists",
+        "p": "/abolitionists/",
+        "pos": "n",
+        "m": "abolitionists",
+        "ex": [
+          {
+            "e": "Study abolitionists.",
+            "c": "学习abolitionists。"
+          }
+        ]
+      },
+      {
+        "w": "abolitionize",
+        "p": "/abolitionize/",
+        "pos": "n",
+        "m": "abolitionize",
+        "ex": [
+          {
+            "e": "Study abolitionize.",
+            "c": "学习abolitionize。"
+          }
+        ]
+      },
+      {
+        "w": "abolitionized",
+        "p": "/abolitionized/",
+        "pos": "n",
+        "m": "abolitionized",
+        "ex": [
+          {
+            "e": "Study abolitionized.",
+            "c": "学习abolitionized。"
+          }
+        ]
+      },
+      {
+        "w": "abolitionizing",
+        "p": "/abolitionizing/",
+        "pos": "n",
+        "m": "abolitionizing",
+        "ex": [
+          {
+            "e": "Study abolitionizing.",
+            "c": "学习abolitionizing。"
+          }
+        ]
+      },
+      {
+        "w": "abollae",
+        "p": "/abollae/",
+        "pos": "n",
+        "m": "abollae",
+        "ex": [
+          {
+            "e": "Study abollae.",
+            "c": "学习abollae。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 16,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abomasa",
+        "p": "/abomasa/",
+        "pos": "n",
+        "m": "abomasa",
+        "ex": [
+          {
+            "e": "Study abomasa.",
+            "c": "学习abomasa。"
+          }
+        ]
+      },
+      {
+        "w": "abomasi",
+        "p": "/abomasi/",
+        "pos": "n",
+        "m": "abomasi",
+        "ex": [
+          {
+            "e": "Study abomasi.",
+            "c": "学习abomasi。"
+          }
+        ]
+      },
+      {
+        "w": "abomasusi",
+        "p": "/abomasusi/",
+        "pos": "n",
+        "m": "abomasusi",
+        "ex": [
+          {
+            "e": "Study abomasusi.",
+            "c": "学习abomasusi。"
+          }
+        ]
+      },
+      {
+        "w": "abominability",
+        "p": "/abominability/",
+        "pos": "n",
+        "m": "abominability",
+        "ex": [
+          {
+            "e": "Study abominability.",
+            "c": "学习abominability。"
+          }
+        ]
+      },
+      {
+        "w": "abominableness",
+        "p": "/abominableness/",
+        "pos": "n",
+        "m": "abominableness",
+        "ex": [
+          {
+            "e": "Study abominableness.",
+            "c": "学习abominableness。"
+          }
+        ]
+      },
+      {
+        "w": "abominate",
+        "p": "/abominate/",
+        "pos": "n",
+        "m": "abominate",
+        "ex": [
+          {
+            "e": "Study abominate.",
+            "c": "学习abominate。"
+          }
+        ]
+      },
+      {
+        "w": "abominating",
+        "p": "/abominating/",
+        "pos": "n",
+        "m": "abominating",
+        "ex": [
+          {
+            "e": "Study abominating.",
+            "c": "学习abominating。"
+          }
+        ]
+      },
+      {
+        "w": "abomination",
+        "p": "/abomination/",
+        "pos": "n",
+        "m": "abomination",
+        "ex": [
+          {
+            "e": "Study abomination.",
+            "c": "学习abomination。"
+          }
+        ]
+      },
+      {
+        "w": "abominations",
+        "p": "/abominations/",
+        "pos": "n",
+        "m": "abominations",
+        "ex": [
+          {
+            "e": "Study abominations.",
+            "c": "学习abominations。"
+          }
+        ]
+      },
+      {
+        "w": "abominators",
+        "p": "/abominators/",
+        "pos": "n",
+        "m": "abominators",
+        "ex": [
+          {
+            "e": "Study abominators.",
+            "c": "学习abominators。"
+          }
+        ]
+      },
+      {
+        "w": "abomine",
+        "p": "/abomine/",
+        "pos": "n",
+        "m": "abomine",
+        "ex": [
+          {
+            "e": "Study abomine.",
+            "c": "学习abomine。"
+          }
+        ]
+      },
+      {
+        "w": "abondance",
+        "p": "/abondance/",
+        "pos": "n",
+        "m": "abondance",
+        "ex": [
+          {
+            "e": "Study abondance.",
+            "c": "学习abondance。"
+          }
+        ]
+      },
+      {
+        "w": "aboriginality",
+        "p": "/aboriginality/",
+        "pos": "n",
+        "m": "aboriginality",
+        "ex": [
+          {
+            "e": "Study aboriginality.",
+            "c": "学习aboriginality。"
+          }
+        ]
+      },
+      {
+        "w": "aboriginally",
+        "p": "/aboriginally/",
+        "pos": "n",
+        "m": "aboriginally",
+        "ex": [
+          {
+            "e": "Study aboriginally.",
+            "c": "学习aboriginally。"
+          }
+        ]
+      },
+      {
+        "w": "aboriginals",
+        "p": "/aboriginals/",
+        "pos": "n",
+        "m": "aboriginals",
+        "ex": [
+          {
+            "e": "Study aboriginals.",
+            "c": "学习aboriginals。"
+          }
+        ]
+      },
+      {
+        "w": "aboriginary",
+        "p": "/aboriginary/",
+        "pos": "n",
+        "m": "aboriginary",
+        "ex": [
+          {
+            "e": "Study aboriginary.",
+            "c": "学习aboriginary。"
+          }
+        ]
+      },
+      {
+        "w": "aborigine",
+        "p": "/aborigine/",
+        "pos": "n",
+        "m": "aborigine",
+        "ex": [
+          {
+            "e": "Study aborigine.",
+            "c": "学习aborigine。"
+          }
+        ]
+      },
+      {
+        "w": "aborted",
+        "p": "/aborted/",
+        "pos": "n",
+        "m": "aborted",
+        "ex": [
+          {
+            "e": "Study aborted.",
+            "c": "学习aborted。"
+          }
+        ]
+      },
+      {
+        "w": "aborter",
+        "p": "/aborter/",
+        "pos": "n",
+        "m": "aborter",
+        "ex": [
+          {
+            "e": "Study aborter.",
+            "c": "学习aborter。"
+          }
+        ]
+      },
+      {
+        "w": "abortient",
+        "p": "/abortient/",
+        "pos": "n",
+        "m": "abortient",
+        "ex": [
+          {
+            "e": "Study abortient.",
+            "c": "学习abortient。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 17,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abortifacient",
+        "p": "/abortifacient/",
+        "pos": "n",
+        "m": "abortifacient",
+        "ex": [
+          {
+            "e": "Study abortifacient.",
+            "c": "学习abortifacient。"
+          }
+        ]
+      },
+      {
+        "w": "abortin",
+        "p": "/abortin/",
+        "pos": "n",
+        "m": "abortin",
+        "ex": [
+          {
+            "e": "Study abortin.",
+            "c": "学习abortin。"
+          }
+        ]
+      },
+      {
+        "w": "abortionist",
+        "p": "/abortionist/",
+        "pos": "n",
+        "m": "abortionist",
+        "ex": [
+          {
+            "e": "Study abortionist.",
+            "c": "学习abortionist。"
+          }
+        ]
+      },
+      {
+        "w": "abortionists",
+        "p": "/abortionists/",
+        "pos": "n",
+        "m": "abortionists",
+        "ex": [
+          {
+            "e": "Study abortionists.",
+            "c": "学习abortionists。"
+          }
+        ]
+      },
+      {
+        "w": "abortions",
+        "p": "/abortions/",
+        "pos": "n",
+        "m": "abortions",
+        "ex": [
+          {
+            "e": "Study abortions.",
+            "c": "学习abortions。"
+          }
+        ]
+      },
+      {
+        "w": "abortiveness",
+        "p": "/abortiveness/",
+        "pos": "n",
+        "m": "abortiveness",
+        "ex": [
+          {
+            "e": "Study abortiveness.",
+            "c": "学习abortiveness。"
+          }
+        ]
+      },
+      {
+        "w": "abortogenic",
+        "p": "/abortogenic/",
+        "pos": "n",
+        "m": "abortogenic",
+        "ex": [
+          {
+            "e": "Study abortogenic.",
+            "c": "学习abortogenic。"
+          }
+        ]
+      },
+      {
+        "w": "abortus",
+        "p": "/abortus/",
+        "pos": "n",
+        "m": "abortus",
+        "ex": [
+          {
+            "e": "Study abortus.",
+            "c": "学习abortus。"
+          }
+        ]
+      },
+      {
+        "w": "abortuses",
+        "p": "/abortuses/",
+        "pos": "n",
+        "m": "abortuses",
+        "ex": [
+          {
+            "e": "Study abortuses.",
+            "c": "学习abortuses。"
+          }
+        ]
+      },
+      {
+        "w": "abouchement",
+        "p": "/abouchement/",
+        "pos": "n",
+        "m": "abouchement",
+        "ex": [
+          {
+            "e": "Study abouchement.",
+            "c": "学习abouchement。"
+          }
+        ]
+      },
+      {
+        "w": "aboudikro",
+        "p": "/aboudikro/",
+        "pos": "n",
+        "m": "aboudikro",
+        "ex": [
+          {
+            "e": "Study aboudikro.",
+            "c": "学习aboudikro。"
+          }
+        ]
+      },
+      {
+        "w": "abought",
+        "p": "/abought/",
+        "pos": "n",
+        "m": "abought",
+        "ex": [
+          {
+            "e": "Study abought.",
+            "c": "学习abought。"
+          }
+        ]
+      },
+      {
+        "w": "aboulia",
+        "p": "/aboulia/",
+        "pos": "n",
+        "m": "aboulia",
+        "ex": [
+          {
+            "e": "Study aboulia.",
+            "c": "学习aboulia。"
+          }
+        ]
+      },
+      {
+        "w": "aboulic",
+        "p": "/aboulic/",
+        "pos": "n",
+        "m": "aboulic",
+        "ex": [
+          {
+            "e": "Study aboulic.",
+            "c": "学习aboulic。"
+          }
+        ]
+      },
+      {
+        "w": "abounding",
+        "p": "/abounding/",
+        "pos": "n",
+        "m": "abounding",
+        "ex": [
+          {
+            "e": "Study abounding.",
+            "c": "学习abounding。"
+          }
+        ]
+      },
+      {
+        "w": "aboundingly",
+        "p": "/aboundingly/",
+        "pos": "n",
+        "m": "aboundingly",
+        "ex": [
+          {
+            "e": "Study aboundingly.",
+            "c": "学习aboundingly。"
+          }
+        ]
+      },
+      {
+        "w": "abounds",
+        "p": "/abounds/",
+        "pos": "n",
+        "m": "abounds",
+        "ex": [
+          {
+            "e": "Study abounds.",
+            "c": "学习abounds。"
+          }
+        ]
+      },
+      {
+        "w": "abovedeck",
+        "p": "/abovedeck/",
+        "pos": "n",
+        "m": "abovedeck",
+        "ex": [
+          {
+            "e": "Study abovedeck.",
+            "c": "学习abovedeck。"
+          }
+        ]
+      },
+      {
+        "w": "aboveground",
+        "p": "/aboveground/",
+        "pos": "n",
+        "m": "aboveground",
+        "ex": [
+          {
+            "e": "Study aboveground.",
+            "c": "学习aboveground。"
+          }
+        ]
+      },
+      {
+        "w": "abovementioned",
+        "p": "/abovementioned/",
+        "pos": "n",
+        "m": "abovementioned",
+        "ex": [
+          {
+            "e": "Study abovementioned.",
+            "c": "学习abovementioned。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 18,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abovesaid",
+        "p": "/abovesaid/",
+        "pos": "n",
+        "m": "abovesaid",
+        "ex": [
+          {
+            "e": "Study abovesaid.",
+            "c": "学习abovesaid。"
+          }
+        ]
+      },
+      {
+        "w": "abovestairs",
+        "p": "/abovestairs/",
+        "pos": "n",
+        "m": "abovestairs",
+        "ex": [
+          {
+            "e": "Study abovestairs.",
+            "c": "学习abovestairs。"
+          }
+        ]
+      },
+      {
+        "w": "abracadabra",
+        "p": "/abracadabra/",
+        "pos": "n",
+        "m": "abracadabra",
+        "ex": [
+          {
+            "e": "Study abracadabra.",
+            "c": "学习abracadabra。"
+          }
+        ]
+      },
+      {
+        "w": "abrachias",
+        "p": "/abrachias/",
+        "pos": "n",
+        "m": "abrachias",
+        "ex": [
+          {
+            "e": "Study abrachias.",
+            "c": "学习abrachias。"
+          }
+        ]
+      },
+      {
+        "w": "abradable",
+        "p": "/abradable/",
+        "pos": "n",
+        "m": "abradable",
+        "ex": [
+          {
+            "e": "Study abradable.",
+            "c": "学习abradable。"
+          }
+        ]
+      },
+      {
+        "w": "abradants",
+        "p": "/abradants/",
+        "pos": "n",
+        "m": "abradants",
+        "ex": [
+          {
+            "e": "Study abradants.",
+            "c": "学习abradants。"
+          }
+        ]
+      },
+      {
+        "w": "abraded",
+        "p": "/abraded/",
+        "pos": "n",
+        "m": "abraded",
+        "ex": [
+          {
+            "e": "Study abraded.",
+            "c": "学习abraded。"
+          }
+        ]
+      },
+      {
+        "w": "abrader",
+        "p": "/abrader/",
+        "pos": "n",
+        "m": "abrader",
+        "ex": [
+          {
+            "e": "Study abrader.",
+            "c": "学习abrader。"
+          }
+        ]
+      },
+      {
+        "w": "abrades",
+        "p": "/abrades/",
+        "pos": "n",
+        "m": "abrades",
+        "ex": [
+          {
+            "e": "Study abrades.",
+            "c": "学习abrades。"
+          }
+        ]
+      },
+      {
+        "w": "abraham",
+        "p": "/abraham/",
+        "pos": "n",
+        "m": "abraham",
+        "ex": [
+          {
+            "e": "Study abraham.",
+            "c": "学习abraham。"
+          }
+        ]
+      },
+      {
+        "w": "abrahamic",
+        "p": "/abrahamic/",
+        "pos": "n",
+        "m": "abrahamic",
+        "ex": [
+          {
+            "e": "Study abrahamic.",
+            "c": "学习abrahamic。"
+          }
+        ]
+      },
+      {
+        "w": "abrahamidae",
+        "p": "/abrahamidae/",
+        "pos": "n",
+        "m": "abrahamidae",
+        "ex": [
+          {
+            "e": "Study abrahamidae.",
+            "c": "学习abrahamidae。"
+          }
+        ]
+      },
+      {
+        "w": "abrahamitic",
+        "p": "/abrahamitic/",
+        "pos": "n",
+        "m": "abrahamitic",
+        "ex": [
+          {
+            "e": "Study abrahamitic.",
+            "c": "学习abrahamitic。"
+          }
+        ]
+      },
+      {
+        "w": "abramis",
+        "p": "/abramis/",
+        "pos": "n",
+        "m": "abramis",
+        "ex": [
+          {
+            "e": "Study abramis.",
+            "c": "学习abramis。"
+          }
+        ]
+      },
+      {
+        "w": "abranchialism",
+        "p": "/abranchialism/",
+        "pos": "n",
+        "m": "abranchialism",
+        "ex": [
+          {
+            "e": "Study abranchialism.",
+            "c": "学习abranchialism。"
+          }
+        ]
+      },
+      {
+        "w": "abranchiata",
+        "p": "/abranchiata/",
+        "pos": "n",
+        "m": "abranchiata",
+        "ex": [
+          {
+            "e": "Study abranchiata.",
+            "c": "学习abranchiata。"
+          }
+        ]
+      },
+      {
+        "w": "abranchiate",
+        "p": "/abranchiate/",
+        "pos": "n",
+        "m": "abranchiate",
+        "ex": [
+          {
+            "e": "Study abranchiate.",
+            "c": "学习abranchiate。"
+          }
+        ]
+      },
+      {
+        "w": "abranchious",
+        "p": "/abranchious/",
+        "pos": "n",
+        "m": "abranchious",
+        "ex": [
+          {
+            "e": "Study abranchious.",
+            "c": "学习abranchious。"
+          }
+        ]
+      },
+      {
+        "w": "abrasax",
+        "p": "/abrasax/",
+        "pos": "n",
+        "m": "abrasax",
+        "ex": [
+          {
+            "e": "Study abrasax.",
+            "c": "学习abrasax。"
+          }
+        ]
+      },
+      {
+        "w": "abrased",
+        "p": "/abrased/",
+        "pos": "n",
+        "m": "abrased",
+        "ex": [
+          {
+            "e": "Study abrased.",
+            "c": "学习abrased。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 19,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abraser",
+        "p": "/abraser/",
+        "pos": "n",
+        "m": "abraser",
+        "ex": [
+          {
+            "e": "Study abraser.",
+            "c": "学习abraser。"
+          }
+        ]
+      },
+      {
+        "w": "abrasiometer",
+        "p": "/abrasiometer/",
+        "pos": "n",
+        "m": "abrasiometer",
+        "ex": [
+          {
+            "e": "Study abrasiometer.",
+            "c": "学习abrasiometer。"
+          }
+        ]
+      },
+      {
+        "w": "abrasions",
+        "p": "/abrasions/",
+        "pos": "n",
+        "m": "abrasions",
+        "ex": [
+          {
+            "e": "Study abrasions.",
+            "c": "学习abrasions。"
+          }
+        ]
+      },
+      {
+        "w": "abrasiveness",
+        "p": "/abrasiveness/",
+        "pos": "n",
+        "m": "abrasiveness",
+        "ex": [
+          {
+            "e": "Study abrasiveness.",
+            "c": "学习abrasiveness。"
+          }
+        ]
+      },
+      {
+        "w": "abrasives",
+        "p": "/abrasives/",
+        "pos": "n",
+        "m": "abrasives",
+        "ex": [
+          {
+            "e": "Study abrasives.",
+            "c": "学习abrasives。"
+          }
+        ]
+      },
+      {
+        "w": "abraxas",
+        "p": "/abraxas/",
+        "pos": "n",
+        "m": "abraxas",
+        "ex": [
+          {
+            "e": "Study abraxas.",
+            "c": "学习abraxas。"
+          }
+        ]
+      },
+      {
+        "w": "abrazitic",
+        "p": "/abrazitic/",
+        "pos": "n",
+        "m": "abrazitic",
+        "ex": [
+          {
+            "e": "Study abrazitic.",
+            "c": "学习abrazitic。"
+          }
+        ]
+      },
+      {
+        "w": "abrazos",
+        "p": "/abrazos/",
+        "pos": "n",
+        "m": "abrazos",
+        "ex": [
+          {
+            "e": "Study abrazos.",
+            "c": "学习abrazos。"
+          }
+        ]
+      },
+      {
+        "w": "abreact",
+        "p": "/abreact/",
+        "pos": "n",
+        "m": "abreact",
+        "ex": [
+          {
+            "e": "Study abreact.",
+            "c": "学习abreact。"
+          }
+        ]
+      },
+      {
+        "w": "abreacted",
+        "p": "/abreacted/",
+        "pos": "n",
+        "m": "abreacted",
+        "ex": [
+          {
+            "e": "Study abreacted.",
+            "c": "学习abreacted。"
+          }
+        ]
+      },
+      {
+        "w": "abreactions",
+        "p": "/abreactions/",
+        "pos": "n",
+        "m": "abreactions",
+        "ex": [
+          {
+            "e": "Study abreactions.",
+            "c": "学习abreactions。"
+          }
+        ]
+      },
+      {
+        "w": "abreast",
+        "p": "/abreast/",
+        "pos": "n",
+        "m": "abreast",
+        "ex": [
+          {
+            "e": "Study abreast.",
+            "c": "学习abreast。"
+          }
+        ]
+      },
+      {
+        "w": "abrenunciate",
+        "p": "/abrenunciate/",
+        "pos": "n",
+        "m": "abrenunciate",
+        "ex": [
+          {
+            "e": "Study abrenunciate.",
+            "c": "学习abrenunciate。"
+          }
+        ]
+      },
+      {
+        "w": "abrenunciation",
+        "p": "/abrenunciation/",
+        "pos": "n",
+        "m": "abrenunciation",
+        "ex": [
+          {
+            "e": "Study abrenunciation.",
+            "c": "学习abrenunciation。"
+          }
+        ]
+      },
+      {
+        "w": "abreption",
+        "p": "/abreption/",
+        "pos": "n",
+        "m": "abreption",
+        "ex": [
+          {
+            "e": "Study abreption.",
+            "c": "学习abreption。"
+          }
+        ]
+      },
+      {
+        "w": "abreuvoir",
+        "p": "/abreuvoir/",
+        "pos": "n",
+        "m": "abreuvoir",
+        "ex": [
+          {
+            "e": "Study abreuvoir.",
+            "c": "学习abreuvoir。"
+          }
+        ]
+      },
+      {
+        "w": "abricot",
+        "p": "/abricot/",
+        "pos": "n",
+        "m": "abricot",
+        "ex": [
+          {
+            "e": "Study abricot.",
+            "c": "学习abricot。"
+          }
+        ]
+      },
+      {
+        "w": "abridge",
+        "p": "/abridge/",
+        "pos": "n",
+        "m": "abridge",
+        "ex": [
+          {
+            "e": "Study abridge.",
+            "c": "学习abridge。"
+          }
+        ]
+      },
+      {
+        "w": "abridgeable",
+        "p": "/abridgeable/",
+        "pos": "n",
+        "m": "abridgeable",
+        "ex": [
+          {
+            "e": "Study abridgeable.",
+            "c": "学习abridgeable。"
+          }
+        ]
+      },
+      {
+        "w": "abridgement",
+        "p": "/abridgement/",
+        "pos": "n",
+        "m": "abridgement",
+        "ex": [
+          {
+            "e": "Study abridgement.",
+            "c": "学习abridgement。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 20,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abridgements",
+        "p": "/abridgements/",
+        "pos": "n",
+        "m": "abridgements",
+        "ex": [
+          {
+            "e": "Study abridgements.",
+            "c": "学习abridgements。"
+          }
+        ]
+      },
+      {
+        "w": "abridgers",
+        "p": "/abridgers/",
+        "pos": "n",
+        "m": "abridgers",
+        "ex": [
+          {
+            "e": "Study abridgers.",
+            "c": "学习abridgers。"
+          }
+        ]
+      },
+      {
+        "w": "abridging",
+        "p": "/abridging/",
+        "pos": "n",
+        "m": "abridging",
+        "ex": [
+          {
+            "e": "Study abridging.",
+            "c": "学习abridging。"
+          }
+        ]
+      },
+      {
+        "w": "abridgments",
+        "p": "/abridgments/",
+        "pos": "n",
+        "m": "abridgments",
+        "ex": [
+          {
+            "e": "Study abridgments.",
+            "c": "学习abridgments。"
+          }
+        ]
+      },
+      {
+        "w": "abroach",
+        "p": "/abroach/",
+        "pos": "n",
+        "m": "abroach",
+        "ex": [
+          {
+            "e": "Study abroach.",
+            "c": "学习abroach。"
+          }
+        ]
+      },
+      {
+        "w": "abrogable",
+        "p": "/abrogable/",
+        "pos": "n",
+        "m": "abrogable",
+        "ex": [
+          {
+            "e": "Study abrogable.",
+            "c": "学习abrogable。"
+          }
+        ]
+      },
+      {
+        "w": "abrogated",
+        "p": "/abrogated/",
+        "pos": "n",
+        "m": "abrogated",
+        "ex": [
+          {
+            "e": "Study abrogated.",
+            "c": "学习abrogated。"
+          }
+        ]
+      },
+      {
+        "w": "abrogates",
+        "p": "/abrogates/",
+        "pos": "n",
+        "m": "abrogates",
+        "ex": [
+          {
+            "e": "Study abrogates.",
+            "c": "学习abrogates。"
+          }
+        ]
+      },
+      {
+        "w": "abrogations",
+        "p": "/abrogations/",
+        "pos": "n",
+        "m": "abrogations",
+        "ex": [
+          {
+            "e": "Study abrogations.",
+            "c": "学习abrogations。"
+          }
+        ]
+      },
+      {
+        "w": "abrogator",
+        "p": "/abrogator/",
+        "pos": "n",
+        "m": "abrogator",
+        "ex": [
+          {
+            "e": "Study abrogator.",
+            "c": "学习abrogator。"
+          }
+        ]
+      },
+      {
+        "w": "abronia",
+        "p": "/abronia/",
+        "pos": "n",
+        "m": "abronia",
+        "ex": [
+          {
+            "e": "Study abronia.",
+            "c": "学习abronia。"
+          }
+        ]
+      },
+      {
+        "w": "abrosia",
+        "p": "/abrosia/",
+        "pos": "n",
+        "m": "abrosia",
+        "ex": [
+          {
+            "e": "Study abrosia.",
+            "c": "学习abrosia。"
+          }
+        ]
+      },
+      {
+        "w": "abrotanum",
+        "p": "/abrotanum/",
+        "pos": "n",
+        "m": "abrotanum",
+        "ex": [
+          {
+            "e": "Study abrotanum.",
+            "c": "学习abrotanum。"
+          }
+        ]
+      },
+      {
+        "w": "abrotin",
+        "p": "/abrotin/",
+        "pos": "n",
+        "m": "abrotin",
+        "ex": [
+          {
+            "e": "Study abrotin.",
+            "c": "学习abrotin。"
+          }
+        ]
+      },
+      {
+        "w": "abruptest",
+        "p": "/abruptest/",
+        "pos": "n",
+        "m": "abruptest",
+        "ex": [
+          {
+            "e": "Study abruptest.",
+            "c": "学习abruptest。"
+          }
+        ]
+      },
+      {
+        "w": "abruption",
+        "p": "/abruption/",
+        "pos": "n",
+        "m": "abruption",
+        "ex": [
+          {
+            "e": "Study abruption.",
+            "c": "学习abruption。"
+          }
+        ]
+      },
+      {
+        "w": "abruptiones",
+        "p": "/abruptiones/",
+        "pos": "n",
+        "m": "abruptiones",
+        "ex": [
+          {
+            "e": "Study abruptiones.",
+            "c": "学习abruptiones。"
+          }
+        ]
+      },
+      {
+        "w": "absalom",
+        "p": "/absalom/",
+        "pos": "n",
+        "m": "absalom",
+        "ex": [
+          {
+            "e": "Study absalom.",
+            "c": "学习absalom。"
+          }
+        ]
+      },
+      {
+        "w": "absampere",
+        "p": "/absampere/",
+        "pos": "n",
+        "m": "absampere",
+        "ex": [
+          {
+            "e": "Study absampere.",
+            "c": "学习absampere。"
+          }
+        ]
+      },
+      {
+        "w": "abscess",
+        "p": "/abscess/",
+        "pos": "n",
+        "m": "abscess",
+        "ex": [
+          {
+            "e": "Study abscess.",
+            "c": "学习abscess。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 21,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abscessed",
+        "p": "/abscessed/",
+        "pos": "n",
+        "m": "abscessed",
+        "ex": [
+          {
+            "e": "Study abscessed.",
+            "c": "学习abscessed。"
+          }
+        ]
+      },
+      {
+        "w": "abscesses",
+        "p": "/abscesses/",
+        "pos": "n",
+        "m": "abscesses",
+        "ex": [
+          {
+            "e": "Study abscesses.",
+            "c": "学习abscesses。"
+          }
+        ]
+      },
+      {
+        "w": "abscessroot",
+        "p": "/abscessroot/",
+        "pos": "n",
+        "m": "abscessroot",
+        "ex": [
+          {
+            "e": "Study abscessroot.",
+            "c": "学习abscessroot。"
+          }
+        ]
+      },
+      {
+        "w": "abscind",
+        "p": "/abscind/",
+        "pos": "n",
+        "m": "abscind",
+        "ex": [
+          {
+            "e": "Study abscind.",
+            "c": "学习abscind。"
+          }
+        ]
+      },
+      {
+        "w": "abscise",
+        "p": "/abscise/",
+        "pos": "n",
+        "m": "abscise",
+        "ex": [
+          {
+            "e": "Study abscise.",
+            "c": "学习abscise。"
+          }
+        ]
+      },
+      {
+        "w": "abscising",
+        "p": "/abscising/",
+        "pos": "n",
+        "m": "abscising",
+        "ex": [
+          {
+            "e": "Study abscising.",
+            "c": "学习abscising。"
+          }
+        ]
+      },
+      {
+        "w": "abscisins",
+        "p": "/abscisins/",
+        "pos": "n",
+        "m": "abscisins",
+        "ex": [
+          {
+            "e": "Study abscisins.",
+            "c": "学习abscisins。"
+          }
+        ]
+      },
+      {
+        "w": "abscision",
+        "p": "/abscision/",
+        "pos": "n",
+        "m": "abscision",
+        "ex": [
+          {
+            "e": "Study abscision.",
+            "c": "学习abscision。"
+          }
+        ]
+      },
+      {
+        "w": "absciss",
+        "p": "/absciss/",
+        "pos": "n",
+        "m": "absciss",
+        "ex": [
+          {
+            "e": "Study absciss.",
+            "c": "学习absciss。"
+          }
+        ]
+      },
+      {
+        "w": "abscissae",
+        "p": "/abscissae/",
+        "pos": "n",
+        "m": "abscissae",
+        "ex": [
+          {
+            "e": "Study abscissae.",
+            "c": "学习abscissae。"
+          }
+        ]
+      },
+      {
+        "w": "abscissas",
+        "p": "/abscissas/",
+        "pos": "n",
+        "m": "abscissas",
+        "ex": [
+          {
+            "e": "Study abscissas.",
+            "c": "学习abscissas。"
+          }
+        ]
+      },
+      {
+        "w": "abscissin",
+        "p": "/abscissin/",
+        "pos": "n",
+        "m": "abscissin",
+        "ex": [
+          {
+            "e": "Study abscissin.",
+            "c": "学习abscissin。"
+          }
+        ]
+      },
+      {
+        "w": "abscissions",
+        "p": "/abscissions/",
+        "pos": "n",
+        "m": "abscissions",
+        "ex": [
+          {
+            "e": "Study abscissions.",
+            "c": "学习abscissions。"
+          }
+        ]
+      },
+      {
+        "w": "abscond",
+        "p": "/abscond/",
+        "pos": "n",
+        "m": "abscond",
+        "ex": [
+          {
+            "e": "Study abscond.",
+            "c": "学习abscond。"
+          }
+        ]
+      },
+      {
+        "w": "absconded",
+        "p": "/absconded/",
+        "pos": "n",
+        "m": "absconded",
+        "ex": [
+          {
+            "e": "Study absconded.",
+            "c": "学习absconded。"
+          }
+        ]
+      },
+      {
+        "w": "abscondedly",
+        "p": "/abscondedly/",
+        "pos": "n",
+        "m": "abscondedly",
+        "ex": [
+          {
+            "e": "Study abscondedly.",
+            "c": "学习abscondedly。"
+          }
+        ]
+      },
+      {
+        "w": "abscondence",
+        "p": "/abscondence/",
+        "pos": "n",
+        "m": "abscondence",
+        "ex": [
+          {
+            "e": "Study abscondence.",
+            "c": "学习abscondence。"
+          }
+        ]
+      },
+      {
+        "w": "absconder",
+        "p": "/absconder/",
+        "pos": "n",
+        "m": "absconder",
+        "ex": [
+          {
+            "e": "Study absconder.",
+            "c": "学习absconder。"
+          }
+        ]
+      },
+      {
+        "w": "abseiling",
+        "p": "/abseiling/",
+        "pos": "n",
+        "m": "abseiling",
+        "ex": [
+          {
+            "e": "Study abseiling.",
+            "c": "学习abseiling。"
+          }
+        ]
+      },
+      {
+        "w": "abseils",
+        "p": "/abseils/",
+        "pos": "n",
+        "m": "abseils",
+        "ex": [
+          {
+            "e": "Study abseils.",
+            "c": "学习abseils。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 22,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "absence",
+        "p": "/absence/",
+        "pos": "n",
+        "m": "absence",
+        "ex": [
+          {
+            "e": "Study absence.",
+            "c": "学习absence。"
+          }
+        ]
+      },
+      {
+        "w": "absentation",
+        "p": "/absentation/",
+        "pos": "n",
+        "m": "absentation",
+        "ex": [
+          {
+            "e": "Study absentation.",
+            "c": "学习absentation。"
+          }
+        ]
+      },
+      {
+        "w": "absenteeism",
+        "p": "/absenteeism/",
+        "pos": "n",
+        "m": "absenteeism",
+        "ex": [
+          {
+            "e": "Study absenteeism.",
+            "c": "学习absenteeism。"
+          }
+        ]
+      },
+      {
+        "w": "absentees",
+        "p": "/absentees/",
+        "pos": "n",
+        "m": "absentees",
+        "ex": [
+          {
+            "e": "Study absentees.",
+            "c": "学习absentees。"
+          }
+        ]
+      },
+      {
+        "w": "absenteeship",
+        "p": "/absenteeship/",
+        "pos": "n",
+        "m": "absenteeship",
+        "ex": [
+          {
+            "e": "Study absenteeship.",
+            "c": "学习absenteeship。"
+          }
+        ]
+      },
+      {
+        "w": "absenters",
+        "p": "/absenters/",
+        "pos": "n",
+        "m": "absenters",
+        "ex": [
+          {
+            "e": "Study absenters.",
+            "c": "学习absenters。"
+          }
+        ]
+      },
+      {
+        "w": "absenting",
+        "p": "/absenting/",
+        "pos": "n",
+        "m": "absenting",
+        "ex": [
+          {
+            "e": "Study absenting.",
+            "c": "学习absenting。"
+          }
+        ]
+      },
+      {
+        "w": "absentminded",
+        "p": "/absentminded/",
+        "pos": "n",
+        "m": "absentminded",
+        "ex": [
+          {
+            "e": "Study absentminded.",
+            "c": "学习absentminded。"
+          }
+        ]
+      },
+      {
+        "w": "absentmindedly",
+        "p": "/absentmindedly/",
+        "pos": "n",
+        "m": "absentmindedly",
+        "ex": [
+          {
+            "e": "Study absentmindedly.",
+            "c": "学习absentmindedly。"
+          }
+        ]
+      },
+      {
+        "w": "absents",
+        "p": "/absents/",
+        "pos": "n",
+        "m": "absents",
+        "ex": [
+          {
+            "e": "Study absents.",
+            "c": "学习absents。"
+          }
+        ]
+      },
+      {
+        "w": "absinth",
+        "p": "/absinth/",
+        "pos": "n",
+        "m": "absinth",
+        "ex": [
+          {
+            "e": "Study absinth.",
+            "c": "学习absinth。"
+          }
+        ]
+      },
+      {
+        "w": "absinthes",
+        "p": "/absinthes/",
+        "pos": "n",
+        "m": "absinthes",
+        "ex": [
+          {
+            "e": "Study absinthes.",
+            "c": "学习absinthes。"
+          }
+        ]
+      },
+      {
+        "w": "absinthiate",
+        "p": "/absinthiate/",
+        "pos": "n",
+        "m": "absinthiate",
+        "ex": [
+          {
+            "e": "Study absinthiate.",
+            "c": "学习absinthiate。"
+          }
+        ]
+      },
+      {
+        "w": "absinthiated",
+        "p": "/absinthiated/",
+        "pos": "n",
+        "m": "absinthiated",
+        "ex": [
+          {
+            "e": "Study absinthiated.",
+            "c": "学习absinthiated。"
+          }
+        ]
+      },
+      {
+        "w": "absinthiating",
+        "p": "/absinthiating/",
+        "pos": "n",
+        "m": "absinthiating",
+        "ex": [
+          {
+            "e": "Study absinthiating.",
+            "c": "学习absinthiating。"
+          }
+        ]
+      },
+      {
+        "w": "absinthic",
+        "p": "/absinthic/",
+        "pos": "n",
+        "m": "absinthic",
+        "ex": [
+          {
+            "e": "Study absinthic.",
+            "c": "学习absinthic。"
+          }
+        ]
+      },
+      {
+        "w": "absinthin",
+        "p": "/absinthin/",
+        "pos": "n",
+        "m": "absinthin",
+        "ex": [
+          {
+            "e": "Study absinthin.",
+            "c": "学习absinthin。"
+          }
+        ]
+      },
+      {
+        "w": "absinthismic",
+        "p": "/absinthismic/",
+        "pos": "n",
+        "m": "absinthismic",
+        "ex": [
+          {
+            "e": "Study absinthismic.",
+            "c": "学习absinthismic。"
+          }
+        ]
+      },
+      {
+        "w": "absinthol",
+        "p": "/absinthol/",
+        "pos": "n",
+        "m": "absinthol",
+        "ex": [
+          {
+            "e": "Study absinthol.",
+            "c": "学习absinthol。"
+          }
+        ]
+      },
+      {
+        "w": "absoluteness",
+        "p": "/absoluteness/",
+        "pos": "n",
+        "m": "absoluteness",
+        "ex": [
+          {
+            "e": "Study absoluteness.",
+            "c": "学习absoluteness。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 23,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "absoluter",
+        "p": "/absoluter/",
+        "pos": "n",
+        "m": "absoluter",
+        "ex": [
+          {
+            "e": "Study absoluter.",
+            "c": "学习absoluter。"
+          }
+        ]
+      },
+      {
+        "w": "absolutes",
+        "p": "/absolutes/",
+        "pos": "n",
+        "m": "absolutes",
+        "ex": [
+          {
+            "e": "Study absolutes.",
+            "c": "学习absolutes。"
+          }
+        ]
+      },
+      {
+        "w": "absolutions",
+        "p": "/absolutions/",
+        "pos": "n",
+        "m": "absolutions",
+        "ex": [
+          {
+            "e": "Study absolutions.",
+            "c": "学习absolutions。"
+          }
+        ]
+      },
+      {
+        "w": "absolutista",
+        "p": "/absolutista/",
+        "pos": "n",
+        "m": "absolutista",
+        "ex": [
+          {
+            "e": "Study absolutista.",
+            "c": "学习absolutista。"
+          }
+        ]
+      },
+      {
+        "w": "absolutistic",
+        "p": "/absolutistic/",
+        "pos": "n",
+        "m": "absolutistic",
+        "ex": [
+          {
+            "e": "Study absolutistic.",
+            "c": "学习absolutistic。"
+          }
+        ]
+      },
+      {
+        "w": "absolutists",
+        "p": "/absolutists/",
+        "pos": "n",
+        "m": "absolutists",
+        "ex": [
+          {
+            "e": "Study absolutists.",
+            "c": "学习absolutists。"
+          }
+        ]
+      },
+      {
+        "w": "absolutization",
+        "p": "/absolutization/",
+        "pos": "n",
+        "m": "absolutization",
+        "ex": [
+          {
+            "e": "Study absolutization.",
+            "c": "学习absolutization。"
+          }
+        ]
+      },
+      {
+        "w": "absolvatory",
+        "p": "/absolvatory/",
+        "pos": "n",
+        "m": "absolvatory",
+        "ex": [
+          {
+            "e": "Study absolvatory.",
+            "c": "学习absolvatory。"
+          }
+        ]
+      },
+      {
+        "w": "absolve",
+        "p": "/absolve/",
+        "pos": "n",
+        "m": "absolve",
+        "ex": [
+          {
+            "e": "Study absolve.",
+            "c": "学习absolve。"
+          }
+        ]
+      },
+      {
+        "w": "absolvent",
+        "p": "/absolvent/",
+        "pos": "n",
+        "m": "absolvent",
+        "ex": [
+          {
+            "e": "Study absolvent.",
+            "c": "学习absolvent。"
+          }
+        ]
+      },
+      {
+        "w": "absolvers",
+        "p": "/absolvers/",
+        "pos": "n",
+        "m": "absolvers",
+        "ex": [
+          {
+            "e": "Study absolvers.",
+            "c": "学习absolvers。"
+          }
+        ]
+      },
+      {
+        "w": "absolving",
+        "p": "/absolving/",
+        "pos": "n",
+        "m": "absolving",
+        "ex": [
+          {
+            "e": "Study absolving.",
+            "c": "学习absolving。"
+          }
+        ]
+      },
+      {
+        "w": "absolvitory",
+        "p": "/absolvitory/",
+        "pos": "n",
+        "m": "absolvitory",
+        "ex": [
+          {
+            "e": "Study absolvitory.",
+            "c": "学习absolvitory。"
+          }
+        ]
+      },
+      {
+        "w": "absorbability",
+        "p": "/absorbability/",
+        "pos": "n",
+        "m": "absorbability",
+        "ex": [
+          {
+            "e": "Study absorbability.",
+            "c": "学习absorbability。"
+          }
+        ]
+      },
+      {
+        "w": "absorbant",
+        "p": "/absorbant/",
+        "pos": "n",
+        "m": "absorbant",
+        "ex": [
+          {
+            "e": "Study absorbant.",
+            "c": "学习absorbant。"
+          }
+        ]
+      },
+      {
+        "w": "absorbedness",
+        "p": "/absorbedness/",
+        "pos": "n",
+        "m": "absorbedness",
+        "ex": [
+          {
+            "e": "Study absorbedness.",
+            "c": "学习absorbedness。"
+          }
+        ]
+      },
+      {
+        "w": "absorbefacient",
+        "p": "/absorbefacient/",
+        "pos": "n",
+        "m": "absorbefacient",
+        "ex": [
+          {
+            "e": "Study absorbefacient.",
+            "c": "学习absorbefacient。"
+          }
+        ]
+      },
+      {
+        "w": "absorbencies",
+        "p": "/absorbencies/",
+        "pos": "n",
+        "m": "absorbencies",
+        "ex": [
+          {
+            "e": "Study absorbencies.",
+            "c": "学习absorbencies。"
+          }
+        ]
+      },
+      {
+        "w": "absorbent",
+        "p": "/absorbent/",
+        "pos": "n",
+        "m": "absorbent",
+        "ex": [
+          {
+            "e": "Study absorbent.",
+            "c": "学习absorbent。"
+          }
+        ]
+      },
+      {
+        "w": "absorbers",
+        "p": "/absorbers/",
+        "pos": "n",
+        "m": "absorbers",
+        "ex": [
+          {
+            "e": "Study absorbers.",
+            "c": "学习absorbers。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 24,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "absorbing",
+        "p": "/absorbing/",
+        "pos": "n",
+        "m": "absorbing",
+        "ex": [
+          {
+            "e": "Study absorbing.",
+            "c": "学习absorbing。"
+          }
+        ]
+      },
+      {
+        "w": "absorbingly",
+        "p": "/absorbingly/",
+        "pos": "n",
+        "m": "absorbingly",
+        "ex": [
+          {
+            "e": "Study absorbingly.",
+            "c": "学习absorbingly。"
+          }
+        ]
+      },
+      {
+        "w": "absorbition",
+        "p": "/absorbition/",
+        "pos": "n",
+        "m": "absorbition",
+        "ex": [
+          {
+            "e": "Study absorbition.",
+            "c": "学习absorbition。"
+          }
+        ]
+      },
+      {
+        "w": "absorbs",
+        "p": "/absorbs/",
+        "pos": "n",
+        "m": "absorbs",
+        "ex": [
+          {
+            "e": "Study absorbs.",
+            "c": "学习absorbs。"
+          }
+        ]
+      },
+      {
+        "w": "absorpt",
+        "p": "/absorpt/",
+        "pos": "n",
+        "m": "absorpt",
+        "ex": [
+          {
+            "e": "Study absorpt.",
+            "c": "学习absorpt。"
+          }
+        ]
+      },
+      {
+        "w": "absorptance",
+        "p": "/absorptance/",
+        "pos": "n",
+        "m": "absorptance",
+        "ex": [
+          {
+            "e": "Study absorptance.",
+            "c": "学习absorptance。"
+          }
+        ]
+      },
+      {
+        "w": "absorptiometer",
+        "p": "/absorptiometer/",
+        "pos": "n",
+        "m": "absorptiometer",
+        "ex": [
+          {
+            "e": "Study absorptiometer.",
+            "c": "学习absorptiometer。"
+          }
+        ]
+      },
+      {
+        "w": "absorptiometric",
+        "p": "/absorptiometric/",
+        "pos": "n",
+        "m": "absorptiometric",
+        "ex": [
+          {
+            "e": "Study absorptiometric.",
+            "c": "学习absorptiometric。"
+          }
+        ]
+      },
+      {
+        "w": "absorptional",
+        "p": "/absorptional/",
+        "pos": "n",
+        "m": "absorptional",
+        "ex": [
+          {
+            "e": "Study absorptional.",
+            "c": "学习absorptional。"
+          }
+        ]
+      },
+      {
+        "w": "absorptions",
+        "p": "/absorptions/",
+        "pos": "n",
+        "m": "absorptions",
+        "ex": [
+          {
+            "e": "Study absorptions.",
+            "c": "学习absorptions。"
+          }
+        ]
+      },
+      {
+        "w": "absorptively",
+        "p": "/absorptively/",
+        "pos": "n",
+        "m": "absorptively",
+        "ex": [
+          {
+            "e": "Study absorptively.",
+            "c": "学习absorptively。"
+          }
+        ]
+      },
+      {
+        "w": "absorptiveness",
+        "p": "/absorptiveness/",
+        "pos": "n",
+        "m": "absorptiveness",
+        "ex": [
+          {
+            "e": "Study absorptiveness.",
+            "c": "学习absorptiveness。"
+          }
+        ]
+      },
+      {
+        "w": "absorptivity",
+        "p": "/absorptivity/",
+        "pos": "n",
+        "m": "absorptivity",
+        "ex": [
+          {
+            "e": "Study absorptivity.",
+            "c": "学习absorptivity。"
+          }
+        ]
+      },
+      {
+        "w": "absquatulate",
+        "p": "/absquatulate/",
+        "pos": "n",
+        "m": "absquatulate",
+        "ex": [
+          {
+            "e": "Study absquatulate.",
+            "c": "学习absquatulate。"
+          }
+        ]
+      },
+      {
+        "w": "absquatulation",
+        "p": "/absquatulation/",
+        "pos": "n",
+        "m": "absquatulation",
+        "ex": [
+          {
+            "e": "Study absquatulation.",
+            "c": "学习absquatulation。"
+          }
+        ]
+      },
+      {
+        "w": "abstain",
+        "p": "/abstain/",
+        "pos": "n",
+        "m": "abstain",
+        "ex": [
+          {
+            "e": "Study abstain.",
+            "c": "学习abstain。"
+          }
+        ]
+      },
+      {
+        "w": "abstained",
+        "p": "/abstained/",
+        "pos": "n",
+        "m": "abstained",
+        "ex": [
+          {
+            "e": "Study abstained.",
+            "c": "学习abstained。"
+          }
+        ]
+      },
+      {
+        "w": "abstainer",
+        "p": "/abstainer/",
+        "pos": "n",
+        "m": "abstainer",
+        "ex": [
+          {
+            "e": "Study abstainer.",
+            "c": "学习abstainer。"
+          }
+        ]
+      },
+      {
+        "w": "abstainment",
+        "p": "/abstainment/",
+        "pos": "n",
+        "m": "abstainment",
+        "ex": [
+          {
+            "e": "Study abstainment.",
+            "c": "学习abstainment。"
+          }
+        ]
+      },
+      {
+        "w": "abstemiously",
+        "p": "/abstemiously/",
+        "pos": "n",
+        "m": "abstemiously",
+        "ex": [
+          {
+            "e": "Study abstemiously.",
+            "c": "学习abstemiously。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 25,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abstemiousness",
+        "p": "/abstemiousness/",
+        "pos": "n",
+        "m": "abstemiousness",
+        "ex": [
+          {
+            "e": "Study abstemiousness.",
+            "c": "学习abstemiousness。"
+          }
+        ]
+      },
+      {
+        "w": "abstentionism",
+        "p": "/abstentionism/",
+        "pos": "n",
+        "m": "abstentionism",
+        "ex": [
+          {
+            "e": "Study abstentionism.",
+            "c": "学习abstentionism。"
+          }
+        ]
+      },
+      {
+        "w": "abstentionist",
+        "p": "/abstentionist/",
+        "pos": "n",
+        "m": "abstentionist",
+        "ex": [
+          {
+            "e": "Study abstentionist.",
+            "c": "学习abstentionist。"
+          }
+        ]
+      },
+      {
+        "w": "abstentions",
+        "p": "/abstentions/",
+        "pos": "n",
+        "m": "abstentions",
+        "ex": [
+          {
+            "e": "Study abstentions.",
+            "c": "学习abstentions。"
+          }
+        ]
+      },
+      {
+        "w": "abstentious",
+        "p": "/abstentious/",
+        "pos": "n",
+        "m": "abstentious",
+        "ex": [
+          {
+            "e": "Study abstentious.",
+            "c": "学习abstentious。"
+          }
+        ]
+      },
+      {
+        "w": "absterged",
+        "p": "/absterged/",
+        "pos": "n",
+        "m": "absterged",
+        "ex": [
+          {
+            "e": "Study absterged.",
+            "c": "学习absterged。"
+          }
+        ]
+      },
+      {
+        "w": "absterges",
+        "p": "/absterges/",
+        "pos": "n",
+        "m": "absterges",
+        "ex": [
+          {
+            "e": "Study absterges.",
+            "c": "学习absterges。"
+          }
+        ]
+      },
+      {
+        "w": "abstersiveness",
+        "p": "/abstersiveness/",
+        "pos": "n",
+        "m": "abstersiveness",
+        "ex": [
+          {
+            "e": "Study abstersiveness.",
+            "c": "学习abstersiveness。"
+          }
+        ]
+      },
+      {
+        "w": "abstinent",
+        "p": "/abstinent/",
+        "pos": "n",
+        "m": "abstinent",
+        "ex": [
+          {
+            "e": "Study abstinent.",
+            "c": "学习abstinent。"
+          }
+        ]
+      },
+      {
+        "w": "abstinential",
+        "p": "/abstinential/",
+        "pos": "n",
+        "m": "abstinential",
+        "ex": [
+          {
+            "e": "Study abstinential.",
+            "c": "学习abstinential。"
+          }
+        ]
+      },
+      {
+        "w": "abstinently",
+        "p": "/abstinently/",
+        "pos": "n",
+        "m": "abstinently",
+        "ex": [
+          {
+            "e": "Study abstinently.",
+            "c": "学习abstinently。"
+          }
+        ]
+      },
+      {
+        "w": "abstort",
+        "p": "/abstort/",
+        "pos": "n",
+        "m": "abstort",
+        "ex": [
+          {
+            "e": "Study abstort.",
+            "c": "学习abstort。"
+          }
+        ]
+      },
+      {
+        "w": "abstractable",
+        "p": "/abstractable/",
+        "pos": "n",
+        "m": "abstractable",
+        "ex": [
+          {
+            "e": "Study abstractable.",
+            "c": "学习abstractable。"
+          }
+        ]
+      },
+      {
+        "w": "abstractedly",
+        "p": "/abstractedly/",
+        "pos": "n",
+        "m": "abstractedly",
+        "ex": [
+          {
+            "e": "Study abstractedly.",
+            "c": "学习abstractedly。"
+          }
+        ]
+      },
+      {
+        "w": "abstractedness",
+        "p": "/abstractedness/",
+        "pos": "n",
+        "m": "abstractedness",
+        "ex": [
+          {
+            "e": "Study abstractedness.",
+            "c": "学习abstractedness。"
+          }
+        ]
+      },
+      {
+        "w": "abstracters",
+        "p": "/abstracters/",
+        "pos": "n",
+        "m": "abstracters",
+        "ex": [
+          {
+            "e": "Study abstracters.",
+            "c": "学习abstracters。"
+          }
+        ]
+      },
+      {
+        "w": "abstractest",
+        "p": "/abstractest/",
+        "pos": "n",
+        "m": "abstractest",
+        "ex": [
+          {
+            "e": "Study abstractest.",
+            "c": "学习abstractest。"
+          }
+        ]
+      },
+      {
+        "w": "abstracting",
+        "p": "/abstracting/",
+        "pos": "n",
+        "m": "abstracting",
+        "ex": [
+          {
+            "e": "Study abstracting.",
+            "c": "学习abstracting。"
+          }
+        ]
+      },
+      {
+        "w": "abstraction",
+        "p": "/abstraction/",
+        "pos": "n",
+        "m": "abstraction",
+        "ex": [
+          {
+            "e": "Study abstraction.",
+            "c": "学习abstraction。"
+          }
+        ]
+      },
+      {
+        "w": "abstractional",
+        "p": "/abstractional/",
+        "pos": "n",
+        "m": "abstractional",
+        "ex": [
+          {
+            "e": "Study abstractional.",
+            "c": "学习abstractional。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 26,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abstractionism",
+        "p": "/abstractionism/",
+        "pos": "n",
+        "m": "abstractionism",
+        "ex": [
+          {
+            "e": "Study abstractionism.",
+            "c": "学习abstractionism。"
+          }
+        ]
+      },
+      {
+        "w": "abstractionist",
+        "p": "/abstractionist/",
+        "pos": "n",
+        "m": "abstractionist",
+        "ex": [
+          {
+            "e": "Study abstractionist.",
+            "c": "学习abstractionist。"
+          }
+        ]
+      },
+      {
+        "w": "abstractionists",
+        "p": "/abstractionists/",
+        "pos": "n",
+        "m": "abstractionists",
+        "ex": [
+          {
+            "e": "Study abstractionists.",
+            "c": "学习abstractionists。"
+          }
+        ]
+      },
+      {
+        "w": "abstractions",
+        "p": "/abstractions/",
+        "pos": "n",
+        "m": "abstractions",
+        "ex": [
+          {
+            "e": "Study abstractions.",
+            "c": "学习abstractions。"
+          }
+        ]
+      },
+      {
+        "w": "abstractitious",
+        "p": "/abstractitious/",
+        "pos": "n",
+        "m": "abstractitious",
+        "ex": [
+          {
+            "e": "Study abstractitious.",
+            "c": "学习abstractitious。"
+          }
+        ]
+      },
+      {
+        "w": "abstractive",
+        "p": "/abstractive/",
+        "pos": "n",
+        "m": "abstractive",
+        "ex": [
+          {
+            "e": "Study abstractive.",
+            "c": "学习abstractive。"
+          }
+        ]
+      },
+      {
+        "w": "abstractively",
+        "p": "/abstractively/",
+        "pos": "n",
+        "m": "abstractively",
+        "ex": [
+          {
+            "e": "Study abstractively.",
+            "c": "学习abstractively。"
+          }
+        ]
+      },
+      {
+        "w": "abstractiveness",
+        "p": "/abstractiveness/",
+        "pos": "n",
+        "m": "abstractiveness",
+        "ex": [
+          {
+            "e": "Study abstractiveness.",
+            "c": "学习abstractiveness。"
+          }
+        ]
+      },
+      {
+        "w": "abstractness",
+        "p": "/abstractness/",
+        "pos": "n",
+        "m": "abstractness",
+        "ex": [
+          {
+            "e": "Study abstractness.",
+            "c": "学习abstractness。"
+          }
+        ]
+      },
+      {
+        "w": "abstractors",
+        "p": "/abstractors/",
+        "pos": "n",
+        "m": "abstractors",
+        "ex": [
+          {
+            "e": "Study abstractors.",
+            "c": "学习abstractors。"
+          }
+        ]
+      },
+      {
+        "w": "abstracts",
+        "p": "/abstracts/",
+        "pos": "n",
+        "m": "abstracts",
+        "ex": [
+          {
+            "e": "Study abstracts.",
+            "c": "学习abstracts。"
+          }
+        ]
+      },
+      {
+        "w": "abstricting",
+        "p": "/abstricting/",
+        "pos": "n",
+        "m": "abstricting",
+        "ex": [
+          {
+            "e": "Study abstricting.",
+            "c": "学习abstricting。"
+          }
+        ]
+      },
+      {
+        "w": "abstriction",
+        "p": "/abstriction/",
+        "pos": "n",
+        "m": "abstriction",
+        "ex": [
+          {
+            "e": "Study abstriction.",
+            "c": "学习abstriction。"
+          }
+        ]
+      },
+      {
+        "w": "abstricts",
+        "p": "/abstricts/",
+        "pos": "n",
+        "m": "abstricts",
+        "ex": [
+          {
+            "e": "Study abstricts.",
+            "c": "学习abstricts。"
+          }
+        ]
+      },
+      {
+        "w": "abstruseness",
+        "p": "/abstruseness/",
+        "pos": "n",
+        "m": "abstruseness",
+        "ex": [
+          {
+            "e": "Study abstruseness.",
+            "c": "学习abstruseness。"
+          }
+        ]
+      },
+      {
+        "w": "abstrusenesses",
+        "p": "/abstrusenesses/",
+        "pos": "n",
+        "m": "abstrusenesses",
+        "ex": [
+          {
+            "e": "Study abstrusenesses.",
+            "c": "学习abstrusenesses。"
+          }
+        ]
+      },
+      {
+        "w": "abstruser",
+        "p": "/abstruser/",
+        "pos": "n",
+        "m": "abstruser",
+        "ex": [
+          {
+            "e": "Study abstruser.",
+            "c": "学习abstruser。"
+          }
+        ]
+      },
+      {
+        "w": "abstrusities",
+        "p": "/abstrusities/",
+        "pos": "n",
+        "m": "abstrusities",
+        "ex": [
+          {
+            "e": "Study abstrusities.",
+            "c": "学习abstrusities。"
+          }
+        ]
+      },
+      {
+        "w": "absurdest",
+        "p": "/absurdest/",
+        "pos": "n",
+        "m": "absurdest",
+        "ex": [
+          {
+            "e": "Study absurdest.",
+            "c": "学习absurdest。"
+          }
+        ]
+      },
+      {
+        "w": "absurdism",
+        "p": "/absurdism/",
+        "pos": "n",
+        "m": "absurdism",
+        "ex": [
+          {
+            "e": "Study absurdism.",
+            "c": "学习absurdism。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 27,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "absurdist",
+        "p": "/absurdist/",
+        "pos": "n",
+        "m": "absurdist",
+        "ex": [
+          {
+            "e": "Study absurdist.",
+            "c": "学习absurdist。"
+          }
+        ]
+      },
+      {
+        "w": "absurdities",
+        "p": "/absurdities/",
+        "pos": "n",
+        "m": "absurdities",
+        "ex": [
+          {
+            "e": "Study absurdities.",
+            "c": "学习absurdities。"
+          }
+        ]
+      },
+      {
+        "w": "absurdity",
+        "p": "/absurdity/",
+        "pos": "n",
+        "m": "absurdity",
+        "ex": [
+          {
+            "e": "Study absurdity.",
+            "c": "学习absurdity。"
+          }
+        ]
+      },
+      {
+        "w": "absurds",
+        "p": "/absurds/",
+        "pos": "n",
+        "m": "absurds",
+        "ex": [
+          {
+            "e": "Study absurds.",
+            "c": "学习absurds。"
+          }
+        ]
+      },
+      {
+        "w": "absvolt",
+        "p": "/absvolt/",
+        "pos": "n",
+        "m": "absvolt",
+        "ex": [
+          {
+            "e": "Study absvolt.",
+            "c": "学习absvolt。"
+          }
+        ]
+      },
+      {
+        "w": "abthain",
+        "p": "/abthain/",
+        "pos": "n",
+        "m": "abthain",
+        "ex": [
+          {
+            "e": "Study abthain.",
+            "c": "学习abthain。"
+          }
+        ]
+      },
+      {
+        "w": "abthainry",
+        "p": "/abthainry/",
+        "pos": "n",
+        "m": "abthainry",
+        "ex": [
+          {
+            "e": "Study abthainry.",
+            "c": "学习abthainry。"
+          }
+        ]
+      },
+      {
+        "w": "abthanage",
+        "p": "/abthanage/",
+        "pos": "n",
+        "m": "abthanage",
+        "ex": [
+          {
+            "e": "Study abthanage.",
+            "c": "学习abthanage。"
+          }
+        ]
+      },
+      {
+        "w": "abtruse",
+        "p": "/abtruse/",
+        "pos": "n",
+        "m": "abtruse",
+        "ex": [
+          {
+            "e": "Study abtruse.",
+            "c": "学习abtruse。"
+          }
+        ]
+      },
+      {
+        "w": "abubble",
+        "p": "/abubble/",
+        "pos": "n",
+        "m": "abubble",
+        "ex": [
+          {
+            "e": "Study abubble.",
+            "c": "学习abubble。"
+          }
+        ]
+      },
+      {
+        "w": "abuilding",
+        "p": "/abuilding/",
+        "pos": "n",
+        "m": "abuilding",
+        "ex": [
+          {
+            "e": "Study abuilding.",
+            "c": "学习abuilding。"
+          }
+        ]
+      },
+      {
+        "w": "abuleia",
+        "p": "/abuleia/",
+        "pos": "n",
+        "m": "abuleia",
+        "ex": [
+          {
+            "e": "Study abuleia.",
+            "c": "学习abuleia。"
+          }
+        ]
+      },
+      {
+        "w": "abulias",
+        "p": "/abulias/",
+        "pos": "n",
+        "m": "abulias",
+        "ex": [
+          {
+            "e": "Study abulias.",
+            "c": "学习abulias。"
+          }
+        ]
+      },
+      {
+        "w": "abumbrellar",
+        "p": "/abumbrellar/",
+        "pos": "n",
+        "m": "abumbrellar",
+        "ex": [
+          {
+            "e": "Study abumbrellar.",
+            "c": "学习abumbrellar。"
+          }
+        ]
+      },
+      {
+        "w": "abundance",
+        "p": "/abundance/",
+        "pos": "n",
+        "m": "abundance",
+        "ex": [
+          {
+            "e": "Study abundance.",
+            "c": "学习abundance。"
+          }
+        ]
+      },
+      {
+        "w": "abundancy",
+        "p": "/abundancy/",
+        "pos": "n",
+        "m": "abundancy",
+        "ex": [
+          {
+            "e": "Study abundancy.",
+            "c": "学习abundancy。"
+          }
+        ]
+      },
+      {
+        "w": "aburabozu",
+        "p": "/aburabozu/",
+        "pos": "n",
+        "m": "aburabozu",
+        "ex": [
+          {
+            "e": "Study aburabozu.",
+            "c": "学习aburabozu。"
+          }
+        ]
+      },
+      {
+        "w": "aburagiri",
+        "p": "/aburagiri/",
+        "pos": "n",
+        "m": "aburagiri",
+        "ex": [
+          {
+            "e": "Study aburagiri.",
+            "c": "学习aburagiri。"
+          }
+        ]
+      },
+      {
+        "w": "aburban",
+        "p": "/aburban/",
+        "pos": "n",
+        "m": "aburban",
+        "ex": [
+          {
+            "e": "Study aburban.",
+            "c": "学习aburban。"
+          }
+        ]
+      },
+      {
+        "w": "aburton",
+        "p": "/aburton/",
+        "pos": "n",
+        "m": "aburton",
+        "ex": [
+          {
+            "e": "Study aburton.",
+            "c": "学习aburton。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 28,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abusage",
+        "p": "/abusage/",
+        "pos": "n",
+        "m": "abusage",
+        "ex": [
+          {
+            "e": "Study abusage.",
+            "c": "学习abusage。"
+          }
+        ]
+      },
+      {
+        "w": "abusefulness",
+        "p": "/abusefulness/",
+        "pos": "n",
+        "m": "abusefulness",
+        "ex": [
+          {
+            "e": "Study abusefulness.",
+            "c": "学习abusefulness。"
+          }
+        ]
+      },
+      {
+        "w": "abusers",
+        "p": "/abusers/",
+        "pos": "n",
+        "m": "abusers",
+        "ex": [
+          {
+            "e": "Study abusers.",
+            "c": "学习abusers。"
+          }
+        ]
+      },
+      {
+        "w": "abusing",
+        "p": "/abusing/",
+        "pos": "n",
+        "m": "abusing",
+        "ex": [
+          {
+            "e": "Study abusing.",
+            "c": "学习abusing。"
+          }
+        ]
+      },
+      {
+        "w": "abusion",
+        "p": "/abusion/",
+        "pos": "n",
+        "m": "abusion",
+        "ex": [
+          {
+            "e": "Study abusion.",
+            "c": "学习abusion。"
+          }
+        ]
+      },
+      {
+        "w": "abusive",
+        "p": "/abusive/",
+        "pos": "n",
+        "m": "abusive",
+        "ex": [
+          {
+            "e": "Study abusive.",
+            "c": "学习abusive。"
+          }
+        ]
+      },
+      {
+        "w": "abusively",
+        "p": "/abusively/",
+        "pos": "n",
+        "m": "abusively",
+        "ex": [
+          {
+            "e": "Study abusively.",
+            "c": "学习abusively。"
+          }
+        ]
+      },
+      {
+        "w": "abusiveness",
+        "p": "/abusiveness/",
+        "pos": "n",
+        "m": "abusiveness",
+        "ex": [
+          {
+            "e": "Study abusiveness.",
+            "c": "学习abusiveness。"
+          }
+        ]
+      },
+      {
+        "w": "abutilons",
+        "p": "/abutilons/",
+        "pos": "n",
+        "m": "abutilons",
+        "ex": [
+          {
+            "e": "Study abutilons.",
+            "c": "学习abutilons。"
+          }
+        ]
+      },
+      {
+        "w": "abutments",
+        "p": "/abutments/",
+        "pos": "n",
+        "m": "abutments",
+        "ex": [
+          {
+            "e": "Study abutments.",
+            "c": "学习abutments。"
+          }
+        ]
+      },
+      {
+        "w": "abuttal",
+        "p": "/abuttal/",
+        "pos": "n",
+        "m": "abuttal",
+        "ex": [
+          {
+            "e": "Study abuttal.",
+            "c": "学习abuttal。"
+          }
+        ]
+      },
+      {
+        "w": "abutted",
+        "p": "/abutted/",
+        "pos": "n",
+        "m": "abutted",
+        "ex": [
+          {
+            "e": "Study abutted.",
+            "c": "学习abutted。"
+          }
+        ]
+      },
+      {
+        "w": "abutter",
+        "p": "/abutter/",
+        "pos": "n",
+        "m": "abutter",
+        "ex": [
+          {
+            "e": "Study abutter.",
+            "c": "学习abutter。"
+          }
+        ]
+      },
+      {
+        "w": "abvolts",
+        "p": "/abvolts/",
+        "pos": "n",
+        "m": "abvolts",
+        "ex": [
+          {
+            "e": "Study abvolts.",
+            "c": "学习abvolts。"
+          }
+        ]
+      },
+      {
+        "w": "abwatts",
+        "p": "/abwatts/",
+        "pos": "n",
+        "m": "abwatts",
+        "ex": [
+          {
+            "e": "Study abwatts.",
+            "c": "学习abwatts。"
+          }
+        ]
+      },
+      {
+        "w": "abysmal",
+        "p": "/abysmal/",
+        "pos": "n",
+        "m": "abysmal",
+        "ex": [
+          {
+            "e": "Study abysmal.",
+            "c": "学习abysmal。"
+          }
+        ]
+      },
+      {
+        "w": "abysmally",
+        "p": "/abysmally/",
+        "pos": "n",
+        "m": "abysmally",
+        "ex": [
+          {
+            "e": "Study abysmally.",
+            "c": "学习abysmally。"
+          }
+        ]
+      },
+      {
+        "w": "abyssal",
+        "p": "/abyssal/",
+        "pos": "n",
+        "m": "abyssal",
+        "ex": [
+          {
+            "e": "Study abyssal.",
+            "c": "学习abyssal。"
+          }
+        ]
+      },
+      {
+        "w": "abysses",
+        "p": "/abysses/",
+        "pos": "n",
+        "m": "abysses",
+        "ex": [
+          {
+            "e": "Study abysses.",
+            "c": "学习abysses。"
+          }
+        ]
+      },
+      {
+        "w": "abyssinia",
+        "p": "/abyssinia/",
+        "pos": "n",
+        "m": "abyssinia",
+        "ex": [
+          {
+            "e": "Study abyssinia.",
+            "c": "学习abyssinia。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 29,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "abyssinians",
+        "p": "/abyssinians/",
+        "pos": "n",
+        "m": "abyssinians",
+        "ex": [
+          {
+            "e": "Study abyssinians.",
+            "c": "学习abyssinians。"
+          }
+        ]
+      },
+      {
+        "w": "abyssobenthonic",
+        "p": "/abyssobenthonic/",
+        "pos": "n",
+        "m": "abyssobenthonic",
+        "ex": [
+          {
+            "e": "Study abyssobenthonic.",
+            "c": "学习abyssobenthonic。"
+          }
+        ]
+      },
+      {
+        "w": "abyssopelagic",
+        "p": "/abyssopelagic/",
+        "pos": "n",
+        "m": "abyssopelagic",
+        "ex": [
+          {
+            "e": "Study abyssopelagic.",
+            "c": "学习abyssopelagic。"
+          }
+        ]
+      },
+      {
+        "w": "abyssus",
+        "p": "/abyssus/",
+        "pos": "n",
+        "m": "abyssus",
+        "ex": [
+          {
+            "e": "Study abyssus.",
+            "c": "学习abyssus。"
+          }
+        ]
+      },
+      {
+        "w": "acacatechin",
+        "p": "/acacatechin/",
+        "pos": "n",
+        "m": "acacatechin",
+        "ex": [
+          {
+            "e": "Study acacatechin.",
+            "c": "学习acacatechin。"
+          }
+        ]
+      },
+      {
+        "w": "acacatechol",
+        "p": "/acacatechol/",
+        "pos": "n",
+        "m": "acacatechol",
+        "ex": [
+          {
+            "e": "Study acacatechol.",
+            "c": "学习acacatechol。"
+          }
+        ]
+      },
+      {
+        "w": "acacian",
+        "p": "/acacian/",
+        "pos": "n",
+        "m": "acacian",
+        "ex": [
+          {
+            "e": "Study acacian.",
+            "c": "学习acacian。"
+          }
+        ]
+      },
+      {
+        "w": "acacias",
+        "p": "/acacias/",
+        "pos": "n",
+        "m": "acacias",
+        "ex": [
+          {
+            "e": "Study acacias.",
+            "c": "学习acacias。"
+          }
+        ]
+      },
+      {
+        "w": "acaciin",
+        "p": "/acaciin/",
+        "pos": "n",
+        "m": "acaciin",
+        "ex": [
+          {
+            "e": "Study acaciin.",
+            "c": "学习acaciin。"
+          }
+        ]
+      },
+      {
+        "w": "acacine",
+        "p": "/acacine/",
+        "pos": "n",
+        "m": "acacine",
+        "ex": [
+          {
+            "e": "Study acacine.",
+            "c": "学习acacine。"
+          }
+        ]
+      },
+      {
+        "w": "academe",
+        "p": "/academe/",
+        "pos": "n",
+        "m": "academe",
+        "ex": [
+          {
+            "e": "Study academe.",
+            "c": "学习academe。"
+          }
+        ]
+      },
+      {
+        "w": "academial",
+        "p": "/academial/",
+        "pos": "n",
+        "m": "academial",
+        "ex": [
+          {
+            "e": "Study academial.",
+            "c": "学习academial。"
+          }
+        ]
+      },
+      {
+        "w": "academian",
+        "p": "/academian/",
+        "pos": "n",
+        "m": "academian",
+        "ex": [
+          {
+            "e": "Study academian.",
+            "c": "学习academian。"
+          }
+        ]
+      },
+      {
+        "w": "academias",
+        "p": "/academias/",
+        "pos": "n",
+        "m": "academias",
+        "ex": [
+          {
+            "e": "Study academias.",
+            "c": "学习academias。"
+          }
+        ]
+      },
+      {
+        "w": "academically",
+        "p": "/academically/",
+        "pos": "n",
+        "m": "academically",
+        "ex": [
+          {
+            "e": "Study academically.",
+            "c": "学习academically。"
+          }
+        ]
+      },
+      {
+        "w": "academicals",
+        "p": "/academicals/",
+        "pos": "n",
+        "m": "academicals",
+        "ex": [
+          {
+            "e": "Study academicals.",
+            "c": "学习academicals。"
+          }
+        ]
+      },
+      {
+        "w": "academician",
+        "p": "/academician/",
+        "pos": "n",
+        "m": "academician",
+        "ex": [
+          {
+            "e": "Study academician.",
+            "c": "学习academician。"
+          }
+        ]
+      },
+      {
+        "w": "academicians",
+        "p": "/academicians/",
+        "pos": "n",
+        "m": "academicians",
+        "ex": [
+          {
+            "e": "Study academicians.",
+            "c": "学习academicians。"
+          }
+        ]
+      },
+      {
+        "w": "academicianship",
+        "p": "/academicianship/",
+        "pos": "n",
+        "m": "academicianship",
+        "ex": [
+          {
+            "e": "Study academicianship.",
+            "c": "学习academicianship。"
+          }
+        ]
+      },
+      {
+        "w": "academicism",
+        "p": "/academicism/",
+        "pos": "n",
+        "m": "academicism",
+        "ex": [
+          {
+            "e": "Study academicism.",
+            "c": "学习academicism。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 30,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "academics",
+        "p": "/academics/",
+        "pos": "n",
+        "m": "academics",
+        "ex": [
+          {
+            "e": "Study academics.",
+            "c": "学习academics。"
+          }
+        ]
+      },
+      {
+        "w": "academies",
+        "p": "/academies/",
+        "pos": "n",
+        "m": "academies",
+        "ex": [
+          {
+            "e": "Study academies.",
+            "c": "学习academies。"
+          }
+        ]
+      },
+      {
+        "w": "academise",
+        "p": "/academise/",
+        "pos": "n",
+        "m": "academise",
+        "ex": [
+          {
+            "e": "Study academise.",
+            "c": "学习academise。"
+          }
+        ]
+      },
+      {
+        "w": "academising",
+        "p": "/academising/",
+        "pos": "n",
+        "m": "academising",
+        "ex": [
+          {
+            "e": "Study academising.",
+            "c": "学习academising。"
+          }
+        ]
+      },
+      {
+        "w": "academism",
+        "p": "/academism/",
+        "pos": "n",
+        "m": "academism",
+        "ex": [
+          {
+            "e": "Study academism.",
+            "c": "学习academism。"
+          }
+        ]
+      },
+      {
+        "w": "academist",
+        "p": "/academist/",
+        "pos": "n",
+        "m": "academist",
+        "ex": [
+          {
+            "e": "Study academist.",
+            "c": "学习academist。"
+          }
+        ]
+      },
+      {
+        "w": "academite",
+        "p": "/academite/",
+        "pos": "n",
+        "m": "academite",
+        "ex": [
+          {
+            "e": "Study academite.",
+            "c": "学习academite。"
+          }
+        ]
+      },
+      {
+        "w": "academization",
+        "p": "/academization/",
+        "pos": "n",
+        "m": "academization",
+        "ex": [
+          {
+            "e": "Study academization.",
+            "c": "学习academization。"
+          }
+        ]
+      },
+      {
+        "w": "academize",
+        "p": "/academize/",
+        "pos": "n",
+        "m": "academize",
+        "ex": [
+          {
+            "e": "Study academize.",
+            "c": "学习academize。"
+          }
+        ]
+      },
+      {
+        "w": "academizing",
+        "p": "/academizing/",
+        "pos": "n",
+        "m": "academizing",
+        "ex": [
+          {
+            "e": "Study academizing.",
+            "c": "学习academizing。"
+          }
+        ]
+      },
+      {
+        "w": "academy",
+        "p": "/academy/",
+        "pos": "n",
+        "m": "academy",
+        "ex": [
+          {
+            "e": "Study academy.",
+            "c": "学习academy。"
+          }
+        ]
+      },
+      {
+        "w": "acadian",
+        "p": "/acadian/",
+        "pos": "n",
+        "m": "acadian",
+        "ex": [
+          {
+            "e": "Study acadian.",
+            "c": "学习acadian。"
+          }
+        ]
+      },
+      {
+        "w": "acajous",
+        "p": "/acajous/",
+        "pos": "n",
+        "m": "acajous",
+        "ex": [
+          {
+            "e": "Study acajous.",
+            "c": "学习acajous。"
+          }
+        ]
+      },
+      {
+        "w": "acalculia",
+        "p": "/acalculia/",
+        "pos": "n",
+        "m": "acalculia",
+        "ex": [
+          {
+            "e": "Study acalculia.",
+            "c": "学习acalculia。"
+          }
+        ]
+      },
+      {
+        "w": "acaleph",
+        "p": "/acaleph/",
+        "pos": "n",
+        "m": "acaleph",
+        "ex": [
+          {
+            "e": "Study acaleph.",
+            "c": "学习acaleph。"
+          }
+        ]
+      },
+      {
+        "w": "acalephae",
+        "p": "/acalephae/",
+        "pos": "n",
+        "m": "acalephae",
+        "ex": [
+          {
+            "e": "Study acalephae.",
+            "c": "学习acalephae。"
+          }
+        ]
+      },
+      {
+        "w": "acalephan",
+        "p": "/acalephan/",
+        "pos": "n",
+        "m": "acalephan",
+        "ex": [
+          {
+            "e": "Study acalephan.",
+            "c": "学习acalephan。"
+          }
+        ]
+      },
+      {
+        "w": "acalephes",
+        "p": "/acalephes/",
+        "pos": "n",
+        "m": "acalephes",
+        "ex": [
+          {
+            "e": "Study acalephes.",
+            "c": "学习acalephes。"
+          }
+        ]
+      },
+      {
+        "w": "acalycine",
+        "p": "/acalycine/",
+        "pos": "n",
+        "m": "acalycine",
+        "ex": [
+          {
+            "e": "Study acalycine.",
+            "c": "学习acalycine。"
+          }
+        ]
+      },
+      {
+        "w": "acalycinous",
+        "p": "/acalycinous/",
+        "pos": "n",
+        "m": "acalycinous",
+        "ex": [
+          {
+            "e": "Study acalycinous.",
+            "c": "学习acalycinous。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 31,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acalyculate",
+        "p": "/acalyculate/",
+        "pos": "n",
+        "m": "acalyculate",
+        "ex": [
+          {
+            "e": "Study acalyculate.",
+            "c": "学习acalyculate。"
+          }
+        ]
+      },
+      {
+        "w": "acalypterae",
+        "p": "/acalypterae/",
+        "pos": "n",
+        "m": "acalypterae",
+        "ex": [
+          {
+            "e": "Study acalypterae.",
+            "c": "学习acalypterae。"
+          }
+        ]
+      },
+      {
+        "w": "acalyptrata",
+        "p": "/acalyptrata/",
+        "pos": "n",
+        "m": "acalyptrata",
+        "ex": [
+          {
+            "e": "Study acalyptrata.",
+            "c": "学习acalyptrata。"
+          }
+        ]
+      },
+      {
+        "w": "acalyptratae",
+        "p": "/acalyptratae/",
+        "pos": "n",
+        "m": "acalyptratae",
+        "ex": [
+          {
+            "e": "Study acalyptratae.",
+            "c": "学习acalyptratae。"
+          }
+        ]
+      },
+      {
+        "w": "acalyptrate",
+        "p": "/acalyptrate/",
+        "pos": "n",
+        "m": "acalyptrate",
+        "ex": [
+          {
+            "e": "Study acalyptrate.",
+            "c": "学习acalyptrate。"
+          }
+        ]
+      },
+      {
+        "w": "acantha",
+        "p": "/acantha/",
+        "pos": "n",
+        "m": "acantha",
+        "ex": [
+          {
+            "e": "Study acantha.",
+            "c": "学习acantha。"
+          }
+        ]
+      },
+      {
+        "w": "acanthaceae",
+        "p": "/acanthaceae/",
+        "pos": "n",
+        "m": "acanthaceae",
+        "ex": [
+          {
+            "e": "Study acanthaceae.",
+            "c": "学习acanthaceae。"
+          }
+        ]
+      },
+      {
+        "w": "acanthaceous",
+        "p": "/acanthaceous/",
+        "pos": "n",
+        "m": "acanthaceous",
+        "ex": [
+          {
+            "e": "Study acanthaceous.",
+            "c": "学习acanthaceous。"
+          }
+        ]
+      },
+      {
+        "w": "acanthi",
+        "p": "/acanthi/",
+        "pos": "n",
+        "m": "acanthi",
+        "ex": [
+          {
+            "e": "Study acanthi.",
+            "c": "学习acanthi。"
+          }
+        ]
+      },
+      {
+        "w": "acanthial",
+        "p": "/acanthial/",
+        "pos": "n",
+        "m": "acanthial",
+        "ex": [
+          {
+            "e": "Study acanthial.",
+            "c": "学习acanthial。"
+          }
+        ]
+      },
+      {
+        "w": "acanthine",
+        "p": "/acanthine/",
+        "pos": "n",
+        "m": "acanthine",
+        "ex": [
+          {
+            "e": "Study acanthine.",
+            "c": "学习acanthine。"
+          }
+        ]
+      },
+      {
+        "w": "acanthion",
+        "p": "/acanthion/",
+        "pos": "n",
+        "m": "acanthion",
+        "ex": [
+          {
+            "e": "Study acanthion.",
+            "c": "学习acanthion。"
+          }
+        ]
+      },
+      {
+        "w": "acanthite",
+        "p": "/acanthite/",
+        "pos": "n",
+        "m": "acanthite",
+        "ex": [
+          {
+            "e": "Study acanthite.",
+            "c": "学习acanthite。"
+          }
+        ]
+      },
+      {
+        "w": "acanthocarpous",
+        "p": "/acanthocarpous/",
+        "pos": "n",
+        "m": "acanthocarpous",
+        "ex": [
+          {
+            "e": "Study acanthocarpous.",
+            "c": "学习acanthocarpous。"
+          }
+        ]
+      },
+      {
+        "w": "acanthocephala",
+        "p": "/acanthocephala/",
+        "pos": "n",
+        "m": "acanthocephala",
+        "ex": [
+          {
+            "e": "Study acanthocephala.",
+            "c": "学习acanthocephala。"
+          }
+        ]
+      },
+      {
+        "w": "acanthocephalan",
+        "p": "/acanthocephalan/",
+        "pos": "n",
+        "m": "acanthocephalan",
+        "ex": [
+          {
+            "e": "Study acanthocephalan.",
+            "c": "学习acanthocephalan。"
+          }
+        ]
+      },
+      {
+        "w": "acanthocephali",
+        "p": "/acanthocephali/",
+        "pos": "n",
+        "m": "acanthocephali",
+        "ex": [
+          {
+            "e": "Study acanthocephali.",
+            "c": "学习acanthocephali。"
+          }
+        ]
+      },
+      {
+        "w": "acanthocereus",
+        "p": "/acanthocereus/",
+        "pos": "n",
+        "m": "acanthocereus",
+        "ex": [
+          {
+            "e": "Study acanthocereus.",
+            "c": "学习acanthocereus。"
+          }
+        ]
+      },
+      {
+        "w": "acanthocladous",
+        "p": "/acanthocladous/",
+        "pos": "n",
+        "m": "acanthocladous",
+        "ex": [
+          {
+            "e": "Study acanthocladous.",
+            "c": "学习acanthocladous。"
+          }
+        ]
+      },
+      {
+        "w": "acanthodean",
+        "p": "/acanthodean/",
+        "pos": "n",
+        "m": "acanthodean",
+        "ex": [
+          {
+            "e": "Study acanthodean.",
+            "c": "学习acanthodean。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 32,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acanthodian",
+        "p": "/acanthodian/",
+        "pos": "n",
+        "m": "acanthodian",
+        "ex": [
+          {
+            "e": "Study acanthodian.",
+            "c": "学习acanthodian。"
+          }
+        ]
+      },
+      {
+        "w": "acanthodidae",
+        "p": "/acanthodidae/",
+        "pos": "n",
+        "m": "acanthodidae",
+        "ex": [
+          {
+            "e": "Study acanthodidae.",
+            "c": "学习acanthodidae。"
+          }
+        ]
+      },
+      {
+        "w": "acanthodini",
+        "p": "/acanthodini/",
+        "pos": "n",
+        "m": "acanthodini",
+        "ex": [
+          {
+            "e": "Study acanthodini.",
+            "c": "学习acanthodini。"
+          }
+        ]
+      },
+      {
+        "w": "acanthoid",
+        "p": "/acanthoid/",
+        "pos": "n",
+        "m": "acanthoid",
+        "ex": [
+          {
+            "e": "Study acanthoid.",
+            "c": "学习acanthoid。"
+          }
+        ]
+      },
+      {
+        "w": "acantholimon",
+        "p": "/acantholimon/",
+        "pos": "n",
+        "m": "acantholimon",
+        "ex": [
+          {
+            "e": "Study acantholimon.",
+            "c": "学习acantholimon。"
+          }
+        ]
+      },
+      {
+        "w": "acanthological",
+        "p": "/acanthological/",
+        "pos": "n",
+        "m": "acanthological",
+        "ex": [
+          {
+            "e": "Study acanthological.",
+            "c": "学习acanthological。"
+          }
+        ]
+      },
+      {
+        "w": "acanthology",
+        "p": "/acanthology/",
+        "pos": "n",
+        "m": "acanthology",
+        "ex": [
+          {
+            "e": "Study acanthology.",
+            "c": "学习acanthology。"
+          }
+        ]
+      },
+      {
+        "w": "acantholysis",
+        "p": "/acantholysis/",
+        "pos": "n",
+        "m": "acantholysis",
+        "ex": [
+          {
+            "e": "Study acantholysis.",
+            "c": "学习acantholysis。"
+          }
+        ]
+      },
+      {
+        "w": "acanthoma",
+        "p": "/acanthoma/",
+        "pos": "n",
+        "m": "acanthoma",
+        "ex": [
+          {
+            "e": "Study acanthoma.",
+            "c": "学习acanthoma。"
+          }
+        ]
+      },
+      {
+        "w": "acanthomeridae",
+        "p": "/acanthomeridae/",
+        "pos": "n",
+        "m": "acanthomeridae",
+        "ex": [
+          {
+            "e": "Study acanthomeridae.",
+            "c": "学习acanthomeridae。"
+          }
+        ]
+      },
+      {
+        "w": "acanthopanax",
+        "p": "/acanthopanax/",
+        "pos": "n",
+        "m": "acanthopanax",
+        "ex": [
+          {
+            "e": "Study acanthopanax.",
+            "c": "学习acanthopanax。"
+          }
+        ]
+      },
+      {
+        "w": "acanthophis",
+        "p": "/acanthophis/",
+        "pos": "n",
+        "m": "acanthophis",
+        "ex": [
+          {
+            "e": "Study acanthophis.",
+            "c": "学习acanthophis。"
+          }
+        ]
+      },
+      {
+        "w": "acanthophorous",
+        "p": "/acanthophorous/",
+        "pos": "n",
+        "m": "acanthophorous",
+        "ex": [
+          {
+            "e": "Study acanthophorous.",
+            "c": "学习acanthophorous。"
+          }
+        ]
+      },
+      {
+        "w": "acanthopodous",
+        "p": "/acanthopodous/",
+        "pos": "n",
+        "m": "acanthopodous",
+        "ex": [
+          {
+            "e": "Study acanthopodous.",
+            "c": "学习acanthopodous。"
+          }
+        ]
+      },
+      {
+        "w": "acanthopomatous",
+        "p": "/acanthopomatous/",
+        "pos": "n",
+        "m": "acanthopomatous",
+        "ex": [
+          {
+            "e": "Study acanthopomatous.",
+            "c": "学习acanthopomatous。"
+          }
+        ]
+      },
+      {
+        "w": "acanthopore",
+        "p": "/acanthopore/",
+        "pos": "n",
+        "m": "acanthopore",
+        "ex": [
+          {
+            "e": "Study acanthopore.",
+            "c": "学习acanthopore。"
+          }
+        ]
+      },
+      {
+        "w": "acanthopteran",
+        "p": "/acanthopteran/",
+        "pos": "n",
+        "m": "acanthopteran",
+        "ex": [
+          {
+            "e": "Study acanthopteran.",
+            "c": "学习acanthopteran。"
+          }
+        ]
+      },
+      {
+        "w": "acanthopteri",
+        "p": "/acanthopteri/",
+        "pos": "n",
+        "m": "acanthopteri",
+        "ex": [
+          {
+            "e": "Study acanthopteri.",
+            "c": "学习acanthopteri。"
+          }
+        ]
+      },
+      {
+        "w": "acanthopterous",
+        "p": "/acanthopterous/",
+        "pos": "n",
+        "m": "acanthopterous",
+        "ex": [
+          {
+            "e": "Study acanthopterous.",
+            "c": "学习acanthopterous。"
+          }
+        ]
+      },
+      {
+        "w": "acanthopterygii",
+        "p": "/acanthopterygii/",
+        "pos": "n",
+        "m": "acanthopterygii",
+        "ex": [
+          {
+            "e": "Study acanthopterygii.",
+            "c": "学习acanthopterygii。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 33,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acanthous",
+        "p": "/acanthous/",
+        "pos": "n",
+        "m": "acanthous",
+        "ex": [
+          {
+            "e": "Study acanthous.",
+            "c": "学习acanthous。"
+          }
+        ]
+      },
+      {
+        "w": "acanthuridae",
+        "p": "/acanthuridae/",
+        "pos": "n",
+        "m": "acanthuridae",
+        "ex": [
+          {
+            "e": "Study acanthuridae.",
+            "c": "学习acanthuridae。"
+          }
+        ]
+      },
+      {
+        "w": "acapnia",
+        "p": "/acapnia/",
+        "pos": "n",
+        "m": "acapnia",
+        "ex": [
+          {
+            "e": "Study acapnia.",
+            "c": "学习acapnia。"
+          }
+        ]
+      },
+      {
+        "w": "acappella",
+        "p": "/acappella/",
+        "pos": "n",
+        "m": "acappella",
+        "ex": [
+          {
+            "e": "Study acappella.",
+            "c": "学习acappella。"
+          }
+        ]
+      },
+      {
+        "w": "acapsular",
+        "p": "/acapsular/",
+        "pos": "n",
+        "m": "acapsular",
+        "ex": [
+          {
+            "e": "Study acapsular.",
+            "c": "学习acapsular。"
+          }
+        ]
+      },
+      {
+        "w": "acarari",
+        "p": "/acarari/",
+        "pos": "n",
+        "m": "acarari",
+        "ex": [
+          {
+            "e": "Study acarari.",
+            "c": "学习acarari。"
+          }
+        ]
+      },
+      {
+        "w": "acardia",
+        "p": "/acardia/",
+        "pos": "n",
+        "m": "acardia",
+        "ex": [
+          {
+            "e": "Study acardia.",
+            "c": "学习acardia。"
+          }
+        ]
+      },
+      {
+        "w": "acarian",
+        "p": "/acarian/",
+        "pos": "n",
+        "m": "acarian",
+        "ex": [
+          {
+            "e": "Study acarian.",
+            "c": "学习acarian。"
+          }
+        ]
+      },
+      {
+        "w": "acariasis",
+        "p": "/acariasis/",
+        "pos": "n",
+        "m": "acariasis",
+        "ex": [
+          {
+            "e": "Study acariasis.",
+            "c": "学习acariasis。"
+          }
+        ]
+      },
+      {
+        "w": "acariatre",
+        "p": "/acariatre/",
+        "pos": "n",
+        "m": "acariatre",
+        "ex": [
+          {
+            "e": "Study acariatre.",
+            "c": "学习acariatre。"
+          }
+        ]
+      },
+      {
+        "w": "acaricide",
+        "p": "/acaricide/",
+        "pos": "n",
+        "m": "acaricide",
+        "ex": [
+          {
+            "e": "Study acaricide.",
+            "c": "学习acaricide。"
+          }
+        ]
+      },
+      {
+        "w": "acarida",
+        "p": "/acarida/",
+        "pos": "n",
+        "m": "acarida",
+        "ex": [
+          {
+            "e": "Study acarida.",
+            "c": "学习acarida。"
+          }
+        ]
+      },
+      {
+        "w": "acaridans",
+        "p": "/acaridans/",
+        "pos": "n",
+        "m": "acaridans",
+        "ex": [
+          {
+            "e": "Study acaridans.",
+            "c": "学习acaridans。"
+          }
+        ]
+      },
+      {
+        "w": "acaridean",
+        "p": "/acaridean/",
+        "pos": "n",
+        "m": "acaridean",
+        "ex": [
+          {
+            "e": "Study acaridean.",
+            "c": "学习acaridean。"
+          }
+        ]
+      },
+      {
+        "w": "acaridomatia",
+        "p": "/acaridomatia/",
+        "pos": "n",
+        "m": "acaridomatia",
+        "ex": [
+          {
+            "e": "Study acaridomatia.",
+            "c": "学习acaridomatia。"
+          }
+        ]
+      },
+      {
+        "w": "acaridomatium",
+        "p": "/acaridomatium/",
+        "pos": "n",
+        "m": "acaridomatium",
+        "ex": [
+          {
+            "e": "Study acaridomatium.",
+            "c": "学习acaridomatium。"
+          }
+        ]
+      },
+      {
+        "w": "acarids",
+        "p": "/acarids/",
+        "pos": "n",
+        "m": "acarids",
+        "ex": [
+          {
+            "e": "Study acarids.",
+            "c": "学习acarids。"
+          }
+        ]
+      },
+      {
+        "w": "acariform",
+        "p": "/acariform/",
+        "pos": "n",
+        "m": "acariform",
+        "ex": [
+          {
+            "e": "Study acariform.",
+            "c": "学习acariform。"
+          }
+        ]
+      },
+      {
+        "w": "acarina",
+        "p": "/acarina/",
+        "pos": "n",
+        "m": "acarina",
+        "ex": [
+          {
+            "e": "Study acarina.",
+            "c": "学习acarina。"
+          }
+        ]
+      },
+      {
+        "w": "acarine",
+        "p": "/acarine/",
+        "pos": "n",
+        "m": "acarine",
+        "ex": [
+          {
+            "e": "Study acarine.",
+            "c": "学习acarine。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 34,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acarocecidia",
+        "p": "/acarocecidia/",
+        "pos": "n",
+        "m": "acarocecidia",
+        "ex": [
+          {
+            "e": "Study acarocecidia.",
+            "c": "学习acarocecidia。"
+          }
+        ]
+      },
+      {
+        "w": "acarocecidium",
+        "p": "/acarocecidium/",
+        "pos": "n",
+        "m": "acarocecidium",
+        "ex": [
+          {
+            "e": "Study acarocecidium.",
+            "c": "学习acarocecidium。"
+          }
+        ]
+      },
+      {
+        "w": "acarodermatitis",
+        "p": "/acarodermatitis/",
+        "pos": "n",
+        "m": "acarodermatitis",
+        "ex": [
+          {
+            "e": "Study acarodermatitis.",
+            "c": "学习acarodermatitis。"
+          }
+        ]
+      },
+      {
+        "w": "acaroid",
+        "p": "/acaroid/",
+        "pos": "n",
+        "m": "acaroid",
+        "ex": [
+          {
+            "e": "Study acaroid.",
+            "c": "学习acaroid。"
+          }
+        ]
+      },
+      {
+        "w": "acarologist",
+        "p": "/acarologist/",
+        "pos": "n",
+        "m": "acarologist",
+        "ex": [
+          {
+            "e": "Study acarologist.",
+            "c": "学习acarologist。"
+          }
+        ]
+      },
+      {
+        "w": "acarology",
+        "p": "/acarology/",
+        "pos": "n",
+        "m": "acarology",
+        "ex": [
+          {
+            "e": "Study acarology.",
+            "c": "学习acarology。"
+          }
+        ]
+      },
+      {
+        "w": "acarophilous",
+        "p": "/acarophilous/",
+        "pos": "n",
+        "m": "acarophilous",
+        "ex": [
+          {
+            "e": "Study acarophilous.",
+            "c": "学习acarophilous。"
+          }
+        ]
+      },
+      {
+        "w": "acarophobia",
+        "p": "/acarophobia/",
+        "pos": "n",
+        "m": "acarophobia",
+        "ex": [
+          {
+            "e": "Study acarophobia.",
+            "c": "学习acarophobia。"
+          }
+        ]
+      },
+      {
+        "w": "acarpellous",
+        "p": "/acarpellous/",
+        "pos": "n",
+        "m": "acarpellous",
+        "ex": [
+          {
+            "e": "Study acarpellous.",
+            "c": "学习acarpellous。"
+          }
+        ]
+      },
+      {
+        "w": "acastus",
+        "p": "/acastus/",
+        "pos": "n",
+        "m": "acastus",
+        "ex": [
+          {
+            "e": "Study acastus.",
+            "c": "学习acastus。"
+          }
+        ]
+      },
+      {
+        "w": "acatalectic",
+        "p": "/acatalectic/",
+        "pos": "n",
+        "m": "acatalectic",
+        "ex": [
+          {
+            "e": "Study acatalectic.",
+            "c": "学习acatalectic。"
+          }
+        ]
+      },
+      {
+        "w": "acatalepsia",
+        "p": "/acatalepsia/",
+        "pos": "n",
+        "m": "acatalepsia",
+        "ex": [
+          {
+            "e": "Study acatalepsia.",
+            "c": "学习acatalepsia。"
+          }
+        ]
+      },
+      {
+        "w": "acataleptic",
+        "p": "/acataleptic/",
+        "pos": "n",
+        "m": "acataleptic",
+        "ex": [
+          {
+            "e": "Study acataleptic.",
+            "c": "学习acataleptic。"
+          }
+        ]
+      },
+      {
+        "w": "acatallactic",
+        "p": "/acatallactic/",
+        "pos": "n",
+        "m": "acatallactic",
+        "ex": [
+          {
+            "e": "Study acatallactic.",
+            "c": "学习acatallactic。"
+          }
+        ]
+      },
+      {
+        "w": "acatamathesia",
+        "p": "/acatamathesia/",
+        "pos": "n",
+        "m": "acatamathesia",
+        "ex": [
+          {
+            "e": "Study acatamathesia.",
+            "c": "学习acatamathesia。"
+          }
+        ]
+      },
+      {
+        "w": "acataphasia",
+        "p": "/acataphasia/",
+        "pos": "n",
+        "m": "acataphasia",
+        "ex": [
+          {
+            "e": "Study acataphasia.",
+            "c": "学习acataphasia。"
+          }
+        ]
+      },
+      {
+        "w": "acatastasia",
+        "p": "/acatastasia/",
+        "pos": "n",
+        "m": "acatastasia",
+        "ex": [
+          {
+            "e": "Study acatastasia.",
+            "c": "学习acatastasia。"
+          }
+        ]
+      },
+      {
+        "w": "acatastatic",
+        "p": "/acatastatic/",
+        "pos": "n",
+        "m": "acatastatic",
+        "ex": [
+          {
+            "e": "Study acatastatic.",
+            "c": "学习acatastatic。"
+          }
+        ]
+      },
+      {
+        "w": "acategorical",
+        "p": "/acategorical/",
+        "pos": "n",
+        "m": "acategorical",
+        "ex": [
+          {
+            "e": "Study acategorical.",
+            "c": "学习acategorical。"
+          }
+        ]
+      },
+      {
+        "w": "acatery",
+        "p": "/acatery/",
+        "pos": "n",
+        "m": "acatery",
+        "ex": [
+          {
+            "e": "Study acatery.",
+            "c": "学习acatery。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 35,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acatharsy",
+        "p": "/acatharsy/",
+        "pos": "n",
+        "m": "acatharsy",
+        "ex": [
+          {
+            "e": "Study acatharsy.",
+            "c": "学习acatharsy。"
+          }
+        ]
+      },
+      {
+        "w": "acatholic",
+        "p": "/acatholic/",
+        "pos": "n",
+        "m": "acatholic",
+        "ex": [
+          {
+            "e": "Study acatholic.",
+            "c": "学习acatholic。"
+          }
+        ]
+      },
+      {
+        "w": "acaudal",
+        "p": "/acaudal/",
+        "pos": "n",
+        "m": "acaudal",
+        "ex": [
+          {
+            "e": "Study acaudal.",
+            "c": "学习acaudal。"
+          }
+        ]
+      },
+      {
+        "w": "acaudelescent",
+        "p": "/acaudelescent/",
+        "pos": "n",
+        "m": "acaudelescent",
+        "ex": [
+          {
+            "e": "Study acaudelescent.",
+            "c": "学习acaudelescent。"
+          }
+        ]
+      },
+      {
+        "w": "acaulescence",
+        "p": "/acaulescence/",
+        "pos": "n",
+        "m": "acaulescence",
+        "ex": [
+          {
+            "e": "Study acaulescence.",
+            "c": "学习acaulescence。"
+          }
+        ]
+      },
+      {
+        "w": "acaulescent",
+        "p": "/acaulescent/",
+        "pos": "n",
+        "m": "acaulescent",
+        "ex": [
+          {
+            "e": "Study acaulescent.",
+            "c": "学习acaulescent。"
+          }
+        ]
+      },
+      {
+        "w": "accable",
+        "p": "/accable/",
+        "pos": "n",
+        "m": "accable",
+        "ex": [
+          {
+            "e": "Study accable.",
+            "c": "学习accable。"
+          }
+        ]
+      },
+      {
+        "w": "accademia",
+        "p": "/accademia/",
+        "pos": "n",
+        "m": "accademia",
+        "ex": [
+          {
+            "e": "Study accademia.",
+            "c": "学习accademia。"
+          }
+        ]
+      },
+      {
+        "w": "acceded",
+        "p": "/acceded/",
+        "pos": "n",
+        "m": "acceded",
+        "ex": [
+          {
+            "e": "Study acceded.",
+            "c": "学习acceded。"
+          }
+        ]
+      },
+      {
+        "w": "accedence",
+        "p": "/accedence/",
+        "pos": "n",
+        "m": "accedence",
+        "ex": [
+          {
+            "e": "Study accedence.",
+            "c": "学习accedence。"
+          }
+        ]
+      },
+      {
+        "w": "acceder",
+        "p": "/acceder/",
+        "pos": "n",
+        "m": "acceder",
+        "ex": [
+          {
+            "e": "Study acceder.",
+            "c": "学习acceder。"
+          }
+        ]
+      },
+      {
+        "w": "accedes",
+        "p": "/accedes/",
+        "pos": "n",
+        "m": "accedes",
+        "ex": [
+          {
+            "e": "Study accedes.",
+            "c": "学习accedes。"
+          }
+        ]
+      },
+      {
+        "w": "accelerable",
+        "p": "/accelerable/",
+        "pos": "n",
+        "m": "accelerable",
+        "ex": [
+          {
+            "e": "Study accelerable.",
+            "c": "学习accelerable。"
+          }
+        ]
+      },
+      {
+        "w": "accelerando",
+        "p": "/accelerando/",
+        "pos": "n",
+        "m": "accelerando",
+        "ex": [
+          {
+            "e": "Study accelerando.",
+            "c": "学习accelerando。"
+          }
+        ]
+      },
+      {
+        "w": "accelerated",
+        "p": "/accelerated/",
+        "pos": "n",
+        "m": "accelerated",
+        "ex": [
+          {
+            "e": "Study accelerated.",
+            "c": "学习accelerated。"
+          }
+        ]
+      },
+      {
+        "w": "acceleratedly",
+        "p": "/acceleratedly/",
+        "pos": "n",
+        "m": "acceleratedly",
+        "ex": [
+          {
+            "e": "Study acceleratedly.",
+            "c": "学习acceleratedly。"
+          }
+        ]
+      },
+      {
+        "w": "accelerates",
+        "p": "/accelerates/",
+        "pos": "n",
+        "m": "accelerates",
+        "ex": [
+          {
+            "e": "Study accelerates.",
+            "c": "学习accelerates。"
+          }
+        ]
+      },
+      {
+        "w": "accelerating",
+        "p": "/accelerating/",
+        "pos": "n",
+        "m": "accelerating",
+        "ex": [
+          {
+            "e": "Study accelerating.",
+            "c": "学习accelerating。"
+          }
+        ]
+      },
+      {
+        "w": "acceleratingly",
+        "p": "/acceleratingly/",
+        "pos": "n",
+        "m": "acceleratingly",
+        "ex": [
+          {
+            "e": "Study acceleratingly.",
+            "c": "学习acceleratingly。"
+          }
+        ]
+      },
+      {
+        "w": "acceleration",
+        "p": "/acceleration/",
+        "pos": "n",
+        "m": "acceleration",
+        "ex": [
+          {
+            "e": "Study acceleration.",
+            "c": "学习acceleration。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 36,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "accelerations",
+        "p": "/accelerations/",
+        "pos": "n",
+        "m": "accelerations",
+        "ex": [
+          {
+            "e": "Study accelerations.",
+            "c": "学习accelerations。"
+          }
+        ]
+      },
+      {
+        "w": "accelerative",
+        "p": "/accelerative/",
+        "pos": "n",
+        "m": "accelerative",
+        "ex": [
+          {
+            "e": "Study accelerative.",
+            "c": "学习accelerative。"
+          }
+        ]
+      },
+      {
+        "w": "accelerator",
+        "p": "/accelerator/",
+        "pos": "n",
+        "m": "accelerator",
+        "ex": [
+          {
+            "e": "Study accelerator.",
+            "c": "学习accelerator。"
+          }
+        ]
+      },
+      {
+        "w": "accelerators",
+        "p": "/accelerators/",
+        "pos": "n",
+        "m": "accelerators",
+        "ex": [
+          {
+            "e": "Study accelerators.",
+            "c": "学习accelerators。"
+          }
+        ]
+      },
+      {
+        "w": "acceleratory",
+        "p": "/acceleratory/",
+        "pos": "n",
+        "m": "acceleratory",
+        "ex": [
+          {
+            "e": "Study acceleratory.",
+            "c": "学习acceleratory。"
+          }
+        ]
+      },
+      {
+        "w": "accelerograph",
+        "p": "/accelerograph/",
+        "pos": "n",
+        "m": "accelerograph",
+        "ex": [
+          {
+            "e": "Study accelerograph.",
+            "c": "学习accelerograph。"
+          }
+        ]
+      },
+      {
+        "w": "accelerometer",
+        "p": "/accelerometer/",
+        "pos": "n",
+        "m": "accelerometer",
+        "ex": [
+          {
+            "e": "Study accelerometer.",
+            "c": "学习accelerometer。"
+          }
+        ]
+      },
+      {
+        "w": "accelerometers",
+        "p": "/accelerometers/",
+        "pos": "n",
+        "m": "accelerometers",
+        "ex": [
+          {
+            "e": "Study accelerometers.",
+            "c": "学习accelerometers。"
+          }
+        ]
+      },
+      {
+        "w": "accendibility",
+        "p": "/accendibility/",
+        "pos": "n",
+        "m": "accendibility",
+        "ex": [
+          {
+            "e": "Study accendibility.",
+            "c": "学习accendibility。"
+          }
+        ]
+      },
+      {
+        "w": "accension",
+        "p": "/accension/",
+        "pos": "n",
+        "m": "accension",
+        "ex": [
+          {
+            "e": "Study accension.",
+            "c": "学习accension。"
+          }
+        ]
+      },
+      {
+        "w": "accenting",
+        "p": "/accenting/",
+        "pos": "n",
+        "m": "accenting",
+        "ex": [
+          {
+            "e": "Study accenting.",
+            "c": "学习accenting。"
+          }
+        ]
+      },
+      {
+        "w": "accentors",
+        "p": "/accentors/",
+        "pos": "n",
+        "m": "accentors",
+        "ex": [
+          {
+            "e": "Study accentors.",
+            "c": "学习accentors。"
+          }
+        ]
+      },
+      {
+        "w": "accents",
+        "p": "/accents/",
+        "pos": "n",
+        "m": "accents",
+        "ex": [
+          {
+            "e": "Study accents.",
+            "c": "学习accents。"
+          }
+        ]
+      },
+      {
+        "w": "accentuable",
+        "p": "/accentuable/",
+        "pos": "n",
+        "m": "accentuable",
+        "ex": [
+          {
+            "e": "Study accentuable.",
+            "c": "学习accentuable。"
+          }
+        ]
+      },
+      {
+        "w": "accentual",
+        "p": "/accentual/",
+        "pos": "n",
+        "m": "accentual",
+        "ex": [
+          {
+            "e": "Study accentual.",
+            "c": "学习accentual。"
+          }
+        ]
+      },
+      {
+        "w": "accentuality",
+        "p": "/accentuality/",
+        "pos": "n",
+        "m": "accentuality",
+        "ex": [
+          {
+            "e": "Study accentuality.",
+            "c": "学习accentuality。"
+          }
+        ]
+      },
+      {
+        "w": "accentually",
+        "p": "/accentually/",
+        "pos": "n",
+        "m": "accentually",
+        "ex": [
+          {
+            "e": "Study accentually.",
+            "c": "学习accentually。"
+          }
+        ]
+      },
+      {
+        "w": "accentuated",
+        "p": "/accentuated/",
+        "pos": "n",
+        "m": "accentuated",
+        "ex": [
+          {
+            "e": "Study accentuated.",
+            "c": "学习accentuated。"
+          }
+        ]
+      },
+      {
+        "w": "accentuates",
+        "p": "/accentuates/",
+        "pos": "n",
+        "m": "accentuates",
+        "ex": [
+          {
+            "e": "Study accentuates.",
+            "c": "学习accentuates。"
+          }
+        ]
+      },
+      {
+        "w": "accentuating",
+        "p": "/accentuating/",
+        "pos": "n",
+        "m": "accentuating",
+        "ex": [
+          {
+            "e": "Study accentuating.",
+            "c": "学习accentuating。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 37,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "accentuation",
+        "p": "/accentuation/",
+        "pos": "n",
+        "m": "accentuation",
+        "ex": [
+          {
+            "e": "Study accentuation.",
+            "c": "学习accentuation。"
+          }
+        ]
+      },
+      {
+        "w": "accentuator",
+        "p": "/accentuator/",
+        "pos": "n",
+        "m": "accentuator",
+        "ex": [
+          {
+            "e": "Study accentuator.",
+            "c": "学习accentuator。"
+          }
+        ]
+      },
+      {
+        "w": "acceptability",
+        "p": "/acceptability/",
+        "pos": "n",
+        "m": "acceptability",
+        "ex": [
+          {
+            "e": "Study acceptability.",
+            "c": "学习acceptability。"
+          }
+        ]
+      },
+      {
+        "w": "acceptableness",
+        "p": "/acceptableness/",
+        "pos": "n",
+        "m": "acceptableness",
+        "ex": [
+          {
+            "e": "Study acceptableness.",
+            "c": "学习acceptableness。"
+          }
+        ]
+      },
+      {
+        "w": "acceptances",
+        "p": "/acceptances/",
+        "pos": "n",
+        "m": "acceptances",
+        "ex": [
+          {
+            "e": "Study acceptances.",
+            "c": "学习acceptances。"
+          }
+        ]
+      },
+      {
+        "w": "acceptancies",
+        "p": "/acceptancies/",
+        "pos": "n",
+        "m": "acceptancies",
+        "ex": [
+          {
+            "e": "Study acceptancies.",
+            "c": "学习acceptancies。"
+          }
+        ]
+      },
+      {
+        "w": "acceptant",
+        "p": "/acceptant/",
+        "pos": "n",
+        "m": "acceptant",
+        "ex": [
+          {
+            "e": "Study acceptant.",
+            "c": "学习acceptant。"
+          }
+        ]
+      },
+      {
+        "w": "acceptation",
+        "p": "/acceptation/",
+        "pos": "n",
+        "m": "acceptation",
+        "ex": [
+          {
+            "e": "Study acceptation.",
+            "c": "学习acceptation。"
+          }
+        ]
+      },
+      {
+        "w": "acceptees",
+        "p": "/acceptees/",
+        "pos": "n",
+        "m": "acceptees",
+        "ex": [
+          {
+            "e": "Study acceptees.",
+            "c": "学习acceptees。"
+          }
+        ]
+      },
+      {
+        "w": "accepters",
+        "p": "/accepters/",
+        "pos": "n",
+        "m": "accepters",
+        "ex": [
+          {
+            "e": "Study accepters.",
+            "c": "学习accepters。"
+          }
+        ]
+      },
+      {
+        "w": "acceptilate",
+        "p": "/acceptilate/",
+        "pos": "n",
+        "m": "acceptilate",
+        "ex": [
+          {
+            "e": "Study acceptilate.",
+            "c": "学习acceptilate。"
+          }
+        ]
+      },
+      {
+        "w": "acceptilated",
+        "p": "/acceptilated/",
+        "pos": "n",
+        "m": "acceptilated",
+        "ex": [
+          {
+            "e": "Study acceptilated.",
+            "c": "学习acceptilated。"
+          }
+        ]
+      },
+      {
+        "w": "acceptilating",
+        "p": "/acceptilating/",
+        "pos": "n",
+        "m": "acceptilating",
+        "ex": [
+          {
+            "e": "Study acceptilating.",
+            "c": "学习acceptilating。"
+          }
+        ]
+      },
+      {
+        "w": "acceptilation",
+        "p": "/acceptilation/",
+        "pos": "n",
+        "m": "acceptilation",
+        "ex": [
+          {
+            "e": "Study acceptilation.",
+            "c": "学习acceptilation。"
+          }
+        ]
+      },
+      {
+        "w": "accepting",
+        "p": "/accepting/",
+        "pos": "n",
+        "m": "accepting",
+        "ex": [
+          {
+            "e": "Study accepting.",
+            "c": "学习accepting。"
+          }
+        ]
+      },
+      {
+        "w": "acceptingly",
+        "p": "/acceptingly/",
+        "pos": "n",
+        "m": "acceptingly",
+        "ex": [
+          {
+            "e": "Study acceptingly.",
+            "c": "学习acceptingly。"
+          }
+        ]
+      },
+      {
+        "w": "acceptingness",
+        "p": "/acceptingness/",
+        "pos": "n",
+        "m": "acceptingness",
+        "ex": [
+          {
+            "e": "Study acceptingness.",
+            "c": "学习acceptingness。"
+          }
+        ]
+      },
+      {
+        "w": "acception",
+        "p": "/acception/",
+        "pos": "n",
+        "m": "acception",
+        "ex": [
+          {
+            "e": "Study acception.",
+            "c": "学习acception。"
+          }
+        ]
+      },
+      {
+        "w": "acceptive",
+        "p": "/acceptive/",
+        "pos": "n",
+        "m": "acceptive",
+        "ex": [
+          {
+            "e": "Study acceptive.",
+            "c": "学习acceptive。"
+          }
+        ]
+      },
+      {
+        "w": "acceptors",
+        "p": "/acceptors/",
+        "pos": "n",
+        "m": "acceptors",
+        "ex": [
+          {
+            "e": "Study acceptors.",
+            "c": "学习acceptors。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 38,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "accepts",
+        "p": "/accepts/",
+        "pos": "n",
+        "m": "accepts",
+        "ex": [
+          {
+            "e": "Study accepts.",
+            "c": "学习accepts。"
+          }
+        ]
+      },
+      {
+        "w": "accerse",
+        "p": "/accerse/",
+        "pos": "n",
+        "m": "accerse",
+        "ex": [
+          {
+            "e": "Study accerse.",
+            "c": "学习accerse。"
+          }
+        ]
+      },
+      {
+        "w": "accersition",
+        "p": "/accersition/",
+        "pos": "n",
+        "m": "accersition",
+        "ex": [
+          {
+            "e": "Study accersition.",
+            "c": "学习accersition。"
+          }
+        ]
+      },
+      {
+        "w": "accessability",
+        "p": "/accessability/",
+        "pos": "n",
+        "m": "accessability",
+        "ex": [
+          {
+            "e": "Study accessability.",
+            "c": "学习accessability。"
+          }
+        ]
+      },
+      {
+        "w": "accessaries",
+        "p": "/accessaries/",
+        "pos": "n",
+        "m": "accessaries",
+        "ex": [
+          {
+            "e": "Study accessaries.",
+            "c": "学习accessaries。"
+          }
+        ]
+      },
+      {
+        "w": "accessarily",
+        "p": "/accessarily/",
+        "pos": "n",
+        "m": "accessarily",
+        "ex": [
+          {
+            "e": "Study accessarily.",
+            "c": "学习accessarily。"
+          }
+        ]
+      },
+      {
+        "w": "accessariness",
+        "p": "/accessariness/",
+        "pos": "n",
+        "m": "accessariness",
+        "ex": [
+          {
+            "e": "Study accessariness.",
+            "c": "学习accessariness。"
+          }
+        ]
+      },
+      {
+        "w": "accessary",
+        "p": "/accessary/",
+        "pos": "n",
+        "m": "accessary",
+        "ex": [
+          {
+            "e": "Study accessary.",
+            "c": "学习accessary。"
+          }
+        ]
+      },
+      {
+        "w": "accessaryship",
+        "p": "/accessaryship/",
+        "pos": "n",
+        "m": "accessaryship",
+        "ex": [
+          {
+            "e": "Study accessaryship.",
+            "c": "学习accessaryship。"
+          }
+        ]
+      },
+      {
+        "w": "accessibility",
+        "p": "/accessibility/",
+        "pos": "n",
+        "m": "accessibility",
+        "ex": [
+          {
+            "e": "Study accessibility.",
+            "c": "学习accessibility。"
+          }
+        ]
+      },
+      {
+        "w": "accessibleness",
+        "p": "/accessibleness/",
+        "pos": "n",
+        "m": "accessibleness",
+        "ex": [
+          {
+            "e": "Study accessibleness.",
+            "c": "学习accessibleness。"
+          }
+        ]
+      },
+      {
+        "w": "accessing",
+        "p": "/accessing/",
+        "pos": "n",
+        "m": "accessing",
+        "ex": [
+          {
+            "e": "Study accessing.",
+            "c": "学习accessing。"
+          }
+        ]
+      },
+      {
+        "w": "accession",
+        "p": "/accession/",
+        "pos": "n",
+        "m": "accession",
+        "ex": [
+          {
+            "e": "Study accession.",
+            "c": "学习accession。"
+          }
+        ]
+      },
+      {
+        "w": "accessional",
+        "p": "/accessional/",
+        "pos": "n",
+        "m": "accessional",
+        "ex": [
+          {
+            "e": "Study accessional.",
+            "c": "学习accessional。"
+          }
+        ]
+      },
+      {
+        "w": "accessioned",
+        "p": "/accessioned/",
+        "pos": "n",
+        "m": "accessioned",
+        "ex": [
+          {
+            "e": "Study accessioned.",
+            "c": "学习accessioned。"
+          }
+        ]
+      },
+      {
+        "w": "accessioner",
+        "p": "/accessioner/",
+        "pos": "n",
+        "m": "accessioner",
+        "ex": [
+          {
+            "e": "Study accessioner.",
+            "c": "学习accessioner。"
+          }
+        ]
+      },
+      {
+        "w": "accessioning",
+        "p": "/accessioning/",
+        "pos": "n",
+        "m": "accessioning",
+        "ex": [
+          {
+            "e": "Study accessioning.",
+            "c": "学习accessioning。"
+          }
+        ]
+      },
+      {
+        "w": "accessive",
+        "p": "/accessive/",
+        "pos": "n",
+        "m": "accessive",
+        "ex": [
+          {
+            "e": "Study accessive.",
+            "c": "学习accessive。"
+          }
+        ]
+      },
+      {
+        "w": "accessively",
+        "p": "/accessively/",
+        "pos": "n",
+        "m": "accessively",
+        "ex": [
+          {
+            "e": "Study accessively.",
+            "c": "学习accessively。"
+          }
+        ]
+      },
+      {
+        "w": "accessorial",
+        "p": "/accessorial/",
+        "pos": "n",
+        "m": "accessorial",
+        "ex": [
+          {
+            "e": "Study accessorial.",
+            "c": "学习accessorial。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 39,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "accessories",
+        "p": "/accessories/",
+        "pos": "n",
+        "m": "accessories",
+        "ex": [
+          {
+            "e": "Study accessories.",
+            "c": "学习accessories。"
+          }
+        ]
+      },
+      {
+        "w": "accessorily",
+        "p": "/accessorily/",
+        "pos": "n",
+        "m": "accessorily",
+        "ex": [
+          {
+            "e": "Study accessorily.",
+            "c": "学习accessorily。"
+          }
+        ]
+      },
+      {
+        "w": "accessoriness",
+        "p": "/accessoriness/",
+        "pos": "n",
+        "m": "accessoriness",
+        "ex": [
+          {
+            "e": "Study accessoriness.",
+            "c": "学习accessoriness。"
+          }
+        ]
+      },
+      {
+        "w": "accessorius",
+        "p": "/accessorius/",
+        "pos": "n",
+        "m": "accessorius",
+        "ex": [
+          {
+            "e": "Study accessorius.",
+            "c": "学习accessorius。"
+          }
+        ]
+      },
+      {
+        "w": "accessoriusorii",
+        "p": "/accessoriusorii/",
+        "pos": "n",
+        "m": "accessoriusorii",
+        "ex": [
+          {
+            "e": "Study accessoriusorii.",
+            "c": "学习accessoriusorii。"
+          }
+        ]
+      },
+      {
+        "w": "accessorize",
+        "p": "/accessorize/",
+        "pos": "n",
+        "m": "accessorize",
+        "ex": [
+          {
+            "e": "Study accessorize.",
+            "c": "学习accessorize。"
+          }
+        ]
+      },
+      {
+        "w": "accessorized",
+        "p": "/accessorized/",
+        "pos": "n",
+        "m": "accessorized",
+        "ex": [
+          {
+            "e": "Study accessorized.",
+            "c": "学习accessorized。"
+          }
+        ]
+      },
+      {
+        "w": "accessorizing",
+        "p": "/accessorizing/",
+        "pos": "n",
+        "m": "accessorizing",
+        "ex": [
+          {
+            "e": "Study accessorizing.",
+            "c": "学习accessorizing。"
+          }
+        ]
+      },
+      {
+        "w": "accessors",
+        "p": "/accessors/",
+        "pos": "n",
+        "m": "accessors",
+        "ex": [
+          {
+            "e": "Study accessors.",
+            "c": "学习accessors。"
+          }
+        ]
+      },
+      {
+        "w": "accessory",
+        "p": "/accessory/",
+        "pos": "n",
+        "m": "accessory",
+        "ex": [
+          {
+            "e": "Study accessory.",
+            "c": "学习accessory。"
+          }
+        ]
+      },
+      {
+        "w": "acciaccatura",
+        "p": "/acciaccatura/",
+        "pos": "n",
+        "m": "acciaccatura",
+        "ex": [
+          {
+            "e": "Study acciaccatura.",
+            "c": "学习acciaccatura。"
+          }
+        ]
+      },
+      {
+        "w": "acciaccaturas",
+        "p": "/acciaccaturas/",
+        "pos": "n",
+        "m": "acciaccaturas",
+        "ex": [
+          {
+            "e": "Study acciaccaturas.",
+            "c": "学习acciaccaturas。"
+          }
+        ]
+      },
+      {
+        "w": "acciaccature",
+        "p": "/acciaccature/",
+        "pos": "n",
+        "m": "acciaccature",
+        "ex": [
+          {
+            "e": "Study acciaccature.",
+            "c": "学习acciaccature。"
+          }
+        ]
+      },
+      {
+        "w": "accidence",
+        "p": "/accidence/",
+        "pos": "n",
+        "m": "accidence",
+        "ex": [
+          {
+            "e": "Study accidence.",
+            "c": "学习accidence。"
+          }
+        ]
+      },
+      {
+        "w": "accidencies",
+        "p": "/accidencies/",
+        "pos": "n",
+        "m": "accidencies",
+        "ex": [
+          {
+            "e": "Study accidencies.",
+            "c": "学习accidencies。"
+          }
+        ]
+      },
+      {
+        "w": "accidency",
+        "p": "/accidency/",
+        "pos": "n",
+        "m": "accidency",
+        "ex": [
+          {
+            "e": "Study accidency.",
+            "c": "学习accidency。"
+          }
+        ]
+      },
+      {
+        "w": "accidentalism",
+        "p": "/accidentalism/",
+        "pos": "n",
+        "m": "accidentalism",
+        "ex": [
+          {
+            "e": "Study accidentalism.",
+            "c": "学习accidentalism。"
+          }
+        ]
+      },
+      {
+        "w": "accidentalist",
+        "p": "/accidentalist/",
+        "pos": "n",
+        "m": "accidentalist",
+        "ex": [
+          {
+            "e": "Study accidentalist.",
+            "c": "学习accidentalist。"
+          }
+        ]
+      },
+      {
+        "w": "accidentality",
+        "p": "/accidentality/",
+        "pos": "n",
+        "m": "accidentality",
+        "ex": [
+          {
+            "e": "Study accidentality.",
+            "c": "学习accidentality。"
+          }
+        ]
+      },
+      {
+        "w": "accidentally",
+        "p": "/accidentally/",
+        "pos": "n",
+        "m": "accidentally",
+        "ex": [
+          {
+            "e": "Study accidentally.",
+            "c": "学习accidentally。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 40,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "accidentalness",
+        "p": "/accidentalness/",
+        "pos": "n",
+        "m": "accidentalness",
+        "ex": [
+          {
+            "e": "Study accidentalness.",
+            "c": "学习accidentalness。"
+          }
+        ]
+      },
+      {
+        "w": "accidentals",
+        "p": "/accidentals/",
+        "pos": "n",
+        "m": "accidentals",
+        "ex": [
+          {
+            "e": "Study accidentals.",
+            "c": "学习accidentals。"
+          }
+        ]
+      },
+      {
+        "w": "accidentarily",
+        "p": "/accidentarily/",
+        "pos": "n",
+        "m": "accidentarily",
+        "ex": [
+          {
+            "e": "Study accidentarily.",
+            "c": "学习accidentarily。"
+          }
+        ]
+      },
+      {
+        "w": "accidentary",
+        "p": "/accidentary/",
+        "pos": "n",
+        "m": "accidentary",
+        "ex": [
+          {
+            "e": "Study accidentary.",
+            "c": "学习accidentary。"
+          }
+        ]
+      },
+      {
+        "w": "accidential",
+        "p": "/accidential/",
+        "pos": "n",
+        "m": "accidential",
+        "ex": [
+          {
+            "e": "Study accidential.",
+            "c": "学习accidential。"
+          }
+        ]
+      },
+      {
+        "w": "accidentiality",
+        "p": "/accidentiality/",
+        "pos": "n",
+        "m": "accidentiality",
+        "ex": [
+          {
+            "e": "Study accidentiality.",
+            "c": "学习accidentiality。"
+          }
+        ]
+      },
+      {
+        "w": "accidents",
+        "p": "/accidents/",
+        "pos": "n",
+        "m": "accidents",
+        "ex": [
+          {
+            "e": "Study accidents.",
+            "c": "学习accidents。"
+          }
+        ]
+      },
+      {
+        "w": "accidia",
+        "p": "/accidia/",
+        "pos": "n",
+        "m": "accidia",
+        "ex": [
+          {
+            "e": "Study accidia.",
+            "c": "学习accidia。"
+          }
+        ]
+      },
+      {
+        "w": "accidie",
+        "p": "/accidie/",
+        "pos": "n",
+        "m": "accidie",
+        "ex": [
+          {
+            "e": "Study accidie.",
+            "c": "学习accidie。"
+          }
+        ]
+      },
+      {
+        "w": "accinge",
+        "p": "/accinge/",
+        "pos": "n",
+        "m": "accinge",
+        "ex": [
+          {
+            "e": "Study accinge.",
+            "c": "学习accinge。"
+          }
+        ]
+      },
+      {
+        "w": "accinging",
+        "p": "/accinging/",
+        "pos": "n",
+        "m": "accinging",
+        "ex": [
+          {
+            "e": "Study accinging.",
+            "c": "学习accinging。"
+          }
+        ]
+      },
+      {
+        "w": "accipient",
+        "p": "/accipient/",
+        "pos": "n",
+        "m": "accipient",
+        "ex": [
+          {
+            "e": "Study accipient.",
+            "c": "学习accipient。"
+          }
+        ]
+      },
+      {
+        "w": "accipiter",
+        "p": "/accipiter/",
+        "pos": "n",
+        "m": "accipiter",
+        "ex": [
+          {
+            "e": "Study accipiter.",
+            "c": "学习accipiter。"
+          }
+        ]
+      },
+      {
+        "w": "accipitrary",
+        "p": "/accipitrary/",
+        "pos": "n",
+        "m": "accipitrary",
+        "ex": [
+          {
+            "e": "Study accipitrary.",
+            "c": "学习accipitrary。"
+          }
+        ]
+      },
+      {
+        "w": "accipitrine",
+        "p": "/accipitrine/",
+        "pos": "n",
+        "m": "accipitrine",
+        "ex": [
+          {
+            "e": "Study accipitrine.",
+            "c": "学习accipitrine。"
+          }
+        ]
+      },
+      {
+        "w": "acclaim",
+        "p": "/acclaim/",
+        "pos": "n",
+        "m": "acclaim",
+        "ex": [
+          {
+            "e": "Study acclaim.",
+            "c": "学习acclaim。"
+          }
+        ]
+      },
+      {
+        "w": "acclaimable",
+        "p": "/acclaimable/",
+        "pos": "n",
+        "m": "acclaimable",
+        "ex": [
+          {
+            "e": "Study acclaimable.",
+            "c": "学习acclaimable。"
+          }
+        ]
+      },
+      {
+        "w": "acclaimed",
+        "p": "/acclaimed/",
+        "pos": "n",
+        "m": "acclaimed",
+        "ex": [
+          {
+            "e": "Study acclaimed.",
+            "c": "学习acclaimed。"
+          }
+        ]
+      },
+      {
+        "w": "acclaimer",
+        "p": "/acclaimer/",
+        "pos": "n",
+        "m": "acclaimer",
+        "ex": [
+          {
+            "e": "Study acclaimer.",
+            "c": "学习acclaimer。"
+          }
+        ]
+      },
+      {
+        "w": "acclamation",
+        "p": "/acclamation/",
+        "pos": "n",
+        "m": "acclamation",
+        "ex": [
+          {
+            "e": "Study acclamation.",
+            "c": "学习acclamation。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 41,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acclamations",
+        "p": "/acclamations/",
+        "pos": "n",
+        "m": "acclamations",
+        "ex": [
+          {
+            "e": "Study acclamations.",
+            "c": "学习acclamations。"
+          }
+        ]
+      },
+      {
+        "w": "acclamatory",
+        "p": "/acclamatory/",
+        "pos": "n",
+        "m": "acclamatory",
+        "ex": [
+          {
+            "e": "Study acclamatory.",
+            "c": "学习acclamatory。"
+          }
+        ]
+      },
+      {
+        "w": "acclimatable",
+        "p": "/acclimatable/",
+        "pos": "n",
+        "m": "acclimatable",
+        "ex": [
+          {
+            "e": "Study acclimatable.",
+            "c": "学习acclimatable。"
+          }
+        ]
+      },
+      {
+        "w": "acclimatation",
+        "p": "/acclimatation/",
+        "pos": "n",
+        "m": "acclimatation",
+        "ex": [
+          {
+            "e": "Study acclimatation.",
+            "c": "学习acclimatation。"
+          }
+        ]
+      },
+      {
+        "w": "acclimate",
+        "p": "/acclimate/",
+        "pos": "n",
+        "m": "acclimate",
+        "ex": [
+          {
+            "e": "Study acclimate.",
+            "c": "学习acclimate。"
+          }
+        ]
+      },
+      {
+        "w": "acclimatement",
+        "p": "/acclimatement/",
+        "pos": "n",
+        "m": "acclimatement",
+        "ex": [
+          {
+            "e": "Study acclimatement.",
+            "c": "学习acclimatement。"
+          }
+        ]
+      },
+      {
+        "w": "acclimating",
+        "p": "/acclimating/",
+        "pos": "n",
+        "m": "acclimating",
+        "ex": [
+          {
+            "e": "Study acclimating.",
+            "c": "学习acclimating。"
+          }
+        ]
+      },
+      {
+        "w": "acclimation",
+        "p": "/acclimation/",
+        "pos": "n",
+        "m": "acclimation",
+        "ex": [
+          {
+            "e": "Study acclimation.",
+            "c": "学习acclimation。"
+          }
+        ]
+      },
+      {
+        "w": "acclimatisable",
+        "p": "/acclimatisable/",
+        "pos": "n",
+        "m": "acclimatisable",
+        "ex": [
+          {
+            "e": "Study acclimatisable.",
+            "c": "学习acclimatisable。"
+          }
+        ]
+      },
+      {
+        "w": "acclimatisation",
+        "p": "/acclimatisation/",
+        "pos": "n",
+        "m": "acclimatisation",
+        "ex": [
+          {
+            "e": "Study acclimatisation.",
+            "c": "学习acclimatisation。"
+          }
+        ]
+      },
+      {
+        "w": "acclimatise",
+        "p": "/acclimatise/",
+        "pos": "n",
+        "m": "acclimatise",
+        "ex": [
+          {
+            "e": "Study acclimatise.",
+            "c": "学习acclimatise。"
+          }
+        ]
+      },
+      {
+        "w": "acclimatised",
+        "p": "/acclimatised/",
+        "pos": "n",
+        "m": "acclimatised",
+        "ex": [
+          {
+            "e": "Study acclimatised.",
+            "c": "学习acclimatised。"
+          }
+        ]
+      },
+      {
+        "w": "acclimatiser",
+        "p": "/acclimatiser/",
+        "pos": "n",
+        "m": "acclimatiser",
+        "ex": [
+          {
+            "e": "Study acclimatiser.",
+            "c": "学习acclimatiser。"
+          }
+        ]
+      },
+      {
+        "w": "acclimatising",
+        "p": "/acclimatising/",
+        "pos": "n",
+        "m": "acclimatising",
+        "ex": [
+          {
+            "e": "Study acclimatising.",
+            "c": "学习acclimatising。"
+          }
+        ]
+      },
+      {
+        "w": "acclimatizable",
+        "p": "/acclimatizable/",
+        "pos": "n",
+        "m": "acclimatizable",
+        "ex": [
+          {
+            "e": "Study acclimatizable.",
+            "c": "学习acclimatizable。"
+          }
+        ]
+      },
+      {
+        "w": "acclimatization",
+        "p": "/acclimatization/",
+        "pos": "n",
+        "m": "acclimatization",
+        "ex": [
+          {
+            "e": "Study acclimatization.",
+            "c": "学习acclimatization。"
+          }
+        ]
+      },
+      {
+        "w": "acclimatize",
+        "p": "/acclimatize/",
+        "pos": "n",
+        "m": "acclimatize",
+        "ex": [
+          {
+            "e": "Study acclimatize.",
+            "c": "学习acclimatize。"
+          }
+        ]
+      },
+      {
+        "w": "acclimatized",
+        "p": "/acclimatized/",
+        "pos": "n",
+        "m": "acclimatized",
+        "ex": [
+          {
+            "e": "Study acclimatized.",
+            "c": "学习acclimatized。"
+          }
+        ]
+      },
+      {
+        "w": "acclimatizer",
+        "p": "/acclimatizer/",
+        "pos": "n",
+        "m": "acclimatizer",
+        "ex": [
+          {
+            "e": "Study acclimatizer.",
+            "c": "学习acclimatizer。"
+          }
+        ]
+      },
+      {
+        "w": "acclimatizes",
+        "p": "/acclimatizes/",
+        "pos": "n",
+        "m": "acclimatizes",
+        "ex": [
+          {
+            "e": "Study acclimatizes.",
+            "c": "学习acclimatizes。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 42,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acclimatizing",
+        "p": "/acclimatizing/",
+        "pos": "n",
+        "m": "acclimatizing",
+        "ex": [
+          {
+            "e": "Study acclimatizing.",
+            "c": "学习acclimatizing。"
+          }
+        ]
+      },
+      {
+        "w": "acclimature",
+        "p": "/acclimature/",
+        "pos": "n",
+        "m": "acclimature",
+        "ex": [
+          {
+            "e": "Study acclimature.",
+            "c": "学习acclimature。"
+          }
+        ]
+      },
+      {
+        "w": "acclinate",
+        "p": "/acclinate/",
+        "pos": "n",
+        "m": "acclinate",
+        "ex": [
+          {
+            "e": "Study acclinate.",
+            "c": "学习acclinate。"
+          }
+        ]
+      },
+      {
+        "w": "acclivities",
+        "p": "/acclivities/",
+        "pos": "n",
+        "m": "acclivities",
+        "ex": [
+          {
+            "e": "Study acclivities.",
+            "c": "学习acclivities。"
+          }
+        ]
+      },
+      {
+        "w": "acclivitous",
+        "p": "/acclivitous/",
+        "pos": "n",
+        "m": "acclivitous",
+        "ex": [
+          {
+            "e": "Study acclivitous.",
+            "c": "学习acclivitous。"
+          }
+        ]
+      },
+      {
+        "w": "acclivity",
+        "p": "/acclivity/",
+        "pos": "n",
+        "m": "acclivity",
+        "ex": [
+          {
+            "e": "Study acclivity.",
+            "c": "学习acclivity。"
+          }
+        ]
+      },
+      {
+        "w": "acclivous",
+        "p": "/acclivous/",
+        "pos": "n",
+        "m": "acclivous",
+        "ex": [
+          {
+            "e": "Study acclivous.",
+            "c": "学习acclivous。"
+          }
+        ]
+      },
+      {
+        "w": "accoast",
+        "p": "/accoast/",
+        "pos": "n",
+        "m": "accoast",
+        "ex": [
+          {
+            "e": "Study accoast.",
+            "c": "学习accoast。"
+          }
+        ]
+      },
+      {
+        "w": "accoladed",
+        "p": "/accoladed/",
+        "pos": "n",
+        "m": "accoladed",
+        "ex": [
+          {
+            "e": "Study accoladed.",
+            "c": "学习accoladed。"
+          }
+        ]
+      },
+      {
+        "w": "accolades",
+        "p": "/accolades/",
+        "pos": "n",
+        "m": "accolades",
+        "ex": [
+          {
+            "e": "Study accolades.",
+            "c": "学习accolades。"
+          }
+        ]
+      },
+      {
+        "w": "accolated",
+        "p": "/accolated/",
+        "pos": "n",
+        "m": "accolated",
+        "ex": [
+          {
+            "e": "Study accolated.",
+            "c": "学习accolated。"
+          }
+        ]
+      },
+      {
+        "w": "accolle",
+        "p": "/accolle/",
+        "pos": "n",
+        "m": "accolle",
+        "ex": [
+          {
+            "e": "Study accolle.",
+            "c": "学习accolle。"
+          }
+        ]
+      },
+      {
+        "w": "accombination",
+        "p": "/accombination/",
+        "pos": "n",
+        "m": "accombination",
+        "ex": [
+          {
+            "e": "Study accombination.",
+            "c": "学习accombination。"
+          }
+        ]
+      },
+      {
+        "w": "accommodable",
+        "p": "/accommodable/",
+        "pos": "n",
+        "m": "accommodable",
+        "ex": [
+          {
+            "e": "Study accommodable.",
+            "c": "学习accommodable。"
+          }
+        ]
+      },
+      {
+        "w": "accommodate",
+        "p": "/accommodate/",
+        "pos": "n",
+        "m": "accommodate",
+        "ex": [
+          {
+            "e": "Study accommodate.",
+            "c": "学习accommodate。"
+          }
+        ]
+      },
+      {
+        "w": "accommodated",
+        "p": "/accommodated/",
+        "pos": "n",
+        "m": "accommodated",
+        "ex": [
+          {
+            "e": "Study accommodated.",
+            "c": "学习accommodated。"
+          }
+        ]
+      },
+      {
+        "w": "accommodately",
+        "p": "/accommodately/",
+        "pos": "n",
+        "m": "accommodately",
+        "ex": [
+          {
+            "e": "Study accommodately.",
+            "c": "学习accommodately。"
+          }
+        ]
+      },
+      {
+        "w": "accommodateness",
+        "p": "/accommodateness/",
+        "pos": "n",
+        "m": "accommodateness",
+        "ex": [
+          {
+            "e": "Study accommodateness.",
+            "c": "学习accommodateness。"
+          }
+        ]
+      },
+      {
+        "w": "accommodates",
+        "p": "/accommodates/",
+        "pos": "n",
+        "m": "accommodates",
+        "ex": [
+          {
+            "e": "Study accommodates.",
+            "c": "学习accommodates。"
+          }
+        ]
+      },
+      {
+        "w": "accommodating",
+        "p": "/accommodating/",
+        "pos": "n",
+        "m": "accommodating",
+        "ex": [
+          {
+            "e": "Study accommodating.",
+            "c": "学习accommodating。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 43,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "accommodatingly",
+        "p": "/accommodatingly/",
+        "pos": "n",
+        "m": "accommodatingly",
+        "ex": [
+          {
+            "e": "Study accommodatingly.",
+            "c": "学习accommodatingly。"
+          }
+        ]
+      },
+      {
+        "w": "accommodation",
+        "p": "/accommodation/",
+        "pos": "n",
+        "m": "accommodation",
+        "ex": [
+          {
+            "e": "Study accommodation.",
+            "c": "学习accommodation。"
+          }
+        ]
+      },
+      {
+        "w": "accommodational",
+        "p": "/accommodational/",
+        "pos": "n",
+        "m": "accommodational",
+        "ex": [
+          {
+            "e": "Study accommodational.",
+            "c": "学习accommodational。"
+          }
+        ]
+      },
+      {
+        "w": "accommodations",
+        "p": "/accommodations/",
+        "pos": "n",
+        "m": "accommodations",
+        "ex": [
+          {
+            "e": "Study accommodations.",
+            "c": "学习accommodations。"
+          }
+        ]
+      },
+      {
+        "w": "accommodative",
+        "p": "/accommodative/",
+        "pos": "n",
+        "m": "accommodative",
+        "ex": [
+          {
+            "e": "Study accommodative.",
+            "c": "学习accommodative。"
+          }
+        ]
+      },
+      {
+        "w": "accommodatively",
+        "p": "/accommodatively/",
+        "pos": "n",
+        "m": "accommodatively",
+        "ex": [
+          {
+            "e": "Study accommodatively.",
+            "c": "学习accommodatively。"
+          }
+        ]
+      },
+      {
+        "w": "accommodator",
+        "p": "/accommodator/",
+        "pos": "n",
+        "m": "accommodator",
+        "ex": [
+          {
+            "e": "Study accommodator.",
+            "c": "学习accommodator。"
+          }
+        ]
+      },
+      {
+        "w": "accommodators",
+        "p": "/accommodators/",
+        "pos": "n",
+        "m": "accommodators",
+        "ex": [
+          {
+            "e": "Study accommodators.",
+            "c": "学习accommodators。"
+          }
+        ]
+      },
+      {
+        "w": "accompanable",
+        "p": "/accompanable/",
+        "pos": "n",
+        "m": "accompanable",
+        "ex": [
+          {
+            "e": "Study accompanable.",
+            "c": "学习accompanable。"
+          }
+        ]
+      },
+      {
+        "w": "accompanied",
+        "p": "/accompanied/",
+        "pos": "n",
+        "m": "accompanied",
+        "ex": [
+          {
+            "e": "Study accompanied.",
+            "c": "学习accompanied。"
+          }
+        ]
+      },
+      {
+        "w": "accompanier",
+        "p": "/accompanier/",
+        "pos": "n",
+        "m": "accompanier",
+        "ex": [
+          {
+            "e": "Study accompanier.",
+            "c": "学习accompanier。"
+          }
+        ]
+      },
+      {
+        "w": "accompanies",
+        "p": "/accompanies/",
+        "pos": "n",
+        "m": "accompanies",
+        "ex": [
+          {
+            "e": "Study accompanies.",
+            "c": "学习accompanies。"
+          }
+        ]
+      },
+      {
+        "w": "accompaniment",
+        "p": "/accompaniment/",
+        "pos": "n",
+        "m": "accompaniment",
+        "ex": [
+          {
+            "e": "Study accompaniment.",
+            "c": "学习accompaniment。"
+          }
+        ]
+      },
+      {
+        "w": "accompanimental",
+        "p": "/accompanimental/",
+        "pos": "n",
+        "m": "accompanimental",
+        "ex": [
+          {
+            "e": "Study accompanimental.",
+            "c": "学习accompanimental。"
+          }
+        ]
+      },
+      {
+        "w": "accompaniments",
+        "p": "/accompaniments/",
+        "pos": "n",
+        "m": "accompaniments",
+        "ex": [
+          {
+            "e": "Study accompaniments.",
+            "c": "学习accompaniments。"
+          }
+        ]
+      },
+      {
+        "w": "accompanist",
+        "p": "/accompanist/",
+        "pos": "n",
+        "m": "accompanist",
+        "ex": [
+          {
+            "e": "Study accompanist.",
+            "c": "学习accompanist。"
+          }
+        ]
+      },
+      {
+        "w": "accompanists",
+        "p": "/accompanists/",
+        "pos": "n",
+        "m": "accompanists",
+        "ex": [
+          {
+            "e": "Study accompanists.",
+            "c": "学习accompanists。"
+          }
+        ]
+      },
+      {
+        "w": "accompany",
+        "p": "/accompany/",
+        "pos": "n",
+        "m": "accompany",
+        "ex": [
+          {
+            "e": "Study accompany.",
+            "c": "学习accompany。"
+          }
+        ]
+      },
+      {
+        "w": "accompanying",
+        "p": "/accompanying/",
+        "pos": "n",
+        "m": "accompanying",
+        "ex": [
+          {
+            "e": "Study accompanying.",
+            "c": "学习accompanying。"
+          }
+        ]
+      },
+      {
+        "w": "accompanyist",
+        "p": "/accompanyist/",
+        "pos": "n",
+        "m": "accompanyist",
+        "ex": [
+          {
+            "e": "Study accompanyist.",
+            "c": "学习accompanyist。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 44,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "accomplement",
+        "p": "/accomplement/",
+        "pos": "n",
+        "m": "accomplement",
+        "ex": [
+          {
+            "e": "Study accomplement.",
+            "c": "学习accomplement。"
+          }
+        ]
+      },
+      {
+        "w": "accompletive",
+        "p": "/accompletive/",
+        "pos": "n",
+        "m": "accompletive",
+        "ex": [
+          {
+            "e": "Study accompletive.",
+            "c": "学习accompletive。"
+          }
+        ]
+      },
+      {
+        "w": "accomplices",
+        "p": "/accomplices/",
+        "pos": "n",
+        "m": "accomplices",
+        "ex": [
+          {
+            "e": "Study accomplices.",
+            "c": "学习accomplices。"
+          }
+        ]
+      },
+      {
+        "w": "accompliceship",
+        "p": "/accompliceship/",
+        "pos": "n",
+        "m": "accompliceship",
+        "ex": [
+          {
+            "e": "Study accompliceship.",
+            "c": "学习accompliceship。"
+          }
+        ]
+      },
+      {
+        "w": "accomplicity",
+        "p": "/accomplicity/",
+        "pos": "n",
+        "m": "accomplicity",
+        "ex": [
+          {
+            "e": "Study accomplicity.",
+            "c": "学习accomplicity。"
+          }
+        ]
+      },
+      {
+        "w": "accomplis",
+        "p": "/accomplis/",
+        "pos": "n",
+        "m": "accomplis",
+        "ex": [
+          {
+            "e": "Study accomplis.",
+            "c": "学习accomplis。"
+          }
+        ]
+      },
+      {
+        "w": "accomplishable",
+        "p": "/accomplishable/",
+        "pos": "n",
+        "m": "accomplishable",
+        "ex": [
+          {
+            "e": "Study accomplishable.",
+            "c": "学习accomplishable。"
+          }
+        ]
+      },
+      {
+        "w": "accomplished",
+        "p": "/accomplished/",
+        "pos": "n",
+        "m": "accomplished",
+        "ex": [
+          {
+            "e": "Study accomplished.",
+            "c": "学习accomplished。"
+          }
+        ]
+      },
+      {
+        "w": "accomplisher",
+        "p": "/accomplisher/",
+        "pos": "n",
+        "m": "accomplisher",
+        "ex": [
+          {
+            "e": "Study accomplisher.",
+            "c": "学习accomplisher。"
+          }
+        ]
+      },
+      {
+        "w": "accomplishers",
+        "p": "/accomplishers/",
+        "pos": "n",
+        "m": "accomplishers",
+        "ex": [
+          {
+            "e": "Study accomplishers.",
+            "c": "学习accomplishers。"
+          }
+        ]
+      },
+      {
+        "w": "accomplishes",
+        "p": "/accomplishes/",
+        "pos": "n",
+        "m": "accomplishes",
+        "ex": [
+          {
+            "e": "Study accomplishes.",
+            "c": "学习accomplishes。"
+          }
+        ]
+      },
+      {
+        "w": "accomplishing",
+        "p": "/accomplishing/",
+        "pos": "n",
+        "m": "accomplishing",
+        "ex": [
+          {
+            "e": "Study accomplishing.",
+            "c": "学习accomplishing。"
+          }
+        ]
+      },
+      {
+        "w": "accomplishment",
+        "p": "/accomplishment/",
+        "pos": "n",
+        "m": "accomplishment",
+        "ex": [
+          {
+            "e": "Study accomplishment.",
+            "c": "学习accomplishment。"
+          }
+        ]
+      },
+      {
+        "w": "accomplishments",
+        "p": "/accomplishments/",
+        "pos": "n",
+        "m": "accomplishments",
+        "ex": [
+          {
+            "e": "Study accomplishments.",
+            "c": "学习accomplishments。"
+          }
+        ]
+      },
+      {
+        "w": "accomplisht",
+        "p": "/accomplisht/",
+        "pos": "n",
+        "m": "accomplisht",
+        "ex": [
+          {
+            "e": "Study accomplisht.",
+            "c": "学习accomplisht。"
+          }
+        ]
+      },
+      {
+        "w": "accompt",
+        "p": "/accompt/",
+        "pos": "n",
+        "m": "accompt",
+        "ex": [
+          {
+            "e": "Study accompt.",
+            "c": "学习accompt。"
+          }
+        ]
+      },
+      {
+        "w": "accordances",
+        "p": "/accordances/",
+        "pos": "n",
+        "m": "accordances",
+        "ex": [
+          {
+            "e": "Study accordances.",
+            "c": "学习accordances。"
+          }
+        ]
+      },
+      {
+        "w": "accordant",
+        "p": "/accordant/",
+        "pos": "n",
+        "m": "accordant",
+        "ex": [
+          {
+            "e": "Study accordant.",
+            "c": "学习accordant。"
+          }
+        ]
+      },
+      {
+        "w": "accordantly",
+        "p": "/accordantly/",
+        "pos": "n",
+        "m": "accordantly",
+        "ex": [
+          {
+            "e": "Study accordantly.",
+            "c": "学习accordantly。"
+          }
+        ]
+      },
+      {
+        "w": "accordatura",
+        "p": "/accordatura/",
+        "pos": "n",
+        "m": "accordatura",
+        "ex": [
+          {
+            "e": "Study accordatura.",
+            "c": "学习accordatura。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 45,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "accordaturas",
+        "p": "/accordaturas/",
+        "pos": "n",
+        "m": "accordaturas",
+        "ex": [
+          {
+            "e": "Study accordaturas.",
+            "c": "学习accordaturas。"
+          }
+        ]
+      },
+      {
+        "w": "accordature",
+        "p": "/accordature/",
+        "pos": "n",
+        "m": "accordature",
+        "ex": [
+          {
+            "e": "Study accordature.",
+            "c": "学习accordature。"
+          }
+        ]
+      },
+      {
+        "w": "accorders",
+        "p": "/accorders/",
+        "pos": "n",
+        "m": "accorders",
+        "ex": [
+          {
+            "e": "Study accorders.",
+            "c": "学习accorders。"
+          }
+        ]
+      },
+      {
+        "w": "according",
+        "p": "/according/",
+        "pos": "n",
+        "m": "according",
+        "ex": [
+          {
+            "e": "Study according.",
+            "c": "学习according。"
+          }
+        ]
+      },
+      {
+        "w": "accordingly",
+        "p": "/accordingly/",
+        "pos": "n",
+        "m": "accordingly",
+        "ex": [
+          {
+            "e": "Study accordingly.",
+            "c": "学习accordingly。"
+          }
+        ]
+      },
+      {
+        "w": "accordion",
+        "p": "/accordion/",
+        "pos": "n",
+        "m": "accordion",
+        "ex": [
+          {
+            "e": "Study accordion.",
+            "c": "学习accordion。"
+          }
+        ]
+      },
+      {
+        "w": "accordionist",
+        "p": "/accordionist/",
+        "pos": "n",
+        "m": "accordionist",
+        "ex": [
+          {
+            "e": "Study accordionist.",
+            "c": "学习accordionist。"
+          }
+        ]
+      },
+      {
+        "w": "accordionists",
+        "p": "/accordionists/",
+        "pos": "n",
+        "m": "accordionists",
+        "ex": [
+          {
+            "e": "Study accordionists.",
+            "c": "学习accordionists。"
+          }
+        ]
+      },
+      {
+        "w": "accords",
+        "p": "/accords/",
+        "pos": "n",
+        "m": "accords",
+        "ex": [
+          {
+            "e": "Study accords.",
+            "c": "学习accords。"
+          }
+        ]
+      },
+      {
+        "w": "accorporate",
+        "p": "/accorporate/",
+        "pos": "n",
+        "m": "accorporate",
+        "ex": [
+          {
+            "e": "Study accorporate.",
+            "c": "学习accorporate。"
+          }
+        ]
+      },
+      {
+        "w": "accorporation",
+        "p": "/accorporation/",
+        "pos": "n",
+        "m": "accorporation",
+        "ex": [
+          {
+            "e": "Study accorporation.",
+            "c": "学习accorporation。"
+          }
+        ]
+      },
+      {
+        "w": "accosting",
+        "p": "/accosting/",
+        "pos": "n",
+        "m": "accosting",
+        "ex": [
+          {
+            "e": "Study accosting.",
+            "c": "学习accosting。"
+          }
+        ]
+      },
+      {
+        "w": "accosts",
+        "p": "/accosts/",
+        "pos": "n",
+        "m": "accosts",
+        "ex": [
+          {
+            "e": "Study accosts.",
+            "c": "学习accosts。"
+          }
+        ]
+      },
+      {
+        "w": "accouchement",
+        "p": "/accouchement/",
+        "pos": "n",
+        "m": "accouchement",
+        "ex": [
+          {
+            "e": "Study accouchement.",
+            "c": "学习accouchement。"
+          }
+        ]
+      },
+      {
+        "w": "accouchements",
+        "p": "/accouchements/",
+        "pos": "n",
+        "m": "accouchements",
+        "ex": [
+          {
+            "e": "Study accouchements.",
+            "c": "学习accouchements。"
+          }
+        ]
+      },
+      {
+        "w": "accoucheurs",
+        "p": "/accoucheurs/",
+        "pos": "n",
+        "m": "accoucheurs",
+        "ex": [
+          {
+            "e": "Study accoucheurs.",
+            "c": "学习accoucheurs。"
+          }
+        ]
+      },
+      {
+        "w": "accoucheuse",
+        "p": "/accoucheuse/",
+        "pos": "n",
+        "m": "accoucheuse",
+        "ex": [
+          {
+            "e": "Study accoucheuse.",
+            "c": "学习accoucheuse。"
+          }
+        ]
+      },
+      {
+        "w": "accoucheuses",
+        "p": "/accoucheuses/",
+        "pos": "n",
+        "m": "accoucheuses",
+        "ex": [
+          {
+            "e": "Study accoucheuses.",
+            "c": "学习accoucheuses。"
+          }
+        ]
+      },
+      {
+        "w": "accounsel",
+        "p": "/accounsel/",
+        "pos": "n",
+        "m": "accounsel",
+        "ex": [
+          {
+            "e": "Study accounsel.",
+            "c": "学习accounsel。"
+          }
+        ]
+      },
+      {
+        "w": "account",
+        "p": "/account/",
+        "pos": "n",
+        "m": "account",
+        "ex": [
+          {
+            "e": "Study account.",
+            "c": "学习account。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 46,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "accountability",
+        "p": "/accountability/",
+        "pos": "n",
+        "m": "accountability",
+        "ex": [
+          {
+            "e": "Study accountability.",
+            "c": "学习accountability。"
+          }
+        ]
+      },
+      {
+        "w": "accountable",
+        "p": "/accountable/",
+        "pos": "n",
+        "m": "accountable",
+        "ex": [
+          {
+            "e": "Study accountable.",
+            "c": "学习accountable。"
+          }
+        ]
+      },
+      {
+        "w": "accountableness",
+        "p": "/accountableness/",
+        "pos": "n",
+        "m": "accountableness",
+        "ex": [
+          {
+            "e": "Study accountableness.",
+            "c": "学习accountableness。"
+          }
+        ]
+      },
+      {
+        "w": "accountably",
+        "p": "/accountably/",
+        "pos": "n",
+        "m": "accountably",
+        "ex": [
+          {
+            "e": "Study accountably.",
+            "c": "学习accountably。"
+          }
+        ]
+      },
+      {
+        "w": "accountancy",
+        "p": "/accountancy/",
+        "pos": "n",
+        "m": "accountancy",
+        "ex": [
+          {
+            "e": "Study accountancy.",
+            "c": "学习accountancy。"
+          }
+        ]
+      },
+      {
+        "w": "accountants",
+        "p": "/accountants/",
+        "pos": "n",
+        "m": "accountants",
+        "ex": [
+          {
+            "e": "Study accountants.",
+            "c": "学习accountants。"
+          }
+        ]
+      },
+      {
+        "w": "accountantship",
+        "p": "/accountantship/",
+        "pos": "n",
+        "m": "accountantship",
+        "ex": [
+          {
+            "e": "Study accountantship.",
+            "c": "学习accountantship。"
+          }
+        ]
+      },
+      {
+        "w": "accounted",
+        "p": "/accounted/",
+        "pos": "n",
+        "m": "accounted",
+        "ex": [
+          {
+            "e": "Study accounted.",
+            "c": "学习accounted。"
+          }
+        ]
+      },
+      {
+        "w": "accounter",
+        "p": "/accounter/",
+        "pos": "n",
+        "m": "accounter",
+        "ex": [
+          {
+            "e": "Study accounter.",
+            "c": "学习accounter。"
+          }
+        ]
+      },
+      {
+        "w": "accountment",
+        "p": "/accountment/",
+        "pos": "n",
+        "m": "accountment",
+        "ex": [
+          {
+            "e": "Study accountment.",
+            "c": "学习accountment。"
+          }
+        ]
+      },
+      {
+        "w": "accountrement",
+        "p": "/accountrement/",
+        "pos": "n",
+        "m": "accountrement",
+        "ex": [
+          {
+            "e": "Study accountrement.",
+            "c": "学习accountrement。"
+          }
+        ]
+      },
+      {
+        "w": "accouplement",
+        "p": "/accouplement/",
+        "pos": "n",
+        "m": "accouplement",
+        "ex": [
+          {
+            "e": "Study accouplement.",
+            "c": "学习accouplement。"
+          }
+        ]
+      },
+      {
+        "w": "accourage",
+        "p": "/accourage/",
+        "pos": "n",
+        "m": "accourage",
+        "ex": [
+          {
+            "e": "Study accourage.",
+            "c": "学习accourage。"
+          }
+        ]
+      },
+      {
+        "w": "accourt",
+        "p": "/accourt/",
+        "pos": "n",
+        "m": "accourt",
+        "ex": [
+          {
+            "e": "Study accourt.",
+            "c": "学习accourt。"
+          }
+        ]
+      },
+      {
+        "w": "accoutering",
+        "p": "/accoutering/",
+        "pos": "n",
+        "m": "accoutering",
+        "ex": [
+          {
+            "e": "Study accoutering.",
+            "c": "学习accoutering。"
+          }
+        ]
+      },
+      {
+        "w": "accouterment",
+        "p": "/accouterment/",
+        "pos": "n",
+        "m": "accouterment",
+        "ex": [
+          {
+            "e": "Study accouterment.",
+            "c": "学习accouterment。"
+          }
+        ]
+      },
+      {
+        "w": "accouterments",
+        "p": "/accouterments/",
+        "pos": "n",
+        "m": "accouterments",
+        "ex": [
+          {
+            "e": "Study accouterments.",
+            "c": "学习accouterments。"
+          }
+        ]
+      },
+      {
+        "w": "accouters",
+        "p": "/accouters/",
+        "pos": "n",
+        "m": "accouters",
+        "ex": [
+          {
+            "e": "Study accouters.",
+            "c": "学习accouters。"
+          }
+        ]
+      },
+      {
+        "w": "accoutred",
+        "p": "/accoutred/",
+        "pos": "n",
+        "m": "accoutred",
+        "ex": [
+          {
+            "e": "Study accoutred.",
+            "c": "学习accoutred。"
+          }
+        ]
+      },
+      {
+        "w": "accoutrement",
+        "p": "/accoutrement/",
+        "pos": "n",
+        "m": "accoutrement",
+        "ex": [
+          {
+            "e": "Study accoutrement.",
+            "c": "学习accoutrement。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 47,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "accoutrements",
+        "p": "/accoutrements/",
+        "pos": "n",
+        "m": "accoutrements",
+        "ex": [
+          {
+            "e": "Study accoutrements.",
+            "c": "学习accoutrements。"
+          }
+        ]
+      },
+      {
+        "w": "accoutres",
+        "p": "/accoutres/",
+        "pos": "n",
+        "m": "accoutres",
+        "ex": [
+          {
+            "e": "Study accoutres.",
+            "c": "学习accoutres。"
+          }
+        ]
+      },
+      {
+        "w": "accoyed",
+        "p": "/accoyed/",
+        "pos": "n",
+        "m": "accoyed",
+        "ex": [
+          {
+            "e": "Study accoyed.",
+            "c": "学习accoyed。"
+          }
+        ]
+      },
+      {
+        "w": "accreditable",
+        "p": "/accreditable/",
+        "pos": "n",
+        "m": "accreditable",
+        "ex": [
+          {
+            "e": "Study accreditable.",
+            "c": "学习accreditable。"
+          }
+        ]
+      },
+      {
+        "w": "accreditate",
+        "p": "/accreditate/",
+        "pos": "n",
+        "m": "accreditate",
+        "ex": [
+          {
+            "e": "Study accreditate.",
+            "c": "学习accreditate。"
+          }
+        ]
+      },
+      {
+        "w": "accreditation",
+        "p": "/accreditation/",
+        "pos": "n",
+        "m": "accreditation",
+        "ex": [
+          {
+            "e": "Study accreditation.",
+            "c": "学习accreditation。"
+          }
+        ]
+      },
+      {
+        "w": "accreditations",
+        "p": "/accreditations/",
+        "pos": "n",
+        "m": "accreditations",
+        "ex": [
+          {
+            "e": "Study accreditations.",
+            "c": "学习accreditations。"
+          }
+        ]
+      },
+      {
+        "w": "accrediting",
+        "p": "/accrediting/",
+        "pos": "n",
+        "m": "accrediting",
+        "ex": [
+          {
+            "e": "Study accrediting.",
+            "c": "学习accrediting。"
+          }
+        ]
+      },
+      {
+        "w": "accreditment",
+        "p": "/accreditment/",
+        "pos": "n",
+        "m": "accreditment",
+        "ex": [
+          {
+            "e": "Study accreditment.",
+            "c": "学习accreditment。"
+          }
+        ]
+      },
+      {
+        "w": "accredits",
+        "p": "/accredits/",
+        "pos": "n",
+        "m": "accredits",
+        "ex": [
+          {
+            "e": "Study accredits.",
+            "c": "学习accredits。"
+          }
+        ]
+      },
+      {
+        "w": "accrementitial",
+        "p": "/accrementitial/",
+        "pos": "n",
+        "m": "accrementitial",
+        "ex": [
+          {
+            "e": "Study accrementitial.",
+            "c": "学习accrementitial。"
+          }
+        ]
+      },
+      {
+        "w": "accrementition",
+        "p": "/accrementition/",
+        "pos": "n",
+        "m": "accrementition",
+        "ex": [
+          {
+            "e": "Study accrementition.",
+            "c": "学习accrementition。"
+          }
+        ]
+      },
+      {
+        "w": "accrescence",
+        "p": "/accrescence/",
+        "pos": "n",
+        "m": "accrescence",
+        "ex": [
+          {
+            "e": "Study accrescence.",
+            "c": "学习accrescence。"
+          }
+        ]
+      },
+      {
+        "w": "accrescendi",
+        "p": "/accrescendi/",
+        "pos": "n",
+        "m": "accrescendi",
+        "ex": [
+          {
+            "e": "Study accrescendi.",
+            "c": "学习accrescendi。"
+          }
+        ]
+      },
+      {
+        "w": "accrescendo",
+        "p": "/accrescendo/",
+        "pos": "n",
+        "m": "accrescendo",
+        "ex": [
+          {
+            "e": "Study accrescendo.",
+            "c": "学习accrescendo。"
+          }
+        ]
+      },
+      {
+        "w": "accrete",
+        "p": "/accrete/",
+        "pos": "n",
+        "m": "accrete",
+        "ex": [
+          {
+            "e": "Study accrete.",
+            "c": "学习accrete。"
+          }
+        ]
+      },
+      {
+        "w": "accreting",
+        "p": "/accreting/",
+        "pos": "n",
+        "m": "accreting",
+        "ex": [
+          {
+            "e": "Study accreting.",
+            "c": "学习accreting。"
+          }
+        ]
+      },
+      {
+        "w": "accretion",
+        "p": "/accretion/",
+        "pos": "n",
+        "m": "accretion",
+        "ex": [
+          {
+            "e": "Study accretion.",
+            "c": "学习accretion。"
+          }
+        ]
+      },
+      {
+        "w": "accretionary",
+        "p": "/accretionary/",
+        "pos": "n",
+        "m": "accretionary",
+        "ex": [
+          {
+            "e": "Study accretionary.",
+            "c": "学习accretionary。"
+          }
+        ]
+      },
+      {
+        "w": "accretive",
+        "p": "/accretive/",
+        "pos": "n",
+        "m": "accretive",
+        "ex": [
+          {
+            "e": "Study accretive.",
+            "c": "学习accretive。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 48,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "accriminate",
+        "p": "/accriminate/",
+        "pos": "n",
+        "m": "accriminate",
+        "ex": [
+          {
+            "e": "Study accriminate.",
+            "c": "学习accriminate。"
+          }
+        ]
+      },
+      {
+        "w": "accroaching",
+        "p": "/accroaching/",
+        "pos": "n",
+        "m": "accroaching",
+        "ex": [
+          {
+            "e": "Study accroaching.",
+            "c": "学习accroaching。"
+          }
+        ]
+      },
+      {
+        "w": "accroachment",
+        "p": "/accroachment/",
+        "pos": "n",
+        "m": "accroachment",
+        "ex": [
+          {
+            "e": "Study accroachment.",
+            "c": "学习accroachment。"
+          }
+        ]
+      },
+      {
+        "w": "accroides",
+        "p": "/accroides/",
+        "pos": "n",
+        "m": "accroides",
+        "ex": [
+          {
+            "e": "Study accroides.",
+            "c": "学习accroides。"
+          }
+        ]
+      },
+      {
+        "w": "accruable",
+        "p": "/accruable/",
+        "pos": "n",
+        "m": "accruable",
+        "ex": [
+          {
+            "e": "Study accruable.",
+            "c": "学习accruable。"
+          }
+        ]
+      },
+      {
+        "w": "accrual",
+        "p": "/accrual/",
+        "pos": "n",
+        "m": "accrual",
+        "ex": [
+          {
+            "e": "Study accrual.",
+            "c": "学习accrual。"
+          }
+        ]
+      },
+      {
+        "w": "accrued",
+        "p": "/accrued/",
+        "pos": "n",
+        "m": "accrued",
+        "ex": [
+          {
+            "e": "Study accrued.",
+            "c": "学习accrued。"
+          }
+        ]
+      },
+      {
+        "w": "accruer",
+        "p": "/accruer/",
+        "pos": "n",
+        "m": "accruer",
+        "ex": [
+          {
+            "e": "Study accruer.",
+            "c": "学习accruer。"
+          }
+        ]
+      },
+      {
+        "w": "accrues",
+        "p": "/accrues/",
+        "pos": "n",
+        "m": "accrues",
+        "ex": [
+          {
+            "e": "Study accrues.",
+            "c": "学习accrues。"
+          }
+        ]
+      },
+      {
+        "w": "accubitum",
+        "p": "/accubitum/",
+        "pos": "n",
+        "m": "accubitum",
+        "ex": [
+          {
+            "e": "Study accubitum.",
+            "c": "学习accubitum。"
+          }
+        ]
+      },
+      {
+        "w": "accubitus",
+        "p": "/accubitus/",
+        "pos": "n",
+        "m": "accubitus",
+        "ex": [
+          {
+            "e": "Study accubitus.",
+            "c": "学习accubitus。"
+          }
+        ]
+      },
+      {
+        "w": "accueil",
+        "p": "/accueil/",
+        "pos": "n",
+        "m": "accueil",
+        "ex": [
+          {
+            "e": "Study accueil.",
+            "c": "学习accueil。"
+          }
+        ]
+      },
+      {
+        "w": "acculturate",
+        "p": "/acculturate/",
+        "pos": "n",
+        "m": "acculturate",
+        "ex": [
+          {
+            "e": "Study acculturate.",
+            "c": "学习acculturate。"
+          }
+        ]
+      },
+      {
+        "w": "acculturated",
+        "p": "/acculturated/",
+        "pos": "n",
+        "m": "acculturated",
+        "ex": [
+          {
+            "e": "Study acculturated.",
+            "c": "学习acculturated。"
+          }
+        ]
+      },
+      {
+        "w": "acculturates",
+        "p": "/acculturates/",
+        "pos": "n",
+        "m": "acculturates",
+        "ex": [
+          {
+            "e": "Study acculturates.",
+            "c": "学习acculturates。"
+          }
+        ]
+      },
+      {
+        "w": "acculturating",
+        "p": "/acculturating/",
+        "pos": "n",
+        "m": "acculturating",
+        "ex": [
+          {
+            "e": "Study acculturating.",
+            "c": "学习acculturating。"
+          }
+        ]
+      },
+      {
+        "w": "acculturation",
+        "p": "/acculturation/",
+        "pos": "n",
+        "m": "acculturation",
+        "ex": [
+          {
+            "e": "Study acculturation.",
+            "c": "学习acculturation。"
+          }
+        ]
+      },
+      {
+        "w": "acculturational",
+        "p": "/acculturational/",
+        "pos": "n",
+        "m": "acculturational",
+        "ex": [
+          {
+            "e": "Study acculturational.",
+            "c": "学习acculturational。"
+          }
+        ]
+      },
+      {
+        "w": "acculturative",
+        "p": "/acculturative/",
+        "pos": "n",
+        "m": "acculturative",
+        "ex": [
+          {
+            "e": "Study acculturative.",
+            "c": "学习acculturative。"
+          }
+        ]
+      },
+      {
+        "w": "acculturize",
+        "p": "/acculturize/",
+        "pos": "n",
+        "m": "acculturize",
+        "ex": [
+          {
+            "e": "Study acculturize.",
+            "c": "学习acculturize。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 49,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acculturized",
+        "p": "/acculturized/",
+        "pos": "n",
+        "m": "acculturized",
+        "ex": [
+          {
+            "e": "Study acculturized.",
+            "c": "学习acculturized。"
+          }
+        ]
+      },
+      {
+        "w": "acculturizing",
+        "p": "/acculturizing/",
+        "pos": "n",
+        "m": "acculturizing",
+        "ex": [
+          {
+            "e": "Study acculturizing.",
+            "c": "学习acculturizing。"
+          }
+        ]
+      },
+      {
+        "w": "accumbent",
+        "p": "/accumbent/",
+        "pos": "n",
+        "m": "accumbent",
+        "ex": [
+          {
+            "e": "Study accumbent.",
+            "c": "学习accumbent。"
+          }
+        ]
+      },
+      {
+        "w": "accumulable",
+        "p": "/accumulable/",
+        "pos": "n",
+        "m": "accumulable",
+        "ex": [
+          {
+            "e": "Study accumulable.",
+            "c": "学习accumulable。"
+          }
+        ]
+      },
+      {
+        "w": "accumulated",
+        "p": "/accumulated/",
+        "pos": "n",
+        "m": "accumulated",
+        "ex": [
+          {
+            "e": "Study accumulated.",
+            "c": "学习accumulated。"
+          }
+        ]
+      },
+      {
+        "w": "accumulates",
+        "p": "/accumulates/",
+        "pos": "n",
+        "m": "accumulates",
+        "ex": [
+          {
+            "e": "Study accumulates.",
+            "c": "学习accumulates。"
+          }
+        ]
+      },
+      {
+        "w": "accumulating",
+        "p": "/accumulating/",
+        "pos": "n",
+        "m": "accumulating",
+        "ex": [
+          {
+            "e": "Study accumulating.",
+            "c": "学习accumulating。"
+          }
+        ]
+      },
+      {
+        "w": "accumulation",
+        "p": "/accumulation/",
+        "pos": "n",
+        "m": "accumulation",
+        "ex": [
+          {
+            "e": "Study accumulation.",
+            "c": "学习accumulation。"
+          }
+        ]
+      },
+      {
+        "w": "accumulations",
+        "p": "/accumulations/",
+        "pos": "n",
+        "m": "accumulations",
+        "ex": [
+          {
+            "e": "Study accumulations.",
+            "c": "学习accumulations。"
+          }
+        ]
+      },
+      {
+        "w": "accumulativ",
+        "p": "/accumulativ/",
+        "pos": "n",
+        "m": "accumulativ",
+        "ex": [
+          {
+            "e": "Study accumulativ.",
+            "c": "学习accumulativ。"
+          }
+        ]
+      },
+      {
+        "w": "accumulative",
+        "p": "/accumulative/",
+        "pos": "n",
+        "m": "accumulative",
+        "ex": [
+          {
+            "e": "Study accumulative.",
+            "c": "学习accumulative。"
+          }
+        ]
+      },
+      {
+        "w": "accumulatively",
+        "p": "/accumulatively/",
+        "pos": "n",
+        "m": "accumulatively",
+        "ex": [
+          {
+            "e": "Study accumulatively.",
+            "c": "学习accumulatively。"
+          }
+        ]
+      },
+      {
+        "w": "accumulator",
+        "p": "/accumulator/",
+        "pos": "n",
+        "m": "accumulator",
+        "ex": [
+          {
+            "e": "Study accumulator.",
+            "c": "学习accumulator。"
+          }
+        ]
+      },
+      {
+        "w": "accumulators",
+        "p": "/accumulators/",
+        "pos": "n",
+        "m": "accumulators",
+        "ex": [
+          {
+            "e": "Study accumulators.",
+            "c": "学习accumulators。"
+          }
+        ]
+      },
+      {
+        "w": "accurateness",
+        "p": "/accurateness/",
+        "pos": "n",
+        "m": "accurateness",
+        "ex": [
+          {
+            "e": "Study accurateness.",
+            "c": "学习accurateness。"
+          }
+        ]
+      },
+      {
+        "w": "accurre",
+        "p": "/accurre/",
+        "pos": "n",
+        "m": "accurre",
+        "ex": [
+          {
+            "e": "Study accurre.",
+            "c": "学习accurre。"
+          }
+        ]
+      },
+      {
+        "w": "accurse",
+        "p": "/accurse/",
+        "pos": "n",
+        "m": "accurse",
+        "ex": [
+          {
+            "e": "Study accurse.",
+            "c": "学习accurse。"
+          }
+        ]
+      },
+      {
+        "w": "accursedness",
+        "p": "/accursedness/",
+        "pos": "n",
+        "m": "accursedness",
+        "ex": [
+          {
+            "e": "Study accursedness.",
+            "c": "学习accursedness。"
+          }
+        ]
+      },
+      {
+        "w": "accursing",
+        "p": "/accursing/",
+        "pos": "n",
+        "m": "accursing",
+        "ex": [
+          {
+            "e": "Study accursing.",
+            "c": "学习accursing。"
+          }
+        ]
+      },
+      {
+        "w": "accurst",
+        "p": "/accurst/",
+        "pos": "n",
+        "m": "accurst",
+        "ex": [
+          {
+            "e": "Study accurst.",
+            "c": "学习accurst。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 50,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "accurtation",
+        "p": "/accurtation/",
+        "pos": "n",
+        "m": "accurtation",
+        "ex": [
+          {
+            "e": "Study accurtation.",
+            "c": "学习accurtation。"
+          }
+        ]
+      },
+      {
+        "w": "accusable",
+        "p": "/accusable/",
+        "pos": "n",
+        "m": "accusable",
+        "ex": [
+          {
+            "e": "Study accusable.",
+            "c": "学习accusable。"
+          }
+        ]
+      },
+      {
+        "w": "accusably",
+        "p": "/accusably/",
+        "pos": "n",
+        "m": "accusably",
+        "ex": [
+          {
+            "e": "Study accusably.",
+            "c": "学习accusably。"
+          }
+        ]
+      },
+      {
+        "w": "accusal",
+        "p": "/accusal/",
+        "pos": "n",
+        "m": "accusal",
+        "ex": [
+          {
+            "e": "Study accusal.",
+            "c": "学习accusal。"
+          }
+        ]
+      },
+      {
+        "w": "accusants",
+        "p": "/accusants/",
+        "pos": "n",
+        "m": "accusants",
+        "ex": [
+          {
+            "e": "Study accusants.",
+            "c": "学习accusants。"
+          }
+        ]
+      },
+      {
+        "w": "accusations",
+        "p": "/accusations/",
+        "pos": "n",
+        "m": "accusations",
+        "ex": [
+          {
+            "e": "Study accusations.",
+            "c": "学习accusations。"
+          }
+        ]
+      },
+      {
+        "w": "accusatival",
+        "p": "/accusatival/",
+        "pos": "n",
+        "m": "accusatival",
+        "ex": [
+          {
+            "e": "Study accusatival.",
+            "c": "学习accusatival。"
+          }
+        ]
+      },
+      {
+        "w": "accusatively",
+        "p": "/accusatively/",
+        "pos": "n",
+        "m": "accusatively",
+        "ex": [
+          {
+            "e": "Study accusatively.",
+            "c": "学习accusatively。"
+          }
+        ]
+      },
+      {
+        "w": "accusativeness",
+        "p": "/accusativeness/",
+        "pos": "n",
+        "m": "accusativeness",
+        "ex": [
+          {
+            "e": "Study accusativeness.",
+            "c": "学习accusativeness。"
+          }
+        ]
+      },
+      {
+        "w": "accusatives",
+        "p": "/accusatives/",
+        "pos": "n",
+        "m": "accusatives",
+        "ex": [
+          {
+            "e": "Study accusatives.",
+            "c": "学习accusatives。"
+          }
+        ]
+      },
+      {
+        "w": "accusator",
+        "p": "/accusator/",
+        "pos": "n",
+        "m": "accusator",
+        "ex": [
+          {
+            "e": "Study accusator.",
+            "c": "学习accusator。"
+          }
+        ]
+      },
+      {
+        "w": "accusatorial",
+        "p": "/accusatorial/",
+        "pos": "n",
+        "m": "accusatorial",
+        "ex": [
+          {
+            "e": "Study accusatorial.",
+            "c": "学习accusatorial。"
+          }
+        ]
+      },
+      {
+        "w": "accusatorially",
+        "p": "/accusatorially/",
+        "pos": "n",
+        "m": "accusatorially",
+        "ex": [
+          {
+            "e": "Study accusatorially.",
+            "c": "学习accusatorially。"
+          }
+        ]
+      },
+      {
+        "w": "accusatrixes",
+        "p": "/accusatrixes/",
+        "pos": "n",
+        "m": "accusatrixes",
+        "ex": [
+          {
+            "e": "Study accusatrixes.",
+            "c": "学习accusatrixes。"
+          }
+        ]
+      },
+      {
+        "w": "accused",
+        "p": "/accused/",
+        "pos": "n",
+        "m": "accused",
+        "ex": [
+          {
+            "e": "Study accused.",
+            "c": "学习accused。"
+          }
+        ]
+      },
+      {
+        "w": "accuser",
+        "p": "/accuser/",
+        "pos": "n",
+        "m": "accuser",
+        "ex": [
+          {
+            "e": "Study accuser.",
+            "c": "学习accuser。"
+          }
+        ]
+      },
+      {
+        "w": "accuses",
+        "p": "/accuses/",
+        "pos": "n",
+        "m": "accuses",
+        "ex": [
+          {
+            "e": "Study accuses.",
+            "c": "学习accuses。"
+          }
+        ]
+      },
+      {
+        "w": "accusor",
+        "p": "/accusor/",
+        "pos": "n",
+        "m": "accusor",
+        "ex": [
+          {
+            "e": "Study accusor.",
+            "c": "学习accusor。"
+          }
+        ]
+      },
+      {
+        "w": "accustomation",
+        "p": "/accustomation/",
+        "pos": "n",
+        "m": "accustomation",
+        "ex": [
+          {
+            "e": "Study accustomation.",
+            "c": "学习accustomation。"
+          }
+        ]
+      },
+      {
+        "w": "accustomedly",
+        "p": "/accustomedly/",
+        "pos": "n",
+        "m": "accustomedly",
+        "ex": [
+          {
+            "e": "Study accustomedly.",
+            "c": "学习accustomedly。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 51,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "accustomedness",
+        "p": "/accustomedness/",
+        "pos": "n",
+        "m": "accustomedness",
+        "ex": [
+          {
+            "e": "Study accustomedness.",
+            "c": "学习accustomedness。"
+          }
+        ]
+      },
+      {
+        "w": "accustoming",
+        "p": "/accustoming/",
+        "pos": "n",
+        "m": "accustoming",
+        "ex": [
+          {
+            "e": "Study accustoming.",
+            "c": "学习accustoming。"
+          }
+        ]
+      },
+      {
+        "w": "accustomize",
+        "p": "/accustomize/",
+        "pos": "n",
+        "m": "accustomize",
+        "ex": [
+          {
+            "e": "Study accustomize.",
+            "c": "学习accustomize。"
+          }
+        ]
+      },
+      {
+        "w": "accustomized",
+        "p": "/accustomized/",
+        "pos": "n",
+        "m": "accustomized",
+        "ex": [
+          {
+            "e": "Study accustomized.",
+            "c": "学习accustomized。"
+          }
+        ]
+      },
+      {
+        "w": "accustomizing",
+        "p": "/accustomizing/",
+        "pos": "n",
+        "m": "accustomizing",
+        "ex": [
+          {
+            "e": "Study accustomizing.",
+            "c": "学习accustomizing。"
+          }
+        ]
+      },
+      {
+        "w": "accustoms",
+        "p": "/accustoms/",
+        "pos": "n",
+        "m": "accustoms",
+        "ex": [
+          {
+            "e": "Study accustoms.",
+            "c": "学习accustoms。"
+          }
+        ]
+      },
+      {
+        "w": "aceacenaphthene",
+        "p": "/aceacenaphthene/",
+        "pos": "n",
+        "m": "aceacenaphthene",
+        "ex": [
+          {
+            "e": "Study aceacenaphthene.",
+            "c": "学习aceacenaphthene。"
+          }
+        ]
+      },
+      {
+        "w": "aceanthrene",
+        "p": "/aceanthrene/",
+        "pos": "n",
+        "m": "aceanthrene",
+        "ex": [
+          {
+            "e": "Study aceanthrene.",
+            "c": "学习aceanthrene。"
+          }
+        ]
+      },
+      {
+        "w": "acecaffin",
+        "p": "/acecaffin/",
+        "pos": "n",
+        "m": "acecaffin",
+        "ex": [
+          {
+            "e": "Study acecaffin.",
+            "c": "学习acecaffin。"
+          }
+        ]
+      },
+      {
+        "w": "acediamin",
+        "p": "/acediamin/",
+        "pos": "n",
+        "m": "acediamin",
+        "ex": [
+          {
+            "e": "Study acediamin.",
+            "c": "学习acediamin。"
+          }
+        ]
+      },
+      {
+        "w": "acedias",
+        "p": "/acedias/",
+        "pos": "n",
+        "m": "acedias",
+        "ex": [
+          {
+            "e": "Study acedias.",
+            "c": "学习acedias。"
+          }
+        ]
+      },
+      {
+        "w": "aceldamas",
+        "p": "/aceldamas/",
+        "pos": "n",
+        "m": "aceldamas",
+        "ex": [
+          {
+            "e": "Study aceldamas.",
+            "c": "学习aceldamas。"
+          }
+        ]
+      },
+      {
+        "w": "acellular",
+        "p": "/acellular/",
+        "pos": "n",
+        "m": "acellular",
+        "ex": [
+          {
+            "e": "Study acellular.",
+            "c": "学习acellular。"
+          }
+        ]
+      },
+      {
+        "w": "acemila",
+        "p": "/acemila/",
+        "pos": "n",
+        "m": "acemila",
+        "ex": [
+          {
+            "e": "Study acemila.",
+            "c": "学习acemila。"
+          }
+        ]
+      },
+      {
+        "w": "acenaphthene",
+        "p": "/acenaphthene/",
+        "pos": "n",
+        "m": "acenaphthene",
+        "ex": [
+          {
+            "e": "Study acenaphthene.",
+            "c": "学习acenaphthene。"
+          }
+        ]
+      },
+      {
+        "w": "acenaphthenyl",
+        "p": "/acenaphthenyl/",
+        "pos": "n",
+        "m": "acenaphthenyl",
+        "ex": [
+          {
+            "e": "Study acenaphthenyl.",
+            "c": "学习acenaphthenyl。"
+          }
+        ]
+      },
+      {
+        "w": "acenaphthylene",
+        "p": "/acenaphthylene/",
+        "pos": "n",
+        "m": "acenaphthylene",
+        "ex": [
+          {
+            "e": "Study acenaphthylene.",
+            "c": "学习acenaphthylene。"
+          }
+        ]
+      },
+      {
+        "w": "acenesthesia",
+        "p": "/acenesthesia/",
+        "pos": "n",
+        "m": "acenesthesia",
+        "ex": [
+          {
+            "e": "Study acenesthesia.",
+            "c": "学习acenesthesia。"
+          }
+        ]
+      },
+      {
+        "w": "acensuada",
+        "p": "/acensuada/",
+        "pos": "n",
+        "m": "acensuada",
+        "ex": [
+          {
+            "e": "Study acensuada.",
+            "c": "学习acensuada。"
+          }
+        ]
+      },
+      {
+        "w": "acentrous",
+        "p": "/acentrous/",
+        "pos": "n",
+        "m": "acentrous",
+        "ex": [
+          {
+            "e": "Study acentrous.",
+            "c": "学习acentrous。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 52,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "aceologic",
+        "p": "/aceologic/",
+        "pos": "n",
+        "m": "aceologic",
+        "ex": [
+          {
+            "e": "Study aceologic.",
+            "c": "学习aceologic。"
+          }
+        ]
+      },
+      {
+        "w": "acephal",
+        "p": "/acephal/",
+        "pos": "n",
+        "m": "acephal",
+        "ex": [
+          {
+            "e": "Study acephal.",
+            "c": "学习acephal。"
+          }
+        ]
+      },
+      {
+        "w": "acephalan",
+        "p": "/acephalan/",
+        "pos": "n",
+        "m": "acephalan",
+        "ex": [
+          {
+            "e": "Study acephalan.",
+            "c": "学习acephalan。"
+          }
+        ]
+      },
+      {
+        "w": "acephalia",
+        "p": "/acephalia/",
+        "pos": "n",
+        "m": "acephalia",
+        "ex": [
+          {
+            "e": "Study acephalia.",
+            "c": "学习acephalia。"
+          }
+        ]
+      },
+      {
+        "w": "acephalocyst",
+        "p": "/acephalocyst/",
+        "pos": "n",
+        "m": "acephalocyst",
+        "ex": [
+          {
+            "e": "Study acephalocyst.",
+            "c": "学习acephalocyst。"
+          }
+        ]
+      },
+      {
+        "w": "acephalus",
+        "p": "/acephalus/",
+        "pos": "n",
+        "m": "acephalus",
+        "ex": [
+          {
+            "e": "Study acephalus.",
+            "c": "学习acephalus。"
+          }
+        ]
+      },
+      {
+        "w": "acepots",
+        "p": "/acepots/",
+        "pos": "n",
+        "m": "acepots",
+        "ex": [
+          {
+            "e": "Study acepots.",
+            "c": "学习acepots。"
+          }
+        ]
+      },
+      {
+        "w": "acequia",
+        "p": "/acequia/",
+        "pos": "n",
+        "m": "acequia",
+        "ex": [
+          {
+            "e": "Study acequia.",
+            "c": "学习acequia。"
+          }
+        ]
+      },
+      {
+        "w": "aceraceae",
+        "p": "/aceraceae/",
+        "pos": "n",
+        "m": "aceraceae",
+        "ex": [
+          {
+            "e": "Study aceraceae.",
+            "c": "学习aceraceae。"
+          }
+        ]
+      },
+      {
+        "w": "acerata",
+        "p": "/acerata/",
+        "pos": "n",
+        "m": "acerata",
+        "ex": [
+          {
+            "e": "Study acerata.",
+            "c": "学习acerata。"
+          }
+        ]
+      },
+      {
+        "w": "acerate",
+        "p": "/acerate/",
+        "pos": "n",
+        "m": "acerate",
+        "ex": [
+          {
+            "e": "Study acerate.",
+            "c": "学习acerate。"
+          }
+        ]
+      },
+      {
+        "w": "aceratherium",
+        "p": "/aceratherium/",
+        "pos": "n",
+        "m": "aceratherium",
+        "ex": [
+          {
+            "e": "Study aceratherium.",
+            "c": "学习aceratherium。"
+          }
+        ]
+      },
+      {
+        "w": "acerbas",
+        "p": "/acerbas/",
+        "pos": "n",
+        "m": "acerbas",
+        "ex": [
+          {
+            "e": "Study acerbas.",
+            "c": "学习acerbas。"
+          }
+        ]
+      },
+      {
+        "w": "acerbated",
+        "p": "/acerbated/",
+        "pos": "n",
+        "m": "acerbated",
+        "ex": [
+          {
+            "e": "Study acerbated.",
+            "c": "学习acerbated。"
+          }
+        ]
+      },
+      {
+        "w": "acerbates",
+        "p": "/acerbates/",
+        "pos": "n",
+        "m": "acerbates",
+        "ex": [
+          {
+            "e": "Study acerbates.",
+            "c": "学习acerbates。"
+          }
+        ]
+      },
+      {
+        "w": "acerber",
+        "p": "/acerber/",
+        "pos": "n",
+        "m": "acerber",
+        "ex": [
+          {
+            "e": "Study acerber.",
+            "c": "学习acerber。"
+          }
+        ]
+      },
+      {
+        "w": "acerbic",
+        "p": "/acerbic/",
+        "pos": "n",
+        "m": "acerbic",
+        "ex": [
+          {
+            "e": "Study acerbic.",
+            "c": "学习acerbic。"
+          }
+        ]
+      },
+      {
+        "w": "acerbically",
+        "p": "/acerbically/",
+        "pos": "n",
+        "m": "acerbically",
+        "ex": [
+          {
+            "e": "Study acerbically.",
+            "c": "学习acerbically。"
+          }
+        ]
+      },
+      {
+        "w": "acerbityacerose",
+        "p": "/acerbityacerose/",
+        "pos": "n",
+        "m": "acerbityacerose",
+        "ex": [
+          {
+            "e": "Study acerbityacerose.",
+            "c": "学习acerbityacerose。"
+          }
+        ]
+      },
+      {
+        "w": "acerbly",
+        "p": "/acerbly/",
+        "pos": "n",
+        "m": "acerbly",
+        "ex": [
+          {
+            "e": "Study acerbly.",
+            "c": "学习acerbly。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 53,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acerbophobia",
+        "p": "/acerbophobia/",
+        "pos": "n",
+        "m": "acerbophobia",
+        "ex": [
+          {
+            "e": "Study acerbophobia.",
+            "c": "学习acerbophobia。"
+          }
+        ]
+      },
+      {
+        "w": "acerdol",
+        "p": "/acerdol/",
+        "pos": "n",
+        "m": "acerdol",
+        "ex": [
+          {
+            "e": "Study acerdol.",
+            "c": "学习acerdol。"
+          }
+        ]
+      },
+      {
+        "w": "acerola",
+        "p": "/acerola/",
+        "pos": "n",
+        "m": "acerola",
+        "ex": [
+          {
+            "e": "Study acerola.",
+            "c": "学习acerola。"
+          }
+        ]
+      },
+      {
+        "w": "acerose",
+        "p": "/acerose/",
+        "pos": "n",
+        "m": "acerose",
+        "ex": [
+          {
+            "e": "Study acerose.",
+            "c": "学习acerose。"
+          }
+        ]
+      },
+      {
+        "w": "acerous",
+        "p": "/acerous/",
+        "pos": "n",
+        "m": "acerous",
+        "ex": [
+          {
+            "e": "Study acerous.",
+            "c": "学习acerous。"
+          }
+        ]
+      },
+      {
+        "w": "acerval",
+        "p": "/acerval/",
+        "pos": "n",
+        "m": "acerval",
+        "ex": [
+          {
+            "e": "Study acerval.",
+            "c": "学习acerval。"
+          }
+        ]
+      },
+      {
+        "w": "acervatim",
+        "p": "/acervatim/",
+        "pos": "n",
+        "m": "acervatim",
+        "ex": [
+          {
+            "e": "Study acervatim.",
+            "c": "学习acervatim。"
+          }
+        ]
+      },
+      {
+        "w": "acervulus",
+        "p": "/acervulus/",
+        "pos": "n",
+        "m": "acervulus",
+        "ex": [
+          {
+            "e": "Study acervulus.",
+            "c": "学习acervulus。"
+          }
+        ]
+      },
+      {
+        "w": "acescence",
+        "p": "/acescence/",
+        "pos": "n",
+        "m": "acescence",
+        "ex": [
+          {
+            "e": "Study acescence.",
+            "c": "学习acescence。"
+          }
+        ]
+      },
+      {
+        "w": "acescency",
+        "p": "/acescency/",
+        "pos": "n",
+        "m": "acescency",
+        "ex": [
+          {
+            "e": "Study acescency.",
+            "c": "学习acescency。"
+          }
+        ]
+      },
+      {
+        "w": "acescents",
+        "p": "/acescents/",
+        "pos": "n",
+        "m": "acescents",
+        "ex": [
+          {
+            "e": "Study acescents.",
+            "c": "学习acescents。"
+          }
+        ]
+      },
+      {
+        "w": "aceship",
+        "p": "/aceship/",
+        "pos": "n",
+        "m": "aceship",
+        "ex": [
+          {
+            "e": "Study aceship.",
+            "c": "学习aceship。"
+          }
+        ]
+      },
+      {
+        "w": "acesodyne",
+        "p": "/acesodyne/",
+        "pos": "n",
+        "m": "acesodyne",
+        "ex": [
+          {
+            "e": "Study acesodyne.",
+            "c": "学习acesodyne。"
+          }
+        ]
+      },
+      {
+        "w": "acesodynous",
+        "p": "/acesodynous/",
+        "pos": "n",
+        "m": "acesodynous",
+        "ex": [
+          {
+            "e": "Study acesodynous.",
+            "c": "学习acesodynous。"
+          }
+        ]
+      },
+      {
+        "w": "acestes",
+        "p": "/acestes/",
+        "pos": "n",
+        "m": "acestes",
+        "ex": [
+          {
+            "e": "Study acestes.",
+            "c": "学习acestes。"
+          }
+        ]
+      },
+      {
+        "w": "acetabula",
+        "p": "/acetabula/",
+        "pos": "n",
+        "m": "acetabula",
+        "ex": [
+          {
+            "e": "Study acetabula.",
+            "c": "学习acetabula。"
+          }
+        ]
+      },
+      {
+        "w": "acetabularia",
+        "p": "/acetabularia/",
+        "pos": "n",
+        "m": "acetabularia",
+        "ex": [
+          {
+            "e": "Study acetabularia.",
+            "c": "学习acetabularia。"
+          }
+        ]
+      },
+      {
+        "w": "acetabuliferous",
+        "p": "/acetabuliferous/",
+        "pos": "n",
+        "m": "acetabuliferous",
+        "ex": [
+          {
+            "e": "Study acetabuliferous.",
+            "c": "学习acetabuliferous。"
+          }
+        ]
+      },
+      {
+        "w": "acetabuliform",
+        "p": "/acetabuliform/",
+        "pos": "n",
+        "m": "acetabuliform",
+        "ex": [
+          {
+            "e": "Study acetabuliform.",
+            "c": "学习acetabuliform。"
+          }
+        ]
+      },
+      {
+        "w": "acetabulous",
+        "p": "/acetabulous/",
+        "pos": "n",
+        "m": "acetabulous",
+        "ex": [
+          {
+            "e": "Study acetabulous.",
+            "c": "学习acetabulous。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 54,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acetabulums",
+        "p": "/acetabulums/",
+        "pos": "n",
+        "m": "acetabulums",
+        "ex": [
+          {
+            "e": "Study acetabulums.",
+            "c": "学习acetabulums。"
+          }
+        ]
+      },
+      {
+        "w": "acetaldehydase",
+        "p": "/acetaldehydase/",
+        "pos": "n",
+        "m": "acetaldehydase",
+        "ex": [
+          {
+            "e": "Study acetaldehydase.",
+            "c": "学习acetaldehydase。"
+          }
+        ]
+      },
+      {
+        "w": "acetaldehyde",
+        "p": "/acetaldehyde/",
+        "pos": "n",
+        "m": "acetaldehyde",
+        "ex": [
+          {
+            "e": "Study acetaldehyde.",
+            "c": "学习acetaldehyde。"
+          }
+        ]
+      },
+      {
+        "w": "acetaldehydrase",
+        "p": "/acetaldehydrase/",
+        "pos": "n",
+        "m": "acetaldehydrase",
+        "ex": [
+          {
+            "e": "Study acetaldehydrase.",
+            "c": "学习acetaldehydrase。"
+          }
+        ]
+      },
+      {
+        "w": "acetaldol",
+        "p": "/acetaldol/",
+        "pos": "n",
+        "m": "acetaldol",
+        "ex": [
+          {
+            "e": "Study acetaldol.",
+            "c": "学习acetaldol。"
+          }
+        ]
+      },
+      {
+        "w": "acetalization",
+        "p": "/acetalization/",
+        "pos": "n",
+        "m": "acetalization",
+        "ex": [
+          {
+            "e": "Study acetalization.",
+            "c": "学习acetalization。"
+          }
+        ]
+      },
+      {
+        "w": "acetalize",
+        "p": "/acetalize/",
+        "pos": "n",
+        "m": "acetalize",
+        "ex": [
+          {
+            "e": "Study acetalize.",
+            "c": "学习acetalize。"
+          }
+        ]
+      },
+      {
+        "w": "acetals",
+        "p": "/acetals/",
+        "pos": "n",
+        "m": "acetals",
+        "ex": [
+          {
+            "e": "Study acetals.",
+            "c": "学习acetals。"
+          }
+        ]
+      },
+      {
+        "w": "acetamide",
+        "p": "/acetamide/",
+        "pos": "n",
+        "m": "acetamide",
+        "ex": [
+          {
+            "e": "Study acetamide.",
+            "c": "学习acetamide。"
+          }
+        ]
+      },
+      {
+        "w": "acetamidine",
+        "p": "/acetamidine/",
+        "pos": "n",
+        "m": "acetamidine",
+        "ex": [
+          {
+            "e": "Study acetamidine.",
+            "c": "学习acetamidine。"
+          }
+        ]
+      },
+      {
+        "w": "acetamido",
+        "p": "/acetamido/",
+        "pos": "n",
+        "m": "acetamido",
+        "ex": [
+          {
+            "e": "Study acetamido.",
+            "c": "学习acetamido。"
+          }
+        ]
+      },
+      {
+        "w": "acetamids",
+        "p": "/acetamids/",
+        "pos": "n",
+        "m": "acetamids",
+        "ex": [
+          {
+            "e": "Study acetamids.",
+            "c": "学习acetamids。"
+          }
+        ]
+      },
+      {
+        "w": "acetaminophen",
+        "p": "/acetaminophen/",
+        "pos": "n",
+        "m": "acetaminophen",
+        "ex": [
+          {
+            "e": "Study acetaminophen.",
+            "c": "学习acetaminophen。"
+          }
+        ]
+      },
+      {
+        "w": "acetanilide",
+        "p": "/acetanilide/",
+        "pos": "n",
+        "m": "acetanilide",
+        "ex": [
+          {
+            "e": "Study acetanilide.",
+            "c": "学习acetanilide。"
+          }
+        ]
+      },
+      {
+        "w": "acetanion",
+        "p": "/acetanion/",
+        "pos": "n",
+        "m": "acetanion",
+        "ex": [
+          {
+            "e": "Study acetanion.",
+            "c": "学习acetanion。"
+          }
+        ]
+      },
+      {
+        "w": "acetaniside",
+        "p": "/acetaniside/",
+        "pos": "n",
+        "m": "acetaniside",
+        "ex": [
+          {
+            "e": "Study acetaniside.",
+            "c": "学习acetaniside。"
+          }
+        ]
+      },
+      {
+        "w": "acetanisidide",
+        "p": "/acetanisidide/",
+        "pos": "n",
+        "m": "acetanisidide",
+        "ex": [
+          {
+            "e": "Study acetanisidide.",
+            "c": "学习acetanisidide。"
+          }
+        ]
+      },
+      {
+        "w": "acetanisidine",
+        "p": "/acetanisidine/",
+        "pos": "n",
+        "m": "acetanisidine",
+        "ex": [
+          {
+            "e": "Study acetanisidine.",
+            "c": "学习acetanisidine。"
+          }
+        ]
+      },
+      {
+        "w": "acetannin",
+        "p": "/acetannin/",
+        "pos": "n",
+        "m": "acetannin",
+        "ex": [
+          {
+            "e": "Study acetannin.",
+            "c": "学习acetannin。"
+          }
+        ]
+      },
+      {
+        "w": "acetars",
+        "p": "/acetars/",
+        "pos": "n",
+        "m": "acetars",
+        "ex": [
+          {
+            "e": "Study acetars.",
+            "c": "学习acetars。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 55,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acetary",
+        "p": "/acetary/",
+        "pos": "n",
+        "m": "acetary",
+        "ex": [
+          {
+            "e": "Study acetary.",
+            "c": "学习acetary。"
+          }
+        ]
+      },
+      {
+        "w": "acetate",
+        "p": "/acetate/",
+        "pos": "n",
+        "m": "acetate",
+        "ex": [
+          {
+            "e": "Study acetate.",
+            "c": "学习acetate。"
+          }
+        ]
+      },
+      {
+        "w": "acetation",
+        "p": "/acetation/",
+        "pos": "n",
+        "m": "acetation",
+        "ex": [
+          {
+            "e": "Study acetation.",
+            "c": "学习acetation。"
+          }
+        ]
+      },
+      {
+        "w": "acetazolamide",
+        "p": "/acetazolamide/",
+        "pos": "n",
+        "m": "acetazolamide",
+        "ex": [
+          {
+            "e": "Study acetazolamide.",
+            "c": "学习acetazolamide。"
+          }
+        ]
+      },
+      {
+        "w": "acetbromamide",
+        "p": "/acetbromamide/",
+        "pos": "n",
+        "m": "acetbromamide",
+        "ex": [
+          {
+            "e": "Study acetbromamide.",
+            "c": "学习acetbromamide。"
+          }
+        ]
+      },
+      {
+        "w": "acethydrazide",
+        "p": "/acethydrazide/",
+        "pos": "n",
+        "m": "acethydrazide",
+        "ex": [
+          {
+            "e": "Study acethydrazide.",
+            "c": "学习acethydrazide。"
+          }
+        ]
+      },
+      {
+        "w": "acetiam",
+        "p": "/acetiam/",
+        "pos": "n",
+        "m": "acetiam",
+        "ex": [
+          {
+            "e": "Study acetiam.",
+            "c": "学习acetiam。"
+          }
+        ]
+      },
+      {
+        "w": "acetification",
+        "p": "/acetification/",
+        "pos": "n",
+        "m": "acetification",
+        "ex": [
+          {
+            "e": "Study acetification.",
+            "c": "学习acetification。"
+          }
+        ]
+      },
+      {
+        "w": "acetified",
+        "p": "/acetified/",
+        "pos": "n",
+        "m": "acetified",
+        "ex": [
+          {
+            "e": "Study acetified.",
+            "c": "学习acetified。"
+          }
+        ]
+      },
+      {
+        "w": "acetifier",
+        "p": "/acetifier/",
+        "pos": "n",
+        "m": "acetifier",
+        "ex": [
+          {
+            "e": "Study acetifier.",
+            "c": "学习acetifier。"
+          }
+        ]
+      },
+      {
+        "w": "acetifies",
+        "p": "/acetifies/",
+        "pos": "n",
+        "m": "acetifies",
+        "ex": [
+          {
+            "e": "Study acetifies.",
+            "c": "学习acetifies。"
+          }
+        ]
+      },
+      {
+        "w": "acetify",
+        "p": "/acetify/",
+        "pos": "n",
+        "m": "acetify",
+        "ex": [
+          {
+            "e": "Study acetify.",
+            "c": "学习acetify。"
+          }
+        ]
+      },
+      {
+        "w": "acetimetric",
+        "p": "/acetimetric/",
+        "pos": "n",
+        "m": "acetimetric",
+        "ex": [
+          {
+            "e": "Study acetimetric.",
+            "c": "学习acetimetric。"
+          }
+        ]
+      },
+      {
+        "w": "acetine",
+        "p": "/acetine/",
+        "pos": "n",
+        "m": "acetine",
+        "ex": [
+          {
+            "e": "Study acetine.",
+            "c": "学习acetine。"
+          }
+        ]
+      },
+      {
+        "w": "acetins",
+        "p": "/acetins/",
+        "pos": "n",
+        "m": "acetins",
+        "ex": [
+          {
+            "e": "Study acetins.",
+            "c": "学习acetins。"
+          }
+        ]
+      },
+      {
+        "w": "acetite",
+        "p": "/acetite/",
+        "pos": "n",
+        "m": "acetite",
+        "ex": [
+          {
+            "e": "Study acetite.",
+            "c": "学习acetite。"
+          }
+        ]
+      },
+      {
+        "w": "acetize",
+        "p": "/acetize/",
+        "pos": "n",
+        "m": "acetize",
+        "ex": [
+          {
+            "e": "Study acetize.",
+            "c": "学习acetize。"
+          }
+        ]
+      },
+      {
+        "w": "acetnaphthalide",
+        "p": "/acetnaphthalide/",
+        "pos": "n",
+        "m": "acetnaphthalide",
+        "ex": [
+          {
+            "e": "Study acetnaphthalide.",
+            "c": "学习acetnaphthalide。"
+          }
+        ]
+      },
+      {
+        "w": "acetoacetate",
+        "p": "/acetoacetate/",
+        "pos": "n",
+        "m": "acetoacetate",
+        "ex": [
+          {
+            "e": "Study acetoacetate.",
+            "c": "学习acetoacetate。"
+          }
+        ]
+      },
+      {
+        "w": "acetoacetic",
+        "p": "/acetoacetic/",
+        "pos": "n",
+        "m": "acetoacetic",
+        "ex": [
+          {
+            "e": "Study acetoacetic.",
+            "c": "学习acetoacetic。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 56,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acetoarsenite",
+        "p": "/acetoarsenite/",
+        "pos": "n",
+        "m": "acetoarsenite",
+        "ex": [
+          {
+            "e": "Study acetoarsenite.",
+            "c": "学习acetoarsenite。"
+          }
+        ]
+      },
+      {
+        "w": "acetobacter",
+        "p": "/acetobacter/",
+        "pos": "n",
+        "m": "acetobacter",
+        "ex": [
+          {
+            "e": "Study acetobacter.",
+            "c": "学习acetobacter。"
+          }
+        ]
+      },
+      {
+        "w": "acetobenzoic",
+        "p": "/acetobenzoic/",
+        "pos": "n",
+        "m": "acetobenzoic",
+        "ex": [
+          {
+            "e": "Study acetobenzoic.",
+            "c": "学习acetobenzoic。"
+          }
+        ]
+      },
+      {
+        "w": "acetochloral",
+        "p": "/acetochloral/",
+        "pos": "n",
+        "m": "acetochloral",
+        "ex": [
+          {
+            "e": "Study acetochloral.",
+            "c": "学习acetochloral。"
+          }
+        ]
+      },
+      {
+        "w": "acetocinnamene",
+        "p": "/acetocinnamene/",
+        "pos": "n",
+        "m": "acetocinnamene",
+        "ex": [
+          {
+            "e": "Study acetocinnamene.",
+            "c": "学习acetocinnamene。"
+          }
+        ]
+      },
+      {
+        "w": "acetoin",
+        "p": "/acetoin/",
+        "pos": "n",
+        "m": "acetoin",
+        "ex": [
+          {
+            "e": "Study acetoin.",
+            "c": "学习acetoin。"
+          }
+        ]
+      },
+      {
+        "w": "acetometric",
+        "p": "/acetometric/",
+        "pos": "n",
+        "m": "acetometric",
+        "ex": [
+          {
+            "e": "Study acetometric.",
+            "c": "学习acetometric。"
+          }
+        ]
+      },
+      {
+        "w": "acetometrical",
+        "p": "/acetometrical/",
+        "pos": "n",
+        "m": "acetometrical",
+        "ex": [
+          {
+            "e": "Study acetometrical.",
+            "c": "学习acetometrical。"
+          }
+        ]
+      },
+      {
+        "w": "acetometrically",
+        "p": "/acetometrically/",
+        "pos": "n",
+        "m": "acetometrically",
+        "ex": [
+          {
+            "e": "Study acetometrically.",
+            "c": "学习acetometrically。"
+          }
+        ]
+      },
+      {
+        "w": "acetomorphin",
+        "p": "/acetomorphin/",
+        "pos": "n",
+        "m": "acetomorphin",
+        "ex": [
+          {
+            "e": "Study acetomorphin.",
+            "c": "学习acetomorphin。"
+          }
+        ]
+      },
+      {
+        "w": "acetomorphine",
+        "p": "/acetomorphine/",
+        "pos": "n",
+        "m": "acetomorphine",
+        "ex": [
+          {
+            "e": "Study acetomorphine.",
+            "c": "学习acetomorphine。"
+          }
+        ]
+      },
+      {
+        "w": "acetonaemia",
+        "p": "/acetonaemia/",
+        "pos": "n",
+        "m": "acetonaemia",
+        "ex": [
+          {
+            "e": "Study acetonaemia.",
+            "c": "学习acetonaemia。"
+          }
+        ]
+      },
+      {
+        "w": "acetonaemic",
+        "p": "/acetonaemic/",
+        "pos": "n",
+        "m": "acetonaemic",
+        "ex": [
+          {
+            "e": "Study acetonaemic.",
+            "c": "学习acetonaemic。"
+          }
+        ]
+      },
+      {
+        "w": "acetonaphthone",
+        "p": "/acetonaphthone/",
+        "pos": "n",
+        "m": "acetonaphthone",
+        "ex": [
+          {
+            "e": "Study acetonaphthone.",
+            "c": "学习acetonaphthone。"
+          }
+        ]
+      },
+      {
+        "w": "acetonate",
+        "p": "/acetonate/",
+        "pos": "n",
+        "m": "acetonate",
+        "ex": [
+          {
+            "e": "Study acetonate.",
+            "c": "学习acetonate。"
+          }
+        ]
+      },
+      {
+        "w": "acetonation",
+        "p": "/acetonation/",
+        "pos": "n",
+        "m": "acetonation",
+        "ex": [
+          {
+            "e": "Study acetonation.",
+            "c": "学习acetonation。"
+          }
+        ]
+      },
+      {
+        "w": "acetone",
+        "p": "/acetone/",
+        "pos": "n",
+        "m": "acetone",
+        "ex": [
+          {
+            "e": "Study acetone.",
+            "c": "学习acetone。"
+          }
+        ]
+      },
+      {
+        "w": "acetonitrile",
+        "p": "/acetonitrile/",
+        "pos": "n",
+        "m": "acetonitrile",
+        "ex": [
+          {
+            "e": "Study acetonitrile.",
+            "c": "学习acetonitrile。"
+          }
+        ]
+      },
+      {
+        "w": "acetonization",
+        "p": "/acetonization/",
+        "pos": "n",
+        "m": "acetonization",
+        "ex": [
+          {
+            "e": "Study acetonization.",
+            "c": "学习acetonization。"
+          }
+        ]
+      },
+      {
+        "w": "acetonize",
+        "p": "/acetonize/",
+        "pos": "n",
+        "m": "acetonize",
+        "ex": [
+          {
+            "e": "Study acetonize.",
+            "c": "学习acetonize。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 57,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acetonurometer",
+        "p": "/acetonurometer/",
+        "pos": "n",
+        "m": "acetonurometer",
+        "ex": [
+          {
+            "e": "Study acetonurometer.",
+            "c": "学习acetonurometer。"
+          }
+        ]
+      },
+      {
+        "w": "acetonylacetone",
+        "p": "/acetonylacetone/",
+        "pos": "n",
+        "m": "acetonylacetone",
+        "ex": [
+          {
+            "e": "Study acetonylacetone.",
+            "c": "学习acetonylacetone。"
+          }
+        ]
+      },
+      {
+        "w": "acetonylidene",
+        "p": "/acetonylidene/",
+        "pos": "n",
+        "m": "acetonylidene",
+        "ex": [
+          {
+            "e": "Study acetonylidene.",
+            "c": "学习acetonylidene。"
+          }
+        ]
+      },
+      {
+        "w": "acetophenetide",
+        "p": "/acetophenetide/",
+        "pos": "n",
+        "m": "acetophenetide",
+        "ex": [
+          {
+            "e": "Study acetophenetide.",
+            "c": "学习acetophenetide。"
+          }
+        ]
+      },
+      {
+        "w": "acetophenetidin",
+        "p": "/acetophenetidin/",
+        "pos": "n",
+        "m": "acetophenetidin",
+        "ex": [
+          {
+            "e": "Study acetophenetidin.",
+            "c": "学习acetophenetidin。"
+          }
+        ]
+      },
+      {
+        "w": "acetophenin",
+        "p": "/acetophenin/",
+        "pos": "n",
+        "m": "acetophenin",
+        "ex": [
+          {
+            "e": "Study acetophenin.",
+            "c": "学习acetophenin。"
+          }
+        ]
+      },
+      {
+        "w": "acetophenine",
+        "p": "/acetophenine/",
+        "pos": "n",
+        "m": "acetophenine",
+        "ex": [
+          {
+            "e": "Study acetophenine.",
+            "c": "学习acetophenine。"
+          }
+        ]
+      },
+      {
+        "w": "acetophenone",
+        "p": "/acetophenone/",
+        "pos": "n",
+        "m": "acetophenone",
+        "ex": [
+          {
+            "e": "Study acetophenone.",
+            "c": "学习acetophenone。"
+          }
+        ]
+      },
+      {
+        "w": "acetopiperone",
+        "p": "/acetopiperone/",
+        "pos": "n",
+        "m": "acetopiperone",
+        "ex": [
+          {
+            "e": "Study acetopiperone.",
+            "c": "学习acetopiperone。"
+          }
+        ]
+      },
+      {
+        "w": "acetopyrine",
+        "p": "/acetopyrine/",
+        "pos": "n",
+        "m": "acetopyrine",
+        "ex": [
+          {
+            "e": "Study acetopyrine.",
+            "c": "学习acetopyrine。"
+          }
+        ]
+      },
+      {
+        "w": "acetosalicylic",
+        "p": "/acetosalicylic/",
+        "pos": "n",
+        "m": "acetosalicylic",
+        "ex": [
+          {
+            "e": "Study acetosalicylic.",
+            "c": "学习acetosalicylic。"
+          }
+        ]
+      },
+      {
+        "w": "acetose",
+        "p": "/acetose/",
+        "pos": "n",
+        "m": "acetose",
+        "ex": [
+          {
+            "e": "Study acetose.",
+            "c": "学习acetose。"
+          }
+        ]
+      },
+      {
+        "w": "acetosity",
+        "p": "/acetosity/",
+        "pos": "n",
+        "m": "acetosity",
+        "ex": [
+          {
+            "e": "Study acetosity.",
+            "c": "学习acetosity。"
+          }
+        ]
+      },
+      {
+        "w": "acetosoluble",
+        "p": "/acetosoluble/",
+        "pos": "n",
+        "m": "acetosoluble",
+        "ex": [
+          {
+            "e": "Study acetosoluble.",
+            "c": "学习acetosoluble。"
+          }
+        ]
+      },
+      {
+        "w": "acetostearin",
+        "p": "/acetostearin/",
+        "pos": "n",
+        "m": "acetostearin",
+        "ex": [
+          {
+            "e": "Study acetostearin.",
+            "c": "学习acetostearin。"
+          }
+        ]
+      },
+      {
+        "w": "acetothienone",
+        "p": "/acetothienone/",
+        "pos": "n",
+        "m": "acetothienone",
+        "ex": [
+          {
+            "e": "Study acetothienone.",
+            "c": "学习acetothienone。"
+          }
+        ]
+      },
+      {
+        "w": "acetotoluid",
+        "p": "/acetotoluid/",
+        "pos": "n",
+        "m": "acetotoluid",
+        "ex": [
+          {
+            "e": "Study acetotoluid.",
+            "c": "学习acetotoluid。"
+          }
+        ]
+      },
+      {
+        "w": "acetotoluide",
+        "p": "/acetotoluide/",
+        "pos": "n",
+        "m": "acetotoluide",
+        "ex": [
+          {
+            "e": "Study acetotoluide.",
+            "c": "学习acetotoluide。"
+          }
+        ]
+      },
+      {
+        "w": "acetotoluidine",
+        "p": "/acetotoluidine/",
+        "pos": "n",
+        "m": "acetotoluidine",
+        "ex": [
+          {
+            "e": "Study acetotoluidine.",
+            "c": "学习acetotoluidine。"
+          }
+        ]
+      },
+      {
+        "w": "acetous",
+        "p": "/acetous/",
+        "pos": "n",
+        "m": "acetous",
+        "ex": [
+          {
+            "e": "Study acetous.",
+            "c": "学习acetous。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 58,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acetoveratrone",
+        "p": "/acetoveratrone/",
+        "pos": "n",
+        "m": "acetoveratrone",
+        "ex": [
+          {
+            "e": "Study acetoveratrone.",
+            "c": "学习acetoveratrone。"
+          }
+        ]
+      },
+      {
+        "w": "acetoxime",
+        "p": "/acetoxime/",
+        "pos": "n",
+        "m": "acetoxime",
+        "ex": [
+          {
+            "e": "Study acetoxime.",
+            "c": "学习acetoxime。"
+          }
+        ]
+      },
+      {
+        "w": "acetoxyls",
+        "p": "/acetoxyls/",
+        "pos": "n",
+        "m": "acetoxyls",
+        "ex": [
+          {
+            "e": "Study acetoxyls.",
+            "c": "学习acetoxyls。"
+          }
+        ]
+      },
+      {
+        "w": "acetphenetid",
+        "p": "/acetphenetid/",
+        "pos": "n",
+        "m": "acetphenetid",
+        "ex": [
+          {
+            "e": "Study acetphenetid.",
+            "c": "学习acetphenetid。"
+          }
+        ]
+      },
+      {
+        "w": "acetphenetidin",
+        "p": "/acetphenetidin/",
+        "pos": "n",
+        "m": "acetphenetidin",
+        "ex": [
+          {
+            "e": "Study acetphenetidin.",
+            "c": "学习acetphenetidin。"
+          }
+        ]
+      },
+      {
+        "w": "acettoluide",
+        "p": "/acettoluide/",
+        "pos": "n",
+        "m": "acettoluide",
+        "ex": [
+          {
+            "e": "Study acettoluide.",
+            "c": "学习acettoluide。"
+          }
+        ]
+      },
+      {
+        "w": "acetylacetone",
+        "p": "/acetylacetone/",
+        "pos": "n",
+        "m": "acetylacetone",
+        "ex": [
+          {
+            "e": "Study acetylacetone.",
+            "c": "学习acetylacetone。"
+          }
+        ]
+      },
+      {
+        "w": "acetylamine",
+        "p": "/acetylamine/",
+        "pos": "n",
+        "m": "acetylamine",
+        "ex": [
+          {
+            "e": "Study acetylamine.",
+            "c": "学习acetylamine。"
+          }
+        ]
+      },
+      {
+        "w": "acetylaniline",
+        "p": "/acetylaniline/",
+        "pos": "n",
+        "m": "acetylaniline",
+        "ex": [
+          {
+            "e": "Study acetylaniline.",
+            "c": "学习acetylaniline。"
+          }
+        ]
+      },
+      {
+        "w": "acetylate",
+        "p": "/acetylate/",
+        "pos": "n",
+        "m": "acetylate",
+        "ex": [
+          {
+            "e": "Study acetylate.",
+            "c": "学习acetylate。"
+          }
+        ]
+      },
+      {
+        "w": "acetylating",
+        "p": "/acetylating/",
+        "pos": "n",
+        "m": "acetylating",
+        "ex": [
+          {
+            "e": "Study acetylating.",
+            "c": "学习acetylating。"
+          }
+        ]
+      },
+      {
+        "w": "acetylation",
+        "p": "/acetylation/",
+        "pos": "n",
+        "m": "acetylation",
+        "ex": [
+          {
+            "e": "Study acetylation.",
+            "c": "学习acetylation。"
+          }
+        ]
+      },
+      {
+        "w": "acetylative",
+        "p": "/acetylative/",
+        "pos": "n",
+        "m": "acetylative",
+        "ex": [
+          {
+            "e": "Study acetylative.",
+            "c": "学习acetylative。"
+          }
+        ]
+      },
+      {
+        "w": "acetylbenzene",
+        "p": "/acetylbenzene/",
+        "pos": "n",
+        "m": "acetylbenzene",
+        "ex": [
+          {
+            "e": "Study acetylbenzene.",
+            "c": "学习acetylbenzene。"
+          }
+        ]
+      },
+      {
+        "w": "acetylbenzoate",
+        "p": "/acetylbenzoate/",
+        "pos": "n",
+        "m": "acetylbenzoate",
+        "ex": [
+          {
+            "e": "Study acetylbenzoate.",
+            "c": "学习acetylbenzoate。"
+          }
+        ]
+      },
+      {
+        "w": "acetylbenzoic",
+        "p": "/acetylbenzoic/",
+        "pos": "n",
+        "m": "acetylbenzoic",
+        "ex": [
+          {
+            "e": "Study acetylbenzoic.",
+            "c": "学习acetylbenzoic。"
+          }
+        ]
+      },
+      {
+        "w": "acetylbiuret",
+        "p": "/acetylbiuret/",
+        "pos": "n",
+        "m": "acetylbiuret",
+        "ex": [
+          {
+            "e": "Study acetylbiuret.",
+            "c": "学习acetylbiuret。"
+          }
+        ]
+      },
+      {
+        "w": "acetylcarbazole",
+        "p": "/acetylcarbazole/",
+        "pos": "n",
+        "m": "acetylcarbazole",
+        "ex": [
+          {
+            "e": "Study acetylcarbazole.",
+            "c": "学习acetylcarbazole。"
+          }
+        ]
+      },
+      {
+        "w": "acetylcellulose",
+        "p": "/acetylcellulose/",
+        "pos": "n",
+        "m": "acetylcellulose",
+        "ex": [
+          {
+            "e": "Study acetylcellulose.",
+            "c": "学习acetylcellulose。"
+          }
+        ]
+      },
+      {
+        "w": "acetylcholine",
+        "p": "/acetylcholine/",
+        "pos": "n",
+        "m": "acetylcholine",
+        "ex": [
+          {
+            "e": "Study acetylcholine.",
+            "c": "学习acetylcholine。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 59,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acetylcholinic",
+        "p": "/acetylcholinic/",
+        "pos": "n",
+        "m": "acetylcholinic",
+        "ex": [
+          {
+            "e": "Study acetylcholinic.",
+            "c": "学习acetylcholinic。"
+          }
+        ]
+      },
+      {
+        "w": "acetylcyanide",
+        "p": "/acetylcyanide/",
+        "pos": "n",
+        "m": "acetylcyanide",
+        "ex": [
+          {
+            "e": "Study acetylcyanide.",
+            "c": "学习acetylcyanide。"
+          }
+        ]
+      },
+      {
+        "w": "acetylenation",
+        "p": "/acetylenation/",
+        "pos": "n",
+        "m": "acetylenation",
+        "ex": [
+          {
+            "e": "Study acetylenation.",
+            "c": "学习acetylenation。"
+          }
+        ]
+      },
+      {
+        "w": "acetylene",
+        "p": "/acetylene/",
+        "pos": "n",
+        "m": "acetylene",
+        "ex": [
+          {
+            "e": "Study acetylene.",
+            "c": "学习acetylene。"
+          }
+        ]
+      },
+      {
+        "w": "acetylenogen",
+        "p": "/acetylenogen/",
+        "pos": "n",
+        "m": "acetylenogen",
+        "ex": [
+          {
+            "e": "Study acetylenogen.",
+            "c": "学习acetylenogen。"
+          }
+        ]
+      },
+      {
+        "w": "acetylfluoride",
+        "p": "/acetylfluoride/",
+        "pos": "n",
+        "m": "acetylfluoride",
+        "ex": [
+          {
+            "e": "Study acetylfluoride.",
+            "c": "学习acetylfluoride。"
+          }
+        ]
+      },
+      {
+        "w": "acetylglycin",
+        "p": "/acetylglycin/",
+        "pos": "n",
+        "m": "acetylglycin",
+        "ex": [
+          {
+            "e": "Study acetylglycin.",
+            "c": "学习acetylglycin。"
+          }
+        ]
+      },
+      {
+        "w": "acetylglycine",
+        "p": "/acetylglycine/",
+        "pos": "n",
+        "m": "acetylglycine",
+        "ex": [
+          {
+            "e": "Study acetylglycine.",
+            "c": "学习acetylglycine。"
+          }
+        ]
+      },
+      {
+        "w": "acetylhydrazine",
+        "p": "/acetylhydrazine/",
+        "pos": "n",
+        "m": "acetylhydrazine",
+        "ex": [
+          {
+            "e": "Study acetylhydrazine.",
+            "c": "学习acetylhydrazine。"
+          }
+        ]
+      },
+      {
+        "w": "acetylide",
+        "p": "/acetylide/",
+        "pos": "n",
+        "m": "acetylide",
+        "ex": [
+          {
+            "e": "Study acetylide.",
+            "c": "学习acetylide。"
+          }
+        ]
+      },
+      {
+        "w": "acetyliodide",
+        "p": "/acetyliodide/",
+        "pos": "n",
+        "m": "acetyliodide",
+        "ex": [
+          {
+            "e": "Study acetyliodide.",
+            "c": "学习acetyliodide。"
+          }
+        ]
+      },
+      {
+        "w": "acetylizable",
+        "p": "/acetylizable/",
+        "pos": "n",
+        "m": "acetylizable",
+        "ex": [
+          {
+            "e": "Study acetylizable.",
+            "c": "学习acetylizable。"
+          }
+        ]
+      },
+      {
+        "w": "acetylization",
+        "p": "/acetylization/",
+        "pos": "n",
+        "m": "acetylization",
+        "ex": [
+          {
+            "e": "Study acetylization.",
+            "c": "学习acetylization。"
+          }
+        ]
+      },
+      {
+        "w": "acetylize",
+        "p": "/acetylize/",
+        "pos": "n",
+        "m": "acetylize",
+        "ex": [
+          {
+            "e": "Study acetylize.",
+            "c": "学习acetylize。"
+          }
+        ]
+      },
+      {
+        "w": "acetylizing",
+        "p": "/acetylizing/",
+        "pos": "n",
+        "m": "acetylizing",
+        "ex": [
+          {
+            "e": "Study acetylizing.",
+            "c": "学习acetylizing。"
+          }
+        ]
+      },
+      {
+        "w": "acetylperoxide",
+        "p": "/acetylperoxide/",
+        "pos": "n",
+        "m": "acetylperoxide",
+        "ex": [
+          {
+            "e": "Study acetylperoxide.",
+            "c": "学习acetylperoxide。"
+          }
+        ]
+      },
+      {
+        "w": "acetylphenol",
+        "p": "/acetylphenol/",
+        "pos": "n",
+        "m": "acetylphenol",
+        "ex": [
+          {
+            "e": "Study acetylphenol.",
+            "c": "学习acetylphenol。"
+          }
+        ]
+      },
+      {
+        "w": "acetyls",
+        "p": "/acetyls/",
+        "pos": "n",
+        "m": "acetyls",
+        "ex": [
+          {
+            "e": "Study acetyls.",
+            "c": "学习acetyls。"
+          }
+        ]
+      },
+      {
+        "w": "acetylsalicylic",
+        "p": "/acetylsalicylic/",
+        "pos": "n",
+        "m": "acetylsalicylic",
+        "ex": [
+          {
+            "e": "Study acetylsalicylic.",
+            "c": "学习acetylsalicylic。"
+          }
+        ]
+      },
+      {
+        "w": "acetylsalol",
+        "p": "/acetylsalol/",
+        "pos": "n",
+        "m": "acetylsalol",
+        "ex": [
+          {
+            "e": "Study acetylsalol.",
+            "c": "学习acetylsalol。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 60,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acetyltannin",
+        "p": "/acetyltannin/",
+        "pos": "n",
+        "m": "acetyltannin",
+        "ex": [
+          {
+            "e": "Study acetyltannin.",
+            "c": "学习acetyltannin。"
+          }
+        ]
+      },
+      {
+        "w": "acetylthymol",
+        "p": "/acetylthymol/",
+        "pos": "n",
+        "m": "acetylthymol",
+        "ex": [
+          {
+            "e": "Study acetylthymol.",
+            "c": "学习acetylthymol。"
+          }
+        ]
+      },
+      {
+        "w": "acetyltropeine",
+        "p": "/acetyltropeine/",
+        "pos": "n",
+        "m": "acetyltropeine",
+        "ex": [
+          {
+            "e": "Study acetyltropeine.",
+            "c": "学习acetyltropeine。"
+          }
+        ]
+      },
+      {
+        "w": "achaean",
+        "p": "/achaean/",
+        "pos": "n",
+        "m": "achaean",
+        "ex": [
+          {
+            "e": "Study achaean.",
+            "c": "学习achaean。"
+          }
+        ]
+      },
+      {
+        "w": "achaemenian",
+        "p": "/achaemenian/",
+        "pos": "n",
+        "m": "achaemenian",
+        "ex": [
+          {
+            "e": "Study achaemenian.",
+            "c": "学习achaemenian。"
+          }
+        ]
+      },
+      {
+        "w": "achaemenidae",
+        "p": "/achaemenidae/",
+        "pos": "n",
+        "m": "achaemenidae",
+        "ex": [
+          {
+            "e": "Study achaemenidae.",
+            "c": "学习achaemenidae。"
+          }
+        ]
+      },
+      {
+        "w": "achaemenidian",
+        "p": "/achaemenidian/",
+        "pos": "n",
+        "m": "achaemenidian",
+        "ex": [
+          {
+            "e": "Study achaemenidian.",
+            "c": "学习achaemenidian。"
+          }
+        ]
+      },
+      {
+        "w": "achaenocarp",
+        "p": "/achaenocarp/",
+        "pos": "n",
+        "m": "achaenocarp",
+        "ex": [
+          {
+            "e": "Study achaenocarp.",
+            "c": "学习achaenocarp。"
+          }
+        ]
+      },
+      {
+        "w": "achaeta",
+        "p": "/achaeta/",
+        "pos": "n",
+        "m": "achaeta",
+        "ex": [
+          {
+            "e": "Study achaeta.",
+            "c": "学习achaeta。"
+          }
+        ]
+      },
+      {
+        "w": "achaetous",
+        "p": "/achaetous/",
+        "pos": "n",
+        "m": "achaetous",
+        "ex": [
+          {
+            "e": "Study achaetous.",
+            "c": "学习achaetous。"
+          }
+        ]
+      },
+      {
+        "w": "achagua",
+        "p": "/achagua/",
+        "pos": "n",
+        "m": "achagua",
+        "ex": [
+          {
+            "e": "Study achagua.",
+            "c": "学习achagua。"
+          }
+        ]
+      },
+      {
+        "w": "achalasia",
+        "p": "/achalasia/",
+        "pos": "n",
+        "m": "achalasia",
+        "ex": [
+          {
+            "e": "Study achalasia.",
+            "c": "学习achalasia。"
+          }
+        ]
+      },
+      {
+        "w": "achango",
+        "p": "/achango/",
+        "pos": "n",
+        "m": "achango",
+        "ex": [
+          {
+            "e": "Study achango.",
+            "c": "学习achango。"
+          }
+        ]
+      },
+      {
+        "w": "achaque",
+        "p": "/achaque/",
+        "pos": "n",
+        "m": "achaque",
+        "ex": [
+          {
+            "e": "Study achaque.",
+            "c": "学习achaque。"
+          }
+        ]
+      },
+      {
+        "w": "achariaceae",
+        "p": "/achariaceae/",
+        "pos": "n",
+        "m": "achariaceae",
+        "ex": [
+          {
+            "e": "Study achariaceae.",
+            "c": "学习achariaceae。"
+          }
+        ]
+      },
+      {
+        "w": "achariaceous",
+        "p": "/achariaceous/",
+        "pos": "n",
+        "m": "achariaceous",
+        "ex": [
+          {
+            "e": "Study achariaceous.",
+            "c": "学习achariaceous。"
+          }
+        ]
+      },
+      {
+        "w": "acharne",
+        "p": "/acharne/",
+        "pos": "n",
+        "m": "acharne",
+        "ex": [
+          {
+            "e": "Study acharne.",
+            "c": "学习acharne。"
+          }
+        ]
+      },
+      {
+        "w": "acharnement",
+        "p": "/acharnement/",
+        "pos": "n",
+        "m": "acharnement",
+        "ex": [
+          {
+            "e": "Study acharnement.",
+            "c": "学习acharnement。"
+          }
+        ]
+      },
+      {
+        "w": "acharya",
+        "p": "/acharya/",
+        "pos": "n",
+        "m": "acharya",
+        "ex": [
+          {
+            "e": "Study acharya.",
+            "c": "学习acharya。"
+          }
+        ]
+      },
+      {
+        "w": "achates",
+        "p": "/achates/",
+        "pos": "n",
+        "m": "achates",
+        "ex": [
+          {
+            "e": "Study achates.",
+            "c": "学习achates。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 61,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "achatinella",
+        "p": "/achatinella/",
+        "pos": "n",
+        "m": "achatinella",
+        "ex": [
+          {
+            "e": "Study achatinella.",
+            "c": "学习achatinella。"
+          }
+        ]
+      },
+      {
+        "w": "achatinidae",
+        "p": "/achatinidae/",
+        "pos": "n",
+        "m": "achatinidae",
+        "ex": [
+          {
+            "e": "Study achatinidae.",
+            "c": "学习achatinidae。"
+          }
+        ]
+      },
+      {
+        "w": "acheilary",
+        "p": "/acheilary/",
+        "pos": "n",
+        "m": "acheilary",
+        "ex": [
+          {
+            "e": "Study acheilary.",
+            "c": "学习acheilary。"
+          }
+        ]
+      },
+      {
+        "w": "acheilous",
+        "p": "/acheilous/",
+        "pos": "n",
+        "m": "acheilous",
+        "ex": [
+          {
+            "e": "Study acheilous.",
+            "c": "学习acheilous。"
+          }
+        ]
+      },
+      {
+        "w": "acheirous",
+        "p": "/acheirous/",
+        "pos": "n",
+        "m": "acheirous",
+        "ex": [
+          {
+            "e": "Study acheirous.",
+            "c": "学习acheirous。"
+          }
+        ]
+      },
+      {
+        "w": "achenes",
+        "p": "/achenes/",
+        "pos": "n",
+        "m": "achenes",
+        "ex": [
+          {
+            "e": "Study achenes.",
+            "c": "学习achenes。"
+          }
+        ]
+      },
+      {
+        "w": "achenia",
+        "p": "/achenia/",
+        "pos": "n",
+        "m": "achenia",
+        "ex": [
+          {
+            "e": "Study achenia.",
+            "c": "学习achenia。"
+          }
+        ]
+      },
+      {
+        "w": "achenodia",
+        "p": "/achenodia/",
+        "pos": "n",
+        "m": "achenodia",
+        "ex": [
+          {
+            "e": "Study achenodia.",
+            "c": "学习achenodia。"
+          }
+        ]
+      },
+      {
+        "w": "acheron",
+        "p": "/acheron/",
+        "pos": "n",
+        "m": "acheron",
+        "ex": [
+          {
+            "e": "Study acheron.",
+            "c": "学习acheron。"
+          }
+        ]
+      },
+      {
+        "w": "acherontical",
+        "p": "/acherontical/",
+        "pos": "n",
+        "m": "acherontical",
+        "ex": [
+          {
+            "e": "Study acherontical.",
+            "c": "学习acherontical。"
+          }
+        ]
+      },
+      {
+        "w": "achetidae",
+        "p": "/achetidae/",
+        "pos": "n",
+        "m": "achetidae",
+        "ex": [
+          {
+            "e": "Study achetidae.",
+            "c": "学习achetidae。"
+          }
+        ]
+      },
+      {
+        "w": "acheulean",
+        "p": "/acheulean/",
+        "pos": "n",
+        "m": "acheulean",
+        "ex": [
+          {
+            "e": "Study acheulean.",
+            "c": "学习acheulean。"
+          }
+        ]
+      },
+      {
+        "w": "achiest",
+        "p": "/achiest/",
+        "pos": "n",
+        "m": "achiest",
+        "ex": [
+          {
+            "e": "Study achiest.",
+            "c": "学习achiest。"
+          }
+        ]
+      },
+      {
+        "w": "achievability",
+        "p": "/achievability/",
+        "pos": "n",
+        "m": "achievability",
+        "ex": [
+          {
+            "e": "Study achievability.",
+            "c": "学习achievability。"
+          }
+        ]
+      },
+      {
+        "w": "achievement",
+        "p": "/achievement/",
+        "pos": "n",
+        "m": "achievement",
+        "ex": [
+          {
+            "e": "Study achievement.",
+            "c": "学习achievement。"
+          }
+        ]
+      },
+      {
+        "w": "achievements",
+        "p": "/achievements/",
+        "pos": "n",
+        "m": "achievements",
+        "ex": [
+          {
+            "e": "Study achievements.",
+            "c": "学习achievements。"
+          }
+        ]
+      },
+      {
+        "w": "achievers",
+        "p": "/achievers/",
+        "pos": "n",
+        "m": "achievers",
+        "ex": [
+          {
+            "e": "Study achievers.",
+            "c": "学习achievers。"
+          }
+        ]
+      },
+      {
+        "w": "achieving",
+        "p": "/achieving/",
+        "pos": "n",
+        "m": "achieving",
+        "ex": [
+          {
+            "e": "Study achieving.",
+            "c": "学习achieving。"
+          }
+        ]
+      },
+      {
+        "w": "achigan",
+        "p": "/achigan/",
+        "pos": "n",
+        "m": "achigan",
+        "ex": [
+          {
+            "e": "Study achigan.",
+            "c": "学习achigan。"
+          }
+        ]
+      },
+      {
+        "w": "achillean",
+        "p": "/achillean/",
+        "pos": "n",
+        "m": "achillean",
+        "ex": [
+          {
+            "e": "Study achillean.",
+            "c": "学习achillean。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 62,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "achilleas",
+        "p": "/achilleas/",
+        "pos": "n",
+        "m": "achilleas",
+        "ex": [
+          {
+            "e": "Study achilleas.",
+            "c": "学习achilleas。"
+          }
+        ]
+      },
+      {
+        "w": "achilleid",
+        "p": "/achilleid/",
+        "pos": "n",
+        "m": "achilleid",
+        "ex": [
+          {
+            "e": "Study achilleid.",
+            "c": "学习achilleid。"
+          }
+        ]
+      },
+      {
+        "w": "achillein",
+        "p": "/achillein/",
+        "pos": "n",
+        "m": "achillein",
+        "ex": [
+          {
+            "e": "Study achillein.",
+            "c": "学习achillein。"
+          }
+        ]
+      },
+      {
+        "w": "achillize",
+        "p": "/achillize/",
+        "pos": "n",
+        "m": "achillize",
+        "ex": [
+          {
+            "e": "Study achillize.",
+            "c": "学习achillize。"
+          }
+        ]
+      },
+      {
+        "w": "achillobursitis",
+        "p": "/achillobursitis/",
+        "pos": "n",
+        "m": "achillobursitis",
+        "ex": [
+          {
+            "e": "Study achillobursitis.",
+            "c": "学习achillobursitis。"
+          }
+        ]
+      },
+      {
+        "w": "achillodynia",
+        "p": "/achillodynia/",
+        "pos": "n",
+        "m": "achillodynia",
+        "ex": [
+          {
+            "e": "Study achillodynia.",
+            "c": "学习achillodynia。"
+          }
+        ]
+      },
+      {
+        "w": "achimenes",
+        "p": "/achimenes/",
+        "pos": "n",
+        "m": "achimenes",
+        "ex": [
+          {
+            "e": "Study achimenes.",
+            "c": "学习achimenes。"
+          }
+        ]
+      },
+      {
+        "w": "achiote",
+        "p": "/achiote/",
+        "pos": "n",
+        "m": "achiote",
+        "ex": [
+          {
+            "e": "Study achiote.",
+            "c": "学习achiote。"
+          }
+        ]
+      },
+      {
+        "w": "achlamydate",
+        "p": "/achlamydate/",
+        "pos": "n",
+        "m": "achlamydate",
+        "ex": [
+          {
+            "e": "Study achlamydate.",
+            "c": "学习achlamydate。"
+          }
+        ]
+      },
+      {
+        "w": "achlamydeae",
+        "p": "/achlamydeae/",
+        "pos": "n",
+        "m": "achlamydeae",
+        "ex": [
+          {
+            "e": "Study achlamydeae.",
+            "c": "学习achlamydeae。"
+          }
+        ]
+      },
+      {
+        "w": "achlamydeous",
+        "p": "/achlamydeous/",
+        "pos": "n",
+        "m": "achlamydeous",
+        "ex": [
+          {
+            "e": "Study achlamydeous.",
+            "c": "学习achlamydeous。"
+          }
+        ]
+      },
+      {
+        "w": "achlorhydria",
+        "p": "/achlorhydria/",
+        "pos": "n",
+        "m": "achlorhydria",
+        "ex": [
+          {
+            "e": "Study achlorhydria.",
+            "c": "学习achlorhydria。"
+          }
+        ]
+      },
+      {
+        "w": "achlorhydric",
+        "p": "/achlorhydric/",
+        "pos": "n",
+        "m": "achlorhydric",
+        "ex": [
+          {
+            "e": "Study achlorhydric.",
+            "c": "学习achlorhydric。"
+          }
+        ]
+      },
+      {
+        "w": "achlorophyllous",
+        "p": "/achlorophyllous/",
+        "pos": "n",
+        "m": "achlorophyllous",
+        "ex": [
+          {
+            "e": "Study achlorophyllous.",
+            "c": "学习achlorophyllous。"
+          }
+        ]
+      },
+      {
+        "w": "achloropsia",
+        "p": "/achloropsia/",
+        "pos": "n",
+        "m": "achloropsia",
+        "ex": [
+          {
+            "e": "Study achloropsia.",
+            "c": "学习achloropsia。"
+          }
+        ]
+      },
+      {
+        "w": "achluophobia",
+        "p": "/achluophobia/",
+        "pos": "n",
+        "m": "achluophobia",
+        "ex": [
+          {
+            "e": "Study achluophobia.",
+            "c": "学习achluophobia。"
+          }
+        ]
+      },
+      {
+        "w": "acholia",
+        "p": "/acholia/",
+        "pos": "n",
+        "m": "acholia",
+        "ex": [
+          {
+            "e": "Study acholia.",
+            "c": "学习acholia。"
+          }
+        ]
+      },
+      {
+        "w": "acholic",
+        "p": "/acholic/",
+        "pos": "n",
+        "m": "acholic",
+        "ex": [
+          {
+            "e": "Study acholic.",
+            "c": "学习acholic。"
+          }
+        ]
+      },
+      {
+        "w": "acholoe",
+        "p": "/acholoe/",
+        "pos": "n",
+        "m": "acholoe",
+        "ex": [
+          {
+            "e": "Study acholoe.",
+            "c": "学习acholoe。"
+          }
+        ]
+      },
+      {
+        "w": "acholuria",
+        "p": "/acholuria/",
+        "pos": "n",
+        "m": "acholuria",
+        "ex": [
+          {
+            "e": "Study acholuria.",
+            "c": "学习acholuria。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 63,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acholuric",
+        "p": "/acholuric/",
+        "pos": "n",
+        "m": "acholuric",
+        "ex": [
+          {
+            "e": "Study acholuric.",
+            "c": "学习acholuric。"
+          }
+        ]
+      },
+      {
+        "w": "achondritic",
+        "p": "/achondritic/",
+        "pos": "n",
+        "m": "achondritic",
+        "ex": [
+          {
+            "e": "Study achondritic.",
+            "c": "学习achondritic。"
+          }
+        ]
+      },
+      {
+        "w": "achondroplasia",
+        "p": "/achondroplasia/",
+        "pos": "n",
+        "m": "achondroplasia",
+        "ex": [
+          {
+            "e": "Study achondroplasia.",
+            "c": "学习achondroplasia。"
+          }
+        ]
+      },
+      {
+        "w": "achondroplastic",
+        "p": "/achondroplastic/",
+        "pos": "n",
+        "m": "achondroplastic",
+        "ex": [
+          {
+            "e": "Study achondroplastic.",
+            "c": "学习achondroplastic。"
+          }
+        ]
+      },
+      {
+        "w": "achordata",
+        "p": "/achordata/",
+        "pos": "n",
+        "m": "achordata",
+        "ex": [
+          {
+            "e": "Study achordata.",
+            "c": "学习achordata。"
+          }
+        ]
+      },
+      {
+        "w": "achordate",
+        "p": "/achordate/",
+        "pos": "n",
+        "m": "achordate",
+        "ex": [
+          {
+            "e": "Study achordate.",
+            "c": "学习achordate。"
+          }
+        ]
+      },
+      {
+        "w": "achroanthes",
+        "p": "/achroanthes/",
+        "pos": "n",
+        "m": "achroanthes",
+        "ex": [
+          {
+            "e": "Study achroanthes.",
+            "c": "学习achroanthes。"
+          }
+        ]
+      },
+      {
+        "w": "achrodextrin",
+        "p": "/achrodextrin/",
+        "pos": "n",
+        "m": "achrodextrin",
+        "ex": [
+          {
+            "e": "Study achrodextrin.",
+            "c": "学习achrodextrin。"
+          }
+        ]
+      },
+      {
+        "w": "achrodextrinase",
+        "p": "/achrodextrinase/",
+        "pos": "n",
+        "m": "achrodextrinase",
+        "ex": [
+          {
+            "e": "Study achrodextrinase.",
+            "c": "学习achrodextrinase。"
+          }
+        ]
+      },
+      {
+        "w": "achroglobin",
+        "p": "/achroglobin/",
+        "pos": "n",
+        "m": "achroglobin",
+        "ex": [
+          {
+            "e": "Study achroglobin.",
+            "c": "学习achroglobin。"
+          }
+        ]
+      },
+      {
+        "w": "achroiocythemia",
+        "p": "/achroiocythemia/",
+        "pos": "n",
+        "m": "achroiocythemia",
+        "ex": [
+          {
+            "e": "Study achroiocythemia.",
+            "c": "学习achroiocythemia。"
+          }
+        ]
+      },
+      {
+        "w": "achroma",
+        "p": "/achroma/",
+        "pos": "n",
+        "m": "achroma",
+        "ex": [
+          {
+            "e": "Study achroma.",
+            "c": "学习achroma。"
+          }
+        ]
+      },
+      {
+        "w": "achromacyte",
+        "p": "/achromacyte/",
+        "pos": "n",
+        "m": "achromacyte",
+        "ex": [
+          {
+            "e": "Study achromacyte.",
+            "c": "学习achromacyte。"
+          }
+        ]
+      },
+      {
+        "w": "achromate",
+        "p": "/achromate/",
+        "pos": "n",
+        "m": "achromate",
+        "ex": [
+          {
+            "e": "Study achromate.",
+            "c": "学习achromate。"
+          }
+        ]
+      },
+      {
+        "w": "achromatiaceae",
+        "p": "/achromatiaceae/",
+        "pos": "n",
+        "m": "achromatiaceae",
+        "ex": [
+          {
+            "e": "Study achromatiaceae.",
+            "c": "学习achromatiaceae。"
+          }
+        ]
+      },
+      {
+        "w": "achromatically",
+        "p": "/achromatically/",
+        "pos": "n",
+        "m": "achromatically",
+        "ex": [
+          {
+            "e": "Study achromatically.",
+            "c": "学习achromatically。"
+          }
+        ]
+      },
+      {
+        "w": "achromaticity",
+        "p": "/achromaticity/",
+        "pos": "n",
+        "m": "achromaticity",
+        "ex": [
+          {
+            "e": "Study achromaticity.",
+            "c": "学习achromaticity。"
+          }
+        ]
+      },
+      {
+        "w": "achromatinic",
+        "p": "/achromatinic/",
+        "pos": "n",
+        "m": "achromatinic",
+        "ex": [
+          {
+            "e": "Study achromatinic.",
+            "c": "学习achromatinic。"
+          }
+        ]
+      },
+      {
+        "w": "achromatisation",
+        "p": "/achromatisation/",
+        "pos": "n",
+        "m": "achromatisation",
+        "ex": [
+          {
+            "e": "Study achromatisation.",
+            "c": "学习achromatisation。"
+          }
+        ]
+      },
+      {
+        "w": "achromatise",
+        "p": "/achromatise/",
+        "pos": "n",
+        "m": "achromatise",
+        "ex": [
+          {
+            "e": "Study achromatise.",
+            "c": "学习achromatise。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 64,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "achromatised",
+        "p": "/achromatised/",
+        "pos": "n",
+        "m": "achromatised",
+        "ex": [
+          {
+            "e": "Study achromatised.",
+            "c": "学习achromatised。"
+          }
+        ]
+      },
+      {
+        "w": "achromatising",
+        "p": "/achromatising/",
+        "pos": "n",
+        "m": "achromatising",
+        "ex": [
+          {
+            "e": "Study achromatising.",
+            "c": "学习achromatising。"
+          }
+        ]
+      },
+      {
+        "w": "achromatism",
+        "p": "/achromatism/",
+        "pos": "n",
+        "m": "achromatism",
+        "ex": [
+          {
+            "e": "Study achromatism.",
+            "c": "学习achromatism。"
+          }
+        ]
+      },
+      {
+        "w": "achromatium",
+        "p": "/achromatium/",
+        "pos": "n",
+        "m": "achromatium",
+        "ex": [
+          {
+            "e": "Study achromatium.",
+            "c": "学习achromatium。"
+          }
+        ]
+      },
+      {
+        "w": "achromatizable",
+        "p": "/achromatizable/",
+        "pos": "n",
+        "m": "achromatizable",
+        "ex": [
+          {
+            "e": "Study achromatizable.",
+            "c": "学习achromatizable。"
+          }
+        ]
+      },
+      {
+        "w": "achromatization",
+        "p": "/achromatization/",
+        "pos": "n",
+        "m": "achromatization",
+        "ex": [
+          {
+            "e": "Study achromatization.",
+            "c": "学习achromatization。"
+          }
+        ]
+      },
+      {
+        "w": "achromatize",
+        "p": "/achromatize/",
+        "pos": "n",
+        "m": "achromatize",
+        "ex": [
+          {
+            "e": "Study achromatize.",
+            "c": "学习achromatize。"
+          }
+        ]
+      },
+      {
+        "w": "achromatized",
+        "p": "/achromatized/",
+        "pos": "n",
+        "m": "achromatized",
+        "ex": [
+          {
+            "e": "Study achromatized.",
+            "c": "学习achromatized。"
+          }
+        ]
+      },
+      {
+        "w": "achromatizing",
+        "p": "/achromatizing/",
+        "pos": "n",
+        "m": "achromatizing",
+        "ex": [
+          {
+            "e": "Study achromatizing.",
+            "c": "学习achromatizing。"
+          }
+        ]
+      },
+      {
+        "w": "achromatocyte",
+        "p": "/achromatocyte/",
+        "pos": "n",
+        "m": "achromatocyte",
+        "ex": [
+          {
+            "e": "Study achromatocyte.",
+            "c": "学习achromatocyte。"
+          }
+        ]
+      },
+      {
+        "w": "achromatolysis",
+        "p": "/achromatolysis/",
+        "pos": "n",
+        "m": "achromatolysis",
+        "ex": [
+          {
+            "e": "Study achromatolysis.",
+            "c": "学习achromatolysis。"
+          }
+        ]
+      },
+      {
+        "w": "achromatope",
+        "p": "/achromatope/",
+        "pos": "n",
+        "m": "achromatope",
+        "ex": [
+          {
+            "e": "Study achromatope.",
+            "c": "学习achromatope。"
+          }
+        ]
+      },
+      {
+        "w": "achromatophil",
+        "p": "/achromatophil/",
+        "pos": "n",
+        "m": "achromatophil",
+        "ex": [
+          {
+            "e": "Study achromatophil.",
+            "c": "学习achromatophil。"
+          }
+        ]
+      },
+      {
+        "w": "achromatophile",
+        "p": "/achromatophile/",
+        "pos": "n",
+        "m": "achromatophile",
+        "ex": [
+          {
+            "e": "Study achromatophile.",
+            "c": "学习achromatophile。"
+          }
+        ]
+      },
+      {
+        "w": "achromatophilia",
+        "p": "/achromatophilia/",
+        "pos": "n",
+        "m": "achromatophilia",
+        "ex": [
+          {
+            "e": "Study achromatophilia.",
+            "c": "学习achromatophilia。"
+          }
+        ]
+      },
+      {
+        "w": "achromatophilic",
+        "p": "/achromatophilic/",
+        "pos": "n",
+        "m": "achromatophilic",
+        "ex": [
+          {
+            "e": "Study achromatophilic.",
+            "c": "学习achromatophilic。"
+          }
+        ]
+      },
+      {
+        "w": "achromatopia",
+        "p": "/achromatopia/",
+        "pos": "n",
+        "m": "achromatopia",
+        "ex": [
+          {
+            "e": "Study achromatopia.",
+            "c": "学习achromatopia。"
+          }
+        ]
+      },
+      {
+        "w": "achromatopsia",
+        "p": "/achromatopsia/",
+        "pos": "n",
+        "m": "achromatopsia",
+        "ex": [
+          {
+            "e": "Study achromatopsia.",
+            "c": "学习achromatopsia。"
+          }
+        ]
+      },
+      {
+        "w": "achromatopsy",
+        "p": "/achromatopsy/",
+        "pos": "n",
+        "m": "achromatopsy",
+        "ex": [
+          {
+            "e": "Study achromatopsy.",
+            "c": "学习achromatopsy。"
+          }
+        ]
+      },
+      {
+        "w": "achromatosis",
+        "p": "/achromatosis/",
+        "pos": "n",
+        "m": "achromatosis",
+        "ex": [
+          {
+            "e": "Study achromatosis.",
+            "c": "学习achromatosis。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 65,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "achromatous",
+        "p": "/achromatous/",
+        "pos": "n",
+        "m": "achromatous",
+        "ex": [
+          {
+            "e": "Study achromatous.",
+            "c": "学习achromatous。"
+          }
+        ]
+      },
+      {
+        "w": "achromats",
+        "p": "/achromats/",
+        "pos": "n",
+        "m": "achromats",
+        "ex": [
+          {
+            "e": "Study achromats.",
+            "c": "学习achromats。"
+          }
+        ]
+      },
+      {
+        "w": "achromaturia",
+        "p": "/achromaturia/",
+        "pos": "n",
+        "m": "achromaturia",
+        "ex": [
+          {
+            "e": "Study achromaturia.",
+            "c": "学习achromaturia。"
+          }
+        ]
+      },
+      {
+        "w": "achromobacter",
+        "p": "/achromobacter/",
+        "pos": "n",
+        "m": "achromobacter",
+        "ex": [
+          {
+            "e": "Study achromobacter.",
+            "c": "学习achromobacter。"
+          }
+        ]
+      },
+      {
+        "w": "achromoderma",
+        "p": "/achromoderma/",
+        "pos": "n",
+        "m": "achromoderma",
+        "ex": [
+          {
+            "e": "Study achromoderma.",
+            "c": "学习achromoderma。"
+          }
+        ]
+      },
+      {
+        "w": "achromophilous",
+        "p": "/achromophilous/",
+        "pos": "n",
+        "m": "achromophilous",
+        "ex": [
+          {
+            "e": "Study achromophilous.",
+            "c": "学习achromophilous。"
+          }
+        ]
+      },
+      {
+        "w": "achromotrichia",
+        "p": "/achromotrichia/",
+        "pos": "n",
+        "m": "achromotrichia",
+        "ex": [
+          {
+            "e": "Study achromotrichia.",
+            "c": "学习achromotrichia。"
+          }
+        ]
+      },
+      {
+        "w": "achromous",
+        "p": "/achromous/",
+        "pos": "n",
+        "m": "achromous",
+        "ex": [
+          {
+            "e": "Study achromous.",
+            "c": "学习achromous。"
+          }
+        ]
+      },
+      {
+        "w": "achronism",
+        "p": "/achronism/",
+        "pos": "n",
+        "m": "achronism",
+        "ex": [
+          {
+            "e": "Study achronism.",
+            "c": "学习achronism。"
+          }
+        ]
+      },
+      {
+        "w": "achronychous",
+        "p": "/achronychous/",
+        "pos": "n",
+        "m": "achronychous",
+        "ex": [
+          {
+            "e": "Study achronychous.",
+            "c": "学习achronychous。"
+          }
+        ]
+      },
+      {
+        "w": "achroodextrin",
+        "p": "/achroodextrin/",
+        "pos": "n",
+        "m": "achroodextrin",
+        "ex": [
+          {
+            "e": "Study achroodextrin.",
+            "c": "学习achroodextrin。"
+          }
+        ]
+      },
+      {
+        "w": "achropsia",
+        "p": "/achropsia/",
+        "pos": "n",
+        "m": "achropsia",
+        "ex": [
+          {
+            "e": "Study achropsia.",
+            "c": "学习achropsia。"
+          }
+        ]
+      },
+      {
+        "w": "achtehalber",
+        "p": "/achtehalber/",
+        "pos": "n",
+        "m": "achtehalber",
+        "ex": [
+          {
+            "e": "Study achtehalber.",
+            "c": "学习achtehalber。"
+          }
+        ]
+      },
+      {
+        "w": "achtelthaler",
+        "p": "/achtelthaler/",
+        "pos": "n",
+        "m": "achtelthaler",
+        "ex": [
+          {
+            "e": "Study achtelthaler.",
+            "c": "学习achtelthaler。"
+          }
+        ]
+      },
+      {
+        "w": "achuete",
+        "p": "/achuete/",
+        "pos": "n",
+        "m": "achuete",
+        "ex": [
+          {
+            "e": "Study achuete.",
+            "c": "学习achuete。"
+          }
+        ]
+      },
+      {
+        "w": "achylia",
+        "p": "/achylia/",
+        "pos": "n",
+        "m": "achylia",
+        "ex": [
+          {
+            "e": "Study achylia.",
+            "c": "学习achylia。"
+          }
+        ]
+      },
+      {
+        "w": "achymia",
+        "p": "/achymia/",
+        "pos": "n",
+        "m": "achymia",
+        "ex": [
+          {
+            "e": "Study achymia.",
+            "c": "学习achymia。"
+          }
+        ]
+      },
+      {
+        "w": "achyranthes",
+        "p": "/achyranthes/",
+        "pos": "n",
+        "m": "achyranthes",
+        "ex": [
+          {
+            "e": "Study achyranthes.",
+            "c": "学习achyranthes。"
+          }
+        ]
+      },
+      {
+        "w": "achyrodes",
+        "p": "/achyrodes/",
+        "pos": "n",
+        "m": "achyrodes",
+        "ex": [
+          {
+            "e": "Study achyrodes.",
+            "c": "学习achyrodes。"
+          }
+        ]
+      },
+      {
+        "w": "acichloride",
+        "p": "/acichloride/",
+        "pos": "n",
+        "m": "acichloride",
+        "ex": [
+          {
+            "e": "Study acichloride.",
+            "c": "学习acichloride。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 66,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acicula",
+        "p": "/acicula/",
+        "pos": "n",
+        "m": "acicula",
+        "ex": [
+          {
+            "e": "Study acicula.",
+            "c": "学习acicula。"
+          }
+        ]
+      },
+      {
+        "w": "acicularity",
+        "p": "/acicularity/",
+        "pos": "n",
+        "m": "acicularity",
+        "ex": [
+          {
+            "e": "Study acicularity.",
+            "c": "学习acicularity。"
+          }
+        ]
+      },
+      {
+        "w": "aciculate",
+        "p": "/aciculate/",
+        "pos": "n",
+        "m": "aciculate",
+        "ex": [
+          {
+            "e": "Study aciculate.",
+            "c": "学习aciculate。"
+          }
+        ]
+      },
+      {
+        "w": "aciculums",
+        "p": "/aciculums/",
+        "pos": "n",
+        "m": "aciculums",
+        "ex": [
+          {
+            "e": "Study aciculums.",
+            "c": "学习aciculums。"
+          }
+        ]
+      },
+      {
+        "w": "acidaemia",
+        "p": "/acidaemia/",
+        "pos": "n",
+        "m": "acidaemia",
+        "ex": [
+          {
+            "e": "Study acidaemia.",
+            "c": "学习acidaemia。"
+          }
+        ]
+      },
+      {
+        "w": "acidanthera",
+        "p": "/acidanthera/",
+        "pos": "n",
+        "m": "acidanthera",
+        "ex": [
+          {
+            "e": "Study acidanthera.",
+            "c": "学习acidanthera。"
+          }
+        ]
+      },
+      {
+        "w": "acidaspis",
+        "p": "/acidaspis/",
+        "pos": "n",
+        "m": "acidaspis",
+        "ex": [
+          {
+            "e": "Study acidaspis.",
+            "c": "学习acidaspis。"
+          }
+        ]
+      },
+      {
+        "w": "acidemias",
+        "p": "/acidemias/",
+        "pos": "n",
+        "m": "acidemias",
+        "ex": [
+          {
+            "e": "Study acidemias.",
+            "c": "学习acidemias。"
+          }
+        ]
+      },
+      {
+        "w": "acidheads",
+        "p": "/acidheads/",
+        "pos": "n",
+        "m": "acidheads",
+        "ex": [
+          {
+            "e": "Study acidheads.",
+            "c": "学习acidheads。"
+          }
+        ]
+      },
+      {
+        "w": "acidiferous",
+        "p": "/acidiferous/",
+        "pos": "n",
+        "m": "acidiferous",
+        "ex": [
+          {
+            "e": "Study acidiferous.",
+            "c": "学习acidiferous。"
+          }
+        ]
+      },
+      {
+        "w": "acidifiable",
+        "p": "/acidifiable/",
+        "pos": "n",
+        "m": "acidifiable",
+        "ex": [
+          {
+            "e": "Study acidifiable.",
+            "c": "学习acidifiable。"
+          }
+        ]
+      },
+      {
+        "w": "acidification",
+        "p": "/acidification/",
+        "pos": "n",
+        "m": "acidification",
+        "ex": [
+          {
+            "e": "Study acidification.",
+            "c": "学习acidification。"
+          }
+        ]
+      },
+      {
+        "w": "acidified",
+        "p": "/acidified/",
+        "pos": "n",
+        "m": "acidified",
+        "ex": [
+          {
+            "e": "Study acidified.",
+            "c": "学习acidified。"
+          }
+        ]
+      },
+      {
+        "w": "acidifier",
+        "p": "/acidifier/",
+        "pos": "n",
+        "m": "acidifier",
+        "ex": [
+          {
+            "e": "Study acidifier.",
+            "c": "学习acidifier。"
+          }
+        ]
+      },
+      {
+        "w": "acidifies",
+        "p": "/acidifies/",
+        "pos": "n",
+        "m": "acidifies",
+        "ex": [
+          {
+            "e": "Study acidifies.",
+            "c": "学习acidifies。"
+          }
+        ]
+      },
+      {
+        "w": "acidify",
+        "p": "/acidify/",
+        "pos": "n",
+        "m": "acidify",
+        "ex": [
+          {
+            "e": "Study acidify.",
+            "c": "学习acidify。"
+          }
+        ]
+      },
+      {
+        "w": "acidimetric",
+        "p": "/acidimetric/",
+        "pos": "n",
+        "m": "acidimetric",
+        "ex": [
+          {
+            "e": "Study acidimetric.",
+            "c": "学习acidimetric。"
+          }
+        ]
+      },
+      {
+        "w": "acidimetrical",
+        "p": "/acidimetrical/",
+        "pos": "n",
+        "m": "acidimetrical",
+        "ex": [
+          {
+            "e": "Study acidimetrical.",
+            "c": "学习acidimetrical。"
+          }
+        ]
+      },
+      {
+        "w": "acidimetrically",
+        "p": "/acidimetrically/",
+        "pos": "n",
+        "m": "acidimetrically",
+        "ex": [
+          {
+            "e": "Study acidimetrically.",
+            "c": "学习acidimetrically。"
+          }
+        ]
+      },
+      {
+        "w": "acidite",
+        "p": "/acidite/",
+        "pos": "n",
+        "m": "acidite",
+        "ex": [
+          {
+            "e": "Study acidite.",
+            "c": "学习acidite。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 67,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acidities",
+        "p": "/acidities/",
+        "pos": "n",
+        "m": "acidities",
+        "ex": [
+          {
+            "e": "Study acidities.",
+            "c": "学习acidities。"
+          }
+        ]
+      },
+      {
+        "w": "acidity",
+        "p": "/acidity/",
+        "pos": "n",
+        "m": "acidity",
+        "ex": [
+          {
+            "e": "Study acidity.",
+            "c": "学习acidity。"
+          }
+        ]
+      },
+      {
+        "w": "acidize",
+        "p": "/acidize/",
+        "pos": "n",
+        "m": "acidize",
+        "ex": [
+          {
+            "e": "Study acidize.",
+            "c": "学习acidize。"
+          }
+        ]
+      },
+      {
+        "w": "acidizing",
+        "p": "/acidizing/",
+        "pos": "n",
+        "m": "acidizing",
+        "ex": [
+          {
+            "e": "Study acidizing.",
+            "c": "学习acidizing。"
+          }
+        ]
+      },
+      {
+        "w": "acidoid",
+        "p": "/acidoid/",
+        "pos": "n",
+        "m": "acidoid",
+        "ex": [
+          {
+            "e": "Study acidoid.",
+            "c": "学习acidoid。"
+          }
+        ]
+      },
+      {
+        "w": "acidology",
+        "p": "/acidology/",
+        "pos": "n",
+        "m": "acidology",
+        "ex": [
+          {
+            "e": "Study acidology.",
+            "c": "学习acidology。"
+          }
+        ]
+      },
+      {
+        "w": "acidophil",
+        "p": "/acidophil/",
+        "pos": "n",
+        "m": "acidophil",
+        "ex": [
+          {
+            "e": "Study acidophil.",
+            "c": "学习acidophil。"
+          }
+        ]
+      },
+      {
+        "w": "acidophilic",
+        "p": "/acidophilic/",
+        "pos": "n",
+        "m": "acidophilic",
+        "ex": [
+          {
+            "e": "Study acidophilic.",
+            "c": "学习acidophilic。"
+          }
+        ]
+      },
+      {
+        "w": "acidophilous",
+        "p": "/acidophilous/",
+        "pos": "n",
+        "m": "acidophilous",
+        "ex": [
+          {
+            "e": "Study acidophilous.",
+            "c": "学习acidophilous。"
+          }
+        ]
+      },
+      {
+        "w": "acidophilus",
+        "p": "/acidophilus/",
+        "pos": "n",
+        "m": "acidophilus",
+        "ex": [
+          {
+            "e": "Study acidophilus.",
+            "c": "学习acidophilus。"
+          }
+        ]
+      },
+      {
+        "w": "acidosteophyte",
+        "p": "/acidosteophyte/",
+        "pos": "n",
+        "m": "acidosteophyte",
+        "ex": [
+          {
+            "e": "Study acidosteophyte.",
+            "c": "学习acidosteophyte。"
+          }
+        ]
+      },
+      {
+        "w": "acidproof",
+        "p": "/acidproof/",
+        "pos": "n",
+        "m": "acidproof",
+        "ex": [
+          {
+            "e": "Study acidproof.",
+            "c": "学习acidproof。"
+          }
+        ]
+      },
+      {
+        "w": "acidulant",
+        "p": "/acidulant/",
+        "pos": "n",
+        "m": "acidulant",
+        "ex": [
+          {
+            "e": "Study acidulant.",
+            "c": "学习acidulant。"
+          }
+        ]
+      },
+      {
+        "w": "acidulate",
+        "p": "/acidulate/",
+        "pos": "n",
+        "m": "acidulate",
+        "ex": [
+          {
+            "e": "Study acidulate.",
+            "c": "学习acidulate。"
+          }
+        ]
+      },
+      {
+        "w": "acidulating",
+        "p": "/acidulating/",
+        "pos": "n",
+        "m": "acidulating",
+        "ex": [
+          {
+            "e": "Study acidulating.",
+            "c": "学习acidulating。"
+          }
+        ]
+      },
+      {
+        "w": "acidulation",
+        "p": "/acidulation/",
+        "pos": "n",
+        "m": "acidulation",
+        "ex": [
+          {
+            "e": "Study acidulation.",
+            "c": "学习acidulation。"
+          }
+        ]
+      },
+      {
+        "w": "acidulent",
+        "p": "/acidulent/",
+        "pos": "n",
+        "m": "acidulent",
+        "ex": [
+          {
+            "e": "Study acidulent.",
+            "c": "学习acidulent。"
+          }
+        ]
+      },
+      {
+        "w": "acidulous",
+        "p": "/acidulous/",
+        "pos": "n",
+        "m": "acidulous",
+        "ex": [
+          {
+            "e": "Study acidulous.",
+            "c": "学习acidulous。"
+          }
+        ]
+      },
+      {
+        "w": "acidulously",
+        "p": "/acidulously/",
+        "pos": "n",
+        "m": "acidulously",
+        "ex": [
+          {
+            "e": "Study acidulously.",
+            "c": "学习acidulously。"
+          }
+        ]
+      },
+      {
+        "w": "acidulousness",
+        "p": "/acidulousness/",
+        "pos": "n",
+        "m": "acidulousness",
+        "ex": [
+          {
+            "e": "Study acidulousness.",
+            "c": "学习acidulousness。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 68,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acidurias",
+        "p": "/acidurias/",
+        "pos": "n",
+        "m": "acidurias",
+        "ex": [
+          {
+            "e": "Study acidurias.",
+            "c": "学习acidurias。"
+          }
+        ]
+      },
+      {
+        "w": "acieral",
+        "p": "/acieral/",
+        "pos": "n",
+        "m": "acieral",
+        "ex": [
+          {
+            "e": "Study acieral.",
+            "c": "学习acieral。"
+          }
+        ]
+      },
+      {
+        "w": "acierated",
+        "p": "/acierated/",
+        "pos": "n",
+        "m": "acierated",
+        "ex": [
+          {
+            "e": "Study acierated.",
+            "c": "学习acierated。"
+          }
+        ]
+      },
+      {
+        "w": "acierates",
+        "p": "/acierates/",
+        "pos": "n",
+        "m": "acierates",
+        "ex": [
+          {
+            "e": "Study acierates.",
+            "c": "学习acierates。"
+          }
+        ]
+      },
+      {
+        "w": "aciform",
+        "p": "/aciform/",
+        "pos": "n",
+        "m": "aciform",
+        "ex": [
+          {
+            "e": "Study aciform.",
+            "c": "学习aciform。"
+          }
+        ]
+      },
+      {
+        "w": "aciliated",
+        "p": "/aciliated/",
+        "pos": "n",
+        "m": "aciliated",
+        "ex": [
+          {
+            "e": "Study aciliated.",
+            "c": "学习aciliated。"
+          }
+        ]
+      },
+      {
+        "w": "acilius",
+        "p": "/acilius/",
+        "pos": "n",
+        "m": "acilius",
+        "ex": [
+          {
+            "e": "Study acilius.",
+            "c": "学习acilius。"
+          }
+        ]
+      },
+      {
+        "w": "acinacifoliate",
+        "p": "/acinacifoliate/",
+        "pos": "n",
+        "m": "acinacifoliate",
+        "ex": [
+          {
+            "e": "Study acinacifoliate.",
+            "c": "学习acinacifoliate。"
+          }
+        ]
+      },
+      {
+        "w": "acinacifolious",
+        "p": "/acinacifolious/",
+        "pos": "n",
+        "m": "acinacifolious",
+        "ex": [
+          {
+            "e": "Study acinacifolious.",
+            "c": "学习acinacifolious。"
+          }
+        ]
+      },
+      {
+        "w": "acinaciform",
+        "p": "/acinaciform/",
+        "pos": "n",
+        "m": "acinaciform",
+        "ex": [
+          {
+            "e": "Study acinaciform.",
+            "c": "学习acinaciform。"
+          }
+        ]
+      },
+      {
+        "w": "acinacity",
+        "p": "/acinacity/",
+        "pos": "n",
+        "m": "acinacity",
+        "ex": [
+          {
+            "e": "Study acinacity.",
+            "c": "学习acinacity。"
+          }
+        ]
+      },
+      {
+        "w": "acinary",
+        "p": "/acinary/",
+        "pos": "n",
+        "m": "acinary",
+        "ex": [
+          {
+            "e": "Study acinary.",
+            "c": "学习acinary。"
+          }
+        ]
+      },
+      {
+        "w": "acineta",
+        "p": "/acineta/",
+        "pos": "n",
+        "m": "acineta",
+        "ex": [
+          {
+            "e": "Study acineta.",
+            "c": "学习acineta。"
+          }
+        ]
+      },
+      {
+        "w": "acinetarian",
+        "p": "/acinetarian/",
+        "pos": "n",
+        "m": "acinetarian",
+        "ex": [
+          {
+            "e": "Study acinetarian.",
+            "c": "学习acinetarian。"
+          }
+        ]
+      },
+      {
+        "w": "acinetiform",
+        "p": "/acinetiform/",
+        "pos": "n",
+        "m": "acinetiform",
+        "ex": [
+          {
+            "e": "Study acinetiform.",
+            "c": "学习acinetiform。"
+          }
+        ]
+      },
+      {
+        "w": "acinetina",
+        "p": "/acinetina/",
+        "pos": "n",
+        "m": "acinetina",
+        "ex": [
+          {
+            "e": "Study acinetina.",
+            "c": "学习acinetina。"
+          }
+        ]
+      },
+      {
+        "w": "aciniform",
+        "p": "/aciniform/",
+        "pos": "n",
+        "m": "aciniform",
+        "ex": [
+          {
+            "e": "Study aciniform.",
+            "c": "学习aciniform。"
+          }
+        ]
+      },
+      {
+        "w": "acinose",
+        "p": "/acinose/",
+        "pos": "n",
+        "m": "acinose",
+        "ex": [
+          {
+            "e": "Study acinose.",
+            "c": "学习acinose。"
+          }
+        ]
+      },
+      {
+        "w": "acinotubular",
+        "p": "/acinotubular/",
+        "pos": "n",
+        "m": "acinotubular",
+        "ex": [
+          {
+            "e": "Study acinotubular.",
+            "c": "学习acinotubular。"
+          }
+        ]
+      },
+      {
+        "w": "acinous",
+        "p": "/acinous/",
+        "pos": "n",
+        "m": "acinous",
+        "ex": [
+          {
+            "e": "Study acinous.",
+            "c": "学习acinous。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 69,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acinuni",
+        "p": "/acinuni/",
+        "pos": "n",
+        "m": "acinuni",
+        "ex": [
+          {
+            "e": "Study acinuni.",
+            "c": "学习acinuni。"
+          }
+        ]
+      },
+      {
+        "w": "acipenser",
+        "p": "/acipenser/",
+        "pos": "n",
+        "m": "acipenser",
+        "ex": [
+          {
+            "e": "Study acipenser.",
+            "c": "学习acipenser。"
+          }
+        ]
+      },
+      {
+        "w": "acipenseres",
+        "p": "/acipenseres/",
+        "pos": "n",
+        "m": "acipenseres",
+        "ex": [
+          {
+            "e": "Study acipenseres.",
+            "c": "学习acipenseres。"
+          }
+        ]
+      },
+      {
+        "w": "acipenserid",
+        "p": "/acipenserid/",
+        "pos": "n",
+        "m": "acipenserid",
+        "ex": [
+          {
+            "e": "Study acipenserid.",
+            "c": "学习acipenserid。"
+          }
+        ]
+      },
+      {
+        "w": "acipenseridae",
+        "p": "/acipenseridae/",
+        "pos": "n",
+        "m": "acipenseridae",
+        "ex": [
+          {
+            "e": "Study acipenseridae.",
+            "c": "学习acipenseridae。"
+          }
+        ]
+      },
+      {
+        "w": "acipenserine",
+        "p": "/acipenserine/",
+        "pos": "n",
+        "m": "acipenserine",
+        "ex": [
+          {
+            "e": "Study acipenserine.",
+            "c": "学习acipenserine。"
+          }
+        ]
+      },
+      {
+        "w": "acipenseroid",
+        "p": "/acipenseroid/",
+        "pos": "n",
+        "m": "acipenseroid",
+        "ex": [
+          {
+            "e": "Study acipenseroid.",
+            "c": "学习acipenseroid。"
+          }
+        ]
+      },
+      {
+        "w": "acipenseroidei",
+        "p": "/acipenseroidei/",
+        "pos": "n",
+        "m": "acipenseroidei",
+        "ex": [
+          {
+            "e": "Study acipenseroidei.",
+            "c": "学习acipenseroidei。"
+          }
+        ]
+      },
+      {
+        "w": "aciurgy",
+        "p": "/aciurgy/",
+        "pos": "n",
+        "m": "aciurgy",
+        "ex": [
+          {
+            "e": "Study aciurgy.",
+            "c": "学习aciurgy。"
+          }
+        ]
+      },
+      {
+        "w": "acknowing",
+        "p": "/acknowing/",
+        "pos": "n",
+        "m": "acknowing",
+        "ex": [
+          {
+            "e": "Study acknowing.",
+            "c": "学习acknowing。"
+          }
+        ]
+      },
+      {
+        "w": "acknowledge",
+        "p": "/acknowledge/",
+        "pos": "n",
+        "m": "acknowledge",
+        "ex": [
+          {
+            "e": "Study acknowledge.",
+            "c": "学习acknowledge。"
+          }
+        ]
+      },
+      {
+        "w": "acknowledgeable",
+        "p": "/acknowledgeable/",
+        "pos": "n",
+        "m": "acknowledgeable",
+        "ex": [
+          {
+            "e": "Study acknowledgeable.",
+            "c": "学习acknowledgeable。"
+          }
+        ]
+      },
+      {
+        "w": "acknowledged",
+        "p": "/acknowledged/",
+        "pos": "n",
+        "m": "acknowledged",
+        "ex": [
+          {
+            "e": "Study acknowledged.",
+            "c": "学习acknowledged。"
+          }
+        ]
+      },
+      {
+        "w": "acknowledgedly",
+        "p": "/acknowledgedly/",
+        "pos": "n",
+        "m": "acknowledgedly",
+        "ex": [
+          {
+            "e": "Study acknowledgedly.",
+            "c": "学习acknowledgedly。"
+          }
+        ]
+      },
+      {
+        "w": "acknowledgement",
+        "p": "/acknowledgement/",
+        "pos": "n",
+        "m": "acknowledgement",
+        "ex": [
+          {
+            "e": "Study acknowledgement.",
+            "c": "学习acknowledgement。"
+          }
+        ]
+      },
+      {
+        "w": "acknowledger",
+        "p": "/acknowledger/",
+        "pos": "n",
+        "m": "acknowledger",
+        "ex": [
+          {
+            "e": "Study acknowledger.",
+            "c": "学习acknowledger。"
+          }
+        ]
+      },
+      {
+        "w": "acknowledgers",
+        "p": "/acknowledgers/",
+        "pos": "n",
+        "m": "acknowledgers",
+        "ex": [
+          {
+            "e": "Study acknowledgers.",
+            "c": "学习acknowledgers。"
+          }
+        ]
+      },
+      {
+        "w": "acknowledges",
+        "p": "/acknowledges/",
+        "pos": "n",
+        "m": "acknowledges",
+        "ex": [
+          {
+            "e": "Study acknowledges.",
+            "c": "学习acknowledges。"
+          }
+        ]
+      },
+      {
+        "w": "acknowledging",
+        "p": "/acknowledging/",
+        "pos": "n",
+        "m": "acknowledging",
+        "ex": [
+          {
+            "e": "Study acknowledging.",
+            "c": "学习acknowledging。"
+          }
+        ]
+      },
+      {
+        "w": "acknowledgment",
+        "p": "/acknowledgment/",
+        "pos": "n",
+        "m": "acknowledgment",
+        "ex": [
+          {
+            "e": "Study acknowledgment.",
+            "c": "学习acknowledgment。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 70,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acknowledgments",
+        "p": "/acknowledgments/",
+        "pos": "n",
+        "m": "acknowledgments",
+        "ex": [
+          {
+            "e": "Study acknowledgments.",
+            "c": "学习acknowledgments。"
+          }
+        ]
+      },
+      {
+        "w": "acknown",
+        "p": "/acknown/",
+        "pos": "n",
+        "m": "acknown",
+        "ex": [
+          {
+            "e": "Study acknown.",
+            "c": "学习acknown。"
+          }
+        ]
+      },
+      {
+        "w": "acleidian",
+        "p": "/acleidian/",
+        "pos": "n",
+        "m": "acleidian",
+        "ex": [
+          {
+            "e": "Study acleidian.",
+            "c": "学习acleidian。"
+          }
+        ]
+      },
+      {
+        "w": "acleistocardia",
+        "p": "/acleistocardia/",
+        "pos": "n",
+        "m": "acleistocardia",
+        "ex": [
+          {
+            "e": "Study acleistocardia.",
+            "c": "学习acleistocardia。"
+          }
+        ]
+      },
+      {
+        "w": "aclemon",
+        "p": "/aclemon/",
+        "pos": "n",
+        "m": "aclemon",
+        "ex": [
+          {
+            "e": "Study aclemon.",
+            "c": "学习aclemon。"
+          }
+        ]
+      },
+      {
+        "w": "aclinal",
+        "p": "/aclinal/",
+        "pos": "n",
+        "m": "aclinal",
+        "ex": [
+          {
+            "e": "Study aclinal.",
+            "c": "学习aclinal。"
+          }
+        ]
+      },
+      {
+        "w": "aclinic",
+        "p": "/aclinic/",
+        "pos": "n",
+        "m": "aclinic",
+        "ex": [
+          {
+            "e": "Study aclinic.",
+            "c": "学习aclinic。"
+          }
+        ]
+      },
+      {
+        "w": "aclydes",
+        "p": "/aclydes/",
+        "pos": "n",
+        "m": "aclydes",
+        "ex": [
+          {
+            "e": "Study aclydes.",
+            "c": "学习aclydes。"
+          }
+        ]
+      },
+      {
+        "w": "acmaeidae",
+        "p": "/acmaeidae/",
+        "pos": "n",
+        "m": "acmaeidae",
+        "ex": [
+          {
+            "e": "Study acmaeidae.",
+            "c": "学习acmaeidae。"
+          }
+        ]
+      },
+      {
+        "w": "acmaesthesia",
+        "p": "/acmaesthesia/",
+        "pos": "n",
+        "m": "acmaesthesia",
+        "ex": [
+          {
+            "e": "Study acmaesthesia.",
+            "c": "学习acmaesthesia。"
+          }
+        ]
+      },
+      {
+        "w": "acmatic",
+        "p": "/acmatic/",
+        "pos": "n",
+        "m": "acmatic",
+        "ex": [
+          {
+            "e": "Study acmatic.",
+            "c": "学习acmatic。"
+          }
+        ]
+      },
+      {
+        "w": "acmesthesia",
+        "p": "/acmesthesia/",
+        "pos": "n",
+        "m": "acmesthesia",
+        "ex": [
+          {
+            "e": "Study acmesthesia.",
+            "c": "学习acmesthesia。"
+          }
+        ]
+      },
+      {
+        "w": "acneiform",
+        "p": "/acneiform/",
+        "pos": "n",
+        "m": "acneiform",
+        "ex": [
+          {
+            "e": "Study acneiform.",
+            "c": "学习acneiform。"
+          }
+        ]
+      },
+      {
+        "w": "acnemia",
+        "p": "/acnemia/",
+        "pos": "n",
+        "m": "acnemia",
+        "ex": [
+          {
+            "e": "Study acnemia.",
+            "c": "学习acnemia。"
+          }
+        ]
+      },
+      {
+        "w": "acnodal",
+        "p": "/acnodal/",
+        "pos": "n",
+        "m": "acnodal",
+        "ex": [
+          {
+            "e": "Study acnodal.",
+            "c": "学习acnodal。"
+          }
+        ]
+      },
+      {
+        "w": "acnodes",
+        "p": "/acnodes/",
+        "pos": "n",
+        "m": "acnodes",
+        "ex": [
+          {
+            "e": "Study acnodes.",
+            "c": "学习acnodes。"
+          }
+        ]
+      },
+      {
+        "w": "acoasma",
+        "p": "/acoasma/",
+        "pos": "n",
+        "m": "acoasma",
+        "ex": [
+          {
+            "e": "Study acoasma.",
+            "c": "学习acoasma。"
+          }
+        ]
+      },
+      {
+        "w": "acocanthera",
+        "p": "/acocanthera/",
+        "pos": "n",
+        "m": "acocanthera",
+        "ex": [
+          {
+            "e": "Study acocanthera.",
+            "c": "学习acocanthera。"
+          }
+        ]
+      },
+      {
+        "w": "acocantherin",
+        "p": "/acocantherin/",
+        "pos": "n",
+        "m": "acocantherin",
+        "ex": [
+          {
+            "e": "Study acocantherin.",
+            "c": "学习acocantherin。"
+          }
+        ]
+      },
+      {
+        "w": "acockbill",
+        "p": "/acockbill/",
+        "pos": "n",
+        "m": "acockbill",
+        "ex": [
+          {
+            "e": "Study acockbill.",
+            "c": "学习acockbill。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 71,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acocotl",
+        "p": "/acocotl/",
+        "pos": "n",
+        "m": "acocotl",
+        "ex": [
+          {
+            "e": "Study acocotl.",
+            "c": "学习acocotl。"
+          }
+        ]
+      },
+      {
+        "w": "acoelomatous",
+        "p": "/acoelomatous/",
+        "pos": "n",
+        "m": "acoelomatous",
+        "ex": [
+          {
+            "e": "Study acoelomatous.",
+            "c": "学习acoelomatous。"
+          }
+        ]
+      },
+      {
+        "w": "acoemetae",
+        "p": "/acoemetae/",
+        "pos": "n",
+        "m": "acoemetae",
+        "ex": [
+          {
+            "e": "Study acoemetae.",
+            "c": "学习acoemetae。"
+          }
+        ]
+      },
+      {
+        "w": "acoemetic",
+        "p": "/acoemetic/",
+        "pos": "n",
+        "m": "acoemetic",
+        "ex": [
+          {
+            "e": "Study acoemetic.",
+            "c": "学习acoemetic。"
+          }
+        ]
+      },
+      {
+        "w": "acoenaesthesia",
+        "p": "/acoenaesthesia/",
+        "pos": "n",
+        "m": "acoenaesthesia",
+        "ex": [
+          {
+            "e": "Study acoenaesthesia.",
+            "c": "学习acoenaesthesia。"
+          }
+        ]
+      },
+      {
+        "w": "acolhua",
+        "p": "/acolhua/",
+        "pos": "n",
+        "m": "acolhua",
+        "ex": [
+          {
+            "e": "Study acolhua.",
+            "c": "学习acolhua。"
+          }
+        ]
+      },
+      {
+        "w": "acology",
+        "p": "/acology/",
+        "pos": "n",
+        "m": "acology",
+        "ex": [
+          {
+            "e": "Study acology.",
+            "c": "学习acology。"
+          }
+        ]
+      },
+      {
+        "w": "acolous",
+        "p": "/acolous/",
+        "pos": "n",
+        "m": "acolous",
+        "ex": [
+          {
+            "e": "Study acolous.",
+            "c": "学习acolous。"
+          }
+        ]
+      },
+      {
+        "w": "acoluthic",
+        "p": "/acoluthic/",
+        "pos": "n",
+        "m": "acoluthic",
+        "ex": [
+          {
+            "e": "Study acoluthic.",
+            "c": "学习acoluthic。"
+          }
+        ]
+      },
+      {
+        "w": "acolyte",
+        "p": "/acolyte/",
+        "pos": "n",
+        "m": "acolyte",
+        "ex": [
+          {
+            "e": "Study acolyte.",
+            "c": "学习acolyte。"
+          }
+        ]
+      },
+      {
+        "w": "acolyth",
+        "p": "/acolyth/",
+        "pos": "n",
+        "m": "acolyth",
+        "ex": [
+          {
+            "e": "Study acolyth.",
+            "c": "学习acolyth。"
+          }
+        ]
+      },
+      {
+        "w": "acomous",
+        "p": "/acomous/",
+        "pos": "n",
+        "m": "acomous",
+        "ex": [
+          {
+            "e": "Study acomous.",
+            "c": "学习acomous。"
+          }
+        ]
+      },
+      {
+        "w": "aconative",
+        "p": "/aconative/",
+        "pos": "n",
+        "m": "aconative",
+        "ex": [
+          {
+            "e": "Study aconative.",
+            "c": "学习aconative。"
+          }
+        ]
+      },
+      {
+        "w": "aconine",
+        "p": "/aconine/",
+        "pos": "n",
+        "m": "aconine",
+        "ex": [
+          {
+            "e": "Study aconine.",
+            "c": "学习aconine。"
+          }
+        ]
+      },
+      {
+        "w": "aconite",
+        "p": "/aconite/",
+        "pos": "n",
+        "m": "aconite",
+        "ex": [
+          {
+            "e": "Study aconite.",
+            "c": "学习aconite。"
+          }
+        ]
+      },
+      {
+        "w": "aconitine",
+        "p": "/aconitine/",
+        "pos": "n",
+        "m": "aconitine",
+        "ex": [
+          {
+            "e": "Study aconitine.",
+            "c": "学习aconitine。"
+          }
+        ]
+      },
+      {
+        "w": "aconitums",
+        "p": "/aconitums/",
+        "pos": "n",
+        "m": "aconitums",
+        "ex": [
+          {
+            "e": "Study aconitums.",
+            "c": "学习aconitums。"
+          }
+        ]
+      },
+      {
+        "w": "acontia",
+        "p": "/acontia/",
+        "pos": "n",
+        "m": "acontia",
+        "ex": [
+          {
+            "e": "Study acontia.",
+            "c": "学习acontia。"
+          }
+        ]
+      },
+      {
+        "w": "acopyrine",
+        "p": "/acopyrine/",
+        "pos": "n",
+        "m": "acopyrine",
+        "ex": [
+          {
+            "e": "Study acopyrine.",
+            "c": "学习acopyrine。"
+          }
+        ]
+      },
+      {
+        "w": "acorned",
+        "p": "/acorned/",
+        "pos": "n",
+        "m": "acorned",
+        "ex": [
+          {
+            "e": "Study acorned.",
+            "c": "学习acorned。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 72,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acosmic",
+        "p": "/acosmic/",
+        "pos": "n",
+        "m": "acosmic",
+        "ex": [
+          {
+            "e": "Study acosmic.",
+            "c": "学习acosmic。"
+          }
+        ]
+      },
+      {
+        "w": "acotyledonous",
+        "p": "/acotyledonous/",
+        "pos": "n",
+        "m": "acotyledonous",
+        "ex": [
+          {
+            "e": "Study acotyledonous.",
+            "c": "学习acotyledonous。"
+          }
+        ]
+      },
+      {
+        "w": "acouasm",
+        "p": "/acouasm/",
+        "pos": "n",
+        "m": "acouasm",
+        "ex": [
+          {
+            "e": "Study acouasm.",
+            "c": "学习acouasm。"
+          }
+        ]
+      },
+      {
+        "w": "acouchi",
+        "p": "/acouchi/",
+        "pos": "n",
+        "m": "acouchi",
+        "ex": [
+          {
+            "e": "Study acouchi.",
+            "c": "学习acouchi。"
+          }
+        ]
+      },
+      {
+        "w": "acouchy",
+        "p": "/acouchy/",
+        "pos": "n",
+        "m": "acouchy",
+        "ex": [
+          {
+            "e": "Study acouchy.",
+            "c": "学习acouchy。"
+          }
+        ]
+      },
+      {
+        "w": "acoumeter",
+        "p": "/acoumeter/",
+        "pos": "n",
+        "m": "acoumeter",
+        "ex": [
+          {
+            "e": "Study acoumeter.",
+            "c": "学习acoumeter。"
+          }
+        ]
+      },
+      {
+        "w": "acoumetry",
+        "p": "/acoumetry/",
+        "pos": "n",
+        "m": "acoumetry",
+        "ex": [
+          {
+            "e": "Study acoumetry.",
+            "c": "学习acoumetry。"
+          }
+        ]
+      },
+      {
+        "w": "acouophonia",
+        "p": "/acouophonia/",
+        "pos": "n",
+        "m": "acouophonia",
+        "ex": [
+          {
+            "e": "Study acouophonia.",
+            "c": "学习acouophonia。"
+          }
+        ]
+      },
+      {
+        "w": "acousma",
+        "p": "/acousma/",
+        "pos": "n",
+        "m": "acousma",
+        "ex": [
+          {
+            "e": "Study acousma.",
+            "c": "学习acousma。"
+          }
+        ]
+      },
+      {
+        "w": "acousmata",
+        "p": "/acousmata/",
+        "pos": "n",
+        "m": "acousmata",
+        "ex": [
+          {
+            "e": "Study acousmata.",
+            "c": "学习acousmata。"
+          }
+        ]
+      },
+      {
+        "w": "acoustically",
+        "p": "/acoustically/",
+        "pos": "n",
+        "m": "acoustically",
+        "ex": [
+          {
+            "e": "Study acoustically.",
+            "c": "学习acoustically。"
+          }
+        ]
+      },
+      {
+        "w": "acoustician",
+        "p": "/acoustician/",
+        "pos": "n",
+        "m": "acoustician",
+        "ex": [
+          {
+            "e": "Study acoustician.",
+            "c": "学习acoustician。"
+          }
+        ]
+      },
+      {
+        "w": "acousticophobia",
+        "p": "/acousticophobia/",
+        "pos": "n",
+        "m": "acousticophobia",
+        "ex": [
+          {
+            "e": "Study acousticophobia.",
+            "c": "学习acousticophobia。"
+          }
+        ]
+      },
+      {
+        "w": "acoustics",
+        "p": "/acoustics/",
+        "pos": "n",
+        "m": "acoustics",
+        "ex": [
+          {
+            "e": "Study acoustics.",
+            "c": "学习acoustics。"
+          }
+        ]
+      },
+      {
+        "w": "acoustoelectric",
+        "p": "/acoustoelectric/",
+        "pos": "n",
+        "m": "acoustoelectric",
+        "ex": [
+          {
+            "e": "Study acoustoelectric.",
+            "c": "学习acoustoelectric。"
+          }
+        ]
+      },
+      {
+        "w": "acquaintance",
+        "p": "/acquaintance/",
+        "pos": "n",
+        "m": "acquaintance",
+        "ex": [
+          {
+            "e": "Study acquaintance.",
+            "c": "学习acquaintance。"
+          }
+        ]
+      },
+      {
+        "w": "acquaintances",
+        "p": "/acquaintances/",
+        "pos": "n",
+        "m": "acquaintances",
+        "ex": [
+          {
+            "e": "Study acquaintances.",
+            "c": "学习acquaintances。"
+          }
+        ]
+      },
+      {
+        "w": "acquaintancy",
+        "p": "/acquaintancy/",
+        "pos": "n",
+        "m": "acquaintancy",
+        "ex": [
+          {
+            "e": "Study acquaintancy.",
+            "c": "学习acquaintancy。"
+          }
+        ]
+      },
+      {
+        "w": "acquaintant",
+        "p": "/acquaintant/",
+        "pos": "n",
+        "m": "acquaintant",
+        "ex": [
+          {
+            "e": "Study acquaintant.",
+            "c": "学习acquaintant。"
+          }
+        ]
+      },
+      {
+        "w": "acquaintedness",
+        "p": "/acquaintedness/",
+        "pos": "n",
+        "m": "acquaintedness",
+        "ex": [
+          {
+            "e": "Study acquaintedness.",
+            "c": "学习acquaintedness。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 73,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acquainting",
+        "p": "/acquainting/",
+        "pos": "n",
+        "m": "acquainting",
+        "ex": [
+          {
+            "e": "Study acquainting.",
+            "c": "学习acquainting。"
+          }
+        ]
+      },
+      {
+        "w": "acquaints",
+        "p": "/acquaints/",
+        "pos": "n",
+        "m": "acquaints",
+        "ex": [
+          {
+            "e": "Study acquaints.",
+            "c": "学习acquaints。"
+          }
+        ]
+      },
+      {
+        "w": "acquent",
+        "p": "/acquent/",
+        "pos": "n",
+        "m": "acquent",
+        "ex": [
+          {
+            "e": "Study acquent.",
+            "c": "学习acquent。"
+          }
+        ]
+      },
+      {
+        "w": "acquereur",
+        "p": "/acquereur/",
+        "pos": "n",
+        "m": "acquereur",
+        "ex": [
+          {
+            "e": "Study acquereur.",
+            "c": "学习acquereur。"
+          }
+        ]
+      },
+      {
+        "w": "acquest",
+        "p": "/acquest/",
+        "pos": "n",
+        "m": "acquest",
+        "ex": [
+          {
+            "e": "Study acquest.",
+            "c": "学习acquest。"
+          }
+        ]
+      },
+      {
+        "w": "acquiesce",
+        "p": "/acquiesce/",
+        "pos": "n",
+        "m": "acquiesce",
+        "ex": [
+          {
+            "e": "Study acquiesce.",
+            "c": "学习acquiesce。"
+          }
+        ]
+      },
+      {
+        "w": "acquiescement",
+        "p": "/acquiescement/",
+        "pos": "n",
+        "m": "acquiescement",
+        "ex": [
+          {
+            "e": "Study acquiescement.",
+            "c": "学习acquiescement。"
+          }
+        ]
+      },
+      {
+        "w": "acquiescence",
+        "p": "/acquiescence/",
+        "pos": "n",
+        "m": "acquiescence",
+        "ex": [
+          {
+            "e": "Study acquiescence.",
+            "c": "学习acquiescence。"
+          }
+        ]
+      },
+      {
+        "w": "acquiescency",
+        "p": "/acquiescency/",
+        "pos": "n",
+        "m": "acquiescency",
+        "ex": [
+          {
+            "e": "Study acquiescency.",
+            "c": "学习acquiescency。"
+          }
+        ]
+      },
+      {
+        "w": "acquiescent",
+        "p": "/acquiescent/",
+        "pos": "n",
+        "m": "acquiescent",
+        "ex": [
+          {
+            "e": "Study acquiescent.",
+            "c": "学习acquiescent。"
+          }
+        ]
+      },
+      {
+        "w": "acquiescently",
+        "p": "/acquiescently/",
+        "pos": "n",
+        "m": "acquiescently",
+        "ex": [
+          {
+            "e": "Study acquiescently.",
+            "c": "学习acquiescently。"
+          }
+        ]
+      },
+      {
+        "w": "acquiescing",
+        "p": "/acquiescing/",
+        "pos": "n",
+        "m": "acquiescing",
+        "ex": [
+          {
+            "e": "Study acquiescing.",
+            "c": "学习acquiescing。"
+          }
+        ]
+      },
+      {
+        "w": "acquiescingly",
+        "p": "/acquiescingly/",
+        "pos": "n",
+        "m": "acquiescingly",
+        "ex": [
+          {
+            "e": "Study acquiescingly.",
+            "c": "学习acquiescingly。"
+          }
+        ]
+      },
+      {
+        "w": "acquiesence",
+        "p": "/acquiesence/",
+        "pos": "n",
+        "m": "acquiesence",
+        "ex": [
+          {
+            "e": "Study acquiesence.",
+            "c": "学习acquiesence。"
+          }
+        ]
+      },
+      {
+        "w": "acquiet",
+        "p": "/acquiet/",
+        "pos": "n",
+        "m": "acquiet",
+        "ex": [
+          {
+            "e": "Study acquiet.",
+            "c": "学习acquiet。"
+          }
+        ]
+      },
+      {
+        "w": "acquirability",
+        "p": "/acquirability/",
+        "pos": "n",
+        "m": "acquirability",
+        "ex": [
+          {
+            "e": "Study acquirability.",
+            "c": "学习acquirability。"
+          }
+        ]
+      },
+      {
+        "w": "acquire",
+        "p": "/acquire/",
+        "pos": "n",
+        "m": "acquire",
+        "ex": [
+          {
+            "e": "Study acquire.",
+            "c": "学习acquire。"
+          }
+        ]
+      },
+      {
+        "w": "acquirement",
+        "p": "/acquirement/",
+        "pos": "n",
+        "m": "acquirement",
+        "ex": [
+          {
+            "e": "Study acquirement.",
+            "c": "学习acquirement。"
+          }
+        ]
+      },
+      {
+        "w": "acquirements",
+        "p": "/acquirements/",
+        "pos": "n",
+        "m": "acquirements",
+        "ex": [
+          {
+            "e": "Study acquirements.",
+            "c": "学习acquirements。"
+          }
+        ]
+      },
+      {
+        "w": "acquirers",
+        "p": "/acquirers/",
+        "pos": "n",
+        "m": "acquirers",
+        "ex": [
+          {
+            "e": "Study acquirers.",
+            "c": "学习acquirers。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 74,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acquiring",
+        "p": "/acquiring/",
+        "pos": "n",
+        "m": "acquiring",
+        "ex": [
+          {
+            "e": "Study acquiring.",
+            "c": "学习acquiring。"
+          }
+        ]
+      },
+      {
+        "w": "acquisita",
+        "p": "/acquisita/",
+        "pos": "n",
+        "m": "acquisita",
+        "ex": [
+          {
+            "e": "Study acquisita.",
+            "c": "学习acquisita。"
+          }
+        ]
+      },
+      {
+        "w": "acquisite",
+        "p": "/acquisite/",
+        "pos": "n",
+        "m": "acquisite",
+        "ex": [
+          {
+            "e": "Study acquisite.",
+            "c": "学习acquisite。"
+          }
+        ]
+      },
+      {
+        "w": "acquisition",
+        "p": "/acquisition/",
+        "pos": "n",
+        "m": "acquisition",
+        "ex": [
+          {
+            "e": "Study acquisition.",
+            "c": "学习acquisition。"
+          }
+        ]
+      },
+      {
+        "w": "acquisitional",
+        "p": "/acquisitional/",
+        "pos": "n",
+        "m": "acquisitional",
+        "ex": [
+          {
+            "e": "Study acquisitional.",
+            "c": "学习acquisitional。"
+          }
+        ]
+      },
+      {
+        "w": "acquisitions",
+        "p": "/acquisitions/",
+        "pos": "n",
+        "m": "acquisitions",
+        "ex": [
+          {
+            "e": "Study acquisitions.",
+            "c": "学习acquisitions。"
+          }
+        ]
+      },
+      {
+        "w": "acquisitive",
+        "p": "/acquisitive/",
+        "pos": "n",
+        "m": "acquisitive",
+        "ex": [
+          {
+            "e": "Study acquisitive.",
+            "c": "学习acquisitive。"
+          }
+        ]
+      },
+      {
+        "w": "acquisitively",
+        "p": "/acquisitively/",
+        "pos": "n",
+        "m": "acquisitively",
+        "ex": [
+          {
+            "e": "Study acquisitively.",
+            "c": "学习acquisitively。"
+          }
+        ]
+      },
+      {
+        "w": "acquisitiveness",
+        "p": "/acquisitiveness/",
+        "pos": "n",
+        "m": "acquisitiveness",
+        "ex": [
+          {
+            "e": "Study acquisitiveness.",
+            "c": "学习acquisitiveness。"
+          }
+        ]
+      },
+      {
+        "w": "acquist",
+        "p": "/acquist/",
+        "pos": "n",
+        "m": "acquist",
+        "ex": [
+          {
+            "e": "Study acquist.",
+            "c": "学习acquist。"
+          }
+        ]
+      },
+      {
+        "w": "acquits",
+        "p": "/acquits/",
+        "pos": "n",
+        "m": "acquits",
+        "ex": [
+          {
+            "e": "Study acquits.",
+            "c": "学习acquits。"
+          }
+        ]
+      },
+      {
+        "w": "acquittal",
+        "p": "/acquittal/",
+        "pos": "n",
+        "m": "acquittal",
+        "ex": [
+          {
+            "e": "Study acquittal.",
+            "c": "学习acquittal。"
+          }
+        ]
+      },
+      {
+        "w": "acquittance",
+        "p": "/acquittance/",
+        "pos": "n",
+        "m": "acquittance",
+        "ex": [
+          {
+            "e": "Study acquittance.",
+            "c": "学习acquittance。"
+          }
+        ]
+      },
+      {
+        "w": "acquitted",
+        "p": "/acquitted/",
+        "pos": "n",
+        "m": "acquitted",
+        "ex": [
+          {
+            "e": "Study acquitted.",
+            "c": "学习acquitted。"
+          }
+        ]
+      },
+      {
+        "w": "acquitter",
+        "p": "/acquitter/",
+        "pos": "n",
+        "m": "acquitter",
+        "ex": [
+          {
+            "e": "Study acquitter.",
+            "c": "学习acquitter。"
+          }
+        ]
+      },
+      {
+        "w": "acquophonia",
+        "p": "/acquophonia/",
+        "pos": "n",
+        "m": "acquophonia",
+        "ex": [
+          {
+            "e": "Study acquophonia.",
+            "c": "学习acquophonia。"
+          }
+        ]
+      },
+      {
+        "w": "acraein",
+        "p": "/acraein/",
+        "pos": "n",
+        "m": "acraein",
+        "ex": [
+          {
+            "e": "Study acraein.",
+            "c": "学习acraein。"
+          }
+        ]
+      },
+      {
+        "w": "acraeinae",
+        "p": "/acraeinae/",
+        "pos": "n",
+        "m": "acraeinae",
+        "ex": [
+          {
+            "e": "Study acraeinae.",
+            "c": "学习acraeinae。"
+          }
+        ]
+      },
+      {
+        "w": "acraldehyde",
+        "p": "/acraldehyde/",
+        "pos": "n",
+        "m": "acraldehyde",
+        "ex": [
+          {
+            "e": "Study acraldehyde.",
+            "c": "学习acraldehyde。"
+          }
+        ]
+      },
+      {
+        "w": "acrania",
+        "p": "/acrania/",
+        "pos": "n",
+        "m": "acrania",
+        "ex": [
+          {
+            "e": "Study acrania.",
+            "c": "学习acrania。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 75,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acraniate",
+        "p": "/acraniate/",
+        "pos": "n",
+        "m": "acraniate",
+        "ex": [
+          {
+            "e": "Study acraniate.",
+            "c": "学习acraniate。"
+          }
+        ]
+      },
+      {
+        "w": "acrasia",
+        "p": "/acrasia/",
+        "pos": "n",
+        "m": "acrasia",
+        "ex": [
+          {
+            "e": "Study acrasia.",
+            "c": "学习acrasia。"
+          }
+        ]
+      },
+      {
+        "w": "acrasiaceae",
+        "p": "/acrasiaceae/",
+        "pos": "n",
+        "m": "acrasiaceae",
+        "ex": [
+          {
+            "e": "Study acrasiaceae.",
+            "c": "学习acrasiaceae。"
+          }
+        ]
+      },
+      {
+        "w": "acrasieae",
+        "p": "/acrasieae/",
+        "pos": "n",
+        "m": "acrasieae",
+        "ex": [
+          {
+            "e": "Study acrasieae.",
+            "c": "学习acrasieae。"
+          }
+        ]
+      },
+      {
+        "w": "acrasin",
+        "p": "/acrasin/",
+        "pos": "n",
+        "m": "acrasin",
+        "ex": [
+          {
+            "e": "Study acrasin.",
+            "c": "学习acrasin。"
+          }
+        ]
+      },
+      {
+        "w": "acraspeda",
+        "p": "/acraspeda/",
+        "pos": "n",
+        "m": "acraspeda",
+        "ex": [
+          {
+            "e": "Study acraspeda.",
+            "c": "学习acraspeda。"
+          }
+        ]
+      },
+      {
+        "w": "acraspedote",
+        "p": "/acraspedote/",
+        "pos": "n",
+        "m": "acraspedote",
+        "ex": [
+          {
+            "e": "Study acraspedote.",
+            "c": "学习acraspedote。"
+          }
+        ]
+      },
+      {
+        "w": "acratia",
+        "p": "/acratia/",
+        "pos": "n",
+        "m": "acratia",
+        "ex": [
+          {
+            "e": "Study acratia.",
+            "c": "学习acratia。"
+          }
+        ]
+      },
+      {
+        "w": "acraturesis",
+        "p": "/acraturesis/",
+        "pos": "n",
+        "m": "acraturesis",
+        "ex": [
+          {
+            "e": "Study acraturesis.",
+            "c": "学习acraturesis。"
+          }
+        ]
+      },
+      {
+        "w": "acreage",
+        "p": "/acreage/",
+        "pos": "n",
+        "m": "acreage",
+        "ex": [
+          {
+            "e": "Study acreage.",
+            "c": "学习acreage。"
+          }
+        ]
+      },
+      {
+        "w": "acreman",
+        "p": "/acreman/",
+        "pos": "n",
+        "m": "acreman",
+        "ex": [
+          {
+            "e": "Study acreman.",
+            "c": "学习acreman。"
+          }
+        ]
+      },
+      {
+        "w": "acremen",
+        "p": "/acremen/",
+        "pos": "n",
+        "m": "acremen",
+        "ex": [
+          {
+            "e": "Study acremen.",
+            "c": "学习acremen。"
+          }
+        ]
+      },
+      {
+        "w": "acrestaff",
+        "p": "/acrestaff/",
+        "pos": "n",
+        "m": "acrestaff",
+        "ex": [
+          {
+            "e": "Study acrestaff.",
+            "c": "学习acrestaff。"
+          }
+        ]
+      },
+      {
+        "w": "acridan",
+        "p": "/acridan/",
+        "pos": "n",
+        "m": "acridan",
+        "ex": [
+          {
+            "e": "Study acridan.",
+            "c": "学习acridan。"
+          }
+        ]
+      },
+      {
+        "w": "acrider",
+        "p": "/acrider/",
+        "pos": "n",
+        "m": "acrider",
+        "ex": [
+          {
+            "e": "Study acrider.",
+            "c": "学习acrider。"
+          }
+        ]
+      },
+      {
+        "w": "acridic",
+        "p": "/acridic/",
+        "pos": "n",
+        "m": "acridic",
+        "ex": [
+          {
+            "e": "Study acridic.",
+            "c": "学习acridic。"
+          }
+        ]
+      },
+      {
+        "w": "acridid",
+        "p": "/acridid/",
+        "pos": "n",
+        "m": "acridid",
+        "ex": [
+          {
+            "e": "Study acridid.",
+            "c": "学习acridid。"
+          }
+        ]
+      },
+      {
+        "w": "acrididae",
+        "p": "/acrididae/",
+        "pos": "n",
+        "m": "acrididae",
+        "ex": [
+          {
+            "e": "Study acrididae.",
+            "c": "学习acrididae。"
+          }
+        ]
+      },
+      {
+        "w": "acridin",
+        "p": "/acridin/",
+        "pos": "n",
+        "m": "acridin",
+        "ex": [
+          {
+            "e": "Study acridin.",
+            "c": "学习acridin。"
+          }
+        ]
+      },
+      {
+        "w": "acridines",
+        "p": "/acridines/",
+        "pos": "n",
+        "m": "acridines",
+        "ex": [
+          {
+            "e": "Study acridines.",
+            "c": "学习acridines。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 76,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acridinic",
+        "p": "/acridinic/",
+        "pos": "n",
+        "m": "acridinic",
+        "ex": [
+          {
+            "e": "Study acridinic.",
+            "c": "学习acridinic。"
+          }
+        ]
+      },
+      {
+        "w": "acridly",
+        "p": "/acridly/",
+        "pos": "n",
+        "m": "acridly",
+        "ex": [
+          {
+            "e": "Study acridly.",
+            "c": "学习acridly。"
+          }
+        ]
+      },
+      {
+        "w": "acridness",
+        "p": "/acridness/",
+        "pos": "n",
+        "m": "acridness",
+        "ex": [
+          {
+            "e": "Study acridness.",
+            "c": "学习acridness。"
+          }
+        ]
+      },
+      {
+        "w": "acridophagus",
+        "p": "/acridophagus/",
+        "pos": "n",
+        "m": "acridophagus",
+        "ex": [
+          {
+            "e": "Study acridophagus.",
+            "c": "学习acridophagus。"
+          }
+        ]
+      },
+      {
+        "w": "acridyl",
+        "p": "/acridyl/",
+        "pos": "n",
+        "m": "acridyl",
+        "ex": [
+          {
+            "e": "Study acridyl.",
+            "c": "学习acridyl。"
+          }
+        ]
+      },
+      {
+        "w": "acriflavine",
+        "p": "/acriflavine/",
+        "pos": "n",
+        "m": "acriflavine",
+        "ex": [
+          {
+            "e": "Study acriflavine.",
+            "c": "学习acriflavine。"
+          }
+        ]
+      },
+      {
+        "w": "acrimonious",
+        "p": "/acrimonious/",
+        "pos": "n",
+        "m": "acrimonious",
+        "ex": [
+          {
+            "e": "Study acrimonious.",
+            "c": "学习acrimonious。"
+          }
+        ]
+      },
+      {
+        "w": "acrimoniously",
+        "p": "/acrimoniously/",
+        "pos": "n",
+        "m": "acrimoniously",
+        "ex": [
+          {
+            "e": "Study acrimoniously.",
+            "c": "学习acrimoniously。"
+          }
+        ]
+      },
+      {
+        "w": "acrimoniousness",
+        "p": "/acrimoniousness/",
+        "pos": "n",
+        "m": "acrimoniousness",
+        "ex": [
+          {
+            "e": "Study acrimoniousness.",
+            "c": "学习acrimoniousness。"
+          }
+        ]
+      },
+      {
+        "w": "acrindoline",
+        "p": "/acrindoline/",
+        "pos": "n",
+        "m": "acrindoline",
+        "ex": [
+          {
+            "e": "Study acrindoline.",
+            "c": "学习acrindoline。"
+          }
+        ]
+      },
+      {
+        "w": "acrinyl",
+        "p": "/acrinyl/",
+        "pos": "n",
+        "m": "acrinyl",
+        "ex": [
+          {
+            "e": "Study acrinyl.",
+            "c": "学习acrinyl。"
+          }
+        ]
+      },
+      {
+        "w": "acrisia",
+        "p": "/acrisia/",
+        "pos": "n",
+        "m": "acrisia",
+        "ex": [
+          {
+            "e": "Study acrisia.",
+            "c": "学习acrisia。"
+          }
+        ]
+      },
+      {
+        "w": "acritan",
+        "p": "/acritan/",
+        "pos": "n",
+        "m": "acritan",
+        "ex": [
+          {
+            "e": "Study acritan.",
+            "c": "学习acritan。"
+          }
+        ]
+      },
+      {
+        "w": "acritical",
+        "p": "/acritical/",
+        "pos": "n",
+        "m": "acritical",
+        "ex": [
+          {
+            "e": "Study acritical.",
+            "c": "学习acritical。"
+          }
+        ]
+      },
+      {
+        "w": "acritochromacy",
+        "p": "/acritochromacy/",
+        "pos": "n",
+        "m": "acritochromacy",
+        "ex": [
+          {
+            "e": "Study acritochromacy.",
+            "c": "学习acritochromacy。"
+          }
+        ]
+      },
+      {
+        "w": "acritol",
+        "p": "/acritol/",
+        "pos": "n",
+        "m": "acritol",
+        "ex": [
+          {
+            "e": "Study acritol.",
+            "c": "学习acritol。"
+          }
+        ]
+      },
+      {
+        "w": "acroaesthesia",
+        "p": "/acroaesthesia/",
+        "pos": "n",
+        "m": "acroaesthesia",
+        "ex": [
+          {
+            "e": "Study acroaesthesia.",
+            "c": "学习acroaesthesia。"
+          }
+        ]
+      },
+      {
+        "w": "acroama",
+        "p": "/acroama/",
+        "pos": "n",
+        "m": "acroama",
+        "ex": [
+          {
+            "e": "Study acroama.",
+            "c": "学习acroama。"
+          }
+        ]
+      },
+      {
+        "w": "acroamata",
+        "p": "/acroamata/",
+        "pos": "n",
+        "m": "acroamata",
+        "ex": [
+          {
+            "e": "Study acroamata.",
+            "c": "学习acroamata。"
+          }
+        ]
+      },
+      {
+        "w": "acroamatical",
+        "p": "/acroamatical/",
+        "pos": "n",
+        "m": "acroamatical",
+        "ex": [
+          {
+            "e": "Study acroamatical.",
+            "c": "学习acroamatical。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 77,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acroamatics",
+        "p": "/acroamatics/",
+        "pos": "n",
+        "m": "acroamatics",
+        "ex": [
+          {
+            "e": "Study acroamatics.",
+            "c": "学习acroamatics。"
+          }
+        ]
+      },
+      {
+        "w": "acroanesthesia",
+        "p": "/acroanesthesia/",
+        "pos": "n",
+        "m": "acroanesthesia",
+        "ex": [
+          {
+            "e": "Study acroanesthesia.",
+            "c": "学习acroanesthesia。"
+          }
+        ]
+      },
+      {
+        "w": "acroarthritis",
+        "p": "/acroarthritis/",
+        "pos": "n",
+        "m": "acroarthritis",
+        "ex": [
+          {
+            "e": "Study acroarthritis.",
+            "c": "学习acroarthritis。"
+          }
+        ]
+      },
+      {
+        "w": "acroasphyxia",
+        "p": "/acroasphyxia/",
+        "pos": "n",
+        "m": "acroasphyxia",
+        "ex": [
+          {
+            "e": "Study acroasphyxia.",
+            "c": "学习acroasphyxia。"
+          }
+        ]
+      },
+      {
+        "w": "acrobat",
+        "p": "/acrobat/",
+        "pos": "n",
+        "m": "acrobat",
+        "ex": [
+          {
+            "e": "Study acrobat.",
+            "c": "学习acrobat。"
+          }
+        ]
+      },
+      {
+        "w": "acrobates",
+        "p": "/acrobates/",
+        "pos": "n",
+        "m": "acrobates",
+        "ex": [
+          {
+            "e": "Study acrobates.",
+            "c": "学习acrobates。"
+          }
+        ]
+      },
+      {
+        "w": "acrobatholithic",
+        "p": "/acrobatholithic/",
+        "pos": "n",
+        "m": "acrobatholithic",
+        "ex": [
+          {
+            "e": "Study acrobatholithic.",
+            "c": "学习acrobatholithic。"
+          }
+        ]
+      },
+      {
+        "w": "acrobatic",
+        "p": "/acrobatic/",
+        "pos": "n",
+        "m": "acrobatic",
+        "ex": [
+          {
+            "e": "Study acrobatic.",
+            "c": "学习acrobatic。"
+          }
+        ]
+      },
+      {
+        "w": "acrobatical",
+        "p": "/acrobatical/",
+        "pos": "n",
+        "m": "acrobatical",
+        "ex": [
+          {
+            "e": "Study acrobatical.",
+            "c": "学习acrobatical。"
+          }
+        ]
+      },
+      {
+        "w": "acrobatically",
+        "p": "/acrobatically/",
+        "pos": "n",
+        "m": "acrobatically",
+        "ex": [
+          {
+            "e": "Study acrobatically.",
+            "c": "学习acrobatically。"
+          }
+        ]
+      },
+      {
+        "w": "acroblast",
+        "p": "/acroblast/",
+        "pos": "n",
+        "m": "acroblast",
+        "ex": [
+          {
+            "e": "Study acroblast.",
+            "c": "学习acroblast。"
+          }
+        ]
+      },
+      {
+        "w": "acrobystitis",
+        "p": "/acrobystitis/",
+        "pos": "n",
+        "m": "acrobystitis",
+        "ex": [
+          {
+            "e": "Study acrobystitis.",
+            "c": "学习acrobystitis。"
+          }
+        ]
+      },
+      {
+        "w": "acrocarpi",
+        "p": "/acrocarpi/",
+        "pos": "n",
+        "m": "acrocarpi",
+        "ex": [
+          {
+            "e": "Study acrocarpi.",
+            "c": "学习acrocarpi。"
+          }
+        ]
+      },
+      {
+        "w": "acrocarpous",
+        "p": "/acrocarpous/",
+        "pos": "n",
+        "m": "acrocarpous",
+        "ex": [
+          {
+            "e": "Study acrocarpous.",
+            "c": "学习acrocarpous。"
+          }
+        ]
+      },
+      {
+        "w": "acrocentric",
+        "p": "/acrocentric/",
+        "pos": "n",
+        "m": "acrocentric",
+        "ex": [
+          {
+            "e": "Study acrocentric.",
+            "c": "学习acrocentric。"
+          }
+        ]
+      },
+      {
+        "w": "acrocephalia",
+        "p": "/acrocephalia/",
+        "pos": "n",
+        "m": "acrocephalia",
+        "ex": [
+          {
+            "e": "Study acrocephalia.",
+            "c": "学习acrocephalia。"
+          }
+        ]
+      },
+      {
+        "w": "acrocephalic",
+        "p": "/acrocephalic/",
+        "pos": "n",
+        "m": "acrocephalic",
+        "ex": [
+          {
+            "e": "Study acrocephalic.",
+            "c": "学习acrocephalic。"
+          }
+        ]
+      },
+      {
+        "w": "acrocephalous",
+        "p": "/acrocephalous/",
+        "pos": "n",
+        "m": "acrocephalous",
+        "ex": [
+          {
+            "e": "Study acrocephalous.",
+            "c": "学习acrocephalous。"
+          }
+        ]
+      },
+      {
+        "w": "acrocephaly",
+        "p": "/acrocephaly/",
+        "pos": "n",
+        "m": "acrocephaly",
+        "ex": [
+          {
+            "e": "Study acrocephaly.",
+            "c": "学习acrocephaly。"
+          }
+        ]
+      },
+      {
+        "w": "acroceratidae",
+        "p": "/acroceratidae/",
+        "pos": "n",
+        "m": "acroceratidae",
+        "ex": [
+          {
+            "e": "Study acroceratidae.",
+            "c": "学习acroceratidae。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 78,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acroceraunian",
+        "p": "/acroceraunian/",
+        "pos": "n",
+        "m": "acroceraunian",
+        "ex": [
+          {
+            "e": "Study acroceraunian.",
+            "c": "学习acroceraunian。"
+          }
+        ]
+      },
+      {
+        "w": "acroceridae",
+        "p": "/acroceridae/",
+        "pos": "n",
+        "m": "acroceridae",
+        "ex": [
+          {
+            "e": "Study acroceridae.",
+            "c": "学习acroceridae。"
+          }
+        ]
+      },
+      {
+        "w": "acrochordidae",
+        "p": "/acrochordidae/",
+        "pos": "n",
+        "m": "acrochordidae",
+        "ex": [
+          {
+            "e": "Study acrochordidae.",
+            "c": "学习acrochordidae。"
+          }
+        ]
+      },
+      {
+        "w": "acrochordinae",
+        "p": "/acrochordinae/",
+        "pos": "n",
+        "m": "acrochordinae",
+        "ex": [
+          {
+            "e": "Study acrochordinae.",
+            "c": "学习acrochordinae。"
+          }
+        ]
+      },
+      {
+        "w": "acrochordon",
+        "p": "/acrochordon/",
+        "pos": "n",
+        "m": "acrochordon",
+        "ex": [
+          {
+            "e": "Study acrochordon.",
+            "c": "学习acrochordon。"
+          }
+        ]
+      },
+      {
+        "w": "acroclinium",
+        "p": "/acroclinium/",
+        "pos": "n",
+        "m": "acroclinium",
+        "ex": [
+          {
+            "e": "Study acroclinium.",
+            "c": "学习acroclinium。"
+          }
+        ]
+      },
+      {
+        "w": "acrocomia",
+        "p": "/acrocomia/",
+        "pos": "n",
+        "m": "acrocomia",
+        "ex": [
+          {
+            "e": "Study acrocomia.",
+            "c": "学习acrocomia。"
+          }
+        ]
+      },
+      {
+        "w": "acroconidium",
+        "p": "/acroconidium/",
+        "pos": "n",
+        "m": "acroconidium",
+        "ex": [
+          {
+            "e": "Study acroconidium.",
+            "c": "学习acroconidium。"
+          }
+        ]
+      },
+      {
+        "w": "acrocontracture",
+        "p": "/acrocontracture/",
+        "pos": "n",
+        "m": "acrocontracture",
+        "ex": [
+          {
+            "e": "Study acrocontracture.",
+            "c": "学习acrocontracture。"
+          }
+        ]
+      },
+      {
+        "w": "acrocoracoid",
+        "p": "/acrocoracoid/",
+        "pos": "n",
+        "m": "acrocoracoid",
+        "ex": [
+          {
+            "e": "Study acrocoracoid.",
+            "c": "学习acrocoracoid。"
+          }
+        ]
+      },
+      {
+        "w": "acrocyanosis",
+        "p": "/acrocyanosis/",
+        "pos": "n",
+        "m": "acrocyanosis",
+        "ex": [
+          {
+            "e": "Study acrocyanosis.",
+            "c": "学习acrocyanosis。"
+          }
+        ]
+      },
+      {
+        "w": "acrodactyla",
+        "p": "/acrodactyla/",
+        "pos": "n",
+        "m": "acrodactyla",
+        "ex": [
+          {
+            "e": "Study acrodactyla.",
+            "c": "学习acrodactyla。"
+          }
+        ]
+      },
+      {
+        "w": "acrodactylum",
+        "p": "/acrodactylum/",
+        "pos": "n",
+        "m": "acrodactylum",
+        "ex": [
+          {
+            "e": "Study acrodactylum.",
+            "c": "学习acrodactylum。"
+          }
+        ]
+      },
+      {
+        "w": "acrodermatitis",
+        "p": "/acrodermatitis/",
+        "pos": "n",
+        "m": "acrodermatitis",
+        "ex": [
+          {
+            "e": "Study acrodermatitis.",
+            "c": "学习acrodermatitis。"
+          }
+        ]
+      },
+      {
+        "w": "acrodontism",
+        "p": "/acrodontism/",
+        "pos": "n",
+        "m": "acrodontism",
+        "ex": [
+          {
+            "e": "Study acrodontism.",
+            "c": "学习acrodontism。"
+          }
+        ]
+      },
+      {
+        "w": "acrodonts",
+        "p": "/acrodonts/",
+        "pos": "n",
+        "m": "acrodonts",
+        "ex": [
+          {
+            "e": "Study acrodonts.",
+            "c": "学习acrodonts。"
+          }
+        ]
+      },
+      {
+        "w": "acrodrome",
+        "p": "/acrodrome/",
+        "pos": "n",
+        "m": "acrodrome",
+        "ex": [
+          {
+            "e": "Study acrodrome.",
+            "c": "学习acrodrome。"
+          }
+        ]
+      },
+      {
+        "w": "acrodromous",
+        "p": "/acrodromous/",
+        "pos": "n",
+        "m": "acrodromous",
+        "ex": [
+          {
+            "e": "Study acrodromous.",
+            "c": "学习acrodromous。"
+          }
+        ]
+      },
+      {
+        "w": "acrodus",
+        "p": "/acrodus/",
+        "pos": "n",
+        "m": "acrodus",
+        "ex": [
+          {
+            "e": "Study acrodus.",
+            "c": "学习acrodus。"
+          }
+        ]
+      },
+      {
+        "w": "acrodynia",
+        "p": "/acrodynia/",
+        "pos": "n",
+        "m": "acrodynia",
+        "ex": [
+          {
+            "e": "Study acrodynia.",
+            "c": "学习acrodynia。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 79,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acroesthesia",
+        "p": "/acroesthesia/",
+        "pos": "n",
+        "m": "acroesthesia",
+        "ex": [
+          {
+            "e": "Study acroesthesia.",
+            "c": "学习acroesthesia。"
+          }
+        ]
+      },
+      {
+        "w": "acrogen",
+        "p": "/acrogen/",
+        "pos": "n",
+        "m": "acrogen",
+        "ex": [
+          {
+            "e": "Study acrogen.",
+            "c": "学习acrogen。"
+          }
+        ]
+      },
+      {
+        "w": "acrogenic",
+        "p": "/acrogenic/",
+        "pos": "n",
+        "m": "acrogenic",
+        "ex": [
+          {
+            "e": "Study acrogenic.",
+            "c": "学习acrogenic。"
+          }
+        ]
+      },
+      {
+        "w": "acrogenously",
+        "p": "/acrogenously/",
+        "pos": "n",
+        "m": "acrogenously",
+        "ex": [
+          {
+            "e": "Study acrogenously.",
+            "c": "学习acrogenously。"
+          }
+        ]
+      },
+      {
+        "w": "acrogynae",
+        "p": "/acrogynae/",
+        "pos": "n",
+        "m": "acrogynae",
+        "ex": [
+          {
+            "e": "Study acrogynae.",
+            "c": "学习acrogynae。"
+          }
+        ]
+      },
+      {
+        "w": "acroleins",
+        "p": "/acroleins/",
+        "pos": "n",
+        "m": "acroleins",
+        "ex": [
+          {
+            "e": "Study acroleins.",
+            "c": "学习acroleins。"
+          }
+        ]
+      },
+      {
+        "w": "acroliths",
+        "p": "/acroliths/",
+        "pos": "n",
+        "m": "acroliths",
+        "ex": [
+          {
+            "e": "Study acroliths.",
+            "c": "学习acroliths。"
+          }
+        ]
+      },
+      {
+        "w": "acrologic",
+        "p": "/acrologic/",
+        "pos": "n",
+        "m": "acrologic",
+        "ex": [
+          {
+            "e": "Study acrologic.",
+            "c": "学习acrologic。"
+          }
+        ]
+      },
+      {
+        "w": "acrologically",
+        "p": "/acrologically/",
+        "pos": "n",
+        "m": "acrologically",
+        "ex": [
+          {
+            "e": "Study acrologically.",
+            "c": "学习acrologically。"
+          }
+        ]
+      },
+      {
+        "w": "acrologue",
+        "p": "/acrologue/",
+        "pos": "n",
+        "m": "acrologue",
+        "ex": [
+          {
+            "e": "Study acrologue.",
+            "c": "学习acrologue。"
+          }
+        ]
+      },
+      {
+        "w": "acromania",
+        "p": "/acromania/",
+        "pos": "n",
+        "m": "acromania",
+        "ex": [
+          {
+            "e": "Study acromania.",
+            "c": "学习acromania。"
+          }
+        ]
+      },
+      {
+        "w": "acromastitis",
+        "p": "/acromastitis/",
+        "pos": "n",
+        "m": "acromastitis",
+        "ex": [
+          {
+            "e": "Study acromastitis.",
+            "c": "学习acromastitis。"
+          }
+        ]
+      },
+      {
+        "w": "acromegalia",
+        "p": "/acromegalia/",
+        "pos": "n",
+        "m": "acromegalia",
+        "ex": [
+          {
+            "e": "Study acromegalia.",
+            "c": "学习acromegalia。"
+          }
+        ]
+      },
+      {
+        "w": "acromegalic",
+        "p": "/acromegalic/",
+        "pos": "n",
+        "m": "acromegalic",
+        "ex": [
+          {
+            "e": "Study acromegalic.",
+            "c": "学习acromegalic。"
+          }
+        ]
+      },
+      {
+        "w": "acromegalies",
+        "p": "/acromegalies/",
+        "pos": "n",
+        "m": "acromegalies",
+        "ex": [
+          {
+            "e": "Study acromegalies.",
+            "c": "学习acromegalies。"
+          }
+        ]
+      },
+      {
+        "w": "acromelalgia",
+        "p": "/acromelalgia/",
+        "pos": "n",
+        "m": "acromelalgia",
+        "ex": [
+          {
+            "e": "Study acromelalgia.",
+            "c": "学习acromelalgia。"
+          }
+        ]
+      },
+      {
+        "w": "acrometer",
+        "p": "/acrometer/",
+        "pos": "n",
+        "m": "acrometer",
+        "ex": [
+          {
+            "e": "Study acrometer.",
+            "c": "学习acrometer。"
+          }
+        ]
+      },
+      {
+        "w": "acromia",
+        "p": "/acromia/",
+        "pos": "n",
+        "m": "acromia",
+        "ex": [
+          {
+            "e": "Study acromia.",
+            "c": "学习acromia。"
+          }
+        ]
+      },
+      {
+        "w": "acromimia",
+        "p": "/acromimia/",
+        "pos": "n",
+        "m": "acromimia",
+        "ex": [
+          {
+            "e": "Study acromimia.",
+            "c": "学习acromimia。"
+          }
+        ]
+      },
+      {
+        "w": "acromiocoracoid",
+        "p": "/acromiocoracoid/",
+        "pos": "n",
+        "m": "acromiocoracoid",
+        "ex": [
+          {
+            "e": "Study acromiocoracoid.",
+            "c": "学习acromiocoracoid。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 80,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acromiodeltoid",
+        "p": "/acromiodeltoid/",
+        "pos": "n",
+        "m": "acromiodeltoid",
+        "ex": [
+          {
+            "e": "Study acromiodeltoid.",
+            "c": "学习acromiodeltoid。"
+          }
+        ]
+      },
+      {
+        "w": "acromiohumeral",
+        "p": "/acromiohumeral/",
+        "pos": "n",
+        "m": "acromiohumeral",
+        "ex": [
+          {
+            "e": "Study acromiohumeral.",
+            "c": "学习acromiohumeral。"
+          }
+        ]
+      },
+      {
+        "w": "acromiohyoid",
+        "p": "/acromiohyoid/",
+        "pos": "n",
+        "m": "acromiohyoid",
+        "ex": [
+          {
+            "e": "Study acromiohyoid.",
+            "c": "学习acromiohyoid。"
+          }
+        ]
+      },
+      {
+        "w": "acromioscapular",
+        "p": "/acromioscapular/",
+        "pos": "n",
+        "m": "acromioscapular",
+        "ex": [
+          {
+            "e": "Study acromioscapular.",
+            "c": "学习acromioscapular。"
+          }
+        ]
+      },
+      {
+        "w": "acromiosternal",
+        "p": "/acromiosternal/",
+        "pos": "n",
+        "m": "acromiosternal",
+        "ex": [
+          {
+            "e": "Study acromiosternal.",
+            "c": "学习acromiosternal。"
+          }
+        ]
+      },
+      {
+        "w": "acromiothoracic",
+        "p": "/acromiothoracic/",
+        "pos": "n",
+        "m": "acromiothoracic",
+        "ex": [
+          {
+            "e": "Study acromiothoracic.",
+            "c": "学习acromiothoracic。"
+          }
+        ]
+      },
+      {
+        "w": "acromphalus",
+        "p": "/acromphalus/",
+        "pos": "n",
+        "m": "acromphalus",
+        "ex": [
+          {
+            "e": "Study acromphalus.",
+            "c": "学习acromphalus。"
+          }
+        ]
+      },
+      {
+        "w": "acromyodi",
+        "p": "/acromyodi/",
+        "pos": "n",
+        "m": "acromyodi",
+        "ex": [
+          {
+            "e": "Study acromyodi.",
+            "c": "学习acromyodi。"
+          }
+        ]
+      },
+      {
+        "w": "acromyodian",
+        "p": "/acromyodian/",
+        "pos": "n",
+        "m": "acromyodian",
+        "ex": [
+          {
+            "e": "Study acromyodian.",
+            "c": "学习acromyodian。"
+          }
+        ]
+      },
+      {
+        "w": "acromyodous",
+        "p": "/acromyodous/",
+        "pos": "n",
+        "m": "acromyodous",
+        "ex": [
+          {
+            "e": "Study acromyodous.",
+            "c": "学习acromyodous。"
+          }
+        ]
+      },
+      {
+        "w": "acromyotonia",
+        "p": "/acromyotonia/",
+        "pos": "n",
+        "m": "acromyotonia",
+        "ex": [
+          {
+            "e": "Study acromyotonia.",
+            "c": "学习acromyotonia。"
+          }
+        ]
+      },
+      {
+        "w": "acromyotonus",
+        "p": "/acromyotonus/",
+        "pos": "n",
+        "m": "acromyotonus",
+        "ex": [
+          {
+            "e": "Study acromyotonus.",
+            "c": "学习acromyotonus。"
+          }
+        ]
+      },
+      {
+        "w": "acronal",
+        "p": "/acronal/",
+        "pos": "n",
+        "m": "acronal",
+        "ex": [
+          {
+            "e": "Study acronal.",
+            "c": "学习acronal。"
+          }
+        ]
+      },
+      {
+        "w": "acronarcotic",
+        "p": "/acronarcotic/",
+        "pos": "n",
+        "m": "acronarcotic",
+        "ex": [
+          {
+            "e": "Study acronarcotic.",
+            "c": "学习acronarcotic。"
+          }
+        ]
+      },
+      {
+        "w": "acroneurosis",
+        "p": "/acroneurosis/",
+        "pos": "n",
+        "m": "acroneurosis",
+        "ex": [
+          {
+            "e": "Study acroneurosis.",
+            "c": "学习acroneurosis。"
+          }
+        ]
+      },
+      {
+        "w": "acronic",
+        "p": "/acronic/",
+        "pos": "n",
+        "m": "acronic",
+        "ex": [
+          {
+            "e": "Study acronic.",
+            "c": "学习acronic。"
+          }
+        ]
+      },
+      {
+        "w": "acronical",
+        "p": "/acronical/",
+        "pos": "n",
+        "m": "acronical",
+        "ex": [
+          {
+            "e": "Study acronical.",
+            "c": "学习acronical。"
+          }
+        ]
+      },
+      {
+        "w": "acronically",
+        "p": "/acronically/",
+        "pos": "n",
+        "m": "acronically",
+        "ex": [
+          {
+            "e": "Study acronically.",
+            "c": "学习acronically。"
+          }
+        ]
+      },
+      {
+        "w": "acronichally",
+        "p": "/acronichally/",
+        "pos": "n",
+        "m": "acronichally",
+        "ex": [
+          {
+            "e": "Study acronichally.",
+            "c": "学习acronichally。"
+          }
+        ]
+      },
+      {
+        "w": "acronyc",
+        "p": "/acronyc/",
+        "pos": "n",
+        "m": "acronyc",
+        "ex": [
+          {
+            "e": "Study acronyc.",
+            "c": "学习acronyc。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 81,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acronycal",
+        "p": "/acronycal/",
+        "pos": "n",
+        "m": "acronycal",
+        "ex": [
+          {
+            "e": "Study acronycal.",
+            "c": "学习acronycal。"
+          }
+        ]
+      },
+      {
+        "w": "acronycally",
+        "p": "/acronycally/",
+        "pos": "n",
+        "m": "acronycally",
+        "ex": [
+          {
+            "e": "Study acronycally.",
+            "c": "学习acronycally。"
+          }
+        ]
+      },
+      {
+        "w": "acronychally",
+        "p": "/acronychally/",
+        "pos": "n",
+        "m": "acronychally",
+        "ex": [
+          {
+            "e": "Study acronychally.",
+            "c": "学习acronychally。"
+          }
+        ]
+      },
+      {
+        "w": "acronychous",
+        "p": "/acronychous/",
+        "pos": "n",
+        "m": "acronychous",
+        "ex": [
+          {
+            "e": "Study acronychous.",
+            "c": "学习acronychous。"
+          }
+        ]
+      },
+      {
+        "w": "acronycta",
+        "p": "/acronycta/",
+        "pos": "n",
+        "m": "acronycta",
+        "ex": [
+          {
+            "e": "Study acronycta.",
+            "c": "学习acronycta。"
+          }
+        ]
+      },
+      {
+        "w": "acronyctous",
+        "p": "/acronyctous/",
+        "pos": "n",
+        "m": "acronyctous",
+        "ex": [
+          {
+            "e": "Study acronyctous.",
+            "c": "学习acronyctous。"
+          }
+        ]
+      },
+      {
+        "w": "acronym",
+        "p": "/acronym/",
+        "pos": "n",
+        "m": "acronym",
+        "ex": [
+          {
+            "e": "Study acronym.",
+            "c": "学习acronym。"
+          }
+        ]
+      },
+      {
+        "w": "acronymic",
+        "p": "/acronymic/",
+        "pos": "n",
+        "m": "acronymic",
+        "ex": [
+          {
+            "e": "Study acronymic.",
+            "c": "学习acronymic。"
+          }
+        ]
+      },
+      {
+        "w": "acronymically",
+        "p": "/acronymically/",
+        "pos": "n",
+        "m": "acronymically",
+        "ex": [
+          {
+            "e": "Study acronymically.",
+            "c": "学习acronymically。"
+          }
+        ]
+      },
+      {
+        "w": "acronymized",
+        "p": "/acronymized/",
+        "pos": "n",
+        "m": "acronymized",
+        "ex": [
+          {
+            "e": "Study acronymized.",
+            "c": "学习acronymized。"
+          }
+        ]
+      },
+      {
+        "w": "acronymizing",
+        "p": "/acronymizing/",
+        "pos": "n",
+        "m": "acronymizing",
+        "ex": [
+          {
+            "e": "Study acronymizing.",
+            "c": "学习acronymizing。"
+          }
+        ]
+      },
+      {
+        "w": "acronyx",
+        "p": "/acronyx/",
+        "pos": "n",
+        "m": "acronyx",
+        "ex": [
+          {
+            "e": "Study acronyx.",
+            "c": "学习acronyx。"
+          }
+        ]
+      },
+      {
+        "w": "acroparalysis",
+        "p": "/acroparalysis/",
+        "pos": "n",
+        "m": "acroparalysis",
+        "ex": [
+          {
+            "e": "Study acroparalysis.",
+            "c": "学习acroparalysis。"
+          }
+        ]
+      },
+      {
+        "w": "acroparesthesia",
+        "p": "/acroparesthesia/",
+        "pos": "n",
+        "m": "acroparesthesia",
+        "ex": [
+          {
+            "e": "Study acroparesthesia.",
+            "c": "学习acroparesthesia。"
+          }
+        ]
+      },
+      {
+        "w": "acropathology",
+        "p": "/acropathology/",
+        "pos": "n",
+        "m": "acropathology",
+        "ex": [
+          {
+            "e": "Study acropathology.",
+            "c": "学习acropathology。"
+          }
+        ]
+      },
+      {
+        "w": "acropathy",
+        "p": "/acropathy/",
+        "pos": "n",
+        "m": "acropathy",
+        "ex": [
+          {
+            "e": "Study acropathy.",
+            "c": "学习acropathy。"
+          }
+        ]
+      },
+      {
+        "w": "acropetal",
+        "p": "/acropetal/",
+        "pos": "n",
+        "m": "acropetal",
+        "ex": [
+          {
+            "e": "Study acropetal.",
+            "c": "学习acropetal。"
+          }
+        ]
+      },
+      {
+        "w": "acropetally",
+        "p": "/acropetally/",
+        "pos": "n",
+        "m": "acropetally",
+        "ex": [
+          {
+            "e": "Study acropetally.",
+            "c": "学习acropetally。"
+          }
+        ]
+      },
+      {
+        "w": "acrophonetic",
+        "p": "/acrophonetic/",
+        "pos": "n",
+        "m": "acrophonetic",
+        "ex": [
+          {
+            "e": "Study acrophonetic.",
+            "c": "学习acrophonetic。"
+          }
+        ]
+      },
+      {
+        "w": "acrophonically",
+        "p": "/acrophonically/",
+        "pos": "n",
+        "m": "acrophonically",
+        "ex": [
+          {
+            "e": "Study acrophonically.",
+            "c": "学习acrophonically。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 82,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acrophonies",
+        "p": "/acrophonies/",
+        "pos": "n",
+        "m": "acrophonies",
+        "ex": [
+          {
+            "e": "Study acrophonies.",
+            "c": "学习acrophonies。"
+          }
+        ]
+      },
+      {
+        "w": "acrophony",
+        "p": "/acrophony/",
+        "pos": "n",
+        "m": "acrophony",
+        "ex": [
+          {
+            "e": "Study acrophony.",
+            "c": "学习acrophony。"
+          }
+        ]
+      },
+      {
+        "w": "acropodia",
+        "p": "/acropodia/",
+        "pos": "n",
+        "m": "acropodia",
+        "ex": [
+          {
+            "e": "Study acropodia.",
+            "c": "学习acropodia。"
+          }
+        ]
+      },
+      {
+        "w": "acropolis",
+        "p": "/acropolis/",
+        "pos": "n",
+        "m": "acropolis",
+        "ex": [
+          {
+            "e": "Study acropolis.",
+            "c": "学习acropolis。"
+          }
+        ]
+      },
+      {
+        "w": "acropolises",
+        "p": "/acropolises/",
+        "pos": "n",
+        "m": "acropolises",
+        "ex": [
+          {
+            "e": "Study acropolises.",
+            "c": "学习acropolises。"
+          }
+        ]
+      },
+      {
+        "w": "acropolitan",
+        "p": "/acropolitan/",
+        "pos": "n",
+        "m": "acropolitan",
+        "ex": [
+          {
+            "e": "Study acropolitan.",
+            "c": "学习acropolitan。"
+          }
+        ]
+      },
+      {
+        "w": "acrorrheuma",
+        "p": "/acrorrheuma/",
+        "pos": "n",
+        "m": "acrorrheuma",
+        "ex": [
+          {
+            "e": "Study acrorrheuma.",
+            "c": "学习acrorrheuma。"
+          }
+        ]
+      },
+      {
+        "w": "acrosarca",
+        "p": "/acrosarca/",
+        "pos": "n",
+        "m": "acrosarca",
+        "ex": [
+          {
+            "e": "Study acrosarca.",
+            "c": "学习acrosarca。"
+          }
+        ]
+      },
+      {
+        "w": "acroscleriasis",
+        "p": "/acroscleriasis/",
+        "pos": "n",
+        "m": "acroscleriasis",
+        "ex": [
+          {
+            "e": "Study acroscleriasis.",
+            "c": "学习acroscleriasis。"
+          }
+        ]
+      },
+      {
+        "w": "acroscleroderma",
+        "p": "/acroscleroderma/",
+        "pos": "n",
+        "m": "acroscleroderma",
+        "ex": [
+          {
+            "e": "Study acroscleroderma.",
+            "c": "学习acroscleroderma。"
+          }
+        ]
+      },
+      {
+        "w": "acrosomes",
+        "p": "/acrosomes/",
+        "pos": "n",
+        "m": "acrosomes",
+        "ex": [
+          {
+            "e": "Study acrosomes.",
+            "c": "学习acrosomes。"
+          }
+        ]
+      },
+      {
+        "w": "acrosphacelus",
+        "p": "/acrosphacelus/",
+        "pos": "n",
+        "m": "acrosphacelus",
+        "ex": [
+          {
+            "e": "Study acrosphacelus.",
+            "c": "学习acrosphacelus。"
+          }
+        ]
+      },
+      {
+        "w": "acrospire",
+        "p": "/acrospire/",
+        "pos": "n",
+        "m": "acrospire",
+        "ex": [
+          {
+            "e": "Study acrospire.",
+            "c": "学习acrospire。"
+          }
+        ]
+      },
+      {
+        "w": "acrospiring",
+        "p": "/acrospiring/",
+        "pos": "n",
+        "m": "acrospiring",
+        "ex": [
+          {
+            "e": "Study acrospiring.",
+            "c": "学习acrospiring。"
+          }
+        ]
+      },
+      {
+        "w": "acrospore",
+        "p": "/acrospore/",
+        "pos": "n",
+        "m": "acrospore",
+        "ex": [
+          {
+            "e": "Study acrospore.",
+            "c": "学习acrospore。"
+          }
+        ]
+      },
+      {
+        "w": "acrosporous",
+        "p": "/acrosporous/",
+        "pos": "n",
+        "m": "acrosporous",
+        "ex": [
+          {
+            "e": "Study acrosporous.",
+            "c": "学习acrosporous。"
+          }
+        ]
+      },
+      {
+        "w": "acrostically",
+        "p": "/acrostically/",
+        "pos": "n",
+        "m": "acrostically",
+        "ex": [
+          {
+            "e": "Study acrostically.",
+            "c": "学习acrostically。"
+          }
+        ]
+      },
+      {
+        "w": "acrostichal",
+        "p": "/acrostichal/",
+        "pos": "n",
+        "m": "acrostichal",
+        "ex": [
+          {
+            "e": "Study acrostichal.",
+            "c": "学习acrostichal。"
+          }
+        ]
+      },
+      {
+        "w": "acrosticheae",
+        "p": "/acrosticheae/",
+        "pos": "n",
+        "m": "acrosticheae",
+        "ex": [
+          {
+            "e": "Study acrosticheae.",
+            "c": "学习acrosticheae。"
+          }
+        ]
+      },
+      {
+        "w": "acrostichic",
+        "p": "/acrostichic/",
+        "pos": "n",
+        "m": "acrostichic",
+        "ex": [
+          {
+            "e": "Study acrostichic.",
+            "c": "学习acrostichic。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 83,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acrostichoid",
+        "p": "/acrostichoid/",
+        "pos": "n",
+        "m": "acrostichoid",
+        "ex": [
+          {
+            "e": "Study acrostichoid.",
+            "c": "学习acrostichoid。"
+          }
+        ]
+      },
+      {
+        "w": "acrostichum",
+        "p": "/acrostichum/",
+        "pos": "n",
+        "m": "acrostichum",
+        "ex": [
+          {
+            "e": "Study acrostichum.",
+            "c": "学习acrostichum。"
+          }
+        ]
+      },
+      {
+        "w": "acrosticism",
+        "p": "/acrosticism/",
+        "pos": "n",
+        "m": "acrosticism",
+        "ex": [
+          {
+            "e": "Study acrosticism.",
+            "c": "学习acrosticism。"
+          }
+        ]
+      },
+      {
+        "w": "acrostics",
+        "p": "/acrostics/",
+        "pos": "n",
+        "m": "acrostics",
+        "ex": [
+          {
+            "e": "Study acrostics.",
+            "c": "学习acrostics。"
+          }
+        ]
+      },
+      {
+        "w": "acrostolion",
+        "p": "/acrostolion/",
+        "pos": "n",
+        "m": "acrostolion",
+        "ex": [
+          {
+            "e": "Study acrostolion.",
+            "c": "学习acrostolion。"
+          }
+        ]
+      },
+      {
+        "w": "acrostolium",
+        "p": "/acrostolium/",
+        "pos": "n",
+        "m": "acrostolium",
+        "ex": [
+          {
+            "e": "Study acrostolium.",
+            "c": "学习acrostolium。"
+          }
+        ]
+      },
+      {
+        "w": "acrotarsial",
+        "p": "/acrotarsial/",
+        "pos": "n",
+        "m": "acrotarsial",
+        "ex": [
+          {
+            "e": "Study acrotarsial.",
+            "c": "学习acrotarsial。"
+          }
+        ]
+      },
+      {
+        "w": "acrotarsium",
+        "p": "/acrotarsium/",
+        "pos": "n",
+        "m": "acrotarsium",
+        "ex": [
+          {
+            "e": "Study acrotarsium.",
+            "c": "学习acrotarsium。"
+          }
+        ]
+      },
+      {
+        "w": "acroteleutic",
+        "p": "/acroteleutic/",
+        "pos": "n",
+        "m": "acroteleutic",
+        "ex": [
+          {
+            "e": "Study acroteleutic.",
+            "c": "学习acroteleutic。"
+          }
+        ]
+      },
+      {
+        "w": "acroter",
+        "p": "/acroter/",
+        "pos": "n",
+        "m": "acroter",
+        "ex": [
+          {
+            "e": "Study acroter.",
+            "c": "学习acroter。"
+          }
+        ]
+      },
+      {
+        "w": "acroteral",
+        "p": "/acroteral/",
+        "pos": "n",
+        "m": "acroteral",
+        "ex": [
+          {
+            "e": "Study acroteral.",
+            "c": "学习acroteral。"
+          }
+        ]
+      },
+      {
+        "w": "acroteria",
+        "p": "/acroteria/",
+        "pos": "n",
+        "m": "acroteria",
+        "ex": [
+          {
+            "e": "Study acroteria.",
+            "c": "学习acroteria。"
+          }
+        ]
+      },
+      {
+        "w": "acroteric",
+        "p": "/acroteric/",
+        "pos": "n",
+        "m": "acroteric",
+        "ex": [
+          {
+            "e": "Study acroteric.",
+            "c": "学习acroteric。"
+          }
+        ]
+      },
+      {
+        "w": "acroterteria",
+        "p": "/acroterteria/",
+        "pos": "n",
+        "m": "acroterteria",
+        "ex": [
+          {
+            "e": "Study acroterteria.",
+            "c": "学习acroterteria。"
+          }
+        ]
+      },
+      {
+        "w": "acrothoracica",
+        "p": "/acrothoracica/",
+        "pos": "n",
+        "m": "acrothoracica",
+        "ex": [
+          {
+            "e": "Study acrothoracica.",
+            "c": "学习acrothoracica。"
+          }
+        ]
+      },
+      {
+        "w": "acrotic",
+        "p": "/acrotic/",
+        "pos": "n",
+        "m": "acrotic",
+        "ex": [
+          {
+            "e": "Study acrotic.",
+            "c": "学习acrotic。"
+          }
+        ]
+      },
+      {
+        "w": "acrotisms",
+        "p": "/acrotisms/",
+        "pos": "n",
+        "m": "acrotisms",
+        "ex": [
+          {
+            "e": "Study acrotisms.",
+            "c": "学习acrotisms。"
+          }
+        ]
+      },
+      {
+        "w": "acrotreta",
+        "p": "/acrotreta/",
+        "pos": "n",
+        "m": "acrotreta",
+        "ex": [
+          {
+            "e": "Study acrotreta.",
+            "c": "学习acrotreta。"
+          }
+        ]
+      },
+      {
+        "w": "acrotretidae",
+        "p": "/acrotretidae/",
+        "pos": "n",
+        "m": "acrotretidae",
+        "ex": [
+          {
+            "e": "Study acrotretidae.",
+            "c": "学习acrotretidae。"
+          }
+        ]
+      },
+      {
+        "w": "acrotrophic",
+        "p": "/acrotrophic/",
+        "pos": "n",
+        "m": "acrotrophic",
+        "ex": [
+          {
+            "e": "Study acrotrophic.",
+            "c": "学习acrotrophic。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 84,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
+      {
+        "w": "acrylaldehyde",
+        "p": "/acrylaldehyde/",
+        "pos": "n",
+        "m": "acrylaldehyde",
+        "ex": [
+          {
+            "e": "Study acrylaldehyde.",
+            "c": "学习acrylaldehyde。"
+          }
+        ]
+      },
+      {
+        "w": "acrylates",
+        "p": "/acrylates/",
+        "pos": "n",
+        "m": "acrylates",
+        "ex": [
+          {
+            "e": "Study acrylates.",
+            "c": "学习acrylates。"
+          }
+        ]
+      },
+      {
+        "w": "acrylic",
+        "p": "/acrylic/",
+        "pos": "n",
+        "m": "acrylic",
+        "ex": [
+          {
+            "e": "Study acrylic.",
+            "c": "学习acrylic。"
+          }
+        ]
+      },
+      {
+        "w": "acrylonitrile",
+        "p": "/acrylonitrile/",
+        "pos": "n",
+        "m": "acrylonitrile",
+        "ex": [
+          {
+            "e": "Study acrylonitrile.",
+            "c": "学习acrylonitrile。"
+          }
+        ]
+      },
+      {
+        "w": "acrylyl",
+        "p": "/acrylyl/",
+        "pos": "n",
+        "m": "acrylyl",
+        "ex": [
+          {
+            "e": "Study acrylyl.",
+            "c": "学习acrylyl。"
+          }
+        ]
+      },
+      {
+        "w": "actable",
+        "p": "/actable/",
+        "pos": "n",
+        "m": "actable",
+        "ex": [
+          {
+            "e": "Study actable.",
+            "c": "学习actable。"
           }
         ]
       },
@@ -54,54 +20686,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "acted",
-        "p": "/acted/",
-        "pos": "n",
-        "m": "acted",
-        "ex": [
-          {
-            "e": "Study acted.",
-            "c": "学习acted。"
-          }
-        ]
-      },
-      {
-        "w": "actg",
-        "p": "/actg/",
-        "pos": "n",
-        "m": "actg",
-        "ex": [
-          {
-            "e": "Study actg.",
-            "c": "学习actg。"
-          }
-        ]
-      },
-      {
-        "w": "actiad",
-        "p": "/actiad/",
-        "pos": "n",
-        "m": "actiad",
-        "ex": [
-          {
-            "e": "Study actiad.",
-            "c": "学习actiad。"
-          }
-        ]
-      },
-      {
-        "w": "actian",
-        "p": "/actian/",
-        "pos": "n",
-        "m": "actian",
-        "ex": [
-          {
-            "e": "Study actian.",
-            "c": "学习actian。"
-          }
-        ]
-      },
-      {
         "w": "actification",
         "p": "/actification/",
         "pos": "n",
@@ -110,42 +20694,6 @@ export const toeflVocabulary = [
           {
             "e": "Study actification.",
             "c": "学习actification。"
-          }
-        ]
-      },
-      {
-        "w": "actifier",
-        "p": "/actifier/",
-        "pos": "n",
-        "m": "actifier",
-        "ex": [
-          {
-            "e": "Study actifier.",
-            "c": "学习actifier。"
-          }
-        ]
-      },
-      {
-        "w": "actify",
-        "p": "/actify/",
-        "pos": "n",
-        "m": "actify",
-        "ex": [
-          {
-            "e": "Study actify.",
-            "c": "学习actify。"
-          }
-        ]
-      },
-      {
-        "w": "actin",
-        "p": "/actin/",
-        "pos": "n",
-        "m": "actin",
-        "ex": [
-          {
-            "e": "Study actin.",
-            "c": "学习actin。"
           }
         ]
       },
@@ -186,18 +20734,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actine",
-        "p": "/actine/",
-        "pos": "n",
-        "m": "actine",
-        "ex": [
-          {
-            "e": "Study actine.",
-            "c": "学习actine。"
-          }
-        ]
-      },
-      {
         "w": "actinenchyma",
         "p": "/actinenchyma/",
         "pos": "n",
@@ -206,18 +20742,6 @@ export const toeflVocabulary = [
           {
             "e": "Study actinenchyma.",
             "c": "学习actinenchyma。"
-          }
-        ]
-      },
-      {
-        "w": "acting",
-        "p": "/acting/",
-        "pos": "n",
-        "m": "acting",
-        "ex": [
-          {
-            "e": "Study acting.",
-            "c": "学习acting。"
           }
         ]
       },
@@ -244,38 +20768,6 @@ export const toeflVocabulary = [
             "c": "学习actinia。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 2,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "actiniae",
-        "p": "/actiniae/",
-        "pos": "n",
-        "m": "actiniae",
-        "ex": [
-          {
-            "e": "Study actiniae.",
-            "c": "学习actiniae。"
-          }
-        ]
-      },
-      {
-        "w": "actinian",
-        "p": "/actinian/",
-        "pos": "n",
-        "m": "actinian",
-        "ex": [
-          {
-            "e": "Study actinian.",
-            "c": "学习actinian。"
-          }
-        ]
       },
       {
         "w": "actinians",
@@ -290,18 +20782,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actiniaria",
-        "p": "/actiniaria/",
-        "pos": "n",
-        "m": "actiniaria",
-        "ex": [
-          {
-            "e": "Study actiniaria.",
-            "c": "学习actiniaria。"
-          }
-        ]
-      },
-      {
         "w": "actiniarian",
         "p": "/actiniarian/",
         "pos": "n",
@@ -310,18 +20790,6 @@ export const toeflVocabulary = [
           {
             "e": "Study actiniarian.",
             "c": "学习actiniarian。"
-          }
-        ]
-      },
-      {
-        "w": "actinias",
-        "p": "/actinias/",
-        "pos": "n",
-        "m": "actinias",
-        "ex": [
-          {
-            "e": "Study actinias.",
-            "c": "学习actinias。"
           }
         ]
       },
@@ -360,19 +20828,15 @@ export const toeflVocabulary = [
             "c": "学习actinically。"
           }
         ]
-      },
-      {
-        "w": "actinide",
-        "p": "/actinide/",
-        "pos": "n",
-        "m": "actinide",
-        "ex": [
-          {
-            "e": "Study actinide.",
-            "c": "学习actinide。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 85,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "actinides",
         "p": "/actinides/",
@@ -422,30 +20886,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actiniform",
-        "p": "/actiniform/",
-        "pos": "n",
-        "m": "actiniform",
-        "ex": [
-          {
-            "e": "Study actiniform.",
-            "c": "学习actiniform。"
-          }
-        ]
-      },
-      {
-        "w": "actinine",
-        "p": "/actinine/",
-        "pos": "n",
-        "m": "actinine",
-        "ex": [
-          {
-            "e": "Study actinine.",
-            "c": "学习actinine。"
-          }
-        ]
-      },
-      {
         "w": "actiniochrome",
         "p": "/actiniochrome/",
         "pos": "n",
@@ -482,26 +20922,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actinism",
-        "p": "/actinism/",
-        "pos": "n",
-        "m": "actinism",
-        "ex": [
-          {
-            "e": "Study actinism.",
-            "c": "学习actinism。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 3,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
         "w": "actinisms",
         "p": "/actinisms/",
         "pos": "n",
@@ -510,30 +20930,6 @@ export const toeflVocabulary = [
           {
             "e": "Study actinisms.",
             "c": "学习actinisms。"
-          }
-        ]
-      },
-      {
-        "w": "actinistia",
-        "p": "/actinistia/",
-        "pos": "n",
-        "m": "actinistia",
-        "ex": [
-          {
-            "e": "Study actinistia.",
-            "c": "学习actinistia。"
-          }
-        ]
-      },
-      {
-        "w": "actinium",
-        "p": "/actinium/",
-        "pos": "n",
-        "m": "actinium",
-        "ex": [
-          {
-            "e": "Study actinium.",
-            "c": "学习actinium。"
           }
         ]
       },
@@ -622,18 +21018,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actinocarp",
-        "p": "/actinocarp/",
-        "pos": "n",
-        "m": "actinocarp",
-        "ex": [
-          {
-            "e": "Study actinocarp.",
-            "c": "学习actinocarp。"
-          }
-        ]
-      },
-      {
         "w": "actinocarpic",
         "p": "/actinocarpic/",
         "pos": "n",
@@ -692,7 +21076,15 @@ export const toeflVocabulary = [
             "c": "学习actinocrinid。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 86,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "actinocrinidae",
         "p": "/actinocrinidae/",
@@ -740,15 +21132,7 @@ export const toeflVocabulary = [
             "c": "学习actinocutitis。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 4,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "actinodrome",
         "p": "/actinodrome/",
@@ -798,18 +21182,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actinogram",
-        "p": "/actinogram/",
-        "pos": "n",
-        "m": "actinogram",
-        "ex": [
-          {
-            "e": "Study actinogram.",
-            "c": "学习actinogram。"
-          }
-        ]
-      },
-      {
         "w": "actinograph",
         "p": "/actinograph/",
         "pos": "n",
@@ -846,18 +21218,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actinoid",
-        "p": "/actinoid/",
-        "pos": "n",
-        "m": "actinoid",
-        "ex": [
-          {
-            "e": "Study actinoid.",
-            "c": "学习actinoid。"
-          }
-        ]
-      },
-      {
         "w": "actinoida",
         "p": "/actinoida/",
         "pos": "n",
@@ -870,18 +21230,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actinoidea",
-        "p": "/actinoidea/",
-        "pos": "n",
-        "m": "actinoidea",
-        "ex": [
-          {
-            "e": "Study actinoidea.",
-            "c": "学习actinoidea。"
-          }
-        ]
-      },
-      {
         "w": "actinoids",
         "p": "/actinoids/",
         "pos": "n",
@@ -890,18 +21238,6 @@ export const toeflVocabulary = [
           {
             "e": "Study actinoids.",
             "c": "学习actinoids。"
-          }
-        ]
-      },
-      {
-        "w": "actinolite",
-        "p": "/actinolite/",
-        "pos": "n",
-        "m": "actinolite",
-        "ex": [
-          {
-            "e": "Study actinolite.",
-            "c": "学习actinolite。"
           }
         ]
       },
@@ -942,30 +21278,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actinology",
-        "p": "/actinology/",
-        "pos": "n",
-        "m": "actinology",
-        "ex": [
-          {
-            "e": "Study actinology.",
-            "c": "学习actinology。"
-          }
-        ]
-      },
-      {
-        "w": "actinomere",
-        "p": "/actinomere/",
-        "pos": "n",
-        "m": "actinomere",
-        "ex": [
-          {
-            "e": "Study actinomere.",
-            "c": "学习actinomere。"
-          }
-        ]
-      },
-      {
         "w": "actinomeric",
         "p": "/actinomeric/",
         "pos": "n",
@@ -988,15 +21300,7 @@ export const toeflVocabulary = [
             "c": "学习actinometer。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 5,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "actinometers",
         "p": "/actinometers/",
@@ -1020,7 +21324,15 @@ export const toeflVocabulary = [
             "c": "学习actinometric。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 87,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "actinometrical",
         "p": "/actinometrical/",
@@ -1236,15 +21548,7 @@ export const toeflVocabulary = [
             "c": "学习actinomycotic。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 6,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "actinomyxidia",
         "p": "/actinomyxidia/",
@@ -1268,7 +21572,15 @@ export const toeflVocabulary = [
             "c": "学习actinomyxidiida。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 88,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "actinon",
         "p": "/actinon/",
@@ -1282,18 +21594,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actinonema",
-        "p": "/actinonema/",
-        "pos": "n",
-        "m": "actinonema",
-        "ex": [
-          {
-            "e": "Study actinonema.",
-            "c": "学习actinonema。"
-          }
-        ]
-      },
-      {
         "w": "actinoneuritis",
         "p": "/actinoneuritis/",
         "pos": "n",
@@ -1302,18 +21602,6 @@ export const toeflVocabulary = [
           {
             "e": "Study actinoneuritis.",
             "c": "学习actinoneuritis。"
-          }
-        ]
-      },
-      {
-        "w": "actinons",
-        "p": "/actinons/",
-        "pos": "n",
-        "m": "actinons",
-        "ex": [
-          {
-            "e": "Study actinons.",
-            "c": "学习actinons。"
           }
         ]
       },
@@ -1402,18 +21690,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actinopoda",
-        "p": "/actinopoda/",
-        "pos": "n",
-        "m": "actinopoda",
-        "ex": [
-          {
-            "e": "Study actinopoda.",
-            "c": "学习actinopoda。"
-          }
-        ]
-      },
-      {
         "w": "actinopraxis",
         "p": "/actinopraxis/",
         "pos": "n",
@@ -1484,15 +21760,7 @@ export const toeflVocabulary = [
             "c": "学习actinopterygii。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 7,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "actinoscopy",
         "p": "/actinoscopy/",
@@ -1506,30 +21774,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actinosoma",
-        "p": "/actinosoma/",
-        "pos": "n",
-        "m": "actinosoma",
-        "ex": [
-          {
-            "e": "Study actinosoma.",
-            "c": "学习actinosoma。"
-          }
-        ]
-      },
-      {
-        "w": "actinosome",
-        "p": "/actinosome/",
-        "pos": "n",
-        "m": "actinosome",
-        "ex": [
-          {
-            "e": "Study actinosome.",
-            "c": "学习actinosome。"
-          }
-        ]
-      },
-      {
         "w": "actinosphaerium",
         "p": "/actinosphaerium/",
         "pos": "n",
@@ -1538,18 +21782,6 @@ export const toeflVocabulary = [
           {
             "e": "Study actinosphaerium.",
             "c": "学习actinosphaerium。"
-          }
-        ]
-      },
-      {
-        "w": "actinost",
-        "p": "/actinost/",
-        "pos": "n",
-        "m": "actinost",
-        "ex": [
-          {
-            "e": "Study actinost.",
-            "c": "学习actinost。"
           }
         ]
       },
@@ -1588,7 +21820,15 @@ export const toeflVocabulary = [
             "c": "学习actinotherapy。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 89,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "actinotoxemia",
         "p": "/actinotoxemia/",
@@ -1650,66 +21890,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actinozoal",
-        "p": "/actinozoal/",
-        "pos": "n",
-        "m": "actinozoal",
-        "ex": [
-          {
-            "e": "Study actinozoal.",
-            "c": "学习actinozoal。"
-          }
-        ]
-      },
-      {
-        "w": "actinozoan",
-        "p": "/actinozoan/",
-        "pos": "n",
-        "m": "actinozoan",
-        "ex": [
-          {
-            "e": "Study actinozoan.",
-            "c": "学习actinozoan。"
-          }
-        ]
-      },
-      {
-        "w": "actinozoon",
-        "p": "/actinozoon/",
-        "pos": "n",
-        "m": "actinozoon",
-        "ex": [
-          {
-            "e": "Study actinozoon.",
-            "c": "学习actinozoon。"
-          }
-        ]
-      },
-      {
-        "w": "actins",
-        "p": "/actins/",
-        "pos": "n",
-        "m": "actins",
-        "ex": [
-          {
-            "e": "Study actins.",
-            "c": "学习actins。"
-          }
-        ]
-      },
-      {
-        "w": "actinula",
-        "p": "/actinula/",
-        "pos": "n",
-        "m": "actinula",
-        "ex": [
-          {
-            "e": "Study actinula.",
-            "c": "学习actinula。"
-          }
-        ]
-      },
-      {
         "w": "actinulae",
         "p": "/actinulae/",
         "pos": "n",
@@ -1721,26 +21901,6 @@ export const toeflVocabulary = [
           }
         ]
       },
-      {
-        "w": "action",
-        "p": "/action/",
-        "pos": "n",
-        "m": "action",
-        "ex": [
-          {
-            "e": "Study action.",
-            "c": "学习action。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 8,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
       {
         "w": "actionability",
         "p": "/actionability/",
@@ -1754,42 +21914,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actionable",
-        "p": "/actionable/",
-        "pos": "n",
-        "m": "actionable",
-        "ex": [
-          {
-            "e": "Study actionable.",
-            "c": "学习actionable。"
-          }
-        ]
-      },
-      {
-        "w": "actionably",
-        "p": "/actionably/",
-        "pos": "n",
-        "m": "actionably",
-        "ex": [
-          {
-            "e": "Study actionably.",
-            "c": "学习actionably。"
-          }
-        ]
-      },
-      {
-        "w": "actional",
-        "p": "/actional/",
-        "pos": "n",
-        "m": "actional",
-        "ex": [
-          {
-            "e": "Study actional.",
-            "c": "学习actional。"
-          }
-        ]
-      },
-      {
         "w": "actionary",
         "p": "/actionary/",
         "pos": "n",
@@ -1798,30 +21922,6 @@ export const toeflVocabulary = [
           {
             "e": "Study actionary.",
             "c": "学习actionary。"
-          }
-        ]
-      },
-      {
-        "w": "actioner",
-        "p": "/actioner/",
-        "pos": "n",
-        "m": "actioner",
-        "ex": [
-          {
-            "e": "Study actioner.",
-            "c": "学习actioner。"
-          }
-        ]
-      },
-      {
-        "w": "actiones",
-        "p": "/actiones/",
-        "pos": "n",
-        "m": "actiones",
-        "ex": [
-          {
-            "e": "Study actiones.",
-            "c": "学习actiones。"
           }
         ]
       },
@@ -1850,18 +21950,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actionized",
-        "p": "/actionized/",
-        "pos": "n",
-        "m": "actionized",
-        "ex": [
-          {
-            "e": "Study actionized.",
-            "c": "学习actionized。"
-          }
-        ]
-      },
-      {
         "w": "actionizing",
         "p": "/actionizing/",
         "pos": "n",
@@ -1870,18 +21958,6 @@ export const toeflVocabulary = [
           {
             "e": "Study actionizing.",
             "c": "学习actionizing。"
-          }
-        ]
-      },
-      {
-        "w": "actionless",
-        "p": "/actionless/",
-        "pos": "n",
-        "m": "actionless",
-        "ex": [
-          {
-            "e": "Study actionless.",
-            "c": "学习actionless。"
           }
         ]
       },
@@ -1922,18 +21998,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actium",
-        "p": "/actium/",
-        "pos": "n",
-        "m": "actium",
-        "ex": [
-          {
-            "e": "Study actium.",
-            "c": "学习actium。"
-          }
-        ]
-      },
-      {
         "w": "activable",
         "p": "/activable/",
         "pos": "n",
@@ -1942,18 +22006,6 @@ export const toeflVocabulary = [
           {
             "e": "Study activable.",
             "c": "学习activable。"
-          }
-        ]
-      },
-      {
-        "w": "activate",
-        "p": "/activate/",
-        "pos": "n",
-        "m": "activate",
-        "ex": [
-          {
-            "e": "Study activate.",
-            "c": "学习activate。"
           }
         ]
       },
@@ -1978,38 +22030,6 @@ export const toeflVocabulary = [
           {
             "e": "Study activates.",
             "c": "学习activates。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 9,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "activating",
-        "p": "/activating/",
-        "pos": "n",
-        "m": "activating",
-        "ex": [
-          {
-            "e": "Study activating.",
-            "c": "学习activating。"
-          }
-        ]
-      },
-      {
-        "w": "activation",
-        "p": "/activation/",
-        "pos": "n",
-        "m": "activation",
-        "ex": [
-          {
-            "e": "Study activation.",
-            "c": "学习activation。"
           }
         ]
       },
@@ -2038,54 +22058,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "activators",
-        "p": "/activators/",
-        "pos": "n",
-        "m": "activators",
-        "ex": [
-          {
-            "e": "Study activators.",
-            "c": "学习activators。"
-          }
-        ]
-      },
-      {
-        "w": "active",
-        "p": "/active/",
-        "pos": "n",
-        "m": "active",
-        "ex": [
-          {
-            "e": "Study active.",
-            "c": "学习active。"
-          }
-        ]
-      },
-      {
-        "w": "actively",
-        "p": "/actively/",
-        "pos": "n",
-        "m": "actively",
-        "ex": [
-          {
-            "e": "Study actively.",
-            "c": "学习actively。"
-          }
-        ]
-      },
-      {
-        "w": "activeness",
-        "p": "/activeness/",
-        "pos": "n",
-        "m": "activeness",
-        "ex": [
-          {
-            "e": "Study activeness.",
-            "c": "学习activeness。"
-          }
-        ]
-      },
-      {
         "w": "actives",
         "p": "/actives/",
         "pos": "n",
@@ -2096,7 +22068,15 @@ export const toeflVocabulary = [
             "c": "学习actives。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 90,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "activin",
         "p": "/activin/",
@@ -2110,18 +22090,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "activism",
-        "p": "/activism/",
-        "pos": "n",
-        "m": "activism",
-        "ex": [
-          {
-            "e": "Study activism.",
-            "c": "学习activism。"
-          }
-        ]
-      },
-      {
         "w": "activisms",
         "p": "/activisms/",
         "pos": "n",
@@ -2130,30 +22098,6 @@ export const toeflVocabulary = [
           {
             "e": "Study activisms.",
             "c": "学习activisms。"
-          }
-        ]
-      },
-      {
-        "w": "activist",
-        "p": "/activist/",
-        "pos": "n",
-        "m": "activist",
-        "ex": [
-          {
-            "e": "Study activist.",
-            "c": "学习activist。"
-          }
-        ]
-      },
-      {
-        "w": "activistic",
-        "p": "/activistic/",
-        "pos": "n",
-        "m": "activistic",
-        "ex": [
-          {
-            "e": "Study activistic.",
-            "c": "学习activistic。"
           }
         ]
       },
@@ -2182,30 +22126,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "activities",
-        "p": "/activities/",
-        "pos": "n",
-        "m": "activities",
-        "ex": [
-          {
-            "e": "Study activities.",
-            "c": "学习activities。"
-          }
-        ]
-      },
-      {
-        "w": "activize",
-        "p": "/activize/",
-        "pos": "n",
-        "m": "activize",
-        "ex": [
-          {
-            "e": "Study activize.",
-            "c": "学习activize。"
-          }
-        ]
-      },
-      {
         "w": "activized",
         "p": "/activized/",
         "pos": "n",
@@ -2217,26 +22137,6 @@ export const toeflVocabulary = [
           }
         ]
       },
-      {
-        "w": "activizing",
-        "p": "/activizing/",
-        "pos": "n",
-        "m": "activizing",
-        "ex": [
-          {
-            "e": "Study activizing.",
-            "c": "学习activizing。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 10,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
       {
         "w": "actless",
         "p": "/actless/",
@@ -2250,66 +22150,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actomyosin",
-        "p": "/actomyosin/",
-        "pos": "n",
-        "m": "actomyosin",
-        "ex": [
-          {
-            "e": "Study actomyosin.",
-            "c": "学习actomyosin。"
-          }
-        ]
-      },
-      {
-        "w": "acton",
-        "p": "/acton/",
-        "pos": "n",
-        "m": "acton",
-        "ex": [
-          {
-            "e": "Study acton.",
-            "c": "学习acton。"
-          }
-        ]
-      },
-      {
-        "w": "actor",
-        "p": "/actor/",
-        "pos": "n",
-        "m": "actor",
-        "ex": [
-          {
-            "e": "Study actor.",
-            "c": "学习actor。"
-          }
-        ]
-      },
-      {
-        "w": "actorish",
-        "p": "/actorish/",
-        "pos": "n",
-        "m": "actorish",
-        "ex": [
-          {
-            "e": "Study actorish.",
-            "c": "学习actorish。"
-          }
-        ]
-      },
-      {
-        "w": "actors",
-        "p": "/actors/",
-        "pos": "n",
-        "m": "actors",
-        "ex": [
-          {
-            "e": "Study actors.",
-            "c": "学习actors。"
-          }
-        ]
-      },
-      {
         "w": "actorship",
         "p": "/actorship/",
         "pos": "n",
@@ -2318,30 +22158,6 @@ export const toeflVocabulary = [
           {
             "e": "Study actorship.",
             "c": "学习actorship。"
-          }
-        ]
-      },
-      {
-        "w": "actory",
-        "p": "/actory/",
-        "pos": "n",
-        "m": "actory",
-        "ex": [
-          {
-            "e": "Study actory.",
-            "c": "学习actory。"
-          }
-        ]
-      },
-      {
-        "w": "actos",
-        "p": "/actos/",
-        "pos": "n",
-        "m": "actos",
-        "ex": [
-          {
-            "e": "Study actos.",
-            "c": "学习actos。"
           }
         ]
       },
@@ -2370,54 +22186,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actressy",
-        "p": "/actressy/",
-        "pos": "n",
-        "m": "actressy",
-        "ex": [
-          {
-            "e": "Study actressy.",
-            "c": "学习actressy。"
-          }
-        ]
-      },
-      {
-        "w": "acts",
-        "p": "/acts/",
-        "pos": "n",
-        "m": "acts",
-        "ex": [
-          {
-            "e": "Study acts.",
-            "c": "学习acts。"
-          }
-        ]
-      },
-      {
-        "w": "actu",
-        "p": "/actu/",
-        "pos": "n",
-        "m": "actu",
-        "ex": [
-          {
-            "e": "Study actu.",
-            "c": "学习actu。"
-          }
-        ]
-      },
-      {
-        "w": "actual",
-        "p": "/actual/",
-        "pos": "n",
-        "m": "actual",
-        "ex": [
-          {
-            "e": "Study actual.",
-            "c": "学习actual。"
-          }
-        ]
-      },
-      {
         "w": "actualisation",
         "p": "/actualisation/",
         "pos": "n",
@@ -2438,18 +22206,6 @@ export const toeflVocabulary = [
           {
             "e": "Study actualise.",
             "c": "学习actualise。"
-          }
-        ]
-      },
-      {
-        "w": "actualised",
-        "p": "/actualised/",
-        "pos": "n",
-        "m": "actualised",
-        "ex": [
-          {
-            "e": "Study actualised.",
-            "c": "学习actualised。"
           }
         ]
       },
@@ -2476,15 +22232,7 @@ export const toeflVocabulary = [
             "c": "学习actualism。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 11,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "actualist",
         "p": "/actualist/",
@@ -2558,30 +22306,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actualized",
-        "p": "/actualized/",
-        "pos": "n",
-        "m": "actualized",
-        "ex": [
-          {
-            "e": "Study actualized.",
-            "c": "学习actualized。"
-          }
-        ]
-      },
-      {
-        "w": "actualizes",
-        "p": "/actualizes/",
-        "pos": "n",
-        "m": "actualizes",
-        "ex": [
-          {
-            "e": "Study actualizes.",
-            "c": "学习actualizes。"
-          }
-        ]
-      },
-      {
         "w": "actualizing",
         "p": "/actualizing/",
         "pos": "n",
@@ -2592,31 +22316,15 @@ export const toeflVocabulary = [
             "c": "学习actualizing。"
           }
         ]
-      },
-      {
-        "w": "actually",
-        "p": "/actually/",
-        "pos": "n",
-        "m": "actually",
-        "ex": [
-          {
-            "e": "Study actually.",
-            "c": "学习actually。"
-          }
-        ]
-      },
-      {
-        "w": "actualness",
-        "p": "/actualness/",
-        "pos": "n",
-        "m": "actualness",
-        "ex": [
-          {
-            "e": "Study actualness.",
-            "c": "学习actualness。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 91,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "actuals",
         "p": "/actuals/",
@@ -2714,38 +22422,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "actuated",
-        "p": "/actuated/",
-        "pos": "n",
-        "m": "actuated",
-        "ex": [
-          {
-            "e": "Study actuated.",
-            "c": "学习actuated。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 12,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "actuates",
-        "p": "/actuates/",
-        "pos": "n",
-        "m": "actuates",
-        "ex": [
-          {
-            "e": "Study actuates.",
-            "c": "学习actuates。"
-          }
-        ]
-      },
-      {
         "w": "actuating",
         "p": "/actuating/",
         "pos": "n",
@@ -2766,18 +22442,6 @@ export const toeflVocabulary = [
           {
             "e": "Study actuation.",
             "c": "学习actuation。"
-          }
-        ]
-      },
-      {
-        "w": "actuator",
-        "p": "/actuator/",
-        "pos": "n",
-        "m": "actuator",
-        "ex": [
-          {
-            "e": "Study actuator.",
-            "c": "学习actuator。"
           }
         ]
       },
@@ -2806,54 +22470,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "acture",
-        "p": "/acture/",
-        "pos": "n",
-        "m": "acture",
-        "ex": [
-          {
-            "e": "Study acture.",
-            "c": "学习acture。"
-          }
-        ]
-      },
-      {
-        "w": "acturience",
-        "p": "/acturience/",
-        "pos": "n",
-        "m": "acturience",
-        "ex": [
-          {
-            "e": "Study acturience.",
-            "c": "学习acturience。"
-          }
-        ]
-      },
-      {
-        "w": "actus",
-        "p": "/actus/",
-        "pos": "n",
-        "m": "actus",
-        "ex": [
-          {
-            "e": "Study actus.",
-            "c": "学习actus。"
-          }
-        ]
-      },
-      {
-        "w": "actutate",
-        "p": "/actutate/",
-        "pos": "n",
-        "m": "actutate",
-        "ex": [
-          {
-            "e": "Study actutate.",
-            "c": "学习actutate。"
-          }
-        ]
-      },
-      {
         "w": "acuaesthesia",
         "p": "/acuaesthesia/",
         "pos": "n",
@@ -2866,54 +22482,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "acuan",
-        "p": "/acuan/",
-        "pos": "n",
-        "m": "acuan",
-        "ex": [
-          {
-            "e": "Study acuan.",
-            "c": "学习acuan。"
-          }
-        ]
-      },
-      {
-        "w": "acuate",
-        "p": "/acuate/",
-        "pos": "n",
-        "m": "acuate",
-        "ex": [
-          {
-            "e": "Study acuate.",
-            "c": "学习acuate。"
-          }
-        ]
-      },
-      {
-        "w": "acuating",
-        "p": "/acuating/",
-        "pos": "n",
-        "m": "acuating",
-        "ex": [
-          {
-            "e": "Study acuating.",
-            "c": "学习acuating。"
-          }
-        ]
-      },
-      {
-        "w": "acuation",
-        "p": "/acuation/",
-        "pos": "n",
-        "m": "acuation",
-        "ex": [
-          {
-            "e": "Study acuation.",
-            "c": "学习acuation。"
-          }
-        ]
-      },
-      {
         "w": "acubens",
         "p": "/acubens/",
         "pos": "n",
@@ -2922,30 +22490,6 @@ export const toeflVocabulary = [
           {
             "e": "Study acubens.",
             "c": "学习acubens。"
-          }
-        ]
-      },
-      {
-        "w": "acuchi",
-        "p": "/acuchi/",
-        "pos": "n",
-        "m": "acuchi",
-        "ex": [
-          {
-            "e": "Study acuchi.",
-            "c": "学习acuchi。"
-          }
-        ]
-      },
-      {
-        "w": "acuclosure",
-        "p": "/acuclosure/",
-        "pos": "n",
-        "m": "acuclosure",
-        "ex": [
-          {
-            "e": "Study acuclosure.",
-            "c": "学习acuclosure。"
           }
         ]
       },
@@ -2972,26 +22516,6 @@ export const toeflVocabulary = [
             "c": "学习acuerdo。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 13,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "acuerdos",
-        "p": "/acuerdos/",
-        "pos": "n",
-        "m": "acuerdos",
-        "ex": [
-          {
-            "e": "Study acuerdos.",
-            "c": "学习acuerdos。"
-          }
-        ]
       },
       {
         "w": "acuesthesia",
@@ -3002,42 +22526,6 @@ export const toeflVocabulary = [
           {
             "e": "Study acuesthesia.",
             "c": "学习acuesthesia。"
-          }
-        ]
-      },
-      {
-        "w": "acuities",
-        "p": "/acuities/",
-        "pos": "n",
-        "m": "acuities",
-        "ex": [
-          {
-            "e": "Study acuities.",
-            "c": "学习acuities。"
-          }
-        ]
-      },
-      {
-        "w": "acuity",
-        "p": "/acuity/",
-        "pos": "n",
-        "m": "acuity",
-        "ex": [
-          {
-            "e": "Study acuity.",
-            "c": "学习acuity。"
-          }
-        ]
-      },
-      {
-        "w": "aculea",
-        "p": "/aculea/",
-        "pos": "n",
-        "m": "aculea",
-        "ex": [
-          {
-            "e": "Study aculea.",
-            "c": "学习aculea。"
           }
         ]
       },
@@ -3054,30 +22542,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aculeata",
-        "p": "/aculeata/",
-        "pos": "n",
-        "m": "aculeata",
-        "ex": [
-          {
-            "e": "Study aculeata.",
-            "c": "学习aculeata。"
-          }
-        ]
-      },
-      {
-        "w": "aculeate",
-        "p": "/aculeate/",
-        "pos": "n",
-        "m": "aculeate",
-        "ex": [
-          {
-            "e": "Study aculeate.",
-            "c": "学习aculeate。"
-          }
-        ]
-      },
-      {
         "w": "aculeated",
         "p": "/aculeated/",
         "pos": "n",
@@ -3086,42 +22550,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aculeated.",
             "c": "学习aculeated。"
-          }
-        ]
-      },
-      {
-        "w": "aculei",
-        "p": "/aculei/",
-        "pos": "n",
-        "m": "aculei",
-        "ex": [
-          {
-            "e": "Study aculei.",
-            "c": "学习aculei。"
-          }
-        ]
-      },
-      {
-        "w": "aculeiform",
-        "p": "/aculeiform/",
-        "pos": "n",
-        "m": "aculeiform",
-        "ex": [
-          {
-            "e": "Study aculeiform.",
-            "c": "学习aculeiform。"
-          }
-        ]
-      },
-      {
-        "w": "aculeolate",
-        "p": "/aculeolate/",
-        "pos": "n",
-        "m": "aculeolate",
-        "ex": [
-          {
-            "e": "Study aculeolate.",
-            "c": "学习aculeolate。"
           }
         ]
       },
@@ -3136,7 +22564,15 @@ export const toeflVocabulary = [
             "c": "学习aculeolus。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 92,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "aculeus",
         "p": "/aculeus/",
@@ -3158,18 +22594,6 @@ export const toeflVocabulary = [
           {
             "e": "Study acumble.",
             "c": "学习acumble。"
-          }
-        ]
-      },
-      {
-        "w": "acumen",
-        "p": "/acumen/",
-        "pos": "n",
-        "m": "acumen",
-        "ex": [
-          {
-            "e": "Study acumen.",
-            "c": "学习acumen。"
           }
         ]
       },
@@ -3198,18 +22622,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "acuminated",
-        "p": "/acuminated/",
-        "pos": "n",
-        "m": "acuminated",
-        "ex": [
-          {
-            "e": "Study acuminated.",
-            "c": "学习acuminated。"
-          }
-        ]
-      },
-      {
         "w": "acuminating",
         "p": "/acuminating/",
         "pos": "n",
@@ -3220,15 +22632,7 @@ export const toeflVocabulary = [
             "c": "学习acuminating。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 14,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "acumination",
         "p": "/acumination/",
@@ -3274,18 +22678,6 @@ export const toeflVocabulary = [
           {
             "e": "Study acuminulate.",
             "c": "学习acuminulate。"
-          }
-        ]
-      },
-      {
-        "w": "acupress",
-        "p": "/acupress/",
-        "pos": "n",
-        "m": "acupress",
-        "ex": [
-          {
-            "e": "Study acupress.",
-            "c": "学习acupress。"
           }
         ]
       },
@@ -3420,31 +22812,15 @@ export const toeflVocabulary = [
             "c": "学习acurative。"
           }
         ]
-      },
-      {
-        "w": "acus",
-        "p": "/acus/",
-        "pos": "n",
-        "m": "acus",
-        "ex": [
-          {
-            "e": "Study acus.",
-            "c": "学习acus。"
-          }
-        ]
-      },
-      {
-        "w": "acusection",
-        "p": "/acusection/",
-        "pos": "n",
-        "m": "acusection",
-        "ex": [
-          {
-            "e": "Study acusection.",
-            "c": "学习acusection。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 93,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "acusector",
         "p": "/acusector/",
@@ -3468,15 +22844,7 @@ export const toeflVocabulary = [
             "c": "学习acushla。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 15,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "acustom",
         "p": "/acustom/",
@@ -3486,18 +22854,6 @@ export const toeflVocabulary = [
           {
             "e": "Study acustom.",
             "c": "学习acustom。"
-          }
-        ]
-      },
-      {
-        "w": "acutance",
-        "p": "/acutance/",
-        "pos": "n",
-        "m": "acutance",
-        "ex": [
-          {
-            "e": "Study acutance.",
-            "c": "学习acutance。"
           }
         ]
       },
@@ -3538,18 +22894,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "acute",
-        "p": "/acute/",
-        "pos": "n",
-        "m": "acute",
-        "ex": [
-          {
-            "e": "Study acute.",
-            "c": "学习acute。"
-          }
-        ]
-      },
-      {
         "w": "acutely",
         "p": "/acutely/",
         "pos": "n",
@@ -3582,30 +22926,6 @@ export const toeflVocabulary = [
           {
             "e": "Study acuteness.",
             "c": "学习acuteness。"
-          }
-        ]
-      },
-      {
-        "w": "acuter",
-        "p": "/acuter/",
-        "pos": "n",
-        "m": "acuter",
-        "ex": [
-          {
-            "e": "Study acuter.",
-            "c": "学习acuter。"
-          }
-        ]
-      },
-      {
-        "w": "acutes",
-        "p": "/acutes/",
-        "pos": "n",
-        "m": "acutes",
-        "ex": [
-          {
-            "e": "Study acutes.",
-            "c": "学习acutes。"
           }
         ]
       },
@@ -3706,26 +23026,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "acutograve",
-        "p": "/acutograve/",
-        "pos": "n",
-        "m": "acutograve",
-        "ex": [
-          {
-            "e": "Study acutograve.",
-            "c": "学习acutograve。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 16,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
         "w": "acutonodose",
         "p": "/acutonodose/",
         "pos": "n",
@@ -3734,42 +23034,6 @@ export const toeflVocabulary = [
           {
             "e": "Study acutonodose.",
             "c": "学习acutonodose。"
-          }
-        ]
-      },
-      {
-        "w": "acutorsion",
-        "p": "/acutorsion/",
-        "pos": "n",
-        "m": "acutorsion",
-        "ex": [
-          {
-            "e": "Study acutorsion.",
-            "c": "学习acutorsion。"
-          }
-        ]
-      },
-      {
-        "w": "acxoyatl",
-        "p": "/acxoyatl/",
-        "pos": "n",
-        "m": "acxoyatl",
-        "ex": [
-          {
-            "e": "Study acxoyatl.",
-            "c": "学习acxoyatl。"
-          }
-        ]
-      },
-      {
-        "w": "acy",
-        "p": "/acy/",
-        "pos": "n",
-        "m": "acy",
-        "ex": [
-          {
-            "e": "Study acy.",
-            "c": "学习acy。"
           }
         ]
       },
@@ -3786,18 +23050,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "acyanopsia",
-        "p": "/acyanopsia/",
-        "pos": "n",
-        "m": "acyanopsia",
-        "ex": [
-          {
-            "e": "Study acyanopsia.",
-            "c": "学习acyanopsia。"
-          }
-        ]
-      },
-      {
         "w": "acyclic",
         "p": "/acyclic/",
         "pos": "n",
@@ -3808,7 +23060,15 @@ export const toeflVocabulary = [
             "c": "学习acyclic。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 94,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "acyclically",
         "p": "/acyclically/",
@@ -3842,30 +23102,6 @@ export const toeflVocabulary = [
           {
             "e": "Study acyetic.",
             "c": "学习acyetic。"
-          }
-        ]
-      },
-      {
-        "w": "acyl",
-        "p": "/acyl/",
-        "pos": "n",
-        "m": "acyl",
-        "ex": [
-          {
-            "e": "Study acyl.",
-            "c": "学习acyl。"
-          }
-        ]
-      },
-      {
-        "w": "acylal",
-        "p": "/acylal/",
-        "pos": "n",
-        "m": "acylal",
-        "ex": [
-          {
-            "e": "Study acylal.",
-            "c": "学习acylal。"
           }
         ]
       },
@@ -3918,30 +23154,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "acylated",
-        "p": "/acylated/",
-        "pos": "n",
-        "m": "acylated",
-        "ex": [
-          {
-            "e": "Study acylated.",
-            "c": "学习acylated。"
-          }
-        ]
-      },
-      {
-        "w": "acylates",
-        "p": "/acylates/",
-        "pos": "n",
-        "m": "acylates",
-        "ex": [
-          {
-            "e": "Study acylates.",
-            "c": "学习acylates。"
-          }
-        ]
-      },
-      {
         "w": "acylating",
         "p": "/acylating/",
         "pos": "n",
@@ -3964,26 +23176,6 @@ export const toeflVocabulary = [
             "c": "学习acylation。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 17,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "acylogen",
-        "p": "/acylogen/",
-        "pos": "n",
-        "m": "acylogen",
-        "ex": [
-          {
-            "e": "Study acylogen.",
-            "c": "学习acylogen。"
-          }
-        ]
       },
       {
         "w": "acyloin",
@@ -3994,18 +23186,6 @@ export const toeflVocabulary = [
           {
             "e": "Study acyloin.",
             "c": "学习acyloin。"
-          }
-        ]
-      },
-      {
-        "w": "acyloins",
-        "p": "/acyloins/",
-        "pos": "n",
-        "m": "acyloins",
-        "ex": [
-          {
-            "e": "Study acyloins.",
-            "c": "学习acyloins。"
           }
         ]
       },
@@ -4030,18 +23210,6 @@ export const toeflVocabulary = [
           {
             "e": "Study acyloxymethane.",
             "c": "学习acyloxymethane。"
-          }
-        ]
-      },
-      {
-        "w": "acyls",
-        "p": "/acyls/",
-        "pos": "n",
-        "m": "acyls",
-        "ex": [
-          {
-            "e": "Study acyls.",
-            "c": "学习acyls。"
           }
         ]
       },
@@ -4082,18 +23250,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "ada",
-        "p": "/ada/",
-        "pos": "n",
-        "m": "ada",
-        "ex": [
-          {
-            "e": "Study ada.",
-            "c": "学习ada。"
-          }
-        ]
-      },
-      {
         "w": "adactyl",
         "p": "/adactyl/",
         "pos": "n",
@@ -4114,66 +23270,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adactylia.",
             "c": "学习adactylia。"
-          }
-        ]
-      },
-      {
-        "w": "adactylism",
-        "p": "/adactylism/",
-        "pos": "n",
-        "m": "adactylism",
-        "ex": [
-          {
-            "e": "Study adactylism.",
-            "c": "学习adactylism。"
-          }
-        ]
-      },
-      {
-        "w": "adactylous",
-        "p": "/adactylous/",
-        "pos": "n",
-        "m": "adactylous",
-        "ex": [
-          {
-            "e": "Study adactylous.",
-            "c": "学习adactylous。"
-          }
-        ]
-      },
-      {
-        "w": "adad",
-        "p": "/adad/",
-        "pos": "n",
-        "m": "adad",
-        "ex": [
-          {
-            "e": "Study adad.",
-            "c": "学习adad。"
-          }
-        ]
-      },
-      {
-        "w": "adage",
-        "p": "/adage/",
-        "pos": "n",
-        "m": "adage",
-        "ex": [
-          {
-            "e": "Study adage.",
-            "c": "学习adage。"
-          }
-        ]
-      },
-      {
-        "w": "adages",
-        "p": "/adages/",
-        "pos": "n",
-        "m": "adages",
-        "ex": [
-          {
-            "e": "Study adages.",
-            "c": "学习adages。"
           }
         ]
       },
@@ -4202,38 +23298,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adagiettos",
-        "p": "/adagiettos/",
-        "pos": "n",
-        "m": "adagiettos",
-        "ex": [
-          {
-            "e": "Study adagiettos.",
-            "c": "学习adagiettos。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 18,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adagio",
-        "p": "/adagio/",
-        "pos": "n",
-        "m": "adagio",
-        "ex": [
-          {
-            "e": "Study adagio.",
-            "c": "学习adagio。"
-          }
-        ]
-      },
-      {
         "w": "adagios",
         "p": "/adagios/",
         "pos": "n",
@@ -4244,103 +23308,15 @@ export const toeflVocabulary = [
             "c": "学习adagios。"
           }
         ]
-      },
-      {
-        "w": "adagissimo",
-        "p": "/adagissimo/",
-        "pos": "n",
-        "m": "adagissimo",
-        "ex": [
-          {
-            "e": "Study adagissimo.",
-            "c": "学习adagissimo。"
-          }
-        ]
-      },
-      {
-        "w": "adagy",
-        "p": "/adagy/",
-        "pos": "n",
-        "m": "adagy",
-        "ex": [
-          {
-            "e": "Study adagy.",
-            "c": "学习adagy。"
-          }
-        ]
-      },
-      {
-        "w": "adai",
-        "p": "/adai/",
-        "pos": "n",
-        "m": "adai",
-        "ex": [
-          {
-            "e": "Study adai.",
-            "c": "学习adai。"
-          }
-        ]
-      },
-      {
-        "w": "adaize",
-        "p": "/adaize/",
-        "pos": "n",
-        "m": "adaize",
-        "ex": [
-          {
-            "e": "Study adaize.",
-            "c": "学习adaize。"
-          }
-        ]
-      },
-      {
-        "w": "adalat",
-        "p": "/adalat/",
-        "pos": "n",
-        "m": "adalat",
-        "ex": [
-          {
-            "e": "Study adalat.",
-            "c": "学习adalat。"
-          }
-        ]
-      },
-      {
-        "w": "adalid",
-        "p": "/adalid/",
-        "pos": "n",
-        "m": "adalid",
-        "ex": [
-          {
-            "e": "Study adalid.",
-            "c": "学习adalid。"
-          }
-        ]
-      },
-      {
-        "w": "adam",
-        "p": "/adam/",
-        "pos": "n",
-        "m": "adam",
-        "ex": [
-          {
-            "e": "Study adam.",
-            "c": "学习adam。"
-          }
-        ]
-      },
-      {
-        "w": "adamance",
-        "p": "/adamance/",
-        "pos": "n",
-        "m": "adamance",
-        "ex": [
-          {
-            "e": "Study adamance.",
-            "c": "学习adamance。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 95,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adamances",
         "p": "/adamances/",
@@ -4354,30 +23330,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adamancies",
-        "p": "/adamancies/",
-        "pos": "n",
-        "m": "adamancies",
-        "ex": [
-          {
-            "e": "Study adamancies.",
-            "c": "学习adamancies。"
-          }
-        ]
-      },
-      {
-        "w": "adamancy",
-        "p": "/adamancy/",
-        "pos": "n",
-        "m": "adamancy",
-        "ex": [
-          {
-            "e": "Study adamancy.",
-            "c": "学习adamancy。"
-          }
-        ]
-      },
-      {
         "w": "adamant",
         "p": "/adamant/",
         "pos": "n",
@@ -4386,30 +23338,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adamant.",
             "c": "学习adamant。"
-          }
-        ]
-      },
-      {
-        "w": "adamantean",
-        "p": "/adamantean/",
-        "pos": "n",
-        "m": "adamantean",
-        "ex": [
-          {
-            "e": "Study adamantean.",
-            "c": "学习adamantean。"
-          }
-        ]
-      },
-      {
-        "w": "adamantine",
-        "p": "/adamantine/",
-        "pos": "n",
-        "m": "adamantine",
-        "ex": [
-          {
-            "e": "Study adamantine.",
-            "c": "学习adamantine。"
           }
         ]
       },
@@ -4460,62 +23388,6 @@ export const toeflVocabulary = [
             "c": "学习adamantoblast。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 19,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adamantoid",
-        "p": "/adamantoid/",
-        "pos": "n",
-        "m": "adamantoid",
-        "ex": [
-          {
-            "e": "Study adamantoid.",
-            "c": "学习adamantoid。"
-          }
-        ]
-      },
-      {
-        "w": "adamantoma",
-        "p": "/adamantoma/",
-        "pos": "n",
-        "m": "adamantoma",
-        "ex": [
-          {
-            "e": "Study adamantoma.",
-            "c": "学习adamantoma。"
-          }
-        ]
-      },
-      {
-        "w": "adamants",
-        "p": "/adamants/",
-        "pos": "n",
-        "m": "adamants",
-        "ex": [
-          {
-            "e": "Study adamants.",
-            "c": "学习adamants。"
-          }
-        ]
-      },
-      {
-        "w": "adamas",
-        "p": "/adamas/",
-        "pos": "n",
-        "m": "adamas",
-        "ex": [
-          {
-            "e": "Study adamas.",
-            "c": "学习adamas。"
-          }
-        ]
       },
       {
         "w": "adamastor",
@@ -4538,66 +23410,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adambulacral.",
             "c": "学习adambulacral。"
-          }
-        ]
-      },
-      {
-        "w": "adamellite",
-        "p": "/adamellite/",
-        "pos": "n",
-        "m": "adamellite",
-        "ex": [
-          {
-            "e": "Study adamellite.",
-            "c": "学习adamellite。"
-          }
-        ]
-      },
-      {
-        "w": "adamhood",
-        "p": "/adamhood/",
-        "pos": "n",
-        "m": "adamhood",
-        "ex": [
-          {
-            "e": "Study adamhood.",
-            "c": "学习adamhood。"
-          }
-        ]
-      },
-      {
-        "w": "adamic",
-        "p": "/adamic/",
-        "pos": "n",
-        "m": "adamic",
-        "ex": [
-          {
-            "e": "Study adamic.",
-            "c": "学习adamic。"
-          }
-        ]
-      },
-      {
-        "w": "adamical",
-        "p": "/adamical/",
-        "pos": "n",
-        "m": "adamical",
-        "ex": [
-          {
-            "e": "Study adamical.",
-            "c": "学习adamical。"
-          }
-        ]
-      },
-      {
-        "w": "adamically",
-        "p": "/adamically/",
-        "pos": "n",
-        "m": "adamically",
-        "ex": [
-          {
-            "e": "Study adamically.",
-            "c": "学习adamically。"
           }
         ]
       },
@@ -4626,30 +23438,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adamitic",
-        "p": "/adamitic/",
-        "pos": "n",
-        "m": "adamitic",
-        "ex": [
-          {
-            "e": "Study adamitic.",
-            "c": "学习adamitic。"
-          }
-        ]
-      },
-      {
-        "w": "adamitical",
-        "p": "/adamitical/",
-        "pos": "n",
-        "m": "adamitical",
-        "ex": [
-          {
-            "e": "Study adamitical.",
-            "c": "学习adamitical。"
-          }
-        ]
-      },
-      {
         "w": "adamitism",
         "p": "/adamitism/",
         "pos": "n",
@@ -4658,18 +23446,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adamitism.",
             "c": "学习adamitism。"
-          }
-        ]
-      },
-      {
-        "w": "adams",
-        "p": "/adams/",
-        "pos": "n",
-        "m": "adams",
-        "ex": [
-          {
-            "e": "Study adams.",
-            "c": "学习adams。"
           }
         ]
       },
@@ -4686,18 +23462,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adamsite",
-        "p": "/adamsite/",
-        "pos": "n",
-        "m": "adamsite",
-        "ex": [
-          {
-            "e": "Study adamsite.",
-            "c": "学习adamsite。"
-          }
-        ]
-      },
-      {
         "w": "adamsites",
         "p": "/adamsites/",
         "pos": "n",
@@ -4706,26 +23470,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adamsites.",
             "c": "学习adamsites。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 20,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adance",
-        "p": "/adance/",
-        "pos": "n",
-        "m": "adance",
-        "ex": [
-          {
-            "e": "Study adance.",
-            "c": "学习adance。"
           }
         ]
       },
@@ -4750,54 +23494,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adansonia.",
             "c": "学习adansonia。"
-          }
-        ]
-      },
-      {
-        "w": "adapa",
-        "p": "/adapa/",
-        "pos": "n",
-        "m": "adapa",
-        "ex": [
-          {
-            "e": "Study adapa.",
-            "c": "学习adapa。"
-          }
-        ]
-      },
-      {
-        "w": "adapid",
-        "p": "/adapid/",
-        "pos": "n",
-        "m": "adapid",
-        "ex": [
-          {
-            "e": "Study adapid.",
-            "c": "学习adapid。"
-          }
-        ]
-      },
-      {
-        "w": "adapis",
-        "p": "/adapis/",
-        "pos": "n",
-        "m": "adapis",
-        "ex": [
-          {
-            "e": "Study adapis.",
-            "c": "学习adapis。"
-          }
-        ]
-      },
-      {
-        "w": "adapt",
-        "p": "/adapt/",
-        "pos": "n",
-        "m": "adapt",
-        "ex": [
-          {
-            "e": "Study adapt.",
-            "c": "学习adapt。"
           }
         ]
       },
@@ -4850,18 +23546,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adaptation",
-        "p": "/adaptation/",
-        "pos": "n",
-        "m": "adaptation",
-        "ex": [
-          {
-            "e": "Study adaptation.",
-            "c": "学习adaptation。"
-          }
-        ]
-      },
-      {
         "w": "adaptational",
         "p": "/adaptational/",
         "pos": "n",
@@ -4872,7 +23556,15 @@ export const toeflVocabulary = [
             "c": "学习adaptational。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 96,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adaptationally",
         "p": "/adaptationally/",
@@ -4894,18 +23586,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adaptations.",
             "c": "学习adaptations。"
-          }
-        ]
-      },
-      {
-        "w": "adaptative",
-        "p": "/adaptative/",
-        "pos": "n",
-        "m": "adaptative",
-        "ex": [
-          {
-            "e": "Study adaptative.",
-            "c": "学习adaptative。"
           }
         ]
       },
@@ -4946,62 +23626,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adapters",
-        "p": "/adapters/",
-        "pos": "n",
-        "m": "adapters",
-        "ex": [
-          {
-            "e": "Study adapters.",
-            "c": "学习adapters。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 21,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adapting",
-        "p": "/adapting/",
-        "pos": "n",
-        "m": "adapting",
-        "ex": [
-          {
-            "e": "Study adapting.",
-            "c": "学习adapting。"
-          }
-        ]
-      },
-      {
-        "w": "adaption",
-        "p": "/adaption/",
-        "pos": "n",
-        "m": "adaption",
-        "ex": [
-          {
-            "e": "Study adaption.",
-            "c": "学习adaption。"
-          }
-        ]
-      },
-      {
-        "w": "adaptional",
-        "p": "/adaptional/",
-        "pos": "n",
-        "m": "adaptional",
-        "ex": [
-          {
-            "e": "Study adaptional.",
-            "c": "学习adaptional。"
-          }
-        ]
-      },
-      {
         "w": "adaptionism",
         "p": "/adaptionism/",
         "pos": "n",
@@ -5026,42 +23650,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adaptitude",
-        "p": "/adaptitude/",
-        "pos": "n",
-        "m": "adaptitude",
-        "ex": [
-          {
-            "e": "Study adaptitude.",
-            "c": "学习adaptitude。"
-          }
-        ]
-      },
-      {
-        "w": "adaptive",
-        "p": "/adaptive/",
-        "pos": "n",
-        "m": "adaptive",
-        "ex": [
-          {
-            "e": "Study adaptive.",
-            "c": "学习adaptive。"
-          }
-        ]
-      },
-      {
-        "w": "adaptively",
-        "p": "/adaptively/",
-        "pos": "n",
-        "m": "adaptively",
-        "ex": [
-          {
-            "e": "Study adaptively.",
-            "c": "学习adaptively。"
-          }
-        ]
-      },
-      {
         "w": "adaptiveness",
         "p": "/adaptiveness/",
         "pos": "n",
@@ -5070,18 +23658,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adaptiveness.",
             "c": "学习adaptiveness。"
-          }
-        ]
-      },
-      {
-        "w": "adaptivity",
-        "p": "/adaptivity/",
-        "pos": "n",
-        "m": "adaptivity",
-        "ex": [
-          {
-            "e": "Study adaptivity.",
-            "c": "学习adaptivity。"
           }
         ]
       },
@@ -5110,54 +23686,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adaptorial",
-        "p": "/adaptorial/",
-        "pos": "n",
-        "m": "adaptorial",
-        "ex": [
-          {
-            "e": "Study adaptorial.",
-            "c": "学习adaptorial。"
-          }
-        ]
-      },
-      {
-        "w": "adaptors",
-        "p": "/adaptors/",
-        "pos": "n",
-        "m": "adaptors",
-        "ex": [
-          {
-            "e": "Study adaptors.",
-            "c": "学习adaptors。"
-          }
-        ]
-      },
-      {
-        "w": "adapts",
-        "p": "/adapts/",
-        "pos": "n",
-        "m": "adapts",
-        "ex": [
-          {
-            "e": "Study adapts.",
-            "c": "学习adapts。"
-          }
-        ]
-      },
-      {
-        "w": "adar",
-        "p": "/adar/",
-        "pos": "n",
-        "m": "adar",
-        "ex": [
-          {
-            "e": "Study adar.",
-            "c": "学习adar。"
-          }
-        ]
-      },
-      {
         "w": "adarbitrium",
         "p": "/adarbitrium/",
         "pos": "n",
@@ -5166,18 +23694,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adarbitrium.",
             "c": "学习adarbitrium。"
-          }
-        ]
-      },
-      {
-        "w": "adarme",
-        "p": "/adarme/",
-        "pos": "n",
-        "m": "adarme",
-        "ex": [
-          {
-            "e": "Study adarme.",
-            "c": "学习adarme。"
           }
         ]
       },
@@ -5194,110 +23710,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adat",
-        "p": "/adat/",
-        "pos": "n",
-        "m": "adat",
-        "ex": [
-          {
-            "e": "Study adat.",
-            "c": "学习adat。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 22,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adati",
-        "p": "/adati/",
-        "pos": "n",
-        "m": "adati",
-        "ex": [
-          {
-            "e": "Study adati.",
-            "c": "学习adati。"
-          }
-        ]
-      },
-      {
-        "w": "adatis",
-        "p": "/adatis/",
-        "pos": "n",
-        "m": "adatis",
-        "ex": [
-          {
-            "e": "Study adatis.",
-            "c": "学习adatis。"
-          }
-        ]
-      },
-      {
-        "w": "adatom",
-        "p": "/adatom/",
-        "pos": "n",
-        "m": "adatom",
-        "ex": [
-          {
-            "e": "Study adatom.",
-            "c": "学习adatom。"
-          }
-        ]
-      },
-      {
-        "w": "adaty",
-        "p": "/adaty/",
-        "pos": "n",
-        "m": "adaty",
-        "ex": [
-          {
-            "e": "Study adaty.",
-            "c": "学习adaty。"
-          }
-        ]
-      },
-      {
-        "w": "adaunt",
-        "p": "/adaunt/",
-        "pos": "n",
-        "m": "adaunt",
-        "ex": [
-          {
-            "e": "Study adaunt.",
-            "c": "学习adaunt。"
-          }
-        ]
-      },
-      {
-        "w": "adaw",
-        "p": "/adaw/",
-        "pos": "n",
-        "m": "adaw",
-        "ex": [
-          {
-            "e": "Study adaw.",
-            "c": "学习adaw。"
-          }
-        ]
-      },
-      {
-        "w": "adawe",
-        "p": "/adawe/",
-        "pos": "n",
-        "m": "adawe",
-        "ex": [
-          {
-            "e": "Study adawe.",
-            "c": "学习adawe。"
-          }
-        ]
-      },
-      {
         "w": "adawlut",
         "p": "/adawlut/",
         "pos": "n",
@@ -5306,18 +23718,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adawlut.",
             "c": "学习adawlut。"
-          }
-        ]
-      },
-      {
-        "w": "adawn",
-        "p": "/adawn/",
-        "pos": "n",
-        "m": "adawn",
-        "ex": [
-          {
-            "e": "Study adawn.",
-            "c": "学习adawn。"
           }
         ]
       },
@@ -5334,30 +23734,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aday",
-        "p": "/aday/",
-        "pos": "n",
-        "m": "aday",
-        "ex": [
-          {
-            "e": "Study aday.",
-            "c": "学习aday。"
-          }
-        ]
-      },
-      {
-        "w": "adays",
-        "p": "/adays/",
-        "pos": "n",
-        "m": "adays",
-        "ex": [
-          {
-            "e": "Study adays.",
-            "c": "学习adays。"
-          }
-        ]
-      },
-      {
         "w": "adazzle",
         "p": "/adazzle/",
         "pos": "n",
@@ -5366,42 +23742,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adazzle.",
             "c": "学习adazzle。"
-          }
-        ]
-      },
-      {
-        "w": "adc",
-        "p": "/adc/",
-        "pos": "n",
-        "m": "adc",
-        "ex": [
-          {
-            "e": "Study adc.",
-            "c": "学习adc。"
-          }
-        ]
-      },
-      {
-        "w": "adcon",
-        "p": "/adcon/",
-        "pos": "n",
-        "m": "adcon",
-        "ex": [
-          {
-            "e": "Study adcon.",
-            "c": "学习adcon。"
-          }
-        ]
-      },
-      {
-        "w": "adcons",
-        "p": "/adcons/",
-        "pos": "n",
-        "m": "adcons",
-        "ex": [
-          {
-            "e": "Study adcons.",
-            "c": "学习adcons。"
           }
         ]
       },
@@ -5418,50 +23758,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "add",
-        "p": "/add/",
-        "pos": "n",
-        "m": "add",
-        "ex": [
-          {
-            "e": "Study add.",
-            "c": "学习add。"
-          }
-        ]
-      },
-      {
-        "w": "adda",
-        "p": "/adda/",
-        "pos": "n",
-        "m": "adda",
-        "ex": [
-          {
-            "e": "Study adda.",
-            "c": "学习adda。"
-          }
-        ]
-      },
-      {
-        "w": "addability",
-        "p": "/addability/",
-        "pos": "n",
-        "m": "addability",
-        "ex": [
-          {
-            "e": "Study addability.",
-            "c": "学习addability。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 23,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
         "w": "addable",
         "p": "/addable/",
         "pos": "n",
@@ -5470,18 +23766,6 @@ export const toeflVocabulary = [
           {
             "e": "Study addable.",
             "c": "学习addable。"
-          }
-        ]
-      },
-      {
-        "w": "addax",
-        "p": "/addax/",
-        "pos": "n",
-        "m": "addax",
-        "ex": [
-          {
-            "e": "Study addax.",
-            "c": "学习addax。"
           }
         ]
       },
@@ -5498,42 +23782,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "addda",
-        "p": "/addda/",
-        "pos": "n",
-        "m": "addda",
-        "ex": [
-          {
-            "e": "Study addda.",
-            "c": "学习addda。"
-          }
-        ]
-      },
-      {
-        "w": "addebted",
-        "p": "/addebted/",
-        "pos": "n",
-        "m": "addebted",
-        "ex": [
-          {
-            "e": "Study addebted.",
-            "c": "学习addebted。"
-          }
-        ]
-      },
-      {
-        "w": "added",
-        "p": "/added/",
-        "pos": "n",
-        "m": "added",
-        "ex": [
-          {
-            "e": "Study added.",
-            "c": "学习added。"
-          }
-        ]
-      },
-      {
         "w": "addedly",
         "p": "/addedly/",
         "pos": "n",
@@ -5542,30 +23790,6 @@ export const toeflVocabulary = [
           {
             "e": "Study addedly.",
             "c": "学习addedly。"
-          }
-        ]
-      },
-      {
-        "w": "addeem",
-        "p": "/addeem/",
-        "pos": "n",
-        "m": "addeem",
-        "ex": [
-          {
-            "e": "Study addeem.",
-            "c": "学习addeem。"
-          }
-        ]
-      },
-      {
-        "w": "addend",
-        "p": "/addend/",
-        "pos": "n",
-        "m": "addend",
-        "ex": [
-          {
-            "e": "Study addend.",
-            "c": "学习addend。"
           }
         ]
       },
@@ -5580,7 +23804,15 @@ export const toeflVocabulary = [
             "c": "学习addenda。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 97,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "addends",
         "p": "/addends/",
@@ -5594,18 +23826,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "addendum",
-        "p": "/addendum/",
-        "pos": "n",
-        "m": "addendum",
-        "ex": [
-          {
-            "e": "Study addendum.",
-            "c": "学习addendum。"
-          }
-        ]
-      },
-      {
         "w": "addendums",
         "p": "/addendums/",
         "pos": "n",
@@ -5614,18 +23834,6 @@ export const toeflVocabulary = [
           {
             "e": "Study addendums.",
             "c": "学习addendums。"
-          }
-        ]
-      },
-      {
-        "w": "adder",
-        "p": "/adder/",
-        "pos": "n",
-        "m": "adder",
-        "ex": [
-          {
-            "e": "Study adder.",
-            "c": "学习adder。"
           }
         ]
       },
@@ -5654,18 +23862,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adders",
-        "p": "/adders/",
-        "pos": "n",
-        "m": "adders",
-        "ex": [
-          {
-            "e": "Study adders.",
-            "c": "学习adders。"
-          }
-        ]
-      },
-      {
         "w": "adderspit",
         "p": "/adderspit/",
         "pos": "n",
@@ -5690,26 +23886,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "addibility",
-        "p": "/addibility/",
-        "pos": "n",
-        "m": "addibility",
-        "ex": [
-          {
-            "e": "Study addibility.",
-            "c": "学习addibility。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 24,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
         "w": "addible",
         "p": "/addible/",
         "pos": "n",
@@ -5718,54 +23894,6 @@ export const toeflVocabulary = [
           {
             "e": "Study addible.",
             "c": "学习addible。"
-          }
-        ]
-      },
-      {
-        "w": "addice",
-        "p": "/addice/",
-        "pos": "n",
-        "m": "addice",
-        "ex": [
-          {
-            "e": "Study addice.",
-            "c": "学习addice。"
-          }
-        ]
-      },
-      {
-        "w": "addicent",
-        "p": "/addicent/",
-        "pos": "n",
-        "m": "addicent",
-        "ex": [
-          {
-            "e": "Study addicent.",
-            "c": "学习addicent。"
-          }
-        ]
-      },
-      {
-        "w": "addict",
-        "p": "/addict/",
-        "pos": "n",
-        "m": "addict",
-        "ex": [
-          {
-            "e": "Study addict.",
-            "c": "学习addict。"
-          }
-        ]
-      },
-      {
-        "w": "addicted",
-        "p": "/addicted/",
-        "pos": "n",
-        "m": "addicted",
-        "ex": [
-          {
-            "e": "Study addicted.",
-            "c": "学习addicted。"
           }
         ]
       },
@@ -5806,18 +23934,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "addictions",
-        "p": "/addictions/",
-        "pos": "n",
-        "m": "addictions",
-        "ex": [
-          {
-            "e": "Study addictions.",
-            "c": "学习addictions。"
-          }
-        ]
-      },
-      {
         "w": "addictive",
         "p": "/addictive/",
         "pos": "n",
@@ -5854,18 +23970,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "addictives",
-        "p": "/addictives/",
-        "pos": "n",
-        "m": "addictives",
-        "ex": [
-          {
-            "e": "Study addictives.",
-            "c": "学习addictives。"
-          }
-        ]
-      },
-      {
         "w": "addicts",
         "p": "/addicts/",
         "pos": "n",
@@ -5878,66 +23982,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "addie",
-        "p": "/addie/",
-        "pos": "n",
-        "m": "addie",
-        "ex": [
-          {
-            "e": "Study addie.",
-            "c": "学习addie。"
-          }
-        ]
-      },
-      {
-        "w": "addiment",
-        "p": "/addiment/",
-        "pos": "n",
-        "m": "addiment",
-        "ex": [
-          {
-            "e": "Study addiment.",
-            "c": "学习addiment。"
-          }
-        ]
-      },
-      {
-        "w": "adding",
-        "p": "/adding/",
-        "pos": "n",
-        "m": "adding",
-        "ex": [
-          {
-            "e": "Study adding.",
-            "c": "学习adding。"
-          }
-        ]
-      },
-      {
-        "w": "addio",
-        "p": "/addio/",
-        "pos": "n",
-        "m": "addio",
-        "ex": [
-          {
-            "e": "Study addio.",
-            "c": "学习addio。"
-          }
-        ]
-      },
-      {
-        "w": "addis",
-        "p": "/addis/",
-        "pos": "n",
-        "m": "addis",
-        "ex": [
-          {
-            "e": "Study addis.",
-            "c": "学习addis。"
-          }
-        ]
-      },
-      {
         "w": "addison",
         "p": "/addison/",
         "pos": "n",
@@ -5946,26 +23990,6 @@ export const toeflVocabulary = [
           {
             "e": "Study addison.",
             "c": "学习addison。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 25,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "addisonian",
-        "p": "/addisonian/",
-        "pos": "n",
-        "m": "addisonian",
-        "ex": [
-          {
-            "e": "Study addisonian.",
-            "c": "学习addisonian。"
           }
         ]
       },
@@ -5982,30 +24006,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "addita",
-        "p": "/addita/",
-        "pos": "n",
-        "m": "addita",
-        "ex": [
-          {
-            "e": "Study addita.",
-            "c": "学习addita。"
-          }
-        ]
-      },
-      {
-        "w": "additament",
-        "p": "/additament/",
-        "pos": "n",
-        "m": "additament",
-        "ex": [
-          {
-            "e": "Study additament.",
-            "c": "学习additament。"
-          }
-        ]
-      },
-      {
         "w": "additamentary",
         "p": "/additamentary/",
         "pos": "n",
@@ -6014,42 +24014,6 @@ export const toeflVocabulary = [
           {
             "e": "Study additamentary.",
             "c": "学习additamentary。"
-          }
-        ]
-      },
-      {
-        "w": "additiment",
-        "p": "/additiment/",
-        "pos": "n",
-        "m": "additiment",
-        "ex": [
-          {
-            "e": "Study additiment.",
-            "c": "学习additiment。"
-          }
-        ]
-      },
-      {
-        "w": "addition",
-        "p": "/addition/",
-        "pos": "n",
-        "m": "addition",
-        "ex": [
-          {
-            "e": "Study addition.",
-            "c": "学习addition。"
-          }
-        ]
-      },
-      {
-        "w": "additional",
-        "p": "/additional/",
-        "pos": "n",
-        "m": "additional",
-        "ex": [
-          {
-            "e": "Study additional.",
-            "c": "学习additional。"
           }
         ]
       },
@@ -6088,7 +24052,15 @@ export const toeflVocabulary = [
             "c": "学习additionist。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 98,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "additions",
         "p": "/additions/",
@@ -6114,30 +24086,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "additive",
-        "p": "/additive/",
-        "pos": "n",
-        "m": "additive",
-        "ex": [
-          {
-            "e": "Study additive.",
-            "c": "学习additive。"
-          }
-        ]
-      },
-      {
-        "w": "additively",
-        "p": "/additively/",
-        "pos": "n",
-        "m": "additively",
-        "ex": [
-          {
-            "e": "Study additively.",
-            "c": "学习additively。"
-          }
-        ]
-      },
-      {
         "w": "additives",
         "p": "/additives/",
         "pos": "n",
@@ -6146,30 +24094,6 @@ export const toeflVocabulary = [
           {
             "e": "Study additives.",
             "c": "学习additives。"
-          }
-        ]
-      },
-      {
-        "w": "additivity",
-        "p": "/additivity/",
-        "pos": "n",
-        "m": "additivity",
-        "ex": [
-          {
-            "e": "Study additivity.",
-            "c": "学习additivity。"
-          }
-        ]
-      },
-      {
-        "w": "additory",
-        "p": "/additory/",
-        "pos": "n",
-        "m": "additory",
-        "ex": [
-          {
-            "e": "Study additory.",
-            "c": "学习additory。"
           }
         ]
       },
@@ -6196,38 +24120,6 @@ export const toeflVocabulary = [
             "c": "学习additur。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 26,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "addle",
-        "p": "/addle/",
-        "pos": "n",
-        "m": "addle",
-        "ex": [
-          {
-            "e": "Study addle.",
-            "c": "学习addle。"
-          }
-        ]
-      },
-      {
-        "w": "addlebrain",
-        "p": "/addlebrain/",
-        "pos": "n",
-        "m": "addlebrain",
-        "ex": [
-          {
-            "e": "Study addlebrain.",
-            "c": "学习addlebrain。"
-          }
-        ]
       },
       {
         "w": "addlebrained",
@@ -6238,18 +24130,6 @@ export const toeflVocabulary = [
           {
             "e": "Study addlebrained.",
             "c": "学习addlebrained。"
-          }
-        ]
-      },
-      {
-        "w": "addled",
-        "p": "/addled/",
-        "pos": "n",
-        "m": "addled",
-        "ex": [
-          {
-            "e": "Study addled.",
-            "c": "学习addled。"
           }
         ]
       },
@@ -6338,18 +24218,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "addlepated",
-        "p": "/addlepated/",
-        "pos": "n",
-        "m": "addlepated",
-        "ex": [
-          {
-            "e": "Study addlepated.",
-            "c": "学习addlepated。"
-          }
-        ]
-      },
-      {
         "w": "addlepatedness",
         "p": "/addlepatedness/",
         "pos": "n",
@@ -6374,18 +24242,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "addles",
-        "p": "/addles/",
-        "pos": "n",
-        "m": "addles",
-        "ex": [
-          {
-            "e": "Study addles.",
-            "c": "学习addles。"
-          }
-        ]
-      },
-      {
         "w": "addling",
         "p": "/addling/",
         "pos": "n",
@@ -6398,18 +24254,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "addlings",
-        "p": "/addlings/",
-        "pos": "n",
-        "m": "addlings",
-        "ex": [
-          {
-            "e": "Study addlings.",
-            "c": "学习addlings。"
-          }
-        ]
-      },
-      {
         "w": "addlins",
         "p": "/addlins/",
         "pos": "n",
@@ -6418,86 +24262,6 @@ export const toeflVocabulary = [
           {
             "e": "Study addlins.",
             "c": "学习addlins。"
-          }
-        ]
-      },
-      {
-        "w": "addn",
-        "p": "/addn/",
-        "pos": "n",
-        "m": "addn",
-        "ex": [
-          {
-            "e": "Study addn.",
-            "c": "学习addn。"
-          }
-        ]
-      },
-      {
-        "w": "addnl",
-        "p": "/addnl/",
-        "pos": "n",
-        "m": "addnl",
-        "ex": [
-          {
-            "e": "Study addnl.",
-            "c": "学习addnl。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 27,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "addoom",
-        "p": "/addoom/",
-        "pos": "n",
-        "m": "addoom",
-        "ex": [
-          {
-            "e": "Study addoom.",
-            "c": "学习addoom。"
-          }
-        ]
-      },
-      {
-        "w": "addorsed",
-        "p": "/addorsed/",
-        "pos": "n",
-        "m": "addorsed",
-        "ex": [
-          {
-            "e": "Study addorsed.",
-            "c": "学习addorsed。"
-          }
-        ]
-      },
-      {
-        "w": "addossed",
-        "p": "/addossed/",
-        "pos": "n",
-        "m": "addossed",
-        "ex": [
-          {
-            "e": "Study addossed.",
-            "c": "学习addossed。"
-          }
-        ]
-      },
-      {
-        "w": "addr",
-        "p": "/addr/",
-        "pos": "n",
-        "m": "addr",
-        "ex": [
-          {
-            "e": "Study addr.",
-            "c": "学习addr。"
           }
         ]
       },
@@ -6536,7 +24300,15 @@ export const toeflVocabulary = [
             "c": "学习addressable。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 99,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "addressed",
         "p": "/addressed/",
@@ -6562,18 +24334,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "addressees",
-        "p": "/addressees/",
-        "pos": "n",
-        "m": "addressees",
-        "ex": [
-          {
-            "e": "Study addressees.",
-            "c": "学习addressees。"
-          }
-        ]
-      },
-      {
         "w": "addresser",
         "p": "/addresser/",
         "pos": "n",
@@ -6586,18 +24346,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "addressers",
-        "p": "/addressers/",
-        "pos": "n",
-        "m": "addressers",
-        "ex": [
-          {
-            "e": "Study addressers.",
-            "c": "学习addressers。"
-          }
-        ]
-      },
-      {
         "w": "addresses",
         "p": "/addresses/",
         "pos": "n",
@@ -6606,30 +24354,6 @@ export const toeflVocabulary = [
           {
             "e": "Study addresses.",
             "c": "学习addresses。"
-          }
-        ]
-      },
-      {
-        "w": "addressful",
-        "p": "/addressful/",
-        "pos": "n",
-        "m": "addressful",
-        "ex": [
-          {
-            "e": "Study addressful.",
-            "c": "学习addressful。"
-          }
-        ]
-      },
-      {
-        "w": "addressing",
-        "p": "/addressing/",
-        "pos": "n",
-        "m": "addressing",
-        "ex": [
-          {
-            "e": "Study addressing.",
-            "c": "学习addressing。"
           }
         ]
       },
@@ -6670,62 +24394,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adds",
-        "p": "/adds/",
-        "pos": "n",
-        "m": "adds",
-        "ex": [
-          {
-            "e": "Study adds.",
-            "c": "学习adds。"
-          }
-        ]
-      },
-      {
-        "w": "addu",
-        "p": "/addu/",
-        "pos": "n",
-        "m": "addu",
-        "ex": [
-          {
-            "e": "Study addu.",
-            "c": "学习addu。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 28,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adduce",
-        "p": "/adduce/",
-        "pos": "n",
-        "m": "adduce",
-        "ex": [
-          {
-            "e": "Study adduce.",
-            "c": "学习adduce。"
-          }
-        ]
-      },
-      {
-        "w": "adduceable",
-        "p": "/adduceable/",
-        "pos": "n",
-        "m": "adduceable",
-        "ex": [
-          {
-            "e": "Study adduceable.",
-            "c": "学习adduceable。"
-          }
-        ]
-      },
-      {
         "w": "adduced",
         "p": "/adduced/",
         "pos": "n",
@@ -6738,18 +24406,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adducent",
-        "p": "/adducent/",
-        "pos": "n",
-        "m": "adducent",
-        "ex": [
-          {
-            "e": "Study adducent.",
-            "c": "学习adducent。"
-          }
-        ]
-      },
-      {
         "w": "adducer",
         "p": "/adducer/",
         "pos": "n",
@@ -6758,18 +24414,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adducer.",
             "c": "学习adducer。"
-          }
-        ]
-      },
-      {
-        "w": "adducers",
-        "p": "/adducers/",
-        "pos": "n",
-        "m": "adducers",
-        "ex": [
-          {
-            "e": "Study adducers.",
-            "c": "学习adducers。"
           }
         ]
       },
@@ -6794,42 +24438,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adducible.",
             "c": "学习adducible。"
-          }
-        ]
-      },
-      {
-        "w": "adducing",
-        "p": "/adducing/",
-        "pos": "n",
-        "m": "adducing",
-        "ex": [
-          {
-            "e": "Study adducing.",
-            "c": "学习adducing。"
-          }
-        ]
-      },
-      {
-        "w": "adduct",
-        "p": "/adduct/",
-        "pos": "n",
-        "m": "adduct",
-        "ex": [
-          {
-            "e": "Study adduct.",
-            "c": "学习adduct。"
-          }
-        ]
-      },
-      {
-        "w": "adducted",
-        "p": "/adducted/",
-        "pos": "n",
-        "m": "adducted",
-        "ex": [
-          {
-            "e": "Study adducted.",
-            "c": "学习adducted。"
           }
         ]
       },
@@ -6870,18 +24478,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adductor",
-        "p": "/adductor/",
-        "pos": "n",
-        "m": "adductor",
-        "ex": [
-          {
-            "e": "Study adductor.",
-            "c": "学习adductor。"
-          }
-        ]
-      },
-      {
         "w": "adductors",
         "p": "/adductors/",
         "pos": "n",
@@ -6918,62 +24514,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "addy",
-        "p": "/addy/",
-        "pos": "n",
-        "m": "addy",
-        "ex": [
-          {
-            "e": "Study addy.",
-            "c": "学习addy。"
-          }
-        ]
-      },
-      {
-        "w": "ade",
-        "p": "/ade/",
-        "pos": "n",
-        "m": "ade",
-        "ex": [
-          {
-            "e": "Study ade.",
-            "c": "学习ade。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 29,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adead",
-        "p": "/adead/",
-        "pos": "n",
-        "m": "adead",
-        "ex": [
-          {
-            "e": "Study adead.",
-            "c": "学习adead。"
-          }
-        ]
-      },
-      {
-        "w": "adeem",
-        "p": "/adeem/",
-        "pos": "n",
-        "m": "adeem",
-        "ex": [
-          {
-            "e": "Study adeem.",
-            "c": "学习adeem。"
-          }
-        ]
-      },
-      {
         "w": "adeemed",
         "p": "/adeemed/",
         "pos": "n",
@@ -6982,78 +24522,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adeemed.",
             "c": "学习adeemed。"
-          }
-        ]
-      },
-      {
-        "w": "adeeming",
-        "p": "/adeeming/",
-        "pos": "n",
-        "m": "adeeming",
-        "ex": [
-          {
-            "e": "Study adeeming.",
-            "c": "学习adeeming。"
-          }
-        ]
-      },
-      {
-        "w": "adeems",
-        "p": "/adeems/",
-        "pos": "n",
-        "m": "adeems",
-        "ex": [
-          {
-            "e": "Study adeems.",
-            "c": "学习adeems。"
-          }
-        ]
-      },
-      {
-        "w": "adeep",
-        "p": "/adeep/",
-        "pos": "n",
-        "m": "adeep",
-        "ex": [
-          {
-            "e": "Study adeep.",
-            "c": "学习adeep。"
-          }
-        ]
-      },
-      {
-        "w": "adela",
-        "p": "/adela/",
-        "pos": "n",
-        "m": "adela",
-        "ex": [
-          {
-            "e": "Study adela.",
-            "c": "学习adela。"
-          }
-        ]
-      },
-      {
-        "w": "adelaide",
-        "p": "/adelaide/",
-        "pos": "n",
-        "m": "adelaide",
-        "ex": [
-          {
-            "e": "Study adelaide.",
-            "c": "学习adelaide。"
-          }
-        ]
-      },
-      {
-        "w": "adelantado",
-        "p": "/adelantado/",
-        "pos": "n",
-        "m": "adelantado",
-        "ex": [
-          {
-            "e": "Study adelantado.",
-            "c": "学习adelantado。"
           }
         ]
       },
@@ -7070,30 +24538,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adelante",
-        "p": "/adelante/",
-        "pos": "n",
-        "m": "adelante",
-        "ex": [
-          {
-            "e": "Study adelante.",
-            "c": "学习adelante。"
-          }
-        ]
-      },
-      {
-        "w": "adelarthra",
-        "p": "/adelarthra/",
-        "pos": "n",
-        "m": "adelarthra",
-        "ex": [
-          {
-            "e": "Study adelarthra.",
-            "c": "学习adelarthra。"
-          }
-        ]
-      },
-      {
         "w": "adelaster",
         "p": "/adelaster/",
         "pos": "n",
@@ -7104,31 +24548,15 @@ export const toeflVocabulary = [
             "c": "学习adelaster。"
           }
         ]
-      },
-      {
-        "w": "adelbert",
-        "p": "/adelbert/",
-        "pos": "n",
-        "m": "adelbert",
-        "ex": [
-          {
-            "e": "Study adelbert.",
-            "c": "学习adelbert。"
-          }
-        ]
-      },
-      {
-        "w": "adelea",
-        "p": "/adelea/",
-        "pos": "n",
-        "m": "adelea",
-        "ex": [
-          {
-            "e": "Study adelea.",
-            "c": "学习adelea。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 100,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adeleidae",
         "p": "/adeleidae/",
@@ -7150,18 +24578,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adelges.",
             "c": "学习adelges。"
-          }
-        ]
-      },
-      {
-        "w": "adelia",
-        "p": "/adelia/",
-        "pos": "n",
-        "m": "adelia",
-        "ex": [
-          {
-            "e": "Study adelia.",
-            "c": "学习adelia。"
           }
         ]
       },
@@ -7188,15 +24604,7 @@ export const toeflVocabulary = [
             "c": "学习adeline。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 30,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "adeling",
         "p": "/adeling/",
@@ -7294,18 +24702,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adelopod",
-        "p": "/adelopod/",
-        "pos": "n",
-        "m": "adelopod",
-        "ex": [
-          {
-            "e": "Study adelopod.",
-            "c": "学习adelopod。"
-          }
-        ]
-      },
-      {
         "w": "adelops",
         "p": "/adelops/",
         "pos": "n",
@@ -7342,18 +24738,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adelphic",
-        "p": "/adelphic/",
-        "pos": "n",
-        "m": "adelphic",
-        "ex": [
-          {
-            "e": "Study adelphic.",
-            "c": "学习adelphic。"
-          }
-        ]
-      },
-      {
         "w": "adelphogamy",
         "p": "/adelphogamy/",
         "pos": "n",
@@ -7362,18 +24746,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adelphogamy.",
             "c": "学习adelphogamy。"
-          }
-        ]
-      },
-      {
-        "w": "adelphoi",
-        "p": "/adelphoi/",
-        "pos": "n",
-        "m": "adelphoi",
-        "ex": [
-          {
-            "e": "Study adelphoi.",
-            "c": "学习adelphoi。"
           }
         ]
       },
@@ -7424,39 +24796,15 @@ export const toeflVocabulary = [
             "c": "学习ademonist。"
           }
         ]
-      },
-      {
-        "w": "adempt",
-        "p": "/adempt/",
-        "pos": "n",
-        "m": "adempt",
-        "ex": [
-          {
-            "e": "Study adempt.",
-            "c": "学习adempt。"
-          }
-        ]
       }
     ]
   },
   {
-    "day": 31,
+    "day": 101,
     "theme": "Vocabulary",
     "stage": 1,
-    "cefr": "TOEFL",
+    "cefr": "X",
     "words": [
-      {
-        "w": "adempted",
-        "p": "/adempted/",
-        "pos": "n",
-        "m": "adempted",
-        "ex": [
-          {
-            "e": "Study adempted.",
-            "c": "学习adempted。"
-          }
-        ]
-      },
       {
         "w": "ademption",
         "p": "/ademption/",
@@ -7470,18 +24818,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aden",
-        "p": "/aden/",
-        "pos": "n",
-        "m": "aden",
-        "ex": [
-          {
-            "e": "Study aden.",
-            "c": "学习aden。"
-          }
-        ]
-      },
-      {
         "w": "adenalgia",
         "p": "/adenalgia/",
         "pos": "n",
@@ -7490,18 +24826,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adenalgia.",
             "c": "学习adenalgia。"
-          }
-        ]
-      },
-      {
-        "w": "adenalgy",
-        "p": "/adenalgy/",
-        "pos": "n",
-        "m": "adenalgy",
-        "ex": [
-          {
-            "e": "Study adenalgy.",
-            "c": "学习adenalgy。"
           }
         ]
       },
@@ -7542,30 +24866,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adendric",
-        "p": "/adendric/",
-        "pos": "n",
-        "m": "adendric",
-        "ex": [
-          {
-            "e": "Study adendric.",
-            "c": "学习adendric。"
-          }
-        ]
-      },
-      {
-        "w": "adendritic",
-        "p": "/adendritic/",
-        "pos": "n",
-        "m": "adendritic",
-        "ex": [
-          {
-            "e": "Study adendritic.",
-            "c": "学习adendritic。"
-          }
-        ]
-      },
-      {
         "w": "adenectomies",
         "p": "/adenectomies/",
         "pos": "n",
@@ -7574,18 +24874,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adenectomies.",
             "c": "学习adenectomies。"
-          }
-        ]
-      },
-      {
-        "w": "adenectomy",
-        "p": "/adenectomy/",
-        "pos": "n",
-        "m": "adenectomy",
-        "ex": [
-          {
-            "e": "Study adenectomy.",
-            "c": "学习adenectomy。"
           }
         ]
       },
@@ -7638,18 +24926,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adenia",
-        "p": "/adenia/",
-        "pos": "n",
-        "m": "adenia",
-        "ex": [
-          {
-            "e": "Study adenia.",
-            "c": "学习adenia。"
-          }
-        ]
-      },
-      {
         "w": "adeniform",
         "p": "/adeniform/",
         "pos": "n",
@@ -7662,18 +24938,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adenin",
-        "p": "/adenin/",
-        "pos": "n",
-        "m": "adenin",
-        "ex": [
-          {
-            "e": "Study adenin.",
-            "c": "学习adenin。"
-          }
-        ]
-      },
-      {
         "w": "adenine",
         "p": "/adenine/",
         "pos": "n",
@@ -7682,50 +24946,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adenine.",
             "c": "学习adenine。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 32,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adenines",
-        "p": "/adenines/",
-        "pos": "n",
-        "m": "adenines",
-        "ex": [
-          {
-            "e": "Study adenines.",
-            "c": "学习adenines。"
-          }
-        ]
-      },
-      {
-        "w": "adenitis",
-        "p": "/adenitis/",
-        "pos": "n",
-        "m": "adenitis",
-        "ex": [
-          {
-            "e": "Study adenitis.",
-            "c": "学习adenitis。"
-          }
-        ]
-      },
-      {
-        "w": "adenitises",
-        "p": "/adenitises/",
-        "pos": "n",
-        "m": "adenitises",
-        "ex": [
-          {
-            "e": "Study adenitises.",
-            "c": "学习adenitises。"
           }
         ]
       },
@@ -7750,18 +24970,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adenoacanthoma.",
             "c": "学习adenoacanthoma。"
-          }
-        ]
-      },
-      {
-        "w": "adenoblast",
-        "p": "/adenoblast/",
-        "pos": "n",
-        "m": "adenoblast",
-        "ex": [
-          {
-            "e": "Study adenoblast.",
-            "c": "学习adenoblast。"
           }
         ]
       },
@@ -7836,7 +25044,15 @@ export const toeflVocabulary = [
             "c": "学习adenochondroma。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 102,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adenochrome",
         "p": "/adenochrome/",
@@ -7898,18 +25114,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adenodynia",
-        "p": "/adenodynia/",
-        "pos": "n",
-        "m": "adenodynia",
-        "ex": [
-          {
-            "e": "Study adenodynia.",
-            "c": "学习adenodynia。"
-          }
-        ]
-      },
-      {
         "w": "adenofibroma",
         "p": "/adenofibroma/",
         "pos": "n",
@@ -7932,15 +25136,7 @@ export const toeflVocabulary = [
             "c": "学习adenofibrosis。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 33,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "adenogenesis",
         "p": "/adenogenesis/",
@@ -8074,18 +25270,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adenoidism",
-        "p": "/adenoidism/",
-        "pos": "n",
-        "m": "adenoidism",
-        "ex": [
-          {
-            "e": "Study adenoidism.",
-            "c": "学习adenoidism。"
-          }
-        ]
-      },
-      {
         "w": "adenoiditis",
         "p": "/adenoiditis/",
         "pos": "n",
@@ -8094,18 +25278,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adenoiditis.",
             "c": "学习adenoiditis。"
-          }
-        ]
-      },
-      {
-        "w": "adenoids",
-        "p": "/adenoids/",
-        "pos": "n",
-        "m": "adenoids",
-        "ex": [
-          {
-            "e": "Study adenoids.",
-            "c": "学习adenoids。"
           }
         ]
       },
@@ -8120,7 +25292,15 @@ export const toeflVocabulary = [
             "c": "学习adenolipoma。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 103,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adenologaditis",
         "p": "/adenologaditis/",
@@ -8180,15 +25360,7 @@ export const toeflVocabulary = [
             "c": "学习adenolymphoma。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 34,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "adenoma",
         "p": "/adenoma/",
@@ -8210,18 +25382,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adenomalacia.",
             "c": "学习adenomalacia。"
-          }
-        ]
-      },
-      {
-        "w": "adenomas",
-        "p": "/adenomas/",
-        "pos": "n",
-        "m": "adenomas",
-        "ex": [
-          {
-            "e": "Study adenomas.",
-            "c": "学习adenomas。"
           }
         ]
       },
@@ -8310,18 +25470,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adenomyoma",
-        "p": "/adenomyoma/",
-        "pos": "n",
-        "m": "adenomyoma",
-        "ex": [
-          {
-            "e": "Study adenomyoma.",
-            "c": "学习adenomyoma。"
-          }
-        ]
-      },
-      {
         "w": "adenomyxoma",
         "p": "/adenomyxoma/",
         "pos": "n",
@@ -8358,30 +25506,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adenoneure",
-        "p": "/adenoneure/",
-        "pos": "n",
-        "m": "adenoneure",
-        "ex": [
-          {
-            "e": "Study adenoneure.",
-            "c": "学习adenoneure。"
-          }
-        ]
-      },
-      {
-        "w": "adenopathy",
-        "p": "/adenopathy/",
-        "pos": "n",
-        "m": "adenopathy",
-        "ex": [
-          {
-            "e": "Study adenopathy.",
-            "c": "学习adenopathy。"
-          }
-        ]
-      },
-      {
         "w": "adenopharyngeal",
         "p": "/adenopharyngeal/",
         "pos": "n",
@@ -8406,38 +25530,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adenophora",
-        "p": "/adenophora/",
-        "pos": "n",
-        "m": "adenophora",
-        "ex": [
-          {
-            "e": "Study adenophora.",
-            "c": "学习adenophora。"
-          }
-        ]
-      },
-      {
-        "w": "adenophore",
-        "p": "/adenophore/",
-        "pos": "n",
-        "m": "adenophore",
-        "ex": [
-          {
-            "e": "Study adenophore.",
-            "c": "学习adenophore。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 35,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
         "w": "adenophoreus",
         "p": "/adenophoreus/",
         "pos": "n",
@@ -8448,7 +25540,15 @@ export const toeflVocabulary = [
             "c": "学习adenophoreus。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 104,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adenophorous",
         "p": "/adenophorous/",
@@ -8482,18 +25582,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adenophyllous.",
             "c": "学习adenophyllous。"
-          }
-        ]
-      },
-      {
-        "w": "adenophyma",
-        "p": "/adenophyma/",
-        "pos": "n",
-        "m": "adenophyma",
-        "ex": [
-          {
-            "e": "Study adenophyma.",
-            "c": "学习adenophyma。"
           }
         ]
       },
@@ -8570,18 +25658,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adenoses",
-        "p": "/adenoses/",
-        "pos": "n",
-        "m": "adenoses",
-        "ex": [
-          {
-            "e": "Study adenoses.",
-            "c": "学习adenoses。"
-          }
-        ]
-      },
-      {
         "w": "adenosine",
         "p": "/adenosine/",
         "pos": "n",
@@ -8590,18 +25666,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adenosine.",
             "c": "学习adenosine。"
-          }
-        ]
-      },
-      {
-        "w": "adenosis",
-        "p": "/adenosis/",
-        "pos": "n",
-        "m": "adenosis",
-        "ex": [
-          {
-            "e": "Study adenosis.",
-            "c": "学习adenosis。"
           }
         ]
       },
@@ -8618,18 +25682,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adenostoma",
-        "p": "/adenostoma/",
-        "pos": "n",
-        "m": "adenostoma",
-        "ex": [
-          {
-            "e": "Study adenostoma.",
-            "c": "学习adenostoma。"
-          }
-        ]
-      },
-      {
         "w": "adenotome",
         "p": "/adenotome/",
         "pos": "n",
@@ -8638,18 +25690,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adenotome.",
             "c": "学习adenotome。"
-          }
-        ]
-      },
-      {
-        "w": "adenotomic",
-        "p": "/adenotomic/",
-        "pos": "n",
-        "m": "adenotomic",
-        "ex": [
-          {
-            "e": "Study adenotomic.",
-            "c": "学习adenotomic。"
           }
         ]
       },
@@ -8676,15 +25716,7 @@ export const toeflVocabulary = [
             "c": "学习adenotyphoid。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 36,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "adenotyphus",
         "p": "/adenotyphus/",
@@ -8710,30 +25742,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adenoviral",
-        "p": "/adenoviral/",
-        "pos": "n",
-        "m": "adenoviral",
-        "ex": [
-          {
-            "e": "Study adenoviral.",
-            "c": "学习adenoviral。"
-          }
-        ]
-      },
-      {
-        "w": "adenovirus",
-        "p": "/adenovirus/",
-        "pos": "n",
-        "m": "adenovirus",
-        "ex": [
-          {
-            "e": "Study adenovirus.",
-            "c": "学习adenovirus。"
-          }
-        ]
-      },
-      {
         "w": "adenoviruses",
         "p": "/adenoviruses/",
         "pos": "n",
@@ -8742,30 +25750,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adenoviruses.",
             "c": "学习adenoviruses。"
-          }
-        ]
-      },
-      {
-        "w": "adenyl",
-        "p": "/adenyl/",
-        "pos": "n",
-        "m": "adenyl",
-        "ex": [
-          {
-            "e": "Study adenyl.",
-            "c": "学习adenyl。"
-          }
-        ]
-      },
-      {
-        "w": "adenylic",
-        "p": "/adenylic/",
-        "pos": "n",
-        "m": "adenylic",
-        "ex": [
-          {
-            "e": "Study adenylic.",
-            "c": "学习adenylic。"
           }
         ]
       },
@@ -8794,30 +25778,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adeona",
-        "p": "/adeona/",
-        "pos": "n",
-        "m": "adeona",
-        "ex": [
-          {
-            "e": "Study adeona.",
-            "c": "学习adeona。"
-          }
-        ]
-      },
-      {
-        "w": "adephaga",
-        "p": "/adephaga/",
-        "pos": "n",
-        "m": "adephaga",
-        "ex": [
-          {
-            "e": "Study adephaga.",
-            "c": "学习adephaga。"
-          }
-        ]
-      },
-      {
         "w": "adephagan",
         "p": "/adephagan/",
         "pos": "n",
@@ -8828,7 +25788,15 @@ export const toeflVocabulary = [
             "c": "学习adephagan。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 105,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adephagia",
         "p": "/adephagia/",
@@ -8838,42 +25806,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adephagia.",
             "c": "学习adephagia。"
-          }
-        ]
-      },
-      {
-        "w": "adephagous",
-        "p": "/adephagous/",
-        "pos": "n",
-        "m": "adephagous",
-        "ex": [
-          {
-            "e": "Study adephagous.",
-            "c": "学习adephagous。"
-          }
-        ]
-      },
-      {
-        "w": "adeps",
-        "p": "/adeps/",
-        "pos": "n",
-        "m": "adeps",
-        "ex": [
-          {
-            "e": "Study adeps.",
-            "c": "学习adeps。"
-          }
-        ]
-      },
-      {
-        "w": "adept",
-        "p": "/adept/",
-        "pos": "n",
-        "m": "adept",
-        "ex": [
-          {
-            "e": "Study adept.",
-            "c": "学习adept。"
           }
         ]
       },
@@ -8890,30 +25822,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adeptest",
-        "p": "/adeptest/",
-        "pos": "n",
-        "m": "adeptest",
-        "ex": [
-          {
-            "e": "Study adeptest.",
-            "c": "学习adeptest。"
-          }
-        ]
-      },
-      {
-        "w": "adeption",
-        "p": "/adeption/",
-        "pos": "n",
-        "m": "adeption",
-        "ex": [
-          {
-            "e": "Study adeption.",
-            "c": "学习adeption。"
-          }
-        ]
-      },
-      {
         "w": "adeptly",
         "p": "/adeptly/",
         "pos": "n",
@@ -8924,15 +25832,7 @@ export const toeflVocabulary = [
             "c": "学习adeptly。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 37,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "adeptness",
         "p": "/adeptness/",
@@ -8942,18 +25842,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adeptness.",
             "c": "学习adeptness。"
-          }
-        ]
-      },
-      {
-        "w": "adepts",
-        "p": "/adepts/",
-        "pos": "n",
-        "m": "adepts",
-        "ex": [
-          {
-            "e": "Study adepts.",
-            "c": "学习adepts。"
           }
         ]
       },
@@ -8970,54 +25858,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adequacies",
-        "p": "/adequacies/",
-        "pos": "n",
-        "m": "adequacies",
-        "ex": [
-          {
-            "e": "Study adequacies.",
-            "c": "学习adequacies。"
-          }
-        ]
-      },
-      {
-        "w": "adequacy",
-        "p": "/adequacy/",
-        "pos": "n",
-        "m": "adequacy",
-        "ex": [
-          {
-            "e": "Study adequacy.",
-            "c": "学习adequacy。"
-          }
-        ]
-      },
-      {
-        "w": "adequate",
-        "p": "/adequate/",
-        "pos": "n",
-        "m": "adequate",
-        "ex": [
-          {
-            "e": "Study adequate.",
-            "c": "学习adequate。"
-          }
-        ]
-      },
-      {
-        "w": "adequately",
-        "p": "/adequately/",
-        "pos": "n",
-        "m": "adequately",
-        "ex": [
-          {
-            "e": "Study adequately.",
-            "c": "学习adequately。"
-          }
-        ]
-      },
-      {
         "w": "adequateness",
         "p": "/adequateness/",
         "pos": "n",
@@ -9026,30 +25866,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adequateness.",
             "c": "学习adequateness。"
-          }
-        ]
-      },
-      {
-        "w": "adequation",
-        "p": "/adequation/",
-        "pos": "n",
-        "m": "adequation",
-        "ex": [
-          {
-            "e": "Study adequation.",
-            "c": "学习adequation。"
-          }
-        ]
-      },
-      {
-        "w": "adequative",
-        "p": "/adequative/",
-        "pos": "n",
-        "m": "adequative",
-        "ex": [
-          {
-            "e": "Study adequative.",
-            "c": "学习adequative。"
           }
         ]
       },
@@ -9078,42 +25894,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adermine",
-        "p": "/adermine/",
-        "pos": "n",
-        "m": "adermine",
-        "ex": [
-          {
-            "e": "Study adermine.",
-            "c": "学习adermine。"
-          }
-        ]
-      },
-      {
-        "w": "adesmy",
-        "p": "/adesmy/",
-        "pos": "n",
-        "m": "adesmy",
-        "ex": [
-          {
-            "e": "Study adesmy.",
-            "c": "学习adesmy。"
-          }
-        ]
-      },
-      {
-        "w": "adespota",
-        "p": "/adespota/",
-        "pos": "n",
-        "m": "adespota",
-        "ex": [
-          {
-            "e": "Study adespota.",
-            "c": "学习adespota。"
-          }
-        ]
-      },
-      {
         "w": "adespoton",
         "p": "/adespoton/",
         "pos": "n",
@@ -9138,50 +25918,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adessive",
-        "p": "/adessive/",
-        "pos": "n",
-        "m": "adessive",
-        "ex": [
-          {
-            "e": "Study adessive.",
-            "c": "学习adessive。"
-          }
-        ]
-      },
-      {
-        "w": "adeste",
-        "p": "/adeste/",
-        "pos": "n",
-        "m": "adeste",
-        "ex": [
-          {
-            "e": "Study adeste.",
-            "c": "学习adeste。"
-          }
-        ]
-      },
-      {
-        "w": "adet",
-        "p": "/adet/",
-        "pos": "n",
-        "m": "adet",
-        "ex": [
-          {
-            "e": "Study adet.",
-            "c": "学习adet。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 38,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
         "w": "adeuism",
         "p": "/adeuism/",
         "pos": "n",
@@ -9202,30 +25938,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adevism.",
             "c": "学习adevism。"
-          }
-        ]
-      },
-      {
-        "w": "adfected",
-        "p": "/adfected/",
-        "pos": "n",
-        "m": "adfected",
-        "ex": [
-          {
-            "e": "Study adfected.",
-            "c": "学习adfected。"
-          }
-        ]
-      },
-      {
-        "w": "adffroze",
-        "p": "/adffroze/",
-        "pos": "n",
-        "m": "adffroze",
-        "ex": [
-          {
-            "e": "Study adffroze.",
-            "c": "学习adffroze。"
           }
         ]
       },
@@ -9254,18 +25966,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adfix",
-        "p": "/adfix/",
-        "pos": "n",
-        "m": "adfix",
-        "ex": [
-          {
-            "e": "Study adfix.",
-            "c": "学习adfix。"
-          }
-        ]
-      },
-      {
         "w": "adfluxion",
         "p": "/adfluxion/",
         "pos": "n",
@@ -9274,30 +25974,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adfluxion.",
             "c": "学习adfluxion。"
-          }
-        ]
-      },
-      {
-        "w": "adfreeze",
-        "p": "/adfreeze/",
-        "pos": "n",
-        "m": "adfreeze",
-        "ex": [
-          {
-            "e": "Study adfreeze.",
-            "c": "学习adfreeze。"
-          }
-        ]
-      },
-      {
-        "w": "adfreezing",
-        "p": "/adfreezing/",
-        "pos": "n",
-        "m": "adfreezing",
-        "ex": [
-          {
-            "e": "Study adfreezing.",
-            "c": "学习adfreezing。"
           }
         ]
       },
@@ -9314,18 +25990,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adfrozen",
-        "p": "/adfrozen/",
-        "pos": "n",
-        "m": "adfrozen",
-        "ex": [
-          {
-            "e": "Study adfrozen.",
-            "c": "学习adfrozen。"
-          }
-        ]
-      },
-      {
         "w": "adglutinate",
         "p": "/adglutinate/",
         "pos": "n",
@@ -9334,54 +25998,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adglutinate.",
             "c": "学习adglutinate。"
-          }
-        ]
-      },
-      {
-        "w": "adhafera",
-        "p": "/adhafera/",
-        "pos": "n",
-        "m": "adhafera",
-        "ex": [
-          {
-            "e": "Study adhafera.",
-            "c": "学习adhafera。"
-          }
-        ]
-      },
-      {
-        "w": "adhaka",
-        "p": "/adhaka/",
-        "pos": "n",
-        "m": "adhaka",
-        "ex": [
-          {
-            "e": "Study adhaka.",
-            "c": "学习adhaka。"
-          }
-        ]
-      },
-      {
-        "w": "adhamant",
-        "p": "/adhamant/",
-        "pos": "n",
-        "m": "adhamant",
-        "ex": [
-          {
-            "e": "Study adhamant.",
-            "c": "学习adhamant。"
-          }
-        ]
-      },
-      {
-        "w": "adhara",
-        "p": "/adhara/",
-        "pos": "n",
-        "m": "adhara",
-        "ex": [
-          {
-            "e": "Study adhara.",
-            "c": "学习adhara。"
           }
         ]
       },
@@ -9397,38 +26013,6 @@ export const toeflVocabulary = [
           }
         ]
       },
-      {
-        "w": "adherant",
-        "p": "/adherant/",
-        "pos": "n",
-        "m": "adherant",
-        "ex": [
-          {
-            "e": "Study adherant.",
-            "c": "学习adherant。"
-          }
-        ]
-      },
-      {
-        "w": "adhere",
-        "p": "/adhere/",
-        "pos": "n",
-        "m": "adhere",
-        "ex": [
-          {
-            "e": "Study adhere.",
-            "c": "学习adhere。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 39,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
       {
         "w": "adhered",
         "p": "/adhered/",
@@ -9452,19 +26036,15 @@ export const toeflVocabulary = [
             "c": "学习adherence。"
           }
         ]
-      },
-      {
-        "w": "adherences",
-        "p": "/adherences/",
-        "pos": "n",
-        "m": "adherences",
-        "ex": [
-          {
-            "e": "Study adherences.",
-            "c": "学习adherences。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 106,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adherency",
         "p": "/adherency/",
@@ -9478,18 +26058,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adherend",
-        "p": "/adherend/",
-        "pos": "n",
-        "m": "adherend",
-        "ex": [
-          {
-            "e": "Study adherend.",
-            "c": "学习adherend。"
-          }
-        ]
-      },
-      {
         "w": "adherends",
         "p": "/adherends/",
         "pos": "n",
@@ -9498,30 +26066,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adherends.",
             "c": "学习adherends。"
-          }
-        ]
-      },
-      {
-        "w": "adherent",
-        "p": "/adherent/",
-        "pos": "n",
-        "m": "adherent",
-        "ex": [
-          {
-            "e": "Study adherent.",
-            "c": "学习adherent。"
-          }
-        ]
-      },
-      {
-        "w": "adherently",
-        "p": "/adherently/",
-        "pos": "n",
-        "m": "adherently",
-        "ex": [
-          {
-            "e": "Study adherently.",
-            "c": "学习adherently。"
           }
         ]
       },
@@ -9546,18 +26090,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adherer.",
             "c": "学习adherer。"
-          }
-        ]
-      },
-      {
-        "w": "adherers",
-        "p": "/adherers/",
-        "pos": "n",
-        "m": "adherers",
-        "ex": [
-          {
-            "e": "Study adherers.",
-            "c": "学习adherers。"
           }
         ]
       },
@@ -9598,42 +26130,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adhering",
-        "p": "/adhering/",
-        "pos": "n",
-        "m": "adhering",
-        "ex": [
-          {
-            "e": "Study adhering.",
-            "c": "学习adhering。"
-          }
-        ]
-      },
-      {
-        "w": "adhesion",
-        "p": "/adhesion/",
-        "pos": "n",
-        "m": "adhesion",
-        "ex": [
-          {
-            "e": "Study adhesion.",
-            "c": "学习adhesion。"
-          }
-        ]
-      },
-      {
-        "w": "adhesional",
-        "p": "/adhesional/",
-        "pos": "n",
-        "m": "adhesional",
-        "ex": [
-          {
-            "e": "Study adhesional.",
-            "c": "学习adhesional。"
-          }
-        ]
-      },
-      {
         "w": "adhesions",
         "p": "/adhesions/",
         "pos": "n",
@@ -9645,38 +26141,6 @@ export const toeflVocabulary = [
           }
         ]
       },
-      {
-        "w": "adhesive",
-        "p": "/adhesive/",
-        "pos": "n",
-        "m": "adhesive",
-        "ex": [
-          {
-            "e": "Study adhesive.",
-            "c": "学习adhesive。"
-          }
-        ]
-      },
-      {
-        "w": "adhesively",
-        "p": "/adhesively/",
-        "pos": "n",
-        "m": "adhesively",
-        "ex": [
-          {
-            "e": "Study adhesively.",
-            "c": "学习adhesively。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 40,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
       {
         "w": "adhesivemeter",
         "p": "/adhesivemeter/",
@@ -9738,42 +26202,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adhibiting",
-        "p": "/adhibiting/",
-        "pos": "n",
-        "m": "adhibiting",
-        "ex": [
-          {
-            "e": "Study adhibiting.",
-            "c": "学习adhibiting。"
-          }
-        ]
-      },
-      {
-        "w": "adhibition",
-        "p": "/adhibition/",
-        "pos": "n",
-        "m": "adhibition",
-        "ex": [
-          {
-            "e": "Study adhibition.",
-            "c": "学习adhibition。"
-          }
-        ]
-      },
-      {
-        "w": "adhibits",
-        "p": "/adhibits/",
-        "pos": "n",
-        "m": "adhibits",
-        "ex": [
-          {
-            "e": "Study adhibits.",
-            "c": "学习adhibits。"
-          }
-        ]
-      },
-      {
         "w": "adhocracy",
         "p": "/adhocracy/",
         "pos": "n",
@@ -9782,18 +26210,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adhocracy.",
             "c": "学习adhocracy。"
-          }
-        ]
-      },
-      {
-        "w": "adhort",
-        "p": "/adhort/",
-        "pos": "n",
-        "m": "adhort",
-        "ex": [
-          {
-            "e": "Study adhort.",
-            "c": "学习adhort。"
           }
         ]
       },
@@ -9834,30 +26250,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adiabolist",
-        "p": "/adiabolist/",
-        "pos": "n",
-        "m": "adiabolist",
-        "ex": [
-          {
-            "e": "Study adiabolist.",
-            "c": "学习adiabolist。"
-          }
-        ]
-      },
-      {
-        "w": "adiactinic",
-        "p": "/adiactinic/",
-        "pos": "n",
-        "m": "adiactinic",
-        "ex": [
-          {
-            "e": "Study adiactinic.",
-            "c": "学习adiactinic。"
-          }
-        ]
-      },
-      {
         "w": "adiadokokinesi",
         "p": "/adiadokokinesi/",
         "pos": "n",
@@ -9892,7 +26284,15 @@ export const toeflVocabulary = [
             "c": "学习adiagnostic。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 107,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adiamorphic",
         "p": "/adiamorphic/",
@@ -9916,15 +26316,7 @@ export const toeflVocabulary = [
             "c": "学习adiamorphism。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 41,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "adiantiform",
         "p": "/adiantiform/",
@@ -9934,18 +26326,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adiantiform.",
             "c": "学习adiantiform。"
-          }
-        ]
-      },
-      {
-        "w": "adiantum",
-        "p": "/adiantum/",
-        "pos": "n",
-        "m": "adiantum",
-        "ex": [
-          {
-            "e": "Study adiantum.",
-            "c": "学习adiantum。"
           }
         ]
       },
@@ -9974,30 +26354,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adiaphon",
-        "p": "/adiaphon/",
-        "pos": "n",
-        "m": "adiaphon",
-        "ex": [
-          {
-            "e": "Study adiaphon.",
-            "c": "学习adiaphon。"
-          }
-        ]
-      },
-      {
-        "w": "adiaphonon",
-        "p": "/adiaphonon/",
-        "pos": "n",
-        "m": "adiaphonon",
-        "ex": [
-          {
-            "e": "Study adiaphonon.",
-            "c": "学习adiaphonon。"
-          }
-        ]
-      },
-      {
         "w": "adiaphora",
         "p": "/adiaphora/",
         "pos": "n",
@@ -10006,18 +26362,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adiaphora.",
             "c": "学习adiaphora。"
-          }
-        ]
-      },
-      {
-        "w": "adiaphoral",
-        "p": "/adiaphoral/",
-        "pos": "n",
-        "m": "adiaphoral",
-        "ex": [
-          {
-            "e": "Study adiaphoral.",
-            "c": "学习adiaphoral。"
           }
         ]
       },
@@ -10094,18 +26438,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adiaphoron",
-        "p": "/adiaphoron/",
-        "pos": "n",
-        "m": "adiaphoron",
-        "ex": [
-          {
-            "e": "Study adiaphoron.",
-            "c": "学习adiaphoron。"
-          }
-        ]
-      },
-      {
         "w": "adiaphorous",
         "p": "/adiaphorous/",
         "pos": "n",
@@ -10142,18 +26474,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adiate",
-        "p": "/adiate/",
-        "pos": "n",
-        "m": "adiate",
-        "ex": [
-          {
-            "e": "Study adiate.",
-            "c": "学习adiate。"
-          }
-        ]
-      },
-      {
         "w": "adiated",
         "p": "/adiated/",
         "pos": "n",
@@ -10164,15 +26484,7 @@ export const toeflVocabulary = [
             "c": "学习adiated。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 42,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "adiathermal",
         "p": "/adiathermal/",
@@ -10220,55 +26532,15 @@ export const toeflVocabulary = [
             "c": "学习adiathermic。"
           }
         ]
-      },
-      {
-        "w": "adiathetic",
-        "p": "/adiathetic/",
-        "pos": "n",
-        "m": "adiathetic",
-        "ex": [
-          {
-            "e": "Study adiathetic.",
-            "c": "学习adiathetic。"
-          }
-        ]
-      },
-      {
-        "w": "adiating",
-        "p": "/adiating/",
-        "pos": "n",
-        "m": "adiating",
-        "ex": [
-          {
-            "e": "Study adiating.",
-            "c": "学习adiating。"
-          }
-        ]
-      },
-      {
-        "w": "adiation",
-        "p": "/adiation/",
-        "pos": "n",
-        "m": "adiation",
-        "ex": [
-          {
-            "e": "Study adiation.",
-            "c": "学习adiation。"
-          }
-        ]
-      },
-      {
-        "w": "adib",
-        "p": "/adib/",
-        "pos": "n",
-        "m": "adib",
-        "ex": [
-          {
-            "e": "Study adib.",
-            "c": "学习adib。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 108,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adibasi",
         "p": "/adibasi/",
@@ -10278,18 +26550,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adibasi.",
             "c": "学习adibasi。"
-          }
-        ]
-      },
-      {
-        "w": "adicea",
-        "p": "/adicea/",
-        "pos": "n",
-        "m": "adicea",
-        "ex": [
-          {
-            "e": "Study adicea.",
-            "c": "学习adicea。"
           }
         ]
       },
@@ -10306,18 +26566,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adiel",
-        "p": "/adiel/",
-        "pos": "n",
-        "m": "adiel",
-        "ex": [
-          {
-            "e": "Study adiel.",
-            "c": "学习adiel。"
-          }
-        ]
-      },
-      {
         "w": "adience",
         "p": "/adience/",
         "pos": "n",
@@ -10329,98 +26577,6 @@ export const toeflVocabulary = [
           }
         ]
       },
-      {
-        "w": "adient",
-        "p": "/adient/",
-        "pos": "n",
-        "m": "adient",
-        "ex": [
-          {
-            "e": "Study adient.",
-            "c": "学习adient。"
-          }
-        ]
-      },
-      {
-        "w": "adieu",
-        "p": "/adieu/",
-        "pos": "n",
-        "m": "adieu",
-        "ex": [
-          {
-            "e": "Study adieu.",
-            "c": "学习adieu。"
-          }
-        ]
-      },
-      {
-        "w": "adieus",
-        "p": "/adieus/",
-        "pos": "n",
-        "m": "adieus",
-        "ex": [
-          {
-            "e": "Study adieus.",
-            "c": "学习adieus。"
-          }
-        ]
-      },
-      {
-        "w": "adieux",
-        "p": "/adieux/",
-        "pos": "n",
-        "m": "adieux",
-        "ex": [
-          {
-            "e": "Study adieux.",
-            "c": "学习adieux。"
-          }
-        ]
-      },
-      {
-        "w": "adigei",
-        "p": "/adigei/",
-        "pos": "n",
-        "m": "adigei",
-        "ex": [
-          {
-            "e": "Study adigei.",
-            "c": "学习adigei。"
-          }
-        ]
-      },
-      {
-        "w": "adighe",
-        "p": "/adighe/",
-        "pos": "n",
-        "m": "adighe",
-        "ex": [
-          {
-            "e": "Study adighe.",
-            "c": "学习adighe。"
-          }
-        ]
-      },
-      {
-        "w": "adight",
-        "p": "/adight/",
-        "pos": "n",
-        "m": "adight",
-        "ex": [
-          {
-            "e": "Study adight.",
-            "c": "学习adight。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 43,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
       {
         "w": "adigranth",
         "p": "/adigranth/",
@@ -10434,18 +26590,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adin",
-        "p": "/adin/",
-        "pos": "n",
-        "m": "adin",
-        "ex": [
-          {
-            "e": "Study adin.",
-            "c": "学习adin。"
-          }
-        ]
-      },
-      {
         "w": "adinida",
         "p": "/adinida/",
         "pos": "n",
@@ -10454,18 +26598,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adinida.",
             "c": "学习adinida。"
-          }
-        ]
-      },
-      {
-        "w": "adinidan",
-        "p": "/adinidan/",
-        "pos": "n",
-        "m": "adinidan",
-        "ex": [
-          {
-            "e": "Study adinidan.",
-            "c": "学习adinidan。"
           }
         ]
       },
@@ -10494,30 +26626,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adion",
-        "p": "/adion/",
-        "pos": "n",
-        "m": "adion",
-        "ex": [
-          {
-            "e": "Study adion.",
-            "c": "学习adion。"
-          }
-        ]
-      },
-      {
-        "w": "adios",
-        "p": "/adios/",
-        "pos": "n",
-        "m": "adios",
-        "ex": [
-          {
-            "e": "Study adios.",
-            "c": "学习adios。"
-          }
-        ]
-      },
-      {
         "w": "adipate",
         "p": "/adipate/",
         "pos": "n",
@@ -10526,54 +26634,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adipate.",
             "c": "学习adipate。"
-          }
-        ]
-      },
-      {
-        "w": "adipescent",
-        "p": "/adipescent/",
-        "pos": "n",
-        "m": "adipescent",
-        "ex": [
-          {
-            "e": "Study adipescent.",
-            "c": "学习adipescent。"
-          }
-        ]
-      },
-      {
-        "w": "adiphenine",
-        "p": "/adiphenine/",
-        "pos": "n",
-        "m": "adiphenine",
-        "ex": [
-          {
-            "e": "Study adiphenine.",
-            "c": "学习adiphenine。"
-          }
-        ]
-      },
-      {
-        "w": "adipic",
-        "p": "/adipic/",
-        "pos": "n",
-        "m": "adipic",
-        "ex": [
-          {
-            "e": "Study adipic.",
-            "c": "学习adipic。"
-          }
-        ]
-      },
-      {
-        "w": "adipinic",
-        "p": "/adipinic/",
-        "pos": "n",
-        "m": "adipinic",
-        "ex": [
-          {
-            "e": "Study adipinic.",
-            "c": "学习adipinic。"
           }
         ]
       },
@@ -10660,15 +26720,7 @@ export const toeflVocabulary = [
             "c": "学习adipocyte。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 44,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "adipofibroma",
         "p": "/adipofibroma/",
@@ -10678,18 +26730,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adipofibroma.",
             "c": "学习adipofibroma。"
-          }
-        ]
-      },
-      {
-        "w": "adipogenic",
-        "p": "/adipogenic/",
-        "pos": "n",
-        "m": "adipogenic",
-        "ex": [
-          {
-            "e": "Study adipogenic.",
-            "c": "学习adipogenic。"
           }
         ]
       },
@@ -10718,30 +26758,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adipolysis",
-        "p": "/adipolysis/",
-        "pos": "n",
-        "m": "adipolysis",
-        "ex": [
-          {
-            "e": "Study adipolysis.",
-            "c": "学习adipolysis。"
-          }
-        ]
-      },
-      {
-        "w": "adipolytic",
-        "p": "/adipolytic/",
-        "pos": "n",
-        "m": "adipolytic",
-        "ex": [
-          {
-            "e": "Study adipolytic.",
-            "c": "学习adipolytic。"
-          }
-        ]
-      },
-      {
         "w": "adipoma",
         "p": "/adipoma/",
         "pos": "n",
@@ -10764,7 +26780,15 @@ export const toeflVocabulary = [
             "c": "学习adipomata。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 109,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adipomatous",
         "p": "/adipomatous/",
@@ -10774,18 +26798,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adipomatous.",
             "c": "学习adipomatous。"
-          }
-        ]
-      },
-      {
-        "w": "adipometer",
-        "p": "/adipometer/",
-        "pos": "n",
-        "m": "adipometer",
-        "ex": [
-          {
-            "e": "Study adipometer.",
-            "c": "学习adipometer。"
           }
         ]
       },
@@ -10814,42 +26826,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adipopexia",
-        "p": "/adipopexia/",
-        "pos": "n",
-        "m": "adipopexia",
-        "ex": [
-          {
-            "e": "Study adipopexia.",
-            "c": "学习adipopexia。"
-          }
-        ]
-      },
-      {
-        "w": "adipopexic",
-        "p": "/adipopexic/",
-        "pos": "n",
-        "m": "adipopexic",
-        "ex": [
-          {
-            "e": "Study adipopexic.",
-            "c": "学习adipopexic。"
-          }
-        ]
-      },
-      {
-        "w": "adipopexis",
-        "p": "/adipopexis/",
-        "pos": "n",
-        "m": "adipopexis",
-        "ex": [
-          {
-            "e": "Study adipopexis.",
-            "c": "学习adipopexis。"
-          }
-        ]
-      },
-      {
         "w": "adipose",
         "p": "/adipose/",
         "pos": "n",
@@ -10874,30 +26850,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adiposes",
-        "p": "/adiposes/",
-        "pos": "n",
-        "m": "adiposes",
-        "ex": [
-          {
-            "e": "Study adiposes.",
-            "c": "学习adiposes。"
-          }
-        ]
-      },
-      {
-        "w": "adiposis",
-        "p": "/adiposis/",
-        "pos": "n",
-        "m": "adiposis",
-        "ex": [
-          {
-            "e": "Study adiposis.",
-            "c": "学习adiposis。"
-          }
-        ]
-      },
-      {
         "w": "adiposities",
         "p": "/adiposities/",
         "pos": "n",
@@ -10908,15 +26860,7 @@ export const toeflVocabulary = [
             "c": "学习adiposities。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 45,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "adiposity",
         "p": "/adiposity/",
@@ -10938,18 +26882,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adiposogenital.",
             "c": "学习adiposogenital。"
-          }
-        ]
-      },
-      {
-        "w": "adiposuria",
-        "p": "/adiposuria/",
-        "pos": "n",
-        "m": "adiposuria",
-        "ex": [
-          {
-            "e": "Study adiposuria.",
-            "c": "学习adiposuria。"
           }
         ]
       },
@@ -10990,126 +26922,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adipsous",
-        "p": "/adipsous/",
-        "pos": "n",
-        "m": "adipsous",
-        "ex": [
-          {
-            "e": "Study adipsous.",
-            "c": "学习adipsous。"
-          }
-        ]
-      },
-      {
-        "w": "adipsy",
-        "p": "/adipsy/",
-        "pos": "n",
-        "m": "adipsy",
-        "ex": [
-          {
-            "e": "Study adipsy.",
-            "c": "学习adipsy。"
-          }
-        ]
-      },
-      {
-        "w": "adipyl",
-        "p": "/adipyl/",
-        "pos": "n",
-        "m": "adipyl",
-        "ex": [
-          {
-            "e": "Study adipyl.",
-            "c": "学习adipyl。"
-          }
-        ]
-      },
-      {
-        "w": "adirondack",
-        "p": "/adirondack/",
-        "pos": "n",
-        "m": "adirondack",
-        "ex": [
-          {
-            "e": "Study adirondack.",
-            "c": "学习adirondack。"
-          }
-        ]
-      },
-      {
-        "w": "adit",
-        "p": "/adit/",
-        "pos": "n",
-        "m": "adit",
-        "ex": [
-          {
-            "e": "Study adit.",
-            "c": "学习adit。"
-          }
-        ]
-      },
-      {
-        "w": "adital",
-        "p": "/adital/",
-        "pos": "n",
-        "m": "adital",
-        "ex": [
-          {
-            "e": "Study adital.",
-            "c": "学习adital。"
-          }
-        ]
-      },
-      {
-        "w": "aditio",
-        "p": "/aditio/",
-        "pos": "n",
-        "m": "aditio",
-        "ex": [
-          {
-            "e": "Study aditio.",
-            "c": "学习aditio。"
-          }
-        ]
-      },
-      {
-        "w": "adits",
-        "p": "/adits/",
-        "pos": "n",
-        "m": "adits",
-        "ex": [
-          {
-            "e": "Study adits.",
-            "c": "学习adits。"
-          }
-        ]
-      },
-      {
-        "w": "aditus",
-        "p": "/aditus/",
-        "pos": "n",
-        "m": "aditus",
-        "ex": [
-          {
-            "e": "Study aditus.",
-            "c": "学习aditus。"
-          }
-        ]
-      },
-      {
-        "w": "adj",
-        "p": "/adj/",
-        "pos": "n",
-        "m": "adj",
-        "ex": [
-          {
-            "e": "Study adj.",
-            "c": "学习adj。"
-          }
-        ]
-      },
-      {
         "w": "adjacence",
         "p": "/adjacence/",
         "pos": "n",
@@ -11142,62 +26954,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adjacency.",
             "c": "学习adjacency。"
-          }
-        ]
-      },
-      {
-        "w": "adjacent",
-        "p": "/adjacent/",
-        "pos": "n",
-        "m": "adjacent",
-        "ex": [
-          {
-            "e": "Study adjacent.",
-            "c": "学习adjacent。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 46,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adjacently",
-        "p": "/adjacently/",
-        "pos": "n",
-        "m": "adjacently",
-        "ex": [
-          {
-            "e": "Study adjacently.",
-            "c": "学习adjacently。"
-          }
-        ]
-      },
-      {
-        "w": "adjag",
-        "p": "/adjag/",
-        "pos": "n",
-        "m": "adjag",
-        "ex": [
-          {
-            "e": "Study adjag.",
-            "c": "学习adjag。"
-          }
-        ]
-      },
-      {
-        "w": "adject",
-        "p": "/adject/",
-        "pos": "n",
-        "m": "adject",
-        "ex": [
-          {
-            "e": "Study adject.",
-            "c": "学习adject。"
           }
         ]
       },
@@ -11238,18 +26994,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adjectival",
-        "p": "/adjectival/",
-        "pos": "n",
-        "m": "adjectival",
-        "ex": [
-          {
-            "e": "Study adjectival.",
-            "c": "学习adjectival。"
-          }
-        ]
-      },
-      {
         "w": "adjectivally",
         "p": "/adjectivally/",
         "pos": "n",
@@ -11284,19 +27028,15 @@ export const toeflVocabulary = [
             "c": "学习adjectively。"
           }
         ]
-      },
-      {
-        "w": "adjectives",
-        "p": "/adjectives/",
-        "pos": "n",
-        "m": "adjectives",
-        "ex": [
-          {
-            "e": "Study adjectives.",
-            "c": "学习adjectives。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 110,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adjectivism",
         "p": "/adjectivism/",
@@ -11322,18 +27062,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adjiga",
-        "p": "/adjiga/",
-        "pos": "n",
-        "m": "adjiga",
-        "ex": [
-          {
-            "e": "Study adjiga.",
-            "c": "学习adjiga。"
-          }
-        ]
-      },
-      {
         "w": "adjiger",
         "p": "/adjiger/",
         "pos": "n",
@@ -11342,18 +27070,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adjiger.",
             "c": "学习adjiger。"
-          }
-        ]
-      },
-      {
-        "w": "adjoin",
-        "p": "/adjoin/",
-        "pos": "n",
-        "m": "adjoin",
-        "ex": [
-          {
-            "e": "Study adjoin.",
-            "c": "学习adjoin。"
           }
         ]
       },
@@ -11369,50 +27085,6 @@ export const toeflVocabulary = [
           }
         ]
       },
-      {
-        "w": "adjoined",
-        "p": "/adjoined/",
-        "pos": "n",
-        "m": "adjoined",
-        "ex": [
-          {
-            "e": "Study adjoined.",
-            "c": "学习adjoined。"
-          }
-        ]
-      },
-      {
-        "w": "adjoinedly",
-        "p": "/adjoinedly/",
-        "pos": "n",
-        "m": "adjoinedly",
-        "ex": [
-          {
-            "e": "Study adjoinedly.",
-            "c": "学习adjoinedly。"
-          }
-        ]
-      },
-      {
-        "w": "adjoiner",
-        "p": "/adjoiner/",
-        "pos": "n",
-        "m": "adjoiner",
-        "ex": [
-          {
-            "e": "Study adjoiner.",
-            "c": "学习adjoiner。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 47,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
       {
         "w": "adjoining",
         "p": "/adjoining/",
@@ -11462,18 +27134,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adjoints",
-        "p": "/adjoints/",
-        "pos": "n",
-        "m": "adjoints",
-        "ex": [
-          {
-            "e": "Study adjoints.",
-            "c": "学习adjoints。"
-          }
-        ]
-      },
-      {
         "w": "adjourn",
         "p": "/adjourn/",
         "pos": "n",
@@ -11510,18 +27170,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adjourning",
-        "p": "/adjourning/",
-        "pos": "n",
-        "m": "adjourning",
-        "ex": [
-          {
-            "e": "Study adjourning.",
-            "c": "学习adjourning。"
-          }
-        ]
-      },
-      {
         "w": "adjournment",
         "p": "/adjournment/",
         "pos": "n",
@@ -11546,18 +27194,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adjourns",
-        "p": "/adjourns/",
-        "pos": "n",
-        "m": "adjourns",
-        "ex": [
-          {
-            "e": "Study adjourns.",
-            "c": "学习adjourns。"
-          }
-        ]
-      },
-      {
         "w": "adjoust",
         "p": "/adjoust/",
         "pos": "n",
@@ -11566,18 +27202,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adjoust.",
             "c": "学习adjoust。"
-          }
-        ]
-      },
-      {
-        "w": "adjt",
-        "p": "/adjt/",
-        "pos": "n",
-        "m": "adjt",
-        "ex": [
-          {
-            "e": "Study adjt.",
-            "c": "学习adjt。"
           }
         ]
       },
@@ -11606,42 +27230,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adjudged",
-        "p": "/adjudged/",
-        "pos": "n",
-        "m": "adjudged",
-        "ex": [
-          {
-            "e": "Study adjudged.",
-            "c": "学习adjudged。"
-          }
-        ]
-      },
-      {
-        "w": "adjudger",
-        "p": "/adjudger/",
-        "pos": "n",
-        "m": "adjudger",
-        "ex": [
-          {
-            "e": "Study adjudger.",
-            "c": "学习adjudger。"
-          }
-        ]
-      },
-      {
-        "w": "adjudges",
-        "p": "/adjudges/",
-        "pos": "n",
-        "m": "adjudges",
-        "ex": [
-          {
-            "e": "Study adjudges.",
-            "c": "学习adjudges。"
-          }
-        ]
-      },
-      {
         "w": "adjudging",
         "p": "/adjudging/",
         "pos": "n",
@@ -11650,50 +27238,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adjudging.",
             "c": "学习adjudging。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 48,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adjudgment",
-        "p": "/adjudgment/",
-        "pos": "n",
-        "m": "adjudgment",
-        "ex": [
-          {
-            "e": "Study adjudgment.",
-            "c": "学习adjudgment。"
-          }
-        ]
-      },
-      {
-        "w": "adjudicata",
-        "p": "/adjudicata/",
-        "pos": "n",
-        "m": "adjudicata",
-        "ex": [
-          {
-            "e": "Study adjudicata.",
-            "c": "学习adjudicata。"
-          }
-        ]
-      },
-      {
-        "w": "adjudicate",
-        "p": "/adjudicate/",
-        "pos": "n",
-        "m": "adjudicate",
-        "ex": [
-          {
-            "e": "Study adjudicate.",
-            "c": "学习adjudicate。"
           }
         ]
       },
@@ -11732,7 +27276,15 @@ export const toeflVocabulary = [
             "c": "学习adjudicating。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 111,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adjudication",
         "p": "/adjudication/",
@@ -11818,30 +27370,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adjugate",
-        "p": "/adjugate/",
-        "pos": "n",
-        "m": "adjugate",
-        "ex": [
-          {
-            "e": "Study adjugate.",
-            "c": "学习adjugate。"
-          }
-        ]
-      },
-      {
-        "w": "adjument",
-        "p": "/adjument/",
-        "pos": "n",
-        "m": "adjument",
-        "ex": [
-          {
-            "e": "Study adjument.",
-            "c": "学习adjument。"
-          }
-        ]
-      },
-      {
         "w": "adjunct",
         "p": "/adjunct/",
         "pos": "n",
@@ -11850,30 +27378,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adjunct.",
             "c": "学习adjunct。"
-          }
-        ]
-      },
-      {
-        "w": "adjunction",
-        "p": "/adjunction/",
-        "pos": "n",
-        "m": "adjunction",
-        "ex": [
-          {
-            "e": "Study adjunction.",
-            "c": "学习adjunction。"
-          }
-        ]
-      },
-      {
-        "w": "adjunctive",
-        "p": "/adjunctive/",
-        "pos": "n",
-        "m": "adjunctive",
-        "ex": [
-          {
-            "e": "Study adjunctive.",
-            "c": "学习adjunctive。"
           }
         ]
       },
@@ -11900,38 +27404,6 @@ export const toeflVocabulary = [
             "c": "学习adjunctly。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 49,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adjuncts",
-        "p": "/adjuncts/",
-        "pos": "n",
-        "m": "adjuncts",
-        "ex": [
-          {
-            "e": "Study adjuncts.",
-            "c": "学习adjuncts。"
-          }
-        ]
-      },
-      {
-        "w": "adjuration",
-        "p": "/adjuration/",
-        "pos": "n",
-        "m": "adjuration",
-        "ex": [
-          {
-            "e": "Study adjuration.",
-            "c": "学习adjuration。"
-          }
-        ]
       },
       {
         "w": "adjurations",
@@ -11942,30 +27414,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adjurations.",
             "c": "学习adjurations。"
-          }
-        ]
-      },
-      {
-        "w": "adjuratory",
-        "p": "/adjuratory/",
-        "pos": "n",
-        "m": "adjuratory",
-        "ex": [
-          {
-            "e": "Study adjuratory.",
-            "c": "学习adjuratory。"
-          }
-        ]
-      },
-      {
-        "w": "adjure",
-        "p": "/adjure/",
-        "pos": "n",
-        "m": "adjure",
-        "ex": [
-          {
-            "e": "Study adjure.",
-            "c": "学习adjure。"
           }
         ]
       },
@@ -11994,18 +27442,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adjurers",
-        "p": "/adjurers/",
-        "pos": "n",
-        "m": "adjurers",
-        "ex": [
-          {
-            "e": "Study adjurers.",
-            "c": "学习adjurers。"
-          }
-        ]
-      },
-      {
         "w": "adjures",
         "p": "/adjures/",
         "pos": "n",
@@ -12014,18 +27450,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adjures.",
             "c": "学习adjures。"
-          }
-        ]
-      },
-      {
-        "w": "adjuring",
-        "p": "/adjuring/",
-        "pos": "n",
-        "m": "adjuring",
-        "ex": [
-          {
-            "e": "Study adjuring.",
-            "c": "学习adjuring。"
           }
         ]
       },
@@ -12042,30 +27466,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adjurors",
-        "p": "/adjurors/",
-        "pos": "n",
-        "m": "adjurors",
-        "ex": [
-          {
-            "e": "Study adjurors.",
-            "c": "学习adjurors。"
-          }
-        ]
-      },
-      {
-        "w": "adjust",
-        "p": "/adjust/",
-        "pos": "n",
-        "m": "adjust",
-        "ex": [
-          {
-            "e": "Study adjust.",
-            "c": "学习adjust。"
-          }
-        ]
-      },
-      {
         "w": "adjustability",
         "p": "/adjustability/",
         "pos": "n",
@@ -12074,30 +27474,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adjustability.",
             "c": "学习adjustability。"
-          }
-        ]
-      },
-      {
-        "w": "adjustable",
-        "p": "/adjustable/",
-        "pos": "n",
-        "m": "adjustable",
-        "ex": [
-          {
-            "e": "Study adjustable.",
-            "c": "学习adjustable。"
-          }
-        ]
-      },
-      {
-        "w": "adjustably",
-        "p": "/adjustably/",
-        "pos": "n",
-        "m": "adjustably",
-        "ex": [
-          {
-            "e": "Study adjustably.",
-            "c": "学习adjustably。"
           }
         ]
       },
@@ -12126,38 +27502,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adjusted",
-        "p": "/adjusted/",
-        "pos": "n",
-        "m": "adjusted",
-        "ex": [
-          {
-            "e": "Study adjusted.",
-            "c": "学习adjusted。"
-          }
-        ]
-      },
-      {
-        "w": "adjuster",
-        "p": "/adjuster/",
-        "pos": "n",
-        "m": "adjuster",
-        "ex": [
-          {
-            "e": "Study adjuster.",
-            "c": "学习adjuster。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 50,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
         "w": "adjusters",
         "p": "/adjusters/",
         "pos": "n",
@@ -12180,7 +27524,15 @@ export const toeflVocabulary = [
             "c": "学习adjusting。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 112,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adjustive",
         "p": "/adjustive/",
@@ -12190,18 +27542,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adjustive.",
             "c": "学习adjustive。"
-          }
-        ]
-      },
-      {
-        "w": "adjustment",
-        "p": "/adjustment/",
-        "pos": "n",
-        "m": "adjustment",
-        "ex": [
-          {
-            "e": "Study adjustment.",
-            "c": "学习adjustment。"
           }
         ]
       },
@@ -12226,30 +27566,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adjustments.",
             "c": "学习adjustments。"
-          }
-        ]
-      },
-      {
-        "w": "adjustor",
-        "p": "/adjustor/",
-        "pos": "n",
-        "m": "adjustor",
-        "ex": [
-          {
-            "e": "Study adjustor.",
-            "c": "学习adjustor。"
-          }
-        ]
-      },
-      {
-        "w": "adjustores",
-        "p": "/adjustores/",
-        "pos": "n",
-        "m": "adjustores",
-        "ex": [
-          {
-            "e": "Study adjustores.",
-            "c": "学习adjustores。"
           }
         ]
       },
@@ -12290,18 +27606,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adjutage",
-        "p": "/adjutage/",
-        "pos": "n",
-        "m": "adjutage",
-        "ex": [
-          {
-            "e": "Study adjutage.",
-            "c": "学习adjutage。"
-          }
-        ]
-      },
-      {
         "w": "adjutancies",
         "p": "/adjutancies/",
         "pos": "n",
@@ -12322,18 +27626,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adjutancy.",
             "c": "学习adjutancy。"
-          }
-        ]
-      },
-      {
-        "w": "adjutant",
-        "p": "/adjutant/",
-        "pos": "n",
-        "m": "adjutant",
-        "ex": [
-          {
-            "e": "Study adjutant.",
-            "c": "学习adjutant。"
           }
         ]
       },
@@ -12374,18 +27666,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adjute",
-        "p": "/adjute/",
-        "pos": "n",
-        "m": "adjute",
-        "ex": [
-          {
-            "e": "Study adjute.",
-            "c": "学习adjute。"
-          }
-        ]
-      },
-      {
         "w": "adjutor",
         "p": "/adjutor/",
         "pos": "n",
@@ -12396,15 +27676,7 @@ export const toeflVocabulary = [
             "c": "学习adjutor。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 51,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "adjutorious",
         "p": "/adjutorious/",
@@ -12414,18 +27686,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adjutorious.",
             "c": "学习adjutorious。"
-          }
-        ]
-      },
-      {
-        "w": "adjutory",
-        "p": "/adjutory/",
-        "pos": "n",
-        "m": "adjutory",
-        "ex": [
-          {
-            "e": "Study adjutory.",
-            "c": "学习adjutory。"
           }
         ]
       },
@@ -12442,30 +27702,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adjutrix",
-        "p": "/adjutrix/",
-        "pos": "n",
-        "m": "adjutrix",
-        "ex": [
-          {
-            "e": "Study adjutrix.",
-            "c": "学习adjutrix。"
-          }
-        ]
-      },
-      {
-        "w": "adjuvant",
-        "p": "/adjuvant/",
-        "pos": "n",
-        "m": "adjuvant",
-        "ex": [
-          {
-            "e": "Study adjuvant.",
-            "c": "学习adjuvant。"
-          }
-        ]
-      },
-      {
         "w": "adjuvants",
         "p": "/adjuvants/",
         "pos": "n",
@@ -12478,54 +27714,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adjuvate",
-        "p": "/adjuvate/",
-        "pos": "n",
-        "m": "adjuvate",
-        "ex": [
-          {
-            "e": "Study adjuvate.",
-            "c": "学习adjuvate。"
-          }
-        ]
-      },
-      {
-        "w": "adlai",
-        "p": "/adlai/",
-        "pos": "n",
-        "m": "adlai",
-        "ex": [
-          {
-            "e": "Study adlai.",
-            "c": "学习adlai。"
-          }
-        ]
-      },
-      {
-        "w": "adlay",
-        "p": "/adlay/",
-        "pos": "n",
-        "m": "adlay",
-        "ex": [
-          {
-            "e": "Study adlay.",
-            "c": "学习adlay。"
-          }
-        ]
-      },
-      {
-        "w": "adlegation",
-        "p": "/adlegation/",
-        "pos": "n",
-        "m": "adlegation",
-        "ex": [
-          {
-            "e": "Study adlegation.",
-            "c": "学习adlegation。"
-          }
-        ]
-      },
-      {
         "w": "adlegiare",
         "p": "/adlegiare/",
         "pos": "n",
@@ -12534,42 +27722,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adlegiare.",
             "c": "学习adlegiare。"
-          }
-        ]
-      },
-      {
-        "w": "adlerian",
-        "p": "/adlerian/",
-        "pos": "n",
-        "m": "adlerian",
-        "ex": [
-          {
-            "e": "Study adlerian.",
-            "c": "学习adlerian。"
-          }
-        ]
-      },
-      {
-        "w": "adless",
-        "p": "/adless/",
-        "pos": "n",
-        "m": "adless",
-        "ex": [
-          {
-            "e": "Study adless.",
-            "c": "学习adless。"
-          }
-        ]
-      },
-      {
-        "w": "adlet",
-        "p": "/adlet/",
-        "pos": "n",
-        "m": "adlet",
-        "ex": [
-          {
-            "e": "Study adlet.",
-            "c": "学习adlet。"
           }
         ]
       },
@@ -12598,18 +27750,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adlumidine",
-        "p": "/adlumidine/",
-        "pos": "n",
-        "m": "adlumidine",
-        "ex": [
-          {
-            "e": "Study adlumidine.",
-            "c": "学习adlumidine。"
-          }
-        ]
-      },
-      {
         "w": "adlumin",
         "p": "/adlumin/",
         "pos": "n",
@@ -12618,50 +27758,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adlumin.",
             "c": "学习adlumin。"
-          }
-        ]
-      },
-      {
-        "w": "adlumine",
-        "p": "/adlumine/",
-        "pos": "n",
-        "m": "adlumine",
-        "ex": [
-          {
-            "e": "Study adlumine.",
-            "c": "学习adlumine。"
-          }
-        ]
-      },
-      {
-        "w": "adm",
-        "p": "/adm/",
-        "pos": "n",
-        "m": "adm",
-        "ex": [
-          {
-            "e": "Study adm.",
-            "c": "学习adm。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 52,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adman",
-        "p": "/adman/",
-        "pos": "n",
-        "m": "adman",
-        "ex": [
-          {
-            "e": "Study adman.",
-            "c": "学习adman。"
           }
         ]
       },
@@ -12676,19 +27772,15 @@ export const toeflVocabulary = [
             "c": "学习admarginate。"
           }
         ]
-      },
-      {
-        "w": "admass",
-        "p": "/admass/",
-        "pos": "n",
-        "m": "admass",
-        "ex": [
-          {
-            "e": "Study admass.",
-            "c": "学习admass。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 113,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "admaxillary",
         "p": "/admaxillary/",
@@ -12714,18 +27806,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "admeasured",
-        "p": "/admeasured/",
-        "pos": "n",
-        "m": "admeasured",
-        "ex": [
-          {
-            "e": "Study admeasured.",
-            "c": "学习admeasured。"
-          }
-        ]
-      },
-      {
         "w": "admeasurement",
         "p": "/admeasurement/",
         "pos": "n",
@@ -12738,18 +27818,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "admeasurer",
-        "p": "/admeasurer/",
-        "pos": "n",
-        "m": "admeasurer",
-        "ex": [
-          {
-            "e": "Study admeasurer.",
-            "c": "学习admeasurer。"
-          }
-        ]
-      },
-      {
         "w": "admeasuring",
         "p": "/admeasuring/",
         "pos": "n",
@@ -12758,42 +27826,6 @@ export const toeflVocabulary = [
           {
             "e": "Study admeasuring.",
             "c": "学习admeasuring。"
-          }
-        ]
-      },
-      {
-        "w": "admedial",
-        "p": "/admedial/",
-        "pos": "n",
-        "m": "admedial",
-        "ex": [
-          {
-            "e": "Study admedial.",
-            "c": "学习admedial。"
-          }
-        ]
-      },
-      {
-        "w": "admedian",
-        "p": "/admedian/",
-        "pos": "n",
-        "m": "admedian",
-        "ex": [
-          {
-            "e": "Study admedian.",
-            "c": "学习admedian。"
-          }
-        ]
-      },
-      {
-        "w": "admen",
-        "p": "/admen/",
-        "pos": "n",
-        "m": "admen",
-        "ex": [
-          {
-            "e": "Study admen.",
-            "c": "学习admen。"
           }
         ]
       },
@@ -12834,30 +27866,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "admi",
-        "p": "/admi/",
-        "pos": "n",
-        "m": "admi",
-        "ex": [
-          {
-            "e": "Study admi.",
-            "c": "学习admi。"
-          }
-        ]
-      },
-      {
-        "w": "admin",
-        "p": "/admin/",
-        "pos": "n",
-        "m": "admin",
-        "ex": [
-          {
-            "e": "Study admin.",
-            "c": "学习admin。"
-          }
-        ]
-      },
-      {
         "w": "adminicle",
         "p": "/adminicle/",
         "pos": "n",
@@ -12866,18 +27874,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adminicle.",
             "c": "学习adminicle。"
-          }
-        ]
-      },
-      {
-        "w": "adminicula",
-        "p": "/adminicula/",
-        "pos": "n",
-        "m": "adminicula",
-        "ex": [
-          {
-            "e": "Study adminicula.",
-            "c": "学习adminicula。"
           }
         ]
       },
@@ -12892,15 +27888,7 @@ export const toeflVocabulary = [
             "c": "学习adminicular。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 53,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "adminiculary",
         "p": "/adminiculary/",
@@ -12946,18 +27934,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adminiculum.",
             "c": "学习adminiculum。"
-          }
-        ]
-      },
-      {
-        "w": "administer",
-        "p": "/administer/",
-        "pos": "n",
-        "m": "administer",
-        "ex": [
-          {
-            "e": "Study administer.",
-            "c": "学习administer。"
           }
         ]
       },
@@ -13044,7 +28020,15 @@ export const toeflVocabulary = [
             "c": "学习administrable。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 114,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "administrant",
         "p": "/administrant/",
@@ -13140,15 +28124,7 @@ export const toeflVocabulary = [
             "c": "学习administrations。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 54,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "administrative",
         "p": "/administrative/",
@@ -13282,18 +28258,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "admirals",
-        "p": "/admirals/",
-        "pos": "n",
-        "m": "admirals",
-        "ex": [
-          {
-            "e": "Study admirals.",
-            "c": "学习admirals。"
-          }
-        ]
-      },
-      {
         "w": "admiralship",
         "p": "/admiralship/",
         "pos": "n",
@@ -13304,7 +28268,15 @@ export const toeflVocabulary = [
             "c": "学习admiralship。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 115,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "admiralships",
         "p": "/admiralships/",
@@ -13354,18 +28326,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "admiration",
-        "p": "/admiration/",
-        "pos": "n",
-        "m": "admiration",
-        "ex": [
-          {
-            "e": "Study admiration.",
-            "c": "学习admiration。"
-          }
-        ]
-      },
-      {
         "w": "admirations",
         "p": "/admirations/",
         "pos": "n",
@@ -13377,26 +28337,6 @@ export const toeflVocabulary = [
           }
         ]
       },
-      {
-        "w": "admirative",
-        "p": "/admirative/",
-        "pos": "n",
-        "m": "admirative",
-        "ex": [
-          {
-            "e": "Study admirative.",
-            "c": "学习admirative。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 55,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
       {
         "w": "admiratively",
         "p": "/admiratively/",
@@ -13458,18 +28398,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "admirers",
-        "p": "/admirers/",
-        "pos": "n",
-        "m": "admirers",
-        "ex": [
-          {
-            "e": "Study admirers.",
-            "c": "学习admirers。"
-          }
-        ]
-      },
-      {
         "w": "admires",
         "p": "/admires/",
         "pos": "n",
@@ -13478,30 +28406,6 @@ export const toeflVocabulary = [
           {
             "e": "Study admires.",
             "c": "学习admires。"
-          }
-        ]
-      },
-      {
-        "w": "admiring",
-        "p": "/admiring/",
-        "pos": "n",
-        "m": "admiring",
-        "ex": [
-          {
-            "e": "Study admiring.",
-            "c": "学习admiring。"
-          }
-        ]
-      },
-      {
-        "w": "admiringly",
-        "p": "/admiringly/",
-        "pos": "n",
-        "m": "admiringly",
-        "ex": [
-          {
-            "e": "Study admiringly.",
-            "c": "学习admiringly。"
           }
         ]
       },
@@ -13518,18 +28422,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "admissable",
-        "p": "/admissable/",
-        "pos": "n",
-        "m": "admissable",
-        "ex": [
-          {
-            "e": "Study admissable.",
-            "c": "学习admissable。"
-          }
-        ]
-      },
-      {
         "w": "admissibility",
         "p": "/admissibility/",
         "pos": "n",
@@ -13538,18 +28430,6 @@ export const toeflVocabulary = [
           {
             "e": "Study admissibility.",
             "c": "学习admissibility。"
-          }
-        ]
-      },
-      {
-        "w": "admissible",
-        "p": "/admissible/",
-        "pos": "n",
-        "m": "admissible",
-        "ex": [
-          {
-            "e": "Study admissible.",
-            "c": "学习admissible。"
           }
         ]
       },
@@ -13566,18 +28446,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "admissibly",
-        "p": "/admissibly/",
-        "pos": "n",
-        "m": "admissibly",
-        "ex": [
-          {
-            "e": "Study admissibly.",
-            "c": "学习admissibly。"
-          }
-        ]
-      },
-      {
         "w": "admission",
         "p": "/admission/",
         "pos": "n",
@@ -13586,18 +28454,6 @@ export const toeflVocabulary = [
           {
             "e": "Study admission.",
             "c": "学习admission。"
-          }
-        ]
-      },
-      {
-        "w": "admissions",
-        "p": "/admissions/",
-        "pos": "n",
-        "m": "admissions",
-        "ex": [
-          {
-            "e": "Study admissions.",
-            "c": "学习admissions。"
           }
         ]
       },
@@ -13636,62 +28492,6 @@ export const toeflVocabulary = [
             "c": "学习admissory。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 56,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "admit",
-        "p": "/admit/",
-        "pos": "n",
-        "m": "admit",
-        "ex": [
-          {
-            "e": "Study admit.",
-            "c": "学习admit。"
-          }
-        ]
-      },
-      {
-        "w": "admits",
-        "p": "/admits/",
-        "pos": "n",
-        "m": "admits",
-        "ex": [
-          {
-            "e": "Study admits.",
-            "c": "学习admits。"
-          }
-        ]
-      },
-      {
-        "w": "admittable",
-        "p": "/admittable/",
-        "pos": "n",
-        "m": "admittable",
-        "ex": [
-          {
-            "e": "Study admittable.",
-            "c": "学习admittable。"
-          }
-        ]
-      },
-      {
-        "w": "admittance",
-        "p": "/admittance/",
-        "pos": "n",
-        "m": "admittance",
-        "ex": [
-          {
-            "e": "Study admittance.",
-            "c": "学习admittance。"
-          }
-        ]
       },
       {
         "w": "admittances",
@@ -13706,66 +28506,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "admittatur",
-        "p": "/admittatur/",
-        "pos": "n",
-        "m": "admittatur",
-        "ex": [
-          {
-            "e": "Study admittatur.",
-            "c": "学习admittatur。"
-          }
-        ]
-      },
-      {
-        "w": "admitted",
-        "p": "/admitted/",
-        "pos": "n",
-        "m": "admitted",
-        "ex": [
-          {
-            "e": "Study admitted.",
-            "c": "学习admitted。"
-          }
-        ]
-      },
-      {
-        "w": "admittedly",
-        "p": "/admittedly/",
-        "pos": "n",
-        "m": "admittedly",
-        "ex": [
-          {
-            "e": "Study admittedly.",
-            "c": "学习admittedly。"
-          }
-        ]
-      },
-      {
-        "w": "admittee",
-        "p": "/admittee/",
-        "pos": "n",
-        "m": "admittee",
-        "ex": [
-          {
-            "e": "Study admittee.",
-            "c": "学习admittee。"
-          }
-        ]
-      },
-      {
-        "w": "admitter",
-        "p": "/admitter/",
-        "pos": "n",
-        "m": "admitter",
-        "ex": [
-          {
-            "e": "Study admitter.",
-            "c": "学习admitter。"
-          }
-        ]
-      },
-      {
         "w": "admitters",
         "p": "/admitters/",
         "pos": "n",
@@ -13776,19 +28516,15 @@ export const toeflVocabulary = [
             "c": "学习admitters。"
           }
         ]
-      },
-      {
-        "w": "admittible",
-        "p": "/admittible/",
-        "pos": "n",
-        "m": "admittible",
-        "ex": [
-          {
-            "e": "Study admittible.",
-            "c": "学习admittible。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 116,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "admitting",
         "p": "/admitting/",
@@ -13810,18 +28546,6 @@ export const toeflVocabulary = [
           {
             "e": "Study admitty.",
             "c": "学习admitty。"
-          }
-        ]
-      },
-      {
-        "w": "admix",
-        "p": "/admix/",
-        "pos": "n",
-        "m": "admix",
-        "ex": [
-          {
-            "e": "Study admix.",
-            "c": "学习admix。"
           }
         ]
       },
@@ -13850,30 +28574,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "admixing",
-        "p": "/admixing/",
-        "pos": "n",
-        "m": "admixing",
-        "ex": [
-          {
-            "e": "Study admixing.",
-            "c": "学习admixing。"
-          }
-        ]
-      },
-      {
-        "w": "admixt",
-        "p": "/admixt/",
-        "pos": "n",
-        "m": "admixt",
-        "ex": [
-          {
-            "e": "Study admixt.",
-            "c": "学习admixt。"
-          }
-        ]
-      },
-      {
         "w": "admixtion",
         "p": "/admixtion/",
         "pos": "n",
@@ -13884,15 +28584,7 @@ export const toeflVocabulary = [
             "c": "学习admixtion。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 57,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "admixture",
         "p": "/admixture/",
@@ -13902,66 +28594,6 @@ export const toeflVocabulary = [
           {
             "e": "Study admixture.",
             "c": "学习admixture。"
-          }
-        ]
-      },
-      {
-        "w": "admixtures",
-        "p": "/admixtures/",
-        "pos": "n",
-        "m": "admixtures",
-        "ex": [
-          {
-            "e": "Study admixtures.",
-            "c": "学习admixtures。"
-          }
-        ]
-      },
-      {
-        "w": "admonish",
-        "p": "/admonish/",
-        "pos": "n",
-        "m": "admonish",
-        "ex": [
-          {
-            "e": "Study admonish.",
-            "c": "学习admonish。"
-          }
-        ]
-      },
-      {
-        "w": "admonished",
-        "p": "/admonished/",
-        "pos": "n",
-        "m": "admonished",
-        "ex": [
-          {
-            "e": "Study admonished.",
-            "c": "学习admonished。"
-          }
-        ]
-      },
-      {
-        "w": "admonisher",
-        "p": "/admonisher/",
-        "pos": "n",
-        "m": "admonisher",
-        "ex": [
-          {
-            "e": "Study admonisher.",
-            "c": "学习admonisher。"
-          }
-        ]
-      },
-      {
-        "w": "admonishes",
-        "p": "/admonishes/",
-        "pos": "n",
-        "m": "admonishes",
-        "ex": [
-          {
-            "e": "Study admonishes.",
-            "c": "学习admonishes。"
           }
         ]
       },
@@ -14014,18 +28646,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "admonition",
-        "p": "/admonition/",
-        "pos": "n",
-        "m": "admonition",
-        "ex": [
-          {
-            "e": "Study admonition.",
-            "c": "学习admonition。"
-          }
-        ]
-      },
-      {
         "w": "admonitioner",
         "p": "/admonitioner/",
         "pos": "n",
@@ -14058,18 +28678,6 @@ export const toeflVocabulary = [
           {
             "e": "Study admonitions.",
             "c": "学习admonitions。"
-          }
-        ]
-      },
-      {
-        "w": "admonitive",
-        "p": "/admonitive/",
-        "pos": "n",
-        "m": "admonitive",
-        "ex": [
-          {
-            "e": "Study admonitive.",
-            "c": "学习admonitive。"
           }
         ]
       },
@@ -14122,38 +28730,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "admonitory",
-        "p": "/admonitory/",
-        "pos": "n",
-        "m": "admonitory",
-        "ex": [
-          {
-            "e": "Study admonitory.",
-            "c": "学习admonitory。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 58,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "admonitrix",
-        "p": "/admonitrix/",
-        "pos": "n",
-        "m": "admonitrix",
-        "ex": [
-          {
-            "e": "Study admonitrix.",
-            "c": "学习admonitrix。"
-          }
-        ]
-      },
-      {
         "w": "admortization",
         "p": "/admortization/",
         "pos": "n",
@@ -14162,54 +28738,6 @@ export const toeflVocabulary = [
           {
             "e": "Study admortization.",
             "c": "学习admortization。"
-          }
-        ]
-      },
-      {
-        "w": "admov",
-        "p": "/admov/",
-        "pos": "n",
-        "m": "admov",
-        "ex": [
-          {
-            "e": "Study admov.",
-            "c": "学习admov。"
-          }
-        ]
-      },
-      {
-        "w": "admove",
-        "p": "/admove/",
-        "pos": "n",
-        "m": "admove",
-        "ex": [
-          {
-            "e": "Study admove.",
-            "c": "学习admove。"
-          }
-        ]
-      },
-      {
-        "w": "admrx",
-        "p": "/admrx/",
-        "pos": "n",
-        "m": "admrx",
-        "ex": [
-          {
-            "e": "Study admrx.",
-            "c": "学习admrx。"
-          }
-        ]
-      },
-      {
-        "w": "adnascence",
-        "p": "/adnascence/",
-        "pos": "n",
-        "m": "adnascence",
-        "ex": [
-          {
-            "e": "Study adnascence.",
-            "c": "学习adnascence。"
           }
         ]
       },
@@ -14226,30 +28754,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adnate",
-        "p": "/adnate/",
-        "pos": "n",
-        "m": "adnate",
-        "ex": [
-          {
-            "e": "Study adnate.",
-            "c": "学习adnate。"
-          }
-        ]
-      },
-      {
-        "w": "adnation",
-        "p": "/adnation/",
-        "pos": "n",
-        "m": "adnation",
-        "ex": [
-          {
-            "e": "Study adnation.",
-            "c": "学习adnation。"
-          }
-        ]
-      },
-      {
         "w": "adnations",
         "p": "/adnations/",
         "pos": "n",
@@ -14260,31 +28764,15 @@ export const toeflVocabulary = [
             "c": "学习adnations。"
           }
         ]
-      },
-      {
-        "w": "adnephrine",
-        "p": "/adnephrine/",
-        "pos": "n",
-        "m": "adnephrine",
-        "ex": [
-          {
-            "e": "Study adnephrine.",
-            "c": "学习adnephrine。"
-          }
-        ]
-      },
-      {
-        "w": "adnerval",
-        "p": "/adnerval/",
-        "pos": "n",
-        "m": "adnerval",
-        "ex": [
-          {
-            "e": "Study adnerval.",
-            "c": "学习adnerval。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 117,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adnescent",
         "p": "/adnescent/",
@@ -14294,42 +28782,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adnescent.",
             "c": "学习adnescent。"
-          }
-        ]
-      },
-      {
-        "w": "adneural",
-        "p": "/adneural/",
-        "pos": "n",
-        "m": "adneural",
-        "ex": [
-          {
-            "e": "Study adneural.",
-            "c": "学习adneural。"
-          }
-        ]
-      },
-      {
-        "w": "adnex",
-        "p": "/adnex/",
-        "pos": "n",
-        "m": "adnex",
-        "ex": [
-          {
-            "e": "Study adnex.",
-            "c": "学习adnex。"
-          }
-        ]
-      },
-      {
-        "w": "adnexa",
-        "p": "/adnexa/",
-        "pos": "n",
-        "m": "adnexa",
-        "ex": [
-          {
-            "e": "Study adnexa.",
-            "c": "学习adnexa。"
           }
         ]
       },
@@ -14370,26 +28822,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adnexopexy",
-        "p": "/adnexopexy/",
-        "pos": "n",
-        "m": "adnexopexy",
-        "ex": [
-          {
-            "e": "Study adnexopexy.",
-            "c": "学习adnexopexy。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 59,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
         "w": "adnominal",
         "p": "/adnominal/",
         "pos": "n",
@@ -14426,18 +28858,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adnoun",
-        "p": "/adnoun/",
-        "pos": "n",
-        "m": "adnoun",
-        "ex": [
-          {
-            "e": "Study adnoun.",
-            "c": "学习adnoun。"
-          }
-        ]
-      },
-      {
         "w": "adnouns",
         "p": "/adnouns/",
         "pos": "n",
@@ -14446,102 +28866,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adnouns.",
             "c": "学习adnouns。"
-          }
-        ]
-      },
-      {
-        "w": "adnumber",
-        "p": "/adnumber/",
-        "pos": "n",
-        "m": "adnumber",
-        "ex": [
-          {
-            "e": "Study adnumber.",
-            "c": "学习adnumber。"
-          }
-        ]
-      },
-      {
-        "w": "ado",
-        "p": "/ado/",
-        "pos": "n",
-        "m": "ado",
-        "ex": [
-          {
-            "e": "Study ado.",
-            "c": "学习ado。"
-          }
-        ]
-      },
-      {
-        "w": "adobe",
-        "p": "/adobe/",
-        "pos": "n",
-        "m": "adobe",
-        "ex": [
-          {
-            "e": "Study adobe.",
-            "c": "学习adobe。"
-          }
-        ]
-      },
-      {
-        "w": "adobes",
-        "p": "/adobes/",
-        "pos": "n",
-        "m": "adobes",
-        "ex": [
-          {
-            "e": "Study adobes.",
-            "c": "学习adobes。"
-          }
-        ]
-      },
-      {
-        "w": "adobo",
-        "p": "/adobo/",
-        "pos": "n",
-        "m": "adobo",
-        "ex": [
-          {
-            "e": "Study adobo.",
-            "c": "学习adobo。"
-          }
-        ]
-      },
-      {
-        "w": "adobos",
-        "p": "/adobos/",
-        "pos": "n",
-        "m": "adobos",
-        "ex": [
-          {
-            "e": "Study adobos.",
-            "c": "学习adobos。"
-          }
-        ]
-      },
-      {
-        "w": "adod",
-        "p": "/adod/",
-        "pos": "n",
-        "m": "adod",
-        "ex": [
-          {
-            "e": "Study adod.",
-            "c": "学习adod。"
-          }
-        ]
-      },
-      {
-        "w": "adolesce",
-        "p": "/adolesce/",
-        "pos": "n",
-        "m": "adolesce",
-        "ex": [
-          {
-            "e": "Study adolesce.",
-            "c": "学习adolesce。"
           }
         ]
       },
@@ -14582,18 +28906,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adolescent",
-        "p": "/adolescent/",
-        "pos": "n",
-        "m": "adolescent",
-        "ex": [
-          {
-            "e": "Study adolescent.",
-            "c": "学习adolescent。"
-          }
-        ]
-      },
-      {
         "w": "adolescently",
         "p": "/adolescently/",
         "pos": "n",
@@ -14618,86 +28930,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adolescing",
-        "p": "/adolescing/",
-        "pos": "n",
-        "m": "adolescing",
-        "ex": [
-          {
-            "e": "Study adolescing.",
-            "c": "学习adolescing。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 60,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adolf",
-        "p": "/adolf/",
-        "pos": "n",
-        "m": "adolf",
-        "ex": [
-          {
-            "e": "Study adolf.",
-            "c": "学习adolf。"
-          }
-        ]
-      },
-      {
-        "w": "adolph",
-        "p": "/adolph/",
-        "pos": "n",
-        "m": "adolph",
-        "ex": [
-          {
-            "e": "Study adolph.",
-            "c": "学习adolph。"
-          }
-        ]
-      },
-      {
-        "w": "adolphus",
-        "p": "/adolphus/",
-        "pos": "n",
-        "m": "adolphus",
-        "ex": [
-          {
-            "e": "Study adolphus.",
-            "c": "学习adolphus。"
-          }
-        ]
-      },
-      {
-        "w": "adon",
-        "p": "/adon/",
-        "pos": "n",
-        "m": "adon",
-        "ex": [
-          {
-            "e": "Study adon.",
-            "c": "学习adon。"
-          }
-        ]
-      },
-      {
-        "w": "adonai",
-        "p": "/adonai/",
-        "pos": "n",
-        "m": "adonai",
-        "ex": [
-          {
-            "e": "Study adonai.",
-            "c": "学习adonai。"
-          }
-        ]
-      },
-      {
         "w": "adonean",
         "p": "/adonean/",
         "pos": "n",
@@ -14706,18 +28938,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adonean.",
             "c": "学习adonean。"
-          }
-        ]
-      },
-      {
-        "w": "adonia",
-        "p": "/adonia/",
-        "pos": "n",
-        "m": "adonia",
-        "ex": [
-          {
-            "e": "Study adonia.",
-            "c": "学习adonia。"
           }
         ]
       },
@@ -14746,78 +28966,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adonic",
-        "p": "/adonic/",
-        "pos": "n",
-        "m": "adonic",
-        "ex": [
-          {
-            "e": "Study adonic.",
-            "c": "学习adonic。"
-          }
-        ]
-      },
-      {
-        "w": "adonidin",
-        "p": "/adonidin/",
-        "pos": "n",
-        "m": "adonidin",
-        "ex": [
-          {
-            "e": "Study adonidin.",
-            "c": "学习adonidin。"
-          }
-        ]
-      },
-      {
-        "w": "adonin",
-        "p": "/adonin/",
-        "pos": "n",
-        "m": "adonin",
-        "ex": [
-          {
-            "e": "Study adonin.",
-            "c": "学习adonin。"
-          }
-        ]
-      },
-      {
-        "w": "adoniram",
-        "p": "/adoniram/",
-        "pos": "n",
-        "m": "adoniram",
-        "ex": [
-          {
-            "e": "Study adoniram.",
-            "c": "学习adoniram。"
-          }
-        ]
-      },
-      {
-        "w": "adonis",
-        "p": "/adonis/",
-        "pos": "n",
-        "m": "adonis",
-        "ex": [
-          {
-            "e": "Study adonis.",
-            "c": "学习adonis。"
-          }
-        ]
-      },
-      {
-        "w": "adonises",
-        "p": "/adonises/",
-        "pos": "n",
-        "m": "adonises",
-        "ex": [
-          {
-            "e": "Study adonises.",
-            "c": "学习adonises。"
-          }
-        ]
-      },
-      {
         "w": "adonist",
         "p": "/adonist/",
         "pos": "n",
@@ -14842,18 +28990,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adonitol",
-        "p": "/adonitol/",
-        "pos": "n",
-        "m": "adonitol",
-        "ex": [
-          {
-            "e": "Study adonitol.",
-            "c": "学习adonitol。"
-          }
-        ]
-      },
-      {
         "w": "adonize",
         "p": "/adonize/",
         "pos": "n",
@@ -14866,26 +29002,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adonized",
-        "p": "/adonized/",
-        "pos": "n",
-        "m": "adonized",
-        "ex": [
-          {
-            "e": "Study adonized.",
-            "c": "学习adonized。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 61,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
         "w": "adonizing",
         "p": "/adonizing/",
         "pos": "n",
@@ -14896,19 +29012,15 @@ export const toeflVocabulary = [
             "c": "学习adonizing。"
           }
         ]
-      },
-      {
-        "w": "adoors",
-        "p": "/adoors/",
-        "pos": "n",
-        "m": "adoors",
-        "ex": [
-          {
-            "e": "Study adoors.",
-            "c": "学习adoors。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 118,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adoperate",
         "p": "/adoperate/",
@@ -14930,18 +29042,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adoperation.",
             "c": "学习adoperation。"
-          }
-        ]
-      },
-      {
-        "w": "adopt",
-        "p": "/adopt/",
-        "pos": "n",
-        "m": "adopt",
-        "ex": [
-          {
-            "e": "Study adopt.",
-            "c": "学习adopt。"
           }
         ]
       },
@@ -14982,30 +29082,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adoptant",
-        "p": "/adoptant/",
-        "pos": "n",
-        "m": "adoptant",
-        "ex": [
-          {
-            "e": "Study adoptant.",
-            "c": "学习adoptant。"
-          }
-        ]
-      },
-      {
-        "w": "adoptative",
-        "p": "/adoptative/",
-        "pos": "n",
-        "m": "adoptative",
-        "ex": [
-          {
-            "e": "Study adoptative.",
-            "c": "学习adoptative。"
-          }
-        ]
-      },
-      {
         "w": "adopted",
         "p": "/adopted/",
         "pos": "n",
@@ -15042,18 +29118,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adoptees",
-        "p": "/adoptees/",
-        "pos": "n",
-        "m": "adoptees",
-        "ex": [
-          {
-            "e": "Study adoptees.",
-            "c": "学习adoptees。"
-          }
-        ]
-      },
-      {
         "w": "adopter",
         "p": "/adopter/",
         "pos": "n",
@@ -15062,30 +29126,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adopter.",
             "c": "学习adopter。"
-          }
-        ]
-      },
-      {
-        "w": "adopters",
-        "p": "/adopters/",
-        "pos": "n",
-        "m": "adopters",
-        "ex": [
-          {
-            "e": "Study adopters.",
-            "c": "学习adopters。"
-          }
-        ]
-      },
-      {
-        "w": "adoptian",
-        "p": "/adoptian/",
-        "pos": "n",
-        "m": "adoptian",
-        "ex": [
-          {
-            "e": "Study adoptian.",
-            "c": "学习adoptian。"
           }
         ]
       },
@@ -15110,50 +29150,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adoptianist.",
             "c": "学习adoptianist。"
-          }
-        ]
-      },
-      {
-        "w": "adopting",
-        "p": "/adopting/",
-        "pos": "n",
-        "m": "adopting",
-        "ex": [
-          {
-            "e": "Study adopting.",
-            "c": "学习adopting。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 62,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adoption",
-        "p": "/adoption/",
-        "pos": "n",
-        "m": "adoption",
-        "ex": [
-          {
-            "e": "Study adoption.",
-            "c": "学习adoption。"
-          }
-        ]
-      },
-      {
-        "w": "adoptional",
-        "p": "/adoptional/",
-        "pos": "n",
-        "m": "adoptional",
-        "ex": [
-          {
-            "e": "Study adoptional.",
-            "c": "学习adoptional。"
           }
         ]
       },
@@ -15206,54 +29202,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adoptive",
-        "p": "/adoptive/",
-        "pos": "n",
-        "m": "adoptive",
-        "ex": [
-          {
-            "e": "Study adoptive.",
-            "c": "学习adoptive。"
-          }
-        ]
-      },
-      {
-        "w": "adoptively",
-        "p": "/adoptively/",
-        "pos": "n",
-        "m": "adoptively",
-        "ex": [
-          {
-            "e": "Study adoptively.",
-            "c": "学习adoptively。"
-          }
-        ]
-      },
-      {
-        "w": "adopts",
-        "p": "/adopts/",
-        "pos": "n",
-        "m": "adopts",
-        "ex": [
-          {
-            "e": "Study adopts.",
-            "c": "学习adopts。"
-          }
-        ]
-      },
-      {
-        "w": "ador",
-        "p": "/ador/",
-        "pos": "n",
-        "m": "ador",
-        "ex": [
-          {
-            "e": "Study ador.",
-            "c": "学习ador。"
-          }
-        ]
-      },
-      {
         "w": "adorability",
         "p": "/adorability/",
         "pos": "n",
@@ -15266,18 +29214,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adorable",
-        "p": "/adorable/",
-        "pos": "n",
-        "m": "adorable",
-        "ex": [
-          {
-            "e": "Study adorable.",
-            "c": "学习adorable。"
-          }
-        ]
-      },
-      {
         "w": "adorableness",
         "p": "/adorableness/",
         "pos": "n",
@@ -15286,42 +29222,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adorableness.",
             "c": "学习adorableness。"
-          }
-        ]
-      },
-      {
-        "w": "adorably",
-        "p": "/adorably/",
-        "pos": "n",
-        "m": "adorably",
-        "ex": [
-          {
-            "e": "Study adorably.",
-            "c": "学习adorably。"
-          }
-        ]
-      },
-      {
-        "w": "adoral",
-        "p": "/adoral/",
-        "pos": "n",
-        "m": "adoral",
-        "ex": [
-          {
-            "e": "Study adoral.",
-            "c": "学习adoral。"
-          }
-        ]
-      },
-      {
-        "w": "adorally",
-        "p": "/adorally/",
-        "pos": "n",
-        "m": "adorally",
-        "ex": [
-          {
-            "e": "Study adorally.",
-            "c": "学习adorally。"
           }
         ]
       },
@@ -15360,7 +29260,15 @@ export const toeflVocabulary = [
             "c": "学习adoration。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 119,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adoratory",
         "p": "/adoratory/",
@@ -15370,50 +29278,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adoratory.",
             "c": "学习adoratory。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 63,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adore",
-        "p": "/adore/",
-        "pos": "n",
-        "m": "adore",
-        "ex": [
-          {
-            "e": "Study adore.",
-            "c": "学习adore。"
-          }
-        ]
-      },
-      {
-        "w": "adored",
-        "p": "/adored/",
-        "pos": "n",
-        "m": "adored",
-        "ex": [
-          {
-            "e": "Study adored.",
-            "c": "学习adored。"
-          }
-        ]
-      },
-      {
-        "w": "adorer",
-        "p": "/adorer/",
-        "pos": "n",
-        "m": "adorer",
-        "ex": [
-          {
-            "e": "Study adorer.",
-            "c": "学习adorer。"
           }
         ]
       },
@@ -15426,30 +29290,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adorers.",
             "c": "学习adorers。"
-          }
-        ]
-      },
-      {
-        "w": "adores",
-        "p": "/adores/",
-        "pos": "n",
-        "m": "adores",
-        "ex": [
-          {
-            "e": "Study adores.",
-            "c": "学习adores。"
-          }
-        ]
-      },
-      {
-        "w": "adoretus",
-        "p": "/adoretus/",
-        "pos": "n",
-        "m": "adoretus",
-        "ex": [
-          {
-            "e": "Study adoretus.",
-            "c": "学习adoretus。"
           }
         ]
       },
@@ -15478,30 +29318,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adorn",
-        "p": "/adorn/",
-        "pos": "n",
-        "m": "adorn",
-        "ex": [
-          {
-            "e": "Study adorn.",
-            "c": "学习adorn。"
-          }
-        ]
-      },
-      {
-        "w": "adornation",
-        "p": "/adornation/",
-        "pos": "n",
-        "m": "adornation",
-        "ex": [
-          {
-            "e": "Study adornation.",
-            "c": "学习adornation。"
-          }
-        ]
-      },
-      {
         "w": "adorned",
         "p": "/adorned/",
         "pos": "n",
@@ -15526,42 +29342,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adorners",
-        "p": "/adorners/",
-        "pos": "n",
-        "m": "adorners",
-        "ex": [
-          {
-            "e": "Study adorners.",
-            "c": "学习adorners。"
-          }
-        ]
-      },
-      {
-        "w": "adorning",
-        "p": "/adorning/",
-        "pos": "n",
-        "m": "adorning",
-        "ex": [
-          {
-            "e": "Study adorning.",
-            "c": "学习adorning。"
-          }
-        ]
-      },
-      {
-        "w": "adorningly",
-        "p": "/adorningly/",
-        "pos": "n",
-        "m": "adorningly",
-        "ex": [
-          {
-            "e": "Study adorningly.",
-            "c": "学习adorningly。"
-          }
-        ]
-      },
-      {
         "w": "adornment",
         "p": "/adornment/",
         "pos": "n",
@@ -15570,30 +29350,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adornment.",
             "c": "学习adornment。"
-          }
-        ]
-      },
-      {
-        "w": "adornments",
-        "p": "/adornments/",
-        "pos": "n",
-        "m": "adornments",
-        "ex": [
-          {
-            "e": "Study adornments.",
-            "c": "学习adornments。"
-          }
-        ]
-      },
-      {
-        "w": "adorno",
-        "p": "/adorno/",
-        "pos": "n",
-        "m": "adorno",
-        "ex": [
-          {
-            "e": "Study adorno.",
-            "c": "学习adorno。"
           }
         ]
       },
@@ -15610,26 +29366,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adorns",
-        "p": "/adorns/",
-        "pos": "n",
-        "m": "adorns",
-        "ex": [
-          {
-            "e": "Study adorns.",
-            "c": "学习adorns。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 64,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
         "w": "adorsed",
         "p": "/adorsed/",
         "pos": "n",
@@ -15638,18 +29374,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adorsed.",
             "c": "学习adorsed。"
-          }
-        ]
-      },
-      {
-        "w": "ados",
-        "p": "/ados/",
-        "pos": "n",
-        "m": "ados",
-        "ex": [
-          {
-            "e": "Study ados.",
-            "c": "学习ados。"
           }
         ]
       },
@@ -15702,30 +29426,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adown",
-        "p": "/adown/",
-        "pos": "n",
-        "m": "adown",
-        "ex": [
-          {
-            "e": "Study adown.",
-            "c": "学习adown。"
-          }
-        ]
-      },
-      {
-        "w": "adoxa",
-        "p": "/adoxa/",
-        "pos": "n",
-        "m": "adoxa",
-        "ex": [
-          {
-            "e": "Study adoxa.",
-            "c": "学习adoxa。"
-          }
-        ]
-      },
-      {
         "w": "adoxaceae",
         "p": "/adoxaceae/",
         "pos": "n",
@@ -15734,18 +29434,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adoxaceae.",
             "c": "学习adoxaceae。"
-          }
-        ]
-      },
-      {
-        "w": "adoxaceous",
-        "p": "/adoxaceous/",
-        "pos": "n",
-        "m": "adoxaceous",
-        "ex": [
-          {
-            "e": "Study adoxaceous.",
-            "c": "学习adoxaceous。"
           }
         ]
       },
@@ -15770,66 +29458,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adoxography.",
             "c": "学习adoxography。"
-          }
-        ]
-      },
-      {
-        "w": "adoxy",
-        "p": "/adoxy/",
-        "pos": "n",
-        "m": "adoxy",
-        "ex": [
-          {
-            "e": "Study adoxy.",
-            "c": "学习adoxy。"
-          }
-        ]
-      },
-      {
-        "w": "adoze",
-        "p": "/adoze/",
-        "pos": "n",
-        "m": "adoze",
-        "ex": [
-          {
-            "e": "Study adoze.",
-            "c": "学习adoze。"
-          }
-        ]
-      },
-      {
-        "w": "adp",
-        "p": "/adp/",
-        "pos": "n",
-        "m": "adp",
-        "ex": [
-          {
-            "e": "Study adp.",
-            "c": "学习adp。"
-          }
-        ]
-      },
-      {
-        "w": "adpao",
-        "p": "/adpao/",
-        "pos": "n",
-        "m": "adpao",
-        "ex": [
-          {
-            "e": "Study adpao.",
-            "c": "学习adpao。"
-          }
-        ]
-      },
-      {
-        "w": "adposition",
-        "p": "/adposition/",
-        "pos": "n",
-        "m": "adposition",
-        "ex": [
-          {
-            "e": "Study adposition.",
-            "c": "学习adposition。"
           }
         ]
       },
@@ -15868,74 +29496,6 @@ export const toeflVocabulary = [
             "c": "学习adpromissor。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 65,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adrad",
-        "p": "/adrad/",
-        "pos": "n",
-        "m": "adrad",
-        "ex": [
-          {
-            "e": "Study adrad.",
-            "c": "学习adrad。"
-          }
-        ]
-      },
-      {
-        "w": "adradial",
-        "p": "/adradial/",
-        "pos": "n",
-        "m": "adradial",
-        "ex": [
-          {
-            "e": "Study adradial.",
-            "c": "学习adradial。"
-          }
-        ]
-      },
-      {
-        "w": "adradially",
-        "p": "/adradially/",
-        "pos": "n",
-        "m": "adradially",
-        "ex": [
-          {
-            "e": "Study adradially.",
-            "c": "学习adradially。"
-          }
-        ]
-      },
-      {
-        "w": "adradius",
-        "p": "/adradius/",
-        "pos": "n",
-        "m": "adradius",
-        "ex": [
-          {
-            "e": "Study adradius.",
-            "c": "学习adradius。"
-          }
-        ]
-      },
-      {
-        "w": "adramelech",
-        "p": "/adramelech/",
-        "pos": "n",
-        "m": "adramelech",
-        "ex": [
-          {
-            "e": "Study adramelech.",
-            "c": "学习adramelech。"
-          }
-        ]
       },
       {
         "w": "adrammelech",
@@ -15948,43 +29508,15 @@ export const toeflVocabulary = [
             "c": "学习adrammelech。"
           }
         ]
-      },
-      {
-        "w": "adread",
-        "p": "/adread/",
-        "pos": "n",
-        "m": "adread",
-        "ex": [
-          {
-            "e": "Study adread.",
-            "c": "学习adread。"
-          }
-        ]
-      },
-      {
-        "w": "adream",
-        "p": "/adream/",
-        "pos": "n",
-        "m": "adream",
-        "ex": [
-          {
-            "e": "Study adream.",
-            "c": "学习adream。"
-          }
-        ]
-      },
-      {
-        "w": "adreamed",
-        "p": "/adreamed/",
-        "pos": "n",
-        "m": "adreamed",
-        "ex": [
-          {
-            "e": "Study adreamed.",
-            "c": "学习adreamed。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 120,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adreamt",
         "p": "/adreamt/",
@@ -15994,18 +29526,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adreamt.",
             "c": "学习adreamt。"
-          }
-        ]
-      },
-      {
-        "w": "adrectal",
-        "p": "/adrectal/",
-        "pos": "n",
-        "m": "adrectal",
-        "ex": [
-          {
-            "e": "Study adrectal.",
-            "c": "学习adrectal。"
           }
         ]
       },
@@ -16082,30 +29602,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adrenaline",
-        "p": "/adrenaline/",
-        "pos": "n",
-        "m": "adrenaline",
-        "ex": [
-          {
-            "e": "Study adrenaline.",
-            "c": "学习adrenaline。"
-          }
-        ]
-      },
-      {
-        "w": "adrenalize",
-        "p": "/adrenalize/",
-        "pos": "n",
-        "m": "adrenalize",
-        "ex": [
-          {
-            "e": "Study adrenalize.",
-            "c": "学习adrenalize。"
-          }
-        ]
-      },
-      {
         "w": "adrenally",
         "p": "/adrenally/",
         "pos": "n",
@@ -16114,38 +29610,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adrenally.",
             "c": "学习adrenally。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 66,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adrenalone",
-        "p": "/adrenalone/",
-        "pos": "n",
-        "m": "adrenalone",
-        "ex": [
-          {
-            "e": "Study adrenalone.",
-            "c": "学习adrenalone。"
-          }
-        ]
-      },
-      {
-        "w": "adrenals",
-        "p": "/adrenals/",
-        "pos": "n",
-        "m": "adrenals",
-        "ex": [
-          {
-            "e": "Study adrenals.",
-            "c": "学习adrenals。"
           }
         ]
       },
@@ -16162,18 +29626,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adrenergic",
-        "p": "/adrenergic/",
-        "pos": "n",
-        "m": "adrenergic",
-        "ex": [
-          {
-            "e": "Study adrenergic.",
-            "c": "学习adrenergic。"
-          }
-        ]
-      },
-      {
         "w": "adrenin",
         "p": "/adrenin/",
         "pos": "n",
@@ -16186,18 +29638,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adrenine",
-        "p": "/adrenine/",
-        "pos": "n",
-        "m": "adrenine",
-        "ex": [
-          {
-            "e": "Study adrenine.",
-            "c": "学习adrenine。"
-          }
-        ]
-      },
-      {
         "w": "adrenitis",
         "p": "/adrenitis/",
         "pos": "n",
@@ -16206,18 +29646,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adrenitis.",
             "c": "学习adrenitis。"
-          }
-        ]
-      },
-      {
-        "w": "adreno",
-        "p": "/adreno/",
-        "pos": "n",
-        "m": "adreno",
-        "ex": [
-          {
-            "e": "Study adreno.",
-            "c": "学习adreno。"
           }
         ]
       },
@@ -16318,42 +29746,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adrent",
-        "p": "/adrent/",
-        "pos": "n",
-        "m": "adrent",
-        "ex": [
-          {
-            "e": "Study adrent.",
-            "c": "学习adrent。"
-          }
-        ]
-      },
-      {
-        "w": "adret",
-        "p": "/adret/",
-        "pos": "n",
-        "m": "adret",
-        "ex": [
-          {
-            "e": "Study adret.",
-            "c": "学习adret。"
-          }
-        ]
-      },
-      {
-        "w": "adrian",
-        "p": "/adrian/",
-        "pos": "n",
-        "m": "adrian",
-        "ex": [
-          {
-            "e": "Study adrian.",
-            "c": "学习adrian。"
-          }
-        ]
-      },
-      {
         "w": "adriana",
         "p": "/adriana/",
         "pos": "n",
@@ -16368,95 +29760,11 @@ export const toeflVocabulary = [
     ]
   },
   {
-    "day": 67,
+    "day": 121,
     "theme": "Vocabulary",
     "stage": 1,
-    "cefr": "TOEFL",
+    "cefr": "X",
     "words": [
-      {
-        "w": "adriatic",
-        "p": "/adriatic/",
-        "pos": "n",
-        "m": "adriatic",
-        "ex": [
-          {
-            "e": "Study adriatic.",
-            "c": "学习adriatic。"
-          }
-        ]
-      },
-      {
-        "w": "adrienne",
-        "p": "/adrienne/",
-        "pos": "n",
-        "m": "adrienne",
-        "ex": [
-          {
-            "e": "Study adrienne.",
-            "c": "学习adrienne。"
-          }
-        ]
-      },
-      {
-        "w": "adrift",
-        "p": "/adrift/",
-        "pos": "n",
-        "m": "adrift",
-        "ex": [
-          {
-            "e": "Study adrift.",
-            "c": "学习adrift。"
-          }
-        ]
-      },
-      {
-        "w": "adrip",
-        "p": "/adrip/",
-        "pos": "n",
-        "m": "adrip",
-        "ex": [
-          {
-            "e": "Study adrip.",
-            "c": "学习adrip。"
-          }
-        ]
-      },
-      {
-        "w": "adrogate",
-        "p": "/adrogate/",
-        "pos": "n",
-        "m": "adrogate",
-        "ex": [
-          {
-            "e": "Study adrogate.",
-            "c": "学习adrogate。"
-          }
-        ]
-      },
-      {
-        "w": "adroit",
-        "p": "/adroit/",
-        "pos": "n",
-        "m": "adroit",
-        "ex": [
-          {
-            "e": "Study adroit.",
-            "c": "学习adroit。"
-          }
-        ]
-      },
-      {
-        "w": "adroiter",
-        "p": "/adroiter/",
-        "pos": "n",
-        "m": "adroiter",
-        "ex": [
-          {
-            "e": "Study adroiter.",
-            "c": "学习adroiter。"
-          }
-        ]
-      },
       {
         "w": "adroitest",
         "p": "/adroitest/",
@@ -16466,66 +29774,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adroitest.",
             "c": "学习adroitest。"
-          }
-        ]
-      },
-      {
-        "w": "adroitly",
-        "p": "/adroitly/",
-        "pos": "n",
-        "m": "adroitly",
-        "ex": [
-          {
-            "e": "Study adroitly.",
-            "c": "学习adroitly。"
-          }
-        ]
-      },
-      {
-        "w": "adroitness",
-        "p": "/adroitness/",
-        "pos": "n",
-        "m": "adroitness",
-        "ex": [
-          {
-            "e": "Study adroitness.",
-            "c": "学习adroitness。"
-          }
-        ]
-      },
-      {
-        "w": "adroop",
-        "p": "/adroop/",
-        "pos": "n",
-        "m": "adroop",
-        "ex": [
-          {
-            "e": "Study adroop.",
-            "c": "学习adroop。"
-          }
-        ]
-      },
-      {
-        "w": "adrop",
-        "p": "/adrop/",
-        "pos": "n",
-        "m": "adrop",
-        "ex": [
-          {
-            "e": "Study adrop.",
-            "c": "学习adrop。"
-          }
-        ]
-      },
-      {
-        "w": "adrostal",
-        "p": "/adrostal/",
-        "pos": "n",
-        "m": "adrostal",
-        "ex": [
-          {
-            "e": "Study adrostal.",
-            "c": "学习adrostal。"
           }
         ]
       },
@@ -16554,74 +29802,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adrue",
-        "p": "/adrue/",
-        "pos": "n",
-        "m": "adrue",
-        "ex": [
-          {
-            "e": "Study adrue.",
-            "c": "学习adrue。"
-          }
-        ]
-      },
-      {
-        "w": "adry",
-        "p": "/adry/",
-        "pos": "n",
-        "m": "adry",
-        "ex": [
-          {
-            "e": "Study adry.",
-            "c": "学习adry。"
-          }
-        ]
-      },
-      {
-        "w": "ads",
-        "p": "/ads/",
-        "pos": "n",
-        "m": "ads",
-        "ex": [
-          {
-            "e": "Study ads.",
-            "c": "学习ads。"
-          }
-        ]
-      },
-      {
-        "w": "adsbud",
-        "p": "/adsbud/",
-        "pos": "n",
-        "m": "adsbud",
-        "ex": [
-          {
-            "e": "Study adsbud.",
-            "c": "学习adsbud。"
-          }
-        ]
-      },
-      {
-        "w": "adscendent",
-        "p": "/adscendent/",
-        "pos": "n",
-        "m": "adscendent",
-        "ex": [
-          {
-            "e": "Study adscendent.",
-            "c": "学习adscendent。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 68,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
         "w": "adscititious",
         "p": "/adscititious/",
         "pos": "n",
@@ -16642,30 +29822,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adscititiously.",
             "c": "学习adscititiously。"
-          }
-        ]
-      },
-      {
-        "w": "adscript",
-        "p": "/adscript/",
-        "pos": "n",
-        "m": "adscript",
-        "ex": [
-          {
-            "e": "Study adscript.",
-            "c": "学习adscript。"
-          }
-        ]
-      },
-      {
-        "w": "adscripted",
-        "p": "/adscripted/",
-        "pos": "n",
-        "m": "adscripted",
-        "ex": [
-          {
-            "e": "Study adscripted.",
-            "c": "学习adscripted。"
           }
         ]
       },
@@ -16730,30 +29886,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adsessor",
-        "p": "/adsessor/",
-        "pos": "n",
-        "m": "adsessor",
-        "ex": [
-          {
-            "e": "Study adsessor.",
-            "c": "学习adsessor。"
-          }
-        ]
-      },
-      {
-        "w": "adsheart",
-        "p": "/adsheart/",
-        "pos": "n",
-        "m": "adsheart",
-        "ex": [
-          {
-            "e": "Study adsheart.",
-            "c": "学习adsheart。"
-          }
-        ]
-      },
-      {
         "w": "adsignification",
         "p": "/adsignification/",
         "pos": "n",
@@ -16790,30 +29922,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adsmithing",
-        "p": "/adsmithing/",
-        "pos": "n",
-        "m": "adsmithing",
-        "ex": [
-          {
-            "e": "Study adsmithing.",
-            "c": "学习adsmithing。"
-          }
-        ]
-      },
-      {
-        "w": "adsorb",
-        "p": "/adsorb/",
-        "pos": "n",
-        "m": "adsorb",
-        "ex": [
-          {
-            "e": "Study adsorb.",
-            "c": "学习adsorb。"
-          }
-        ]
-      },
-      {
         "w": "adsorbability",
         "p": "/adsorbability/",
         "pos": "n",
@@ -16822,18 +29930,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adsorbability.",
             "c": "学习adsorbability。"
-          }
-        ]
-      },
-      {
-        "w": "adsorbable",
-        "p": "/adsorbable/",
-        "pos": "n",
-        "m": "adsorbable",
-        "ex": [
-          {
-            "e": "Study adsorbable.",
-            "c": "学习adsorbable。"
           }
         ]
       },
@@ -16850,38 +29946,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adsorbates",
-        "p": "/adsorbates/",
-        "pos": "n",
-        "m": "adsorbates",
-        "ex": [
-          {
-            "e": "Study adsorbates.",
-            "c": "学习adsorbates。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 69,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adsorbed",
-        "p": "/adsorbed/",
-        "pos": "n",
-        "m": "adsorbed",
-        "ex": [
-          {
-            "e": "Study adsorbed.",
-            "c": "学习adsorbed。"
-          }
-        ]
-      },
-      {
         "w": "adsorbent",
         "p": "/adsorbent/",
         "pos": "n",
@@ -16890,18 +29954,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adsorbent.",
             "c": "学习adsorbent。"
-          }
-        ]
-      },
-      {
-        "w": "adsorbents",
-        "p": "/adsorbents/",
-        "pos": "n",
-        "m": "adsorbents",
-        "ex": [
-          {
-            "e": "Study adsorbents.",
-            "c": "学习adsorbents。"
           }
         ]
       },
@@ -16930,30 +29982,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adsorption",
-        "p": "/adsorption/",
-        "pos": "n",
-        "m": "adsorption",
-        "ex": [
-          {
-            "e": "Study adsorption.",
-            "c": "学习adsorption。"
-          }
-        ]
-      },
-      {
-        "w": "adsorptive",
-        "p": "/adsorptive/",
-        "pos": "n",
-        "m": "adsorptive",
-        "ex": [
-          {
-            "e": "Study adsorptive.",
-            "c": "学习adsorptive。"
-          }
-        ]
-      },
-      {
         "w": "adsorptively",
         "p": "/adsorptively/",
         "pos": "n",
@@ -16976,7 +30004,15 @@ export const toeflVocabulary = [
             "c": "学习adsorptiveness。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 122,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adspiration",
         "p": "/adspiration/",
@@ -17050,18 +30086,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adstrict",
-        "p": "/adstrict/",
-        "pos": "n",
-        "m": "adstrict",
-        "ex": [
-          {
-            "e": "Study adstrict.",
-            "c": "学习adstrict。"
-          }
-        ]
-      },
-      {
         "w": "adstringe",
         "p": "/adstringe/",
         "pos": "n",
@@ -17074,30 +30098,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adsum",
-        "p": "/adsum/",
-        "pos": "n",
-        "m": "adsum",
-        "ex": [
-          {
-            "e": "Study adsum.",
-            "c": "学习adsum。"
-          }
-        ]
-      },
-      {
-        "w": "adterminal",
-        "p": "/adterminal/",
-        "pos": "n",
-        "m": "adterminal",
-        "ex": [
-          {
-            "e": "Study adterminal.",
-            "c": "学习adterminal。"
-          }
-        ]
-      },
-      {
         "w": "adtevac",
         "p": "/adtevac/",
         "pos": "n",
@@ -17106,38 +30106,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adtevac.",
             "c": "学习adtevac。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 70,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "aduana",
-        "p": "/aduana/",
-        "pos": "n",
-        "m": "aduana",
-        "ex": [
-          {
-            "e": "Study aduana.",
-            "c": "学习aduana。"
-          }
-        ]
-      },
-      {
-        "w": "adular",
-        "p": "/adular/",
-        "pos": "n",
-        "m": "adular",
-        "ex": [
-          {
-            "e": "Study adular.",
-            "c": "学习adular。"
           }
         ]
       },
@@ -17166,18 +30134,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adularia",
-        "p": "/adularia/",
-        "pos": "n",
-        "m": "adularia",
-        "ex": [
-          {
-            "e": "Study adularia.",
-            "c": "学习adularia。"
-          }
-        ]
-      },
-      {
         "w": "adularias",
         "p": "/adularias/",
         "pos": "n",
@@ -17198,30 +30154,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adulate.",
             "c": "学习adulate。"
-          }
-        ]
-      },
-      {
-        "w": "adulated",
-        "p": "/adulated/",
-        "pos": "n",
-        "m": "adulated",
-        "ex": [
-          {
-            "e": "Study adulated.",
-            "c": "学习adulated。"
-          }
-        ]
-      },
-      {
-        "w": "adulates",
-        "p": "/adulates/",
-        "pos": "n",
-        "m": "adulates",
-        "ex": [
-          {
-            "e": "Study adulates.",
-            "c": "学习adulates。"
           }
         ]
       },
@@ -17250,18 +30182,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adulator",
-        "p": "/adulator/",
-        "pos": "n",
-        "m": "adulator",
-        "ex": [
-          {
-            "e": "Study adulator.",
-            "c": "学习adulator。"
-          }
-        ]
-      },
-      {
         "w": "adulators",
         "p": "/adulators/",
         "pos": "n",
@@ -17286,30 +30206,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adulatress",
-        "p": "/adulatress/",
-        "pos": "n",
-        "m": "adulatress",
-        "ex": [
-          {
-            "e": "Study adulatress.",
-            "c": "学习adulatress。"
-          }
-        ]
-      },
-      {
-        "w": "adulce",
-        "p": "/adulce/",
-        "pos": "n",
-        "m": "adulce",
-        "ex": [
-          {
-            "e": "Study adulce.",
-            "c": "学习adulce。"
-          }
-        ]
-      },
-      {
         "w": "adullam",
         "p": "/adullam/",
         "pos": "n",
@@ -17322,30 +30218,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adullamite",
-        "p": "/adullamite/",
-        "pos": "n",
-        "m": "adullamite",
-        "ex": [
-          {
-            "e": "Study adullamite.",
-            "c": "学习adullamite。"
-          }
-        ]
-      },
-      {
-        "w": "adult",
-        "p": "/adult/",
-        "pos": "n",
-        "m": "adult",
-        "ex": [
-          {
-            "e": "Study adult.",
-            "c": "学习adult。"
-          }
-        ]
-      },
-      {
         "w": "adulter",
         "p": "/adulter/",
         "pos": "n",
@@ -17354,26 +30226,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adulter.",
             "c": "学习adulter。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 71,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adulterant",
-        "p": "/adulterant/",
-        "pos": "n",
-        "m": "adulterant",
-        "ex": [
-          {
-            "e": "Study adulterant.",
-            "c": "学习adulterant。"
           }
         ]
       },
@@ -17390,18 +30242,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adulterate",
-        "p": "/adulterate/",
-        "pos": "n",
-        "m": "adulterate",
-        "ex": [
-          {
-            "e": "Study adulterate.",
-            "c": "学习adulterate。"
-          }
-        ]
-      },
-      {
         "w": "adulterated",
         "p": "/adulterated/",
         "pos": "n",
@@ -17412,7 +30252,15 @@ export const toeflVocabulary = [
             "c": "学习adulterated。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 123,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adulterately",
         "p": "/adulterately/",
@@ -17510,30 +30358,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adulterers",
-        "p": "/adulterers/",
-        "pos": "n",
-        "m": "adulterers",
-        "ex": [
-          {
-            "e": "Study adulterers.",
-            "c": "学习adulterers。"
-          }
-        ]
-      },
-      {
-        "w": "adulteress",
-        "p": "/adulteress/",
-        "pos": "n",
-        "m": "adulteress",
-        "ex": [
-          {
-            "e": "Study adulteress.",
-            "c": "学习adulteress。"
-          }
-        ]
-      },
-      {
         "w": "adulteresses",
         "p": "/adulteresses/",
         "pos": "n",
@@ -17542,54 +30366,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adulteresses.",
             "c": "学习adulteresses。"
-          }
-        ]
-      },
-      {
-        "w": "adulteries",
-        "p": "/adulteries/",
-        "pos": "n",
-        "m": "adulteries",
-        "ex": [
-          {
-            "e": "Study adulteries.",
-            "c": "学习adulteries。"
-          }
-        ]
-      },
-      {
-        "w": "adulterine",
-        "p": "/adulterine/",
-        "pos": "n",
-        "m": "adulterine",
-        "ex": [
-          {
-            "e": "Study adulterine.",
-            "c": "学习adulterine。"
-          }
-        ]
-      },
-      {
-        "w": "adulterize",
-        "p": "/adulterize/",
-        "pos": "n",
-        "m": "adulterize",
-        "ex": [
-          {
-            "e": "Study adulterize.",
-            "c": "学习adulterize。"
-          }
-        ]
-      },
-      {
-        "w": "adulterous",
-        "p": "/adulterous/",
-        "pos": "n",
-        "m": "adulterous",
-        "ex": [
-          {
-            "e": "Study adulterous.",
-            "c": "学习adulterous。"
           }
         ]
       },
@@ -17604,15 +30380,7 @@ export const toeflVocabulary = [
             "c": "学习adulterously。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 72,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "adulterousness",
         "p": "/adulterousness/",
@@ -17622,18 +30390,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adulterousness.",
             "c": "学习adulterousness。"
-          }
-        ]
-      },
-      {
-        "w": "adultery",
-        "p": "/adultery/",
-        "pos": "n",
-        "m": "adultery",
-        "ex": [
-          {
-            "e": "Study adultery.",
-            "c": "学习adultery。"
           }
         ]
       },
@@ -17658,18 +30414,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adulticidal.",
             "c": "学习adulticidal。"
-          }
-        ]
-      },
-      {
-        "w": "adulticide",
-        "p": "/adulticide/",
-        "pos": "n",
-        "m": "adulticide",
-        "ex": [
-          {
-            "e": "Study adulticide.",
-            "c": "学习adulticide。"
           }
         ]
       },
@@ -17710,18 +30454,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adultoid",
-        "p": "/adultoid/",
-        "pos": "n",
-        "m": "adultoid",
-        "ex": [
-          {
-            "e": "Study adultoid.",
-            "c": "学习adultoid。"
-          }
-        ]
-      },
-      {
         "w": "adultress",
         "p": "/adultress/",
         "pos": "n",
@@ -17730,30 +30462,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adultress.",
             "c": "学习adultress。"
-          }
-        ]
-      },
-      {
-        "w": "adults",
-        "p": "/adults/",
-        "pos": "n",
-        "m": "adults",
-        "ex": [
-          {
-            "e": "Study adults.",
-            "c": "学习adults。"
-          }
-        ]
-      },
-      {
-        "w": "adumbral",
-        "p": "/adumbral/",
-        "pos": "n",
-        "m": "adumbral",
-        "ex": [
-          {
-            "e": "Study adumbral.",
-            "c": "学习adumbral。"
           }
         ]
       },
@@ -17782,30 +30490,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adumbrated",
-        "p": "/adumbrated/",
-        "pos": "n",
-        "m": "adumbrated",
-        "ex": [
-          {
-            "e": "Study adumbrated.",
-            "c": "学习adumbrated。"
-          }
-        ]
-      },
-      {
-        "w": "adumbrates",
-        "p": "/adumbrates/",
-        "pos": "n",
-        "m": "adumbrates",
-        "ex": [
-          {
-            "e": "Study adumbrates.",
-            "c": "学习adumbrates。"
-          }
-        ]
-      },
-      {
         "w": "adumbrating",
         "p": "/adumbrating/",
         "pos": "n",
@@ -17816,7 +30500,15 @@ export const toeflVocabulary = [
             "c": "学习adumbrating。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 124,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adumbration",
         "p": "/adumbration/",
@@ -17852,15 +30544,7 @@ export const toeflVocabulary = [
             "c": "学习adumbrative。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 73,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "adumbratively",
         "p": "/adumbratively/",
@@ -17898,30 +30582,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adunc",
-        "p": "/adunc/",
-        "pos": "n",
-        "m": "adunc",
-        "ex": [
-          {
-            "e": "Study adunc.",
-            "c": "学习adunc。"
-          }
-        ]
-      },
-      {
-        "w": "aduncate",
-        "p": "/aduncate/",
-        "pos": "n",
-        "m": "aduncate",
-        "ex": [
-          {
-            "e": "Study aduncate.",
-            "c": "学习aduncate。"
-          }
-        ]
-      },
-      {
         "w": "aduncated",
         "p": "/aduncated/",
         "pos": "n",
@@ -17934,42 +30594,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aduncity",
-        "p": "/aduncity/",
-        "pos": "n",
-        "m": "aduncity",
-        "ex": [
-          {
-            "e": "Study aduncity.",
-            "c": "学习aduncity。"
-          }
-        ]
-      },
-      {
-        "w": "aduncous",
-        "p": "/aduncous/",
-        "pos": "n",
-        "m": "aduncous",
-        "ex": [
-          {
-            "e": "Study aduncous.",
-            "c": "学习aduncous。"
-          }
-        ]
-      },
-      {
-        "w": "adure",
-        "p": "/adure/",
-        "pos": "n",
-        "m": "adure",
-        "ex": [
-          {
-            "e": "Study adure.",
-            "c": "学习adure。"
-          }
-        ]
-      },
-      {
         "w": "adurent",
         "p": "/adurent/",
         "pos": "n",
@@ -17978,78 +30602,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adurent.",
             "c": "学习adurent。"
-          }
-        ]
-      },
-      {
-        "w": "adusk",
-        "p": "/adusk/",
-        "pos": "n",
-        "m": "adusk",
-        "ex": [
-          {
-            "e": "Study adusk.",
-            "c": "学习adusk。"
-          }
-        ]
-      },
-      {
-        "w": "adust",
-        "p": "/adust/",
-        "pos": "n",
-        "m": "adust",
-        "ex": [
-          {
-            "e": "Study adust.",
-            "c": "学习adust。"
-          }
-        ]
-      },
-      {
-        "w": "adustion",
-        "p": "/adustion/",
-        "pos": "n",
-        "m": "adustion",
-        "ex": [
-          {
-            "e": "Study adustion.",
-            "c": "学习adustion。"
-          }
-        ]
-      },
-      {
-        "w": "adustiosis",
-        "p": "/adustiosis/",
-        "pos": "n",
-        "m": "adustiosis",
-        "ex": [
-          {
-            "e": "Study adustiosis.",
-            "c": "学习adustiosis。"
-          }
-        ]
-      },
-      {
-        "w": "adustive",
-        "p": "/adustive/",
-        "pos": "n",
-        "m": "adustive",
-        "ex": [
-          {
-            "e": "Study adustive.",
-            "c": "学习adustive。"
-          }
-        ]
-      },
-      {
-        "w": "adv",
-        "p": "/adv/",
-        "pos": "n",
-        "m": "adv",
-        "ex": [
-          {
-            "e": "Study adv.",
-            "c": "学习adv。"
           }
         ]
       },
@@ -18078,18 +30630,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "advanced",
-        "p": "/advanced/",
-        "pos": "n",
-        "m": "advanced",
-        "ex": [
-          {
-            "e": "Study advanced.",
-            "c": "学习advanced。"
-          }
-        ]
-      },
-      {
         "w": "advancedness",
         "p": "/advancedness/",
         "pos": "n",
@@ -18100,15 +30640,7 @@ export const toeflVocabulary = [
             "c": "学习advancedness。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 74,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "advancement",
         "p": "/advancement/",
@@ -18134,18 +30666,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "advancer",
-        "p": "/advancer/",
-        "pos": "n",
-        "m": "advancer",
-        "ex": [
-          {
-            "e": "Study advancer.",
-            "c": "学习advancer。"
-          }
-        ]
-      },
-      {
         "w": "advancers",
         "p": "/advancers/",
         "pos": "n",
@@ -18154,18 +30674,6 @@ export const toeflVocabulary = [
           {
             "e": "Study advancers.",
             "c": "学习advancers。"
-          }
-        ]
-      },
-      {
-        "w": "advances",
-        "p": "/advances/",
-        "pos": "n",
-        "m": "advances",
-        "ex": [
-          {
-            "e": "Study advances.",
-            "c": "学习advances。"
           }
         ]
       },
@@ -18206,18 +30714,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "advantaged",
-        "p": "/advantaged/",
-        "pos": "n",
-        "m": "advantaged",
-        "ex": [
-          {
-            "e": "Study advantaged.",
-            "c": "学习advantaged。"
-          }
-        ]
-      },
-      {
         "w": "advantageous",
         "p": "/advantageous/",
         "pos": "n",
@@ -18242,18 +30738,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "advantages",
-        "p": "/advantages/",
-        "pos": "n",
-        "m": "advantages",
-        "ex": [
-          {
-            "e": "Study advantages.",
-            "c": "学习advantages。"
-          }
-        ]
-      },
-      {
         "w": "advantaging",
         "p": "/advantaging/",
         "pos": "n",
@@ -18264,31 +30748,15 @@ export const toeflVocabulary = [
             "c": "学习advantaging。"
           }
         ]
-      },
-      {
-        "w": "advect",
-        "p": "/advect/",
-        "pos": "n",
-        "m": "advect",
-        "ex": [
-          {
-            "e": "Study advect.",
-            "c": "学习advect。"
-          }
-        ]
-      },
-      {
-        "w": "advected",
-        "p": "/advected/",
-        "pos": "n",
-        "m": "advected",
-        "ex": [
-          {
-            "e": "Study advected.",
-            "c": "学习advected。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 125,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "advecting",
         "p": "/advecting/",
@@ -18348,38 +30816,6 @@ export const toeflVocabulary = [
             "c": "学习advects。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 75,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "advehent",
-        "p": "/advehent/",
-        "pos": "n",
-        "m": "advehent",
-        "ex": [
-          {
-            "e": "Study advehent.",
-            "c": "学习advehent。"
-          }
-        ]
-      },
-      {
-        "w": "advena",
-        "p": "/advena/",
-        "pos": "n",
-        "m": "advena",
-        "ex": [
-          {
-            "e": "Study advena.",
-            "c": "学习advena。"
-          }
-        ]
       },
       {
         "w": "advenae",
@@ -18394,30 +30830,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "advene",
-        "p": "/advene/",
-        "pos": "n",
-        "m": "advene",
-        "ex": [
-          {
-            "e": "Study advene.",
-            "c": "学习advene。"
-          }
-        ]
-      },
-      {
-        "w": "advenience",
-        "p": "/advenience/",
-        "pos": "n",
-        "m": "advenience",
-        "ex": [
-          {
-            "e": "Study advenience.",
-            "c": "学习advenience。"
-          }
-        ]
-      },
-      {
         "w": "advenient",
         "p": "/advenient/",
         "pos": "n",
@@ -18426,18 +30838,6 @@ export const toeflVocabulary = [
           {
             "e": "Study advenient.",
             "c": "学习advenient。"
-          }
-        ]
-      },
-      {
-        "w": "advent",
-        "p": "/advent/",
-        "pos": "n",
-        "m": "advent",
-        "ex": [
-          {
-            "e": "Study advent.",
-            "c": "学习advent。"
           }
         ]
       },
@@ -18474,30 +30874,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adventist.",
             "c": "学习adventist。"
-          }
-        ]
-      },
-      {
-        "w": "adventists",
-        "p": "/adventists/",
-        "pos": "n",
-        "m": "adventists",
-        "ex": [
-          {
-            "e": "Study adventists.",
-            "c": "学习adventists。"
-          }
-        ]
-      },
-      {
-        "w": "adventitia",
-        "p": "/adventitia/",
-        "pos": "n",
-        "m": "adventitia",
-        "ex": [
-          {
-            "e": "Study adventitia.",
-            "c": "学习adventitia。"
           }
         ]
       },
@@ -18562,18 +30938,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adventry",
-        "p": "/adventry/",
-        "pos": "n",
-        "m": "adventry",
-        "ex": [
-          {
-            "e": "Study adventry.",
-            "c": "学习adventry。"
-          }
-        ]
-      },
-      {
         "w": "advents",
         "p": "/advents/",
         "pos": "n",
@@ -18596,15 +30960,7 @@ export const toeflVocabulary = [
             "c": "学习adventual。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 76,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "adventure",
         "p": "/adventure/",
@@ -18614,18 +30970,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adventure.",
             "c": "学习adventure。"
-          }
-        ]
-      },
-      {
-        "w": "adventured",
-        "p": "/adventured/",
-        "pos": "n",
-        "m": "adventured",
-        "ex": [
-          {
-            "e": "Study adventured.",
-            "c": "学习adventured。"
           }
         ]
       },
@@ -18652,19 +30996,15 @@ export const toeflVocabulary = [
             "c": "学习adventurement。"
           }
         ]
-      },
-      {
-        "w": "adventurer",
-        "p": "/adventurer/",
-        "pos": "n",
-        "m": "adventurer",
-        "ex": [
-          {
-            "e": "Study adventurer.",
-            "c": "学习adventurer。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 126,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adventurers",
         "p": "/adventurers/",
@@ -18674,18 +31014,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adventurers.",
             "c": "学习adventurers。"
-          }
-        ]
-      },
-      {
-        "w": "adventures",
-        "p": "/adventures/",
-        "pos": "n",
-        "m": "adventures",
-        "ex": [
-          {
-            "e": "Study adventures.",
-            "c": "学习adventures。"
           }
         ]
       },
@@ -18844,15 +31172,7 @@ export const toeflVocabulary = [
             "c": "学习adventurously。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 77,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "adventurousness",
         "p": "/adventurousness/",
@@ -18862,18 +31182,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adventurousness.",
             "c": "学习adventurousness。"
-          }
-        ]
-      },
-      {
-        "w": "adverb",
-        "p": "/adverb/",
-        "pos": "n",
-        "m": "adverb",
-        "ex": [
-          {
-            "e": "Study adverb.",
-            "c": "学习adverb。"
           }
         ]
       },
@@ -18936,19 +31244,15 @@ export const toeflVocabulary = [
             "c": "学习adverbiation。"
           }
         ]
-      },
-      {
-        "w": "adverbless",
-        "p": "/adverbless/",
-        "pos": "n",
-        "m": "adverbless",
-        "ex": [
-          {
-            "e": "Study adverbless.",
-            "c": "学习adverbless。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 127,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "adverbs",
         "p": "/adverbs/",
@@ -18982,18 +31286,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adversant.",
             "c": "学习adversant。"
-          }
-        ]
-      },
-      {
-        "w": "adversaria",
-        "p": "/adversaria/",
-        "pos": "n",
-        "m": "adversaria",
-        "ex": [
-          {
-            "e": "Study adversaria.",
-            "c": "学习adversaria。"
           }
         ]
       },
@@ -19090,26 +31382,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adverse.",
             "c": "学习adverse。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 78,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adversed",
-        "p": "/adversed/",
-        "pos": "n",
-        "m": "adversed",
-        "ex": [
-          {
-            "e": "Study adversed.",
-            "c": "学习adversed。"
           }
         ]
       },
@@ -19220,67 +31492,15 @@ export const toeflVocabulary = [
             "c": "学习adversive。"
           }
         ]
-      },
-      {
-        "w": "adversus",
-        "p": "/adversus/",
-        "pos": "n",
-        "m": "adversus",
-        "ex": [
-          {
-            "e": "Study adversus.",
-            "c": "学习adversus。"
-          }
-        ]
-      },
-      {
-        "w": "advert",
-        "p": "/advert/",
-        "pos": "n",
-        "m": "advert",
-        "ex": [
-          {
-            "e": "Study advert.",
-            "c": "学习advert。"
-          }
-        ]
-      },
-      {
-        "w": "adverted",
-        "p": "/adverted/",
-        "pos": "n",
-        "m": "adverted",
-        "ex": [
-          {
-            "e": "Study adverted.",
-            "c": "学习adverted。"
-          }
-        ]
-      },
-      {
-        "w": "advertence",
-        "p": "/advertence/",
-        "pos": "n",
-        "m": "advertence",
-        "ex": [
-          {
-            "e": "Study advertence.",
-            "c": "学习advertence。"
-          }
-        ]
-      },
-      {
-        "w": "advertency",
-        "p": "/advertency/",
-        "pos": "n",
-        "m": "advertency",
-        "ex": [
-          {
-            "e": "Study advertency.",
-            "c": "学习advertency。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 128,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "advertent",
         "p": "/advertent/",
@@ -19340,38 +31560,6 @@ export const toeflVocabulary = [
             "c": "学习advertise。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 79,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "advertised",
-        "p": "/advertised/",
-        "pos": "n",
-        "m": "advertised",
-        "ex": [
-          {
-            "e": "Study advertised.",
-            "c": "学习advertised。"
-          }
-        ]
-      },
-      {
-        "w": "advertisee",
-        "p": "/advertisee/",
-        "pos": "n",
-        "m": "advertisee",
-        "ex": [
-          {
-            "e": "Study advertisee.",
-            "c": "学习advertisee。"
-          }
-        ]
       },
       {
         "w": "advertisement",
@@ -19398,18 +31586,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "advertiser",
-        "p": "/advertiser/",
-        "pos": "n",
-        "m": "advertiser",
-        "ex": [
-          {
-            "e": "Study advertiser.",
-            "c": "学习advertiser。"
-          }
-        ]
-      },
-      {
         "w": "advertisers",
         "p": "/advertisers/",
         "pos": "n",
@@ -19418,18 +31594,6 @@ export const toeflVocabulary = [
           {
             "e": "Study advertisers.",
             "c": "学习advertisers。"
-          }
-        ]
-      },
-      {
-        "w": "advertises",
-        "p": "/advertises/",
-        "pos": "n",
-        "m": "advertises",
-        "ex": [
-          {
-            "e": "Study advertises.",
-            "c": "学习advertises。"
           }
         ]
       },
@@ -19470,18 +31634,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "advertized",
-        "p": "/advertized/",
-        "pos": "n",
-        "m": "advertized",
-        "ex": [
-          {
-            "e": "Study advertized.",
-            "c": "学习advertized。"
-          }
-        ]
-      },
-      {
         "w": "advertizement",
         "p": "/advertizement/",
         "pos": "n",
@@ -19490,30 +31642,6 @@ export const toeflVocabulary = [
           {
             "e": "Study advertizement.",
             "c": "学习advertizement。"
-          }
-        ]
-      },
-      {
-        "w": "advertizer",
-        "p": "/advertizer/",
-        "pos": "n",
-        "m": "advertizer",
-        "ex": [
-          {
-            "e": "Study advertizer.",
-            "c": "学习advertizer。"
-          }
-        ]
-      },
-      {
-        "w": "advertizes",
-        "p": "/advertizes/",
-        "pos": "n",
-        "m": "advertizes",
-        "ex": [
-          {
-            "e": "Study advertizes.",
-            "c": "学习advertizes。"
           }
         ]
       },
@@ -19538,18 +31666,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adverts.",
             "c": "学习adverts。"
-          }
-        ]
-      },
-      {
-        "w": "advice",
-        "p": "/advice/",
-        "pos": "n",
-        "m": "advice",
-        "ex": [
-          {
-            "e": "Study advice.",
-            "c": "学习advice。"
           }
         ]
       },
@@ -19588,15 +31704,7 @@ export const toeflVocabulary = [
             "c": "学习advisability。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 80,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "advisable",
         "p": "/advisable/",
@@ -19632,7 +31740,15 @@ export const toeflVocabulary = [
             "c": "学习advisably。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 129,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "advisal",
         "p": "/advisal/",
@@ -19642,30 +31758,6 @@ export const toeflVocabulary = [
           {
             "e": "Study advisal.",
             "c": "学习advisal。"
-          }
-        ]
-      },
-      {
-        "w": "advisatory",
-        "p": "/advisatory/",
-        "pos": "n",
-        "m": "advisatory",
-        "ex": [
-          {
-            "e": "Study advisatory.",
-            "c": "学习advisatory。"
-          }
-        ]
-      },
-      {
-        "w": "advise",
-        "p": "/advise/",
-        "pos": "n",
-        "m": "advise",
-        "ex": [
-          {
-            "e": "Study advise.",
-            "c": "学习advise。"
           }
         ]
       },
@@ -19718,30 +31810,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "advisees",
-        "p": "/advisees/",
-        "pos": "n",
-        "m": "advisees",
-        "ex": [
-          {
-            "e": "Study advisees.",
-            "c": "学习advisees。"
-          }
-        ]
-      },
-      {
-        "w": "advisement",
-        "p": "/advisement/",
-        "pos": "n",
-        "m": "advisement",
-        "ex": [
-          {
-            "e": "Study advisement.",
-            "c": "学习advisement。"
-          }
-        ]
-      },
-      {
         "w": "advisements",
         "p": "/advisements/",
         "pos": "n",
@@ -19762,18 +31830,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adviser.",
             "c": "学习adviser。"
-          }
-        ]
-      },
-      {
-        "w": "advisers",
-        "p": "/advisers/",
-        "pos": "n",
-        "m": "advisers",
-        "ex": [
-          {
-            "e": "Study advisers.",
-            "c": "学习advisers。"
           }
         ]
       },
@@ -19802,30 +31858,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "advising",
-        "p": "/advising/",
-        "pos": "n",
-        "m": "advising",
-        "ex": [
-          {
-            "e": "Study advising.",
-            "c": "学习advising。"
-          }
-        ]
-      },
-      {
-        "w": "advisive",
-        "p": "/advisive/",
-        "pos": "n",
-        "m": "advisive",
-        "ex": [
-          {
-            "e": "Study advisive.",
-            "c": "学习advisive。"
-          }
-        ]
-      },
-      {
         "w": "advisiveness",
         "p": "/advisiveness/",
         "pos": "n",
@@ -19834,26 +31866,6 @@ export const toeflVocabulary = [
           {
             "e": "Study advisiveness.",
             "c": "学习advisiveness。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 81,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "adviso",
-        "p": "/adviso/",
-        "pos": "n",
-        "m": "adviso",
-        "ex": [
-          {
-            "e": "Study adviso.",
-            "c": "学习adviso。"
           }
         ]
       },
@@ -19866,126 +31878,6 @@ export const toeflVocabulary = [
           {
             "e": "Study advisor.",
             "c": "学习advisor。"
-          }
-        ]
-      },
-      {
-        "w": "advisories",
-        "p": "/advisories/",
-        "pos": "n",
-        "m": "advisories",
-        "ex": [
-          {
-            "e": "Study advisories.",
-            "c": "学习advisories。"
-          }
-        ]
-      },
-      {
-        "w": "advisorily",
-        "p": "/advisorily/",
-        "pos": "n",
-        "m": "advisorily",
-        "ex": [
-          {
-            "e": "Study advisorily.",
-            "c": "学习advisorily。"
-          }
-        ]
-      },
-      {
-        "w": "advisors",
-        "p": "/advisors/",
-        "pos": "n",
-        "m": "advisors",
-        "ex": [
-          {
-            "e": "Study advisors.",
-            "c": "学习advisors。"
-          }
-        ]
-      },
-      {
-        "w": "advisory",
-        "p": "/advisory/",
-        "pos": "n",
-        "m": "advisory",
-        "ex": [
-          {
-            "e": "Study advisory.",
-            "c": "学习advisory。"
-          }
-        ]
-      },
-      {
-        "w": "advisy",
-        "p": "/advisy/",
-        "pos": "n",
-        "m": "advisy",
-        "ex": [
-          {
-            "e": "Study advisy.",
-            "c": "学习advisy。"
-          }
-        ]
-      },
-      {
-        "w": "advitant",
-        "p": "/advitant/",
-        "pos": "n",
-        "m": "advitant",
-        "ex": [
-          {
-            "e": "Study advitant.",
-            "c": "学习advitant。"
-          }
-        ]
-      },
-      {
-        "w": "advocaat",
-        "p": "/advocaat/",
-        "pos": "n",
-        "m": "advocaat",
-        "ex": [
-          {
-            "e": "Study advocaat.",
-            "c": "学习advocaat。"
-          }
-        ]
-      },
-      {
-        "w": "advocacies",
-        "p": "/advocacies/",
-        "pos": "n",
-        "m": "advocacies",
-        "ex": [
-          {
-            "e": "Study advocacies.",
-            "c": "学习advocacies。"
-          }
-        ]
-      },
-      {
-        "w": "advocacy",
-        "p": "/advocacy/",
-        "pos": "n",
-        "m": "advocacy",
-        "ex": [
-          {
-            "e": "Study advocacy.",
-            "c": "学习advocacy。"
-          }
-        ]
-      },
-      {
-        "w": "advocate",
-        "p": "/advocate/",
-        "pos": "n",
-        "m": "advocate",
-        "ex": [
-          {
-            "e": "Study advocate.",
-            "c": "学习advocate。"
           }
         ]
       },
@@ -20026,54 +31918,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "advocatess",
-        "p": "/advocatess/",
-        "pos": "n",
-        "m": "advocatess",
-        "ex": [
-          {
-            "e": "Study advocatess.",
-            "c": "学习advocatess。"
-          }
-        ]
-      },
-      {
-        "w": "advocating",
-        "p": "/advocating/",
-        "pos": "n",
-        "m": "advocating",
-        "ex": [
-          {
-            "e": "Study advocating.",
-            "c": "学习advocating。"
-          }
-        ]
-      },
-      {
-        "w": "advocation",
-        "p": "/advocation/",
-        "pos": "n",
-        "m": "advocation",
-        "ex": [
-          {
-            "e": "Study advocation.",
-            "c": "学习advocation。"
-          }
-        ]
-      },
-      {
-        "w": "advocative",
-        "p": "/advocative/",
-        "pos": "n",
-        "m": "advocative",
-        "ex": [
-          {
-            "e": "Study advocative.",
-            "c": "学习advocative。"
-          }
-        ]
-      },
-      {
         "w": "advocator",
         "p": "/advocator/",
         "pos": "n",
@@ -20082,26 +31926,6 @@ export const toeflVocabulary = [
           {
             "e": "Study advocator.",
             "c": "学习advocator。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 82,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "advocatory",
-        "p": "/advocatory/",
-        "pos": "n",
-        "m": "advocatory",
-        "ex": [
-          {
-            "e": "Study advocatory.",
-            "c": "学习advocatory。"
           }
         ]
       },
@@ -20126,42 +31950,6 @@ export const toeflVocabulary = [
           {
             "e": "Study advocatrice.",
             "c": "学习advocatrice。"
-          }
-        ]
-      },
-      {
-        "w": "advocatrix",
-        "p": "/advocatrix/",
-        "pos": "n",
-        "m": "advocatrix",
-        "ex": [
-          {
-            "e": "Study advocatrix.",
-            "c": "学习advocatrix。"
-          }
-        ]
-      },
-      {
-        "w": "advoke",
-        "p": "/advoke/",
-        "pos": "n",
-        "m": "advoke",
-        "ex": [
-          {
-            "e": "Study advoke.",
-            "c": "学习advoke。"
-          }
-        ]
-      },
-      {
-        "w": "advolution",
-        "p": "/advolution/",
-        "pos": "n",
-        "m": "advolution",
-        "ex": [
-          {
-            "e": "Study advolution.",
-            "c": "学习advolution。"
           }
         ]
       },
@@ -20200,31 +31988,15 @@ export const toeflVocabulary = [
             "c": "学习advowry。"
           }
         ]
-      },
-      {
-        "w": "advowsance",
-        "p": "/advowsance/",
-        "pos": "n",
-        "m": "advowsance",
-        "ex": [
-          {
-            "e": "Study advowsance.",
-            "c": "学习advowsance。"
-          }
-        ]
-      },
-      {
-        "w": "advowson",
-        "p": "/advowson/",
-        "pos": "n",
-        "m": "advowson",
-        "ex": [
-          {
-            "e": "Study advowson.",
-            "c": "学习advowson。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 130,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "advowsons",
         "p": "/advowsons/",
@@ -20250,30 +32022,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "advt",
-        "p": "/advt/",
-        "pos": "n",
-        "m": "advt",
-        "ex": [
-          {
-            "e": "Study advt.",
-            "c": "学习advt。"
-          }
-        ]
-      },
-      {
-        "w": "adward",
-        "p": "/adward/",
-        "pos": "n",
-        "m": "adward",
-        "ex": [
-          {
-            "e": "Study adward.",
-            "c": "学习adward。"
-          }
-        ]
-      },
-      {
         "w": "adwesch",
         "p": "/adwesch/",
         "pos": "n",
@@ -20282,30 +32030,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adwesch.",
             "c": "学习adwesch。"
-          }
-        ]
-      },
-      {
-        "w": "ady",
-        "p": "/ady/",
-        "pos": "n",
-        "m": "ady",
-        "ex": [
-          {
-            "e": "Study ady.",
-            "c": "学习ady。"
-          }
-        ]
-      },
-      {
-        "w": "adynamia",
-        "p": "/adynamia/",
-        "pos": "n",
-        "m": "adynamia",
-        "ex": [
-          {
-            "e": "Study adynamia.",
-            "c": "学习adynamia。"
           }
         ]
       },
@@ -20322,26 +32046,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "adynamic",
-        "p": "/adynamic/",
-        "pos": "n",
-        "m": "adynamic",
-        "ex": [
-          {
-            "e": "Study adynamic.",
-            "c": "学习adynamic。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 83,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
         "w": "adynamy",
         "p": "/adynamy/",
         "pos": "n",
@@ -20350,102 +32054,6 @@ export const toeflVocabulary = [
           {
             "e": "Study adynamy.",
             "c": "学习adynamy。"
-          }
-        ]
-      },
-      {
-        "w": "adyta",
-        "p": "/adyta/",
-        "pos": "n",
-        "m": "adyta",
-        "ex": [
-          {
-            "e": "Study adyta.",
-            "c": "学习adyta。"
-          }
-        ]
-      },
-      {
-        "w": "adyton",
-        "p": "/adyton/",
-        "pos": "n",
-        "m": "adyton",
-        "ex": [
-          {
-            "e": "Study adyton.",
-            "c": "学习adyton。"
-          }
-        ]
-      },
-      {
-        "w": "adytta",
-        "p": "/adytta/",
-        "pos": "n",
-        "m": "adytta",
-        "ex": [
-          {
-            "e": "Study adytta.",
-            "c": "学习adytta。"
-          }
-        ]
-      },
-      {
-        "w": "adytum",
-        "p": "/adytum/",
-        "pos": "n",
-        "m": "adytum",
-        "ex": [
-          {
-            "e": "Study adytum.",
-            "c": "学习adytum。"
-          }
-        ]
-      },
-      {
-        "w": "adz",
-        "p": "/adz/",
-        "pos": "n",
-        "m": "adz",
-        "ex": [
-          {
-            "e": "Study adz.",
-            "c": "学习adz。"
-          }
-        ]
-      },
-      {
-        "w": "adze",
-        "p": "/adze/",
-        "pos": "n",
-        "m": "adze",
-        "ex": [
-          {
-            "e": "Study adze.",
-            "c": "学习adze。"
-          }
-        ]
-      },
-      {
-        "w": "adzer",
-        "p": "/adzer/",
-        "pos": "n",
-        "m": "adzer",
-        "ex": [
-          {
-            "e": "Study adzer.",
-            "c": "学习adzer。"
-          }
-        ]
-      },
-      {
-        "w": "adzes",
-        "p": "/adzes/",
-        "pos": "n",
-        "m": "adzes",
-        "ex": [
-          {
-            "e": "Study adzes.",
-            "c": "学习adzes。"
           }
         ]
       },
@@ -20462,42 +32070,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aeacides",
-        "p": "/aeacides/",
-        "pos": "n",
-        "m": "aeacides",
-        "ex": [
-          {
-            "e": "Study aeacides.",
-            "c": "学习aeacides。"
-          }
-        ]
-      },
-      {
-        "w": "aeacus",
-        "p": "/aeacus/",
-        "pos": "n",
-        "m": "aeacus",
-        "ex": [
-          {
-            "e": "Study aeacus.",
-            "c": "学习aeacus。"
-          }
-        ]
-      },
-      {
-        "w": "aeaean",
-        "p": "/aeaean/",
-        "pos": "n",
-        "m": "aeaean",
-        "ex": [
-          {
-            "e": "Study aeaean.",
-            "c": "学习aeaean。"
-          }
-        ]
-      },
-      {
         "w": "aechmophorus",
         "p": "/aechmophorus/",
         "pos": "n",
@@ -20506,30 +32078,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aechmophorus.",
             "c": "学习aechmophorus。"
-          }
-        ]
-      },
-      {
-        "w": "aecia",
-        "p": "/aecia/",
-        "pos": "n",
-        "m": "aecia",
-        "ex": [
-          {
-            "e": "Study aecia.",
-            "c": "学习aecia。"
-          }
-        ]
-      },
-      {
-        "w": "aecial",
-        "p": "/aecial/",
-        "pos": "n",
-        "m": "aecial",
-        "ex": [
-          {
-            "e": "Study aecial.",
-            "c": "学习aecial。"
           }
         ]
       },
@@ -20558,18 +32106,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aecidial",
-        "p": "/aecidial/",
-        "pos": "n",
-        "m": "aecidial",
-        "ex": [
-          {
-            "e": "Study aecidial.",
-            "c": "学习aecidial。"
-          }
-        ]
-      },
-      {
         "w": "aecidioform",
         "p": "/aecidioform/",
         "pos": "n",
@@ -20580,15 +32116,7 @@ export const toeflVocabulary = [
             "c": "学习aecidioform。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 84,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "aecidiomycetes",
         "p": "/aecidiomycetes/",
@@ -20626,54 +32154,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aecidium",
-        "p": "/aecidium/",
-        "pos": "n",
-        "m": "aecidium",
-        "ex": [
-          {
-            "e": "Study aecidium.",
-            "c": "学习aecidium。"
-          }
-        ]
-      },
-      {
-        "w": "aeciospore",
-        "p": "/aeciospore/",
-        "pos": "n",
-        "m": "aeciospore",
-        "ex": [
-          {
-            "e": "Study aeciospore.",
-            "c": "学习aeciospore。"
-          }
-        ]
-      },
-      {
-        "w": "aeciostage",
-        "p": "/aeciostage/",
-        "pos": "n",
-        "m": "aeciostage",
-        "ex": [
-          {
-            "e": "Study aeciostage.",
-            "c": "学习aeciostage。"
-          }
-        ]
-      },
-      {
-        "w": "aeciotelia",
-        "p": "/aeciotelia/",
-        "pos": "n",
-        "m": "aeciotelia",
-        "ex": [
-          {
-            "e": "Study aeciotelia.",
-            "c": "学习aeciotelia。"
-          }
-        ]
-      },
-      {
         "w": "aecioteliospore",
         "p": "/aecioteliospore/",
         "pos": "n",
@@ -20698,30 +32178,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aecium",
-        "p": "/aecium/",
-        "pos": "n",
-        "m": "aecium",
-        "ex": [
-          {
-            "e": "Study aecium.",
-            "c": "学习aecium。"
-          }
-        ]
-      },
-      {
-        "w": "aedeagal",
-        "p": "/aedeagal/",
-        "pos": "n",
-        "m": "aedeagal",
-        "ex": [
-          {
-            "e": "Study aedeagal.",
-            "c": "学习aedeagal。"
-          }
-        ]
-      },
-      {
         "w": "aedeagi",
         "p": "/aedeagi/",
         "pos": "n",
@@ -20730,54 +32186,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aedeagi.",
             "c": "学习aedeagi。"
-          }
-        ]
-      },
-      {
-        "w": "aedeagus",
-        "p": "/aedeagus/",
-        "pos": "n",
-        "m": "aedeagus",
-        "ex": [
-          {
-            "e": "Study aedeagus.",
-            "c": "学习aedeagus。"
-          }
-        ]
-      },
-      {
-        "w": "aedegi",
-        "p": "/aedegi/",
-        "pos": "n",
-        "m": "aedegi",
-        "ex": [
-          {
-            "e": "Study aedegi.",
-            "c": "学习aedegi。"
-          }
-        ]
-      },
-      {
-        "w": "aedes",
-        "p": "/aedes/",
-        "pos": "n",
-        "m": "aedes",
-        "ex": [
-          {
-            "e": "Study aedes.",
-            "c": "学习aedes。"
-          }
-        ]
-      },
-      {
-        "w": "aedicula",
-        "p": "/aedicula/",
-        "pos": "n",
-        "m": "aedicula",
-        "ex": [
-          {
-            "e": "Study aedicula.",
-            "c": "学习aedicula。"
           }
         ]
       },
@@ -20794,30 +32202,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aedicule",
-        "p": "/aedicule/",
-        "pos": "n",
-        "m": "aedicule",
-        "ex": [
-          {
-            "e": "Study aedicule.",
-            "c": "学习aedicule。"
-          }
-        ]
-      },
-      {
-        "w": "aedile",
-        "p": "/aedile/",
-        "pos": "n",
-        "m": "aedile",
-        "ex": [
-          {
-            "e": "Study aedile.",
-            "c": "学习aedile。"
-          }
-        ]
-      },
-      {
         "w": "aediles",
         "p": "/aediles/",
         "pos": "n",
@@ -20826,38 +32210,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aediles.",
             "c": "学习aediles。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 85,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "aedileship",
-        "p": "/aedileship/",
-        "pos": "n",
-        "m": "aedileship",
-        "ex": [
-          {
-            "e": "Study aedileship.",
-            "c": "学习aedileship。"
-          }
-        ]
-      },
-      {
-        "w": "aedilian",
-        "p": "/aedilian/",
-        "pos": "n",
-        "m": "aedilian",
-        "ex": [
-          {
-            "e": "Study aedilian.",
-            "c": "学习aedilian。"
           }
         ]
       },
@@ -20874,66 +32226,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aedilitian",
-        "p": "/aedilitian/",
-        "pos": "n",
-        "m": "aedilitian",
-        "ex": [
-          {
-            "e": "Study aedilitian.",
-            "c": "学习aedilitian。"
-          }
-        ]
-      },
-      {
-        "w": "aedilities",
-        "p": "/aedilities/",
-        "pos": "n",
-        "m": "aedilities",
-        "ex": [
-          {
-            "e": "Study aedilities.",
-            "c": "学习aedilities。"
-          }
-        ]
-      },
-      {
-        "w": "aedility",
-        "p": "/aedility/",
-        "pos": "n",
-        "m": "aedility",
-        "ex": [
-          {
-            "e": "Study aedility.",
-            "c": "学习aedility。"
-          }
-        ]
-      },
-      {
-        "w": "aedine",
-        "p": "/aedine/",
-        "pos": "n",
-        "m": "aedine",
-        "ex": [
-          {
-            "e": "Study aedine.",
-            "c": "学习aedine。"
-          }
-        ]
-      },
-      {
-        "w": "aedoeagi",
-        "p": "/aedoeagi/",
-        "pos": "n",
-        "m": "aedoeagi",
-        "ex": [
-          {
-            "e": "Study aedoeagi.",
-            "c": "学习aedoeagi。"
-          }
-        ]
-      },
-      {
         "w": "aedoeagus",
         "p": "/aedoeagus/",
         "pos": "n",
@@ -20944,43 +32236,15 @@ export const toeflVocabulary = [
             "c": "学习aedoeagus。"
           }
         ]
-      },
-      {
-        "w": "aedoeology",
-        "p": "/aedoeology/",
-        "pos": "n",
-        "m": "aedoeology",
-        "ex": [
-          {
-            "e": "Study aedoeology.",
-            "c": "学习aedoeology。"
-          }
-        ]
-      },
-      {
-        "w": "aefald",
-        "p": "/aefald/",
-        "pos": "n",
-        "m": "aefald",
-        "ex": [
-          {
-            "e": "Study aefald.",
-            "c": "学习aefald。"
-          }
-        ]
-      },
-      {
-        "w": "aefaldness",
-        "p": "/aefaldness/",
-        "pos": "n",
-        "m": "aefaldness",
-        "ex": [
-          {
-            "e": "Study aefaldness.",
-            "c": "学习aefaldness。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 131,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "aefaldy",
         "p": "/aefaldy/",
@@ -21066,146 +32330,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aegagrus",
-        "p": "/aegagrus/",
-        "pos": "n",
-        "m": "aegagrus",
-        "ex": [
-          {
-            "e": "Study aegagrus.",
-            "c": "学习aegagrus。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 86,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "aegean",
-        "p": "/aegean/",
-        "pos": "n",
-        "m": "aegean",
-        "ex": [
-          {
-            "e": "Study aegean.",
-            "c": "学习aegean。"
-          }
-        ]
-      },
-      {
-        "w": "aegemony",
-        "p": "/aegemony/",
-        "pos": "n",
-        "m": "aegemony",
-        "ex": [
-          {
-            "e": "Study aegemony.",
-            "c": "学习aegemony。"
-          }
-        ]
-      },
-      {
-        "w": "aeger",
-        "p": "/aeger/",
-        "pos": "n",
-        "m": "aeger",
-        "ex": [
-          {
-            "e": "Study aeger.",
-            "c": "学习aeger。"
-          }
-        ]
-      },
-      {
-        "w": "aegerian",
-        "p": "/aegerian/",
-        "pos": "n",
-        "m": "aegerian",
-        "ex": [
-          {
-            "e": "Study aegerian.",
-            "c": "学习aegerian。"
-          }
-        ]
-      },
-      {
-        "w": "aegeriid",
-        "p": "/aegeriid/",
-        "pos": "n",
-        "m": "aegeriid",
-        "ex": [
-          {
-            "e": "Study aegeriid.",
-            "c": "学习aegeriid。"
-          }
-        ]
-      },
-      {
-        "w": "aegeriidae",
-        "p": "/aegeriidae/",
-        "pos": "n",
-        "m": "aegeriidae",
-        "ex": [
-          {
-            "e": "Study aegeriidae.",
-            "c": "学习aegeriidae。"
-          }
-        ]
-      },
-      {
-        "w": "aegialitis",
-        "p": "/aegialitis/",
-        "pos": "n",
-        "m": "aegialitis",
-        "ex": [
-          {
-            "e": "Study aegialitis.",
-            "c": "学习aegialitis。"
-          }
-        ]
-      },
-      {
-        "w": "aegicrania",
-        "p": "/aegicrania/",
-        "pos": "n",
-        "m": "aegicrania",
-        "ex": [
-          {
-            "e": "Study aegicrania.",
-            "c": "学习aegicrania。"
-          }
-        ]
-      },
-      {
-        "w": "aegilops",
-        "p": "/aegilops/",
-        "pos": "n",
-        "m": "aegilops",
-        "ex": [
-          {
-            "e": "Study aegilops.",
-            "c": "学习aegilops。"
-          }
-        ]
-      },
-      {
-        "w": "aegina",
-        "p": "/aegina/",
-        "pos": "n",
-        "m": "aegina",
-        "ex": [
-          {
-            "e": "Study aegina.",
-            "c": "学习aegina。"
-          }
-        ]
-      },
-      {
         "w": "aeginetan",
         "p": "/aeginetan/",
         "pos": "n",
@@ -21242,30 +32366,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aegir",
-        "p": "/aegir/",
-        "pos": "n",
-        "m": "aegir",
-        "ex": [
-          {
-            "e": "Study aegir.",
-            "c": "学习aegir。"
-          }
-        ]
-      },
-      {
-        "w": "aegirine",
-        "p": "/aegirine/",
-        "pos": "n",
-        "m": "aegirine",
-        "ex": [
-          {
-            "e": "Study aegirine.",
-            "c": "学习aegirine。"
-          }
-        ]
-      },
-      {
         "w": "aegirinolite",
         "p": "/aegirinolite/",
         "pos": "n",
@@ -21274,30 +32374,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aegirinolite.",
             "c": "学习aegirinolite。"
-          }
-        ]
-      },
-      {
-        "w": "aegirite",
-        "p": "/aegirite/",
-        "pos": "n",
-        "m": "aegirite",
-        "ex": [
-          {
-            "e": "Study aegirite.",
-            "c": "学习aegirite。"
-          }
-        ]
-      },
-      {
-        "w": "aegis",
-        "p": "/aegis/",
-        "pos": "n",
-        "m": "aegis",
-        "ex": [
-          {
-            "e": "Study aegis.",
-            "c": "学习aegis。"
           }
         ]
       },
@@ -21322,26 +32398,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aegisthus.",
             "c": "学习aegisthus。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 87,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "aegithalos",
-        "p": "/aegithalos/",
-        "pos": "n",
-        "m": "aegithalos",
-        "ex": [
-          {
-            "e": "Study aegithalos.",
-            "c": "学习aegithalos。"
           }
         ]
       },
@@ -21382,18 +32438,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aegle",
-        "p": "/aegle/",
-        "pos": "n",
-        "m": "aegle",
-        "ex": [
-          {
-            "e": "Study aegle.",
-            "c": "学习aegle。"
-          }
-        ]
-      },
-      {
         "w": "aegophony",
         "p": "/aegophony/",
         "pos": "n",
@@ -21402,18 +32446,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aegophony.",
             "c": "学习aegophony。"
-          }
-        ]
-      },
-      {
-        "w": "aegopodium",
-        "p": "/aegopodium/",
-        "pos": "n",
-        "m": "aegopodium",
-        "ex": [
-          {
-            "e": "Study aegopodium.",
-            "c": "学习aegopodium。"
           }
         ]
       },
@@ -21442,54 +32474,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aegrotat",
-        "p": "/aegrotat/",
-        "pos": "n",
-        "m": "aegrotat",
-        "ex": [
-          {
-            "e": "Study aegrotat.",
-            "c": "学习aegrotat。"
-          }
-        ]
-      },
-      {
-        "w": "aegyptilla",
-        "p": "/aegyptilla/",
-        "pos": "n",
-        "m": "aegyptilla",
-        "ex": [
-          {
-            "e": "Study aegyptilla.",
-            "c": "学习aegyptilla。"
-          }
-        ]
-      },
-      {
-        "w": "aegyrite",
-        "p": "/aegyrite/",
-        "pos": "n",
-        "m": "aegyrite",
-        "ex": [
-          {
-            "e": "Study aegyrite.",
-            "c": "学习aegyrite。"
-          }
-        ]
-      },
-      {
-        "w": "aeipathy",
-        "p": "/aeipathy/",
-        "pos": "n",
-        "m": "aeipathy",
-        "ex": [
-          {
-            "e": "Study aeipathy.",
-            "c": "学习aeipathy。"
-          }
-        ]
-      },
-      {
         "w": "aelodicon",
         "p": "/aelodicon/",
         "pos": "n",
@@ -21500,31 +32484,15 @@ export const toeflVocabulary = [
             "c": "学习aelodicon。"
           }
         ]
-      },
-      {
-        "w": "aeluroid",
-        "p": "/aeluroid/",
-        "pos": "n",
-        "m": "aeluroid",
-        "ex": [
-          {
-            "e": "Study aeluroid.",
-            "c": "学习aeluroid。"
-          }
-        ]
-      },
-      {
-        "w": "aeluroidea",
-        "p": "/aeluroidea/",
-        "pos": "n",
-        "m": "aeluroidea",
-        "ex": [
-          {
-            "e": "Study aeluroidea.",
-            "c": "学习aeluroidea。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 132,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "aelurophobe",
         "p": "/aelurophobe/",
@@ -21562,62 +32530,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aenach",
-        "p": "/aenach/",
-        "pos": "n",
-        "m": "aenach",
-        "ex": [
-          {
-            "e": "Study aenach.",
-            "c": "学习aenach。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 88,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "aenean",
-        "p": "/aenean/",
-        "pos": "n",
-        "m": "aenean",
-        "ex": [
-          {
-            "e": "Study aenean.",
-            "c": "学习aenean。"
-          }
-        ]
-      },
-      {
-        "w": "aeneas",
-        "p": "/aeneas/",
-        "pos": "n",
-        "m": "aeneas",
-        "ex": [
-          {
-            "e": "Study aeneas.",
-            "c": "学习aeneas。"
-          }
-        ]
-      },
-      {
-        "w": "aeneid",
-        "p": "/aeneid/",
-        "pos": "n",
-        "m": "aeneid",
-        "ex": [
-          {
-            "e": "Study aeneid.",
-            "c": "学习aeneid。"
-          }
-        ]
-      },
-      {
         "w": "aeneolithic",
         "p": "/aeneolithic/",
         "pos": "n",
@@ -21638,18 +32550,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aeneous.",
             "c": "学习aeneous。"
-          }
-        ]
-      },
-      {
-        "w": "aeneus",
-        "p": "/aeneus/",
-        "pos": "n",
-        "m": "aeneus",
-        "ex": [
-          {
-            "e": "Study aeneus.",
-            "c": "学习aeneus。"
           }
         ]
       },
@@ -21690,18 +32590,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aeolia",
-        "p": "/aeolia/",
-        "pos": "n",
-        "m": "aeolia",
-        "ex": [
-          {
-            "e": "Study aeolia.",
-            "c": "学习aeolia。"
-          }
-        ]
-      },
-      {
         "w": "aeolian",
         "p": "/aeolian/",
         "pos": "n",
@@ -21714,18 +32602,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aeolic",
-        "p": "/aeolic/",
-        "pos": "n",
-        "m": "aeolic",
-        "ex": [
-          {
-            "e": "Study aeolic.",
-            "c": "学习aeolic。"
-          }
-        ]
-      },
-      {
         "w": "aeolicism",
         "p": "/aeolicism/",
         "pos": "n",
@@ -21734,54 +32610,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aeolicism.",
             "c": "学习aeolicism。"
-          }
-        ]
-      },
-      {
-        "w": "aeolid",
-        "p": "/aeolid/",
-        "pos": "n",
-        "m": "aeolid",
-        "ex": [
-          {
-            "e": "Study aeolid.",
-            "c": "学习aeolid。"
-          }
-        ]
-      },
-      {
-        "w": "aeolidae",
-        "p": "/aeolidae/",
-        "pos": "n",
-        "m": "aeolidae",
-        "ex": [
-          {
-            "e": "Study aeolidae.",
-            "c": "学习aeolidae。"
-          }
-        ]
-      },
-      {
-        "w": "aeolididae",
-        "p": "/aeolididae/",
-        "pos": "n",
-        "m": "aeolididae",
-        "ex": [
-          {
-            "e": "Study aeolididae.",
-            "c": "学习aeolididae。"
-          }
-        ]
-      },
-      {
-        "w": "aeolight",
-        "p": "/aeolight/",
-        "pos": "n",
-        "m": "aeolight",
-        "ex": [
-          {
-            "e": "Study aeolight.",
-            "c": "学习aeolight。"
           }
         ]
       },
@@ -21820,15 +32648,7 @@ export const toeflVocabulary = [
             "c": "学习aeolipile。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 89,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "aeolipyle",
         "p": "/aeolipyle/",
@@ -21838,18 +32658,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aeolipyle.",
             "c": "学习aeolipyle。"
-          }
-        ]
-      },
-      {
-        "w": "aeolis",
-        "p": "/aeolis/",
-        "pos": "n",
-        "m": "aeolis",
-        "ex": [
-          {
-            "e": "Study aeolis.",
-            "c": "学习aeolis。"
           }
         ]
       },
@@ -21890,18 +32698,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aeolodicon",
-        "p": "/aeolodicon/",
-        "pos": "n",
-        "m": "aeolodicon",
-        "ex": [
-          {
-            "e": "Study aeolodicon.",
-            "c": "学习aeolodicon。"
-          }
-        ]
-      },
-      {
         "w": "aeolodion",
         "p": "/aeolodion/",
         "pos": "n",
@@ -21936,7 +32732,15 @@ export const toeflVocabulary = [
             "c": "学习aeolopantalon。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 133,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "aeolotropic",
         "p": "/aeolotropic/",
@@ -21962,18 +32766,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aeolotropy",
-        "p": "/aeolotropy/",
-        "pos": "n",
-        "m": "aeolotropy",
-        "ex": [
-          {
-            "e": "Study aeolotropy.",
-            "c": "学习aeolotropy。"
-          }
-        ]
-      },
-      {
         "w": "aeolsklavier",
         "p": "/aeolsklavier/",
         "pos": "n",
@@ -21982,30 +32774,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aeolsklavier.",
             "c": "学习aeolsklavier。"
-          }
-        ]
-      },
-      {
-        "w": "aeolus",
-        "p": "/aeolus/",
-        "pos": "n",
-        "m": "aeolus",
-        "ex": [
-          {
-            "e": "Study aeolus.",
-            "c": "学习aeolus。"
-          }
-        ]
-      },
-      {
-        "w": "aeon",
-        "p": "/aeon/",
-        "pos": "n",
-        "m": "aeon",
-        "ex": [
-          {
-            "e": "Study aeon.",
-            "c": "学习aeon。"
           }
         ]
       },
@@ -22034,18 +32802,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aeonic",
-        "p": "/aeonic/",
-        "pos": "n",
-        "m": "aeonic",
-        "ex": [
-          {
-            "e": "Study aeonic.",
-            "c": "学习aeonic。"
-          }
-        ]
-      },
-      {
         "w": "aeonicaeonist",
         "p": "/aeonicaeonist/",
         "pos": "n",
@@ -22066,26 +32822,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aeonist.",
             "c": "学习aeonist。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 90,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "aeons",
-        "p": "/aeons/",
-        "pos": "n",
-        "m": "aeons",
-        "ex": [
-          {
-            "e": "Study aeons.",
-            "c": "学习aeons。"
           }
         ]
       },
@@ -22126,30 +32862,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aeq",
-        "p": "/aeq/",
-        "pos": "n",
-        "m": "aeq",
-        "ex": [
-          {
-            "e": "Study aeq.",
-            "c": "学习aeq。"
-          }
-        ]
-      },
-      {
-        "w": "aequi",
-        "p": "/aequi/",
-        "pos": "n",
-        "m": "aequi",
-        "ex": [
-          {
-            "e": "Study aequi.",
-            "c": "学习aequi。"
-          }
-        ]
-      },
-      {
         "w": "aequian",
         "p": "/aequian/",
         "pos": "n",
@@ -22186,18 +32898,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aequor",
-        "p": "/aequor/",
-        "pos": "n",
-        "m": "aequor",
-        "ex": [
-          {
-            "e": "Study aequor.",
-            "c": "学习aequor。"
-          }
-        ]
-      },
-      {
         "w": "aequoreal",
         "p": "/aequoreal/",
         "pos": "n",
@@ -22206,18 +32906,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aequoreal.",
             "c": "学习aequoreal。"
-          }
-        ]
-      },
-      {
-        "w": "aequorin",
-        "p": "/aequorin/",
-        "pos": "n",
-        "m": "aequorin",
-        "ex": [
-          {
-            "e": "Study aequorin.",
-            "c": "学习aequorin。"
           }
         ]
       },
@@ -22234,30 +32922,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aer",
-        "p": "/aer/",
-        "pos": "n",
-        "m": "aer",
-        "ex": [
-          {
-            "e": "Study aer.",
-            "c": "学习aer。"
-          }
-        ]
-      },
-      {
-        "w": "aerage",
-        "p": "/aerage/",
-        "pos": "n",
-        "m": "aerage",
-        "ex": [
-          {
-            "e": "Study aerage.",
-            "c": "学习aerage。"
-          }
-        ]
-      },
-      {
         "w": "aeraria",
         "p": "/aeraria/",
         "pos": "n",
@@ -22266,42 +32930,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aeraria.",
             "c": "学习aeraria。"
-          }
-        ]
-      },
-      {
-        "w": "aerarian",
-        "p": "/aerarian/",
-        "pos": "n",
-        "m": "aerarian",
-        "ex": [
-          {
-            "e": "Study aerarian.",
-            "c": "学习aerarian。"
-          }
-        ]
-      },
-      {
-        "w": "aerarium",
-        "p": "/aerarium/",
-        "pos": "n",
-        "m": "aerarium",
-        "ex": [
-          {
-            "e": "Study aerarium.",
-            "c": "学习aerarium。"
-          }
-        ]
-      },
-      {
-        "w": "aerate",
-        "p": "/aerate/",
-        "pos": "n",
-        "m": "aerate",
-        "ex": [
-          {
-            "e": "Study aerate.",
-            "c": "学习aerate。"
           }
         ]
       },
@@ -22316,15 +32944,7 @@ export const toeflVocabulary = [
             "c": "学习aerated。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 91,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "aerates",
         "p": "/aerates/",
@@ -22334,30 +32954,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerates.",
             "c": "学习aerates。"
-          }
-        ]
-      },
-      {
-        "w": "aerating",
-        "p": "/aerating/",
-        "pos": "n",
-        "m": "aerating",
-        "ex": [
-          {
-            "e": "Study aerating.",
-            "c": "学习aerating。"
-          }
-        ]
-      },
-      {
-        "w": "aeration",
-        "p": "/aeration/",
-        "pos": "n",
-        "m": "aeration",
-        "ex": [
-          {
-            "e": "Study aeration.",
-            "c": "学习aeration。"
           }
         ]
       },
@@ -22384,31 +32980,15 @@ export const toeflVocabulary = [
             "c": "学习aerator。"
           }
         ]
-      },
-      {
-        "w": "aerators",
-        "p": "/aerators/",
-        "pos": "n",
-        "m": "aerators",
-        "ex": [
-          {
-            "e": "Study aerators.",
-            "c": "学习aerators。"
-          }
-        ]
-      },
-      {
-        "w": "aerenchyma",
-        "p": "/aerenchyma/",
-        "pos": "n",
-        "m": "aerenchyma",
-        "ex": [
-          {
-            "e": "Study aerenchyma.",
-            "c": "学习aerenchyma。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 134,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "aerenterectasia",
         "p": "/aerenterectasia/",
@@ -22418,18 +32998,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerenterectasia.",
             "c": "学习aerenterectasia。"
-          }
-        ]
-      },
-      {
-        "w": "aerial",
-        "p": "/aerial/",
-        "pos": "n",
-        "m": "aerial",
-        "ex": [
-          {
-            "e": "Study aerial.",
-            "c": "学习aerial。"
           }
         ]
       },
@@ -22446,18 +33014,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerialists",
-        "p": "/aerialists/",
-        "pos": "n",
-        "m": "aerialists",
-        "ex": [
-          {
-            "e": "Study aerialists.",
-            "c": "学习aerialists。"
-          }
-        ]
-      },
-      {
         "w": "aeriality",
         "p": "/aeriality/",
         "pos": "n",
@@ -22470,30 +33026,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerially",
-        "p": "/aerially/",
-        "pos": "n",
-        "m": "aerially",
-        "ex": [
-          {
-            "e": "Study aerially.",
-            "c": "学习aerially。"
-          }
-        ]
-      },
-      {
-        "w": "aerialness",
-        "p": "/aerialness/",
-        "pos": "n",
-        "m": "aerialness",
-        "ex": [
-          {
-            "e": "Study aerialness.",
-            "c": "学习aerialness。"
-          }
-        ]
-      },
-      {
         "w": "aerials",
         "p": "/aerials/",
         "pos": "n",
@@ -22502,18 +33034,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerials.",
             "c": "学习aerials。"
-          }
-        ]
-      },
-      {
-        "w": "aeric",
-        "p": "/aeric/",
-        "pos": "n",
-        "m": "aeric",
-        "ex": [
-          {
-            "e": "Study aeric.",
-            "c": "学习aeric。"
           }
         ]
       },
@@ -22542,62 +33062,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerie",
-        "p": "/aerie/",
-        "pos": "n",
-        "m": "aerie",
-        "ex": [
-          {
-            "e": "Study aerie.",
-            "c": "学习aerie。"
-          }
-        ]
-      },
-      {
-        "w": "aeried",
-        "p": "/aeried/",
-        "pos": "n",
-        "m": "aeried",
-        "ex": [
-          {
-            "e": "Study aeried.",
-            "c": "学习aeried。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 92,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "aerier",
-        "p": "/aerier/",
-        "pos": "n",
-        "m": "aerier",
-        "ex": [
-          {
-            "e": "Study aerier.",
-            "c": "学习aerier。"
-          }
-        ]
-      },
-      {
-        "w": "aeries",
-        "p": "/aeries/",
-        "pos": "n",
-        "m": "aeries",
-        "ex": [
-          {
-            "e": "Study aeries.",
-            "c": "学习aeries。"
-          }
-        ]
-      },
-      {
         "w": "aeriest",
         "p": "/aeriest/",
         "pos": "n",
@@ -22622,18 +33086,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aeriferous",
-        "p": "/aeriferous/",
-        "pos": "n",
-        "m": "aeriferous",
-        "ex": [
-          {
-            "e": "Study aeriferous.",
-            "c": "学习aeriferous。"
-          }
-        ]
-      },
-      {
         "w": "aerification",
         "p": "/aerification/",
         "pos": "n",
@@ -22642,54 +33094,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerification.",
             "c": "学习aerification。"
-          }
-        ]
-      },
-      {
-        "w": "aerified",
-        "p": "/aerified/",
-        "pos": "n",
-        "m": "aerified",
-        "ex": [
-          {
-            "e": "Study aerified.",
-            "c": "学习aerified。"
-          }
-        ]
-      },
-      {
-        "w": "aerifies",
-        "p": "/aerifies/",
-        "pos": "n",
-        "m": "aerifies",
-        "ex": [
-          {
-            "e": "Study aerifies.",
-            "c": "学习aerifies。"
-          }
-        ]
-      },
-      {
-        "w": "aeriform",
-        "p": "/aeriform/",
-        "pos": "n",
-        "m": "aeriform",
-        "ex": [
-          {
-            "e": "Study aeriform.",
-            "c": "学习aeriform。"
-          }
-        ]
-      },
-      {
-        "w": "aerify",
-        "p": "/aerify/",
-        "pos": "n",
-        "m": "aerify",
-        "ex": [
-          {
-            "e": "Study aerify.",
-            "c": "学习aerify。"
           }
         ]
       },
@@ -22706,42 +33110,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerily",
-        "p": "/aerily/",
-        "pos": "n",
-        "m": "aerily",
-        "ex": [
-          {
-            "e": "Study aerily.",
-            "c": "学习aerily。"
-          }
-        ]
-      },
-      {
-        "w": "aeriness",
-        "p": "/aeriness/",
-        "pos": "n",
-        "m": "aeriness",
-        "ex": [
-          {
-            "e": "Study aeriness.",
-            "c": "学习aeriness。"
-          }
-        ]
-      },
-      {
-        "w": "aero",
-        "p": "/aero/",
-        "pos": "n",
-        "m": "aero",
-        "ex": [
-          {
-            "e": "Study aero.",
-            "c": "学习aero。"
-          }
-        ]
-      },
-      {
         "w": "aeroacoustic",
         "p": "/aeroacoustic/",
         "pos": "n",
@@ -22750,18 +33118,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aeroacoustic.",
             "c": "学习aeroacoustic。"
-          }
-        ]
-      },
-      {
-        "w": "aerobacter",
-        "p": "/aerobacter/",
-        "pos": "n",
-        "m": "aerobacter",
-        "ex": [
-          {
-            "e": "Study aerobacter.",
-            "c": "学习aerobacter。"
           }
         ]
       },
@@ -22802,26 +33158,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerobate",
-        "p": "/aerobate/",
-        "pos": "n",
-        "m": "aerobate",
-        "ex": [
-          {
-            "e": "Study aerobate.",
-            "c": "学习aerobate。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 93,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
         "w": "aerobated",
         "p": "/aerobated/",
         "pos": "n",
@@ -22842,42 +33178,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerobatic.",
             "c": "学习aerobatic。"
-          }
-        ]
-      },
-      {
-        "w": "aerobatics",
-        "p": "/aerobatics/",
-        "pos": "n",
-        "m": "aerobatics",
-        "ex": [
-          {
-            "e": "Study aerobatics.",
-            "c": "学习aerobatics。"
-          }
-        ]
-      },
-      {
-        "w": "aerobating",
-        "p": "/aerobating/",
-        "pos": "n",
-        "m": "aerobating",
-        "ex": [
-          {
-            "e": "Study aerobating.",
-            "c": "学习aerobating。"
-          }
-        ]
-      },
-      {
-        "w": "aerobe",
-        "p": "/aerobe/",
-        "pos": "n",
-        "m": "aerobe",
-        "ex": [
-          {
-            "e": "Study aerobe.",
-            "c": "学习aerobe。"
           }
         ]
       },
@@ -22918,18 +33218,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerobian",
-        "p": "/aerobian/",
-        "pos": "n",
-        "m": "aerobian",
-        "ex": [
-          {
-            "e": "Study aerobian.",
-            "c": "学习aerobian。"
-          }
-        ]
-      },
-      {
         "w": "aerobic",
         "p": "/aerobic/",
         "pos": "n",
@@ -22940,7 +33228,15 @@ export const toeflVocabulary = [
             "c": "学习aerobic。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 135,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "aerobically",
         "p": "/aerobically/",
@@ -22950,18 +33246,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerobically.",
             "c": "学习aerobically。"
-          }
-        ]
-      },
-      {
-        "w": "aerobics",
-        "p": "/aerobics/",
-        "pos": "n",
-        "m": "aerobics",
-        "ex": [
-          {
-            "e": "Study aerobics.",
-            "c": "学习aerobics。"
           }
         ]
       },
@@ -23014,18 +33298,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerobion",
-        "p": "/aerobion/",
-        "pos": "n",
-        "m": "aerobion",
-        "ex": [
-          {
-            "e": "Study aerobion.",
-            "c": "学习aerobion。"
-          }
-        ]
-      },
-      {
         "w": "aerobiont",
         "p": "/aerobiont/",
         "pos": "n",
@@ -23050,38 +33322,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerobiosis",
-        "p": "/aerobiosis/",
-        "pos": "n",
-        "m": "aerobiosis",
-        "ex": [
-          {
-            "e": "Study aerobiosis.",
-            "c": "学习aerobiosis。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 94,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "aerobiotic",
-        "p": "/aerobiotic/",
-        "pos": "n",
-        "m": "aerobiotic",
-        "ex": [
-          {
-            "e": "Study aerobiotic.",
-            "c": "学习aerobiotic。"
-          }
-        ]
-      },
-      {
         "w": "aerobiotically",
         "p": "/aerobiotically/",
         "pos": "n",
@@ -23102,30 +33342,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerobious.",
             "c": "学习aerobious。"
-          }
-        ]
-      },
-      {
-        "w": "aerobium",
-        "p": "/aerobium/",
-        "pos": "n",
-        "m": "aerobium",
-        "ex": [
-          {
-            "e": "Study aerobium.",
-            "c": "学习aerobium。"
-          }
-        ]
-      },
-      {
-        "w": "aeroboat",
-        "p": "/aeroboat/",
-        "pos": "n",
-        "m": "aeroboat",
-        "ex": [
-          {
-            "e": "Study aeroboat.",
-            "c": "学习aeroboat。"
           }
         ]
       },
@@ -23162,18 +33378,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerobus.",
             "c": "学习aerobus。"
-          }
-        ]
-      },
-      {
-        "w": "aerocamera",
-        "p": "/aerocamera/",
-        "pos": "n",
-        "m": "aerocamera",
-        "ex": [
-          {
-            "e": "Study aerocamera.",
-            "c": "学习aerocamera。"
           }
         ]
       },
@@ -23226,18 +33430,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerocolpos",
-        "p": "/aerocolpos/",
-        "pos": "n",
-        "m": "aerocolpos",
-        "ex": [
-          {
-            "e": "Study aerocolpos.",
-            "c": "学习aerocolpos。"
-          }
-        ]
-      },
-      {
         "w": "aerocraft",
         "p": "/aerocraft/",
         "pos": "n",
@@ -23262,18 +33454,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerocyst",
-        "p": "/aerocyst/",
-        "pos": "n",
-        "m": "aerocyst",
-        "ex": [
-          {
-            "e": "Study aerocyst.",
-            "c": "学习aerocyst。"
-          }
-        ]
-      },
-      {
         "w": "aerodermectasia",
         "p": "/aerodermectasia/",
         "pos": "n",
@@ -23282,18 +33462,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerodermectasia.",
             "c": "学习aerodermectasia。"
-          }
-        ]
-      },
-      {
-        "w": "aerodone",
-        "p": "/aerodone/",
-        "pos": "n",
-        "m": "aerodone",
-        "ex": [
-          {
-            "e": "Study aerodone.",
-            "c": "学习aerodone。"
           }
         ]
       },
@@ -23312,10 +33480,10 @@ export const toeflVocabulary = [
     ]
   },
   {
-    "day": 95,
+    "day": 136,
     "theme": "Vocabulary",
     "stage": 1,
-    "cefr": "TOEFL",
+    "cefr": "X",
     "words": [
       {
         "w": "aerodonetics",
@@ -23342,30 +33510,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerodontia",
-        "p": "/aerodontia/",
-        "pos": "n",
-        "m": "aerodontia",
-        "ex": [
-          {
-            "e": "Study aerodontia.",
-            "c": "学习aerodontia。"
-          }
-        ]
-      },
-      {
-        "w": "aerodontic",
-        "p": "/aerodontic/",
-        "pos": "n",
-        "m": "aerodontic",
-        "ex": [
-          {
-            "e": "Study aerodontic.",
-            "c": "学习aerodontic。"
-          }
-        ]
-      },
-      {
         "w": "aerodrome",
         "p": "/aerodrome/",
         "pos": "n",
@@ -23378,18 +33522,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerodromes",
-        "p": "/aerodromes/",
-        "pos": "n",
-        "m": "aerodromes",
-        "ex": [
-          {
-            "e": "Study aerodromes.",
-            "c": "学习aerodromes。"
-          }
-        ]
-      },
-      {
         "w": "aerodromics",
         "p": "/aerodromics/",
         "pos": "n",
@@ -23398,18 +33530,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerodromics.",
             "c": "学习aerodromics。"
-          }
-        ]
-      },
-      {
-        "w": "aeroduct",
-        "p": "/aeroduct/",
-        "pos": "n",
-        "m": "aeroduct",
-        "ex": [
-          {
-            "e": "Study aeroduct.",
-            "c": "学习aeroduct。"
           }
         ]
       },
@@ -23486,18 +33606,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerodyne",
-        "p": "/aerodyne/",
-        "pos": "n",
-        "m": "aerodyne",
-        "ex": [
-          {
-            "e": "Study aerodyne.",
-            "c": "学习aerodyne。"
-          }
-        ]
-      },
-      {
         "w": "aerodynes",
         "p": "/aerodynes/",
         "pos": "n",
@@ -23556,26 +33664,6 @@ export const toeflVocabulary = [
             "c": "学习aeroembolism。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 96,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "aerofoil",
-        "p": "/aerofoil/",
-        "pos": "n",
-        "m": "aerofoil",
-        "ex": [
-          {
-            "e": "Study aerofoil.",
-            "c": "学习aerofoil。"
-          }
-        ]
       },
       {
         "w": "aerofoils",
@@ -23602,18 +33690,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerogels",
-        "p": "/aerogels/",
-        "pos": "n",
-        "m": "aerogels",
-        "ex": [
-          {
-            "e": "Study aerogels.",
-            "c": "学习aerogels。"
-          }
-        ]
-      },
-      {
         "w": "aerogen",
         "p": "/aerogen/",
         "pos": "n",
@@ -23622,18 +33698,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerogen.",
             "c": "学习aerogen。"
-          }
-        ]
-      },
-      {
-        "w": "aerogene",
-        "p": "/aerogene/",
-        "pos": "n",
-        "m": "aerogene",
-        "ex": [
-          {
-            "e": "Study aerogene.",
-            "c": "学习aerogene。"
           }
         ]
       },
@@ -23660,7 +33724,15 @@ export const toeflVocabulary = [
             "c": "学习aerogenesis。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 137,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "aerogenic",
         "p": "/aerogenic/",
@@ -23682,18 +33754,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerogenically.",
             "c": "学习aerogenically。"
-          }
-        ]
-      },
-      {
-        "w": "aerogenous",
-        "p": "/aerogenous/",
-        "pos": "n",
-        "m": "aerogenous",
-        "ex": [
-          {
-            "e": "Study aerogenous.",
-            "c": "学习aerogenous。"
           }
         ]
       },
@@ -23746,30 +33806,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerogram",
-        "p": "/aerogram/",
-        "pos": "n",
-        "m": "aerogram",
-        "ex": [
-          {
-            "e": "Study aerogram.",
-            "c": "学习aerogram。"
-          }
-        ]
-      },
-      {
-        "w": "aerogramme",
-        "p": "/aerogramme/",
-        "pos": "n",
-        "m": "aerogramme",
-        "ex": [
-          {
-            "e": "Study aerogramme.",
-            "c": "学习aerogramme。"
-          }
-        ]
-      },
-      {
         "w": "aerograms",
         "p": "/aerograms/",
         "pos": "n",
@@ -23804,15 +33840,7 @@ export const toeflVocabulary = [
             "c": "学习aerographer。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 97,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "aerographic",
         "p": "/aerographic/",
@@ -23858,18 +33886,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerographies.",
             "c": "学习aerographies。"
-          }
-        ]
-      },
-      {
-        "w": "aerography",
-        "p": "/aerography/",
-        "pos": "n",
-        "m": "aerography",
-        "ex": [
-          {
-            "e": "Study aerography.",
-            "c": "学习aerography。"
           }
         ]
       },
@@ -23922,30 +33938,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aeroides",
-        "p": "/aeroides/",
-        "pos": "n",
-        "m": "aeroides",
-        "ex": [
-          {
-            "e": "Study aeroides.",
-            "c": "学习aeroides。"
-          }
-        ]
-      },
-      {
-        "w": "aerolite",
-        "p": "/aerolite/",
-        "pos": "n",
-        "m": "aerolite",
-        "ex": [
-          {
-            "e": "Study aerolite.",
-            "c": "学习aerolite。"
-          }
-        ]
-      },
-      {
         "w": "aerolites",
         "p": "/aerolites/",
         "pos": "n",
@@ -23954,18 +33946,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerolites.",
             "c": "学习aerolites。"
-          }
-        ]
-      },
-      {
-        "w": "aerolith",
-        "p": "/aerolith/",
-        "pos": "n",
-        "m": "aerolith",
-        "ex": [
-          {
-            "e": "Study aerolith.",
-            "c": "学习aerolith。"
           }
         ]
       },
@@ -23992,7 +33972,15 @@ export const toeflVocabulary = [
             "c": "学习aeroliths。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 138,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "aerolitic",
         "p": "/aerolitic/",
@@ -24002,18 +33990,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerolitic.",
             "c": "学习aerolitic。"
-          }
-        ]
-      },
-      {
-        "w": "aerolitics",
-        "p": "/aerolitics/",
-        "pos": "n",
-        "m": "aerolitics",
-        "ex": [
-          {
-            "e": "Study aerolitics.",
-            "c": "学习aerolitics。"
           }
         ]
       },
@@ -24042,38 +34018,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerologies",
-        "p": "/aerologies/",
-        "pos": "n",
-        "m": "aerologies",
-        "ex": [
-          {
-            "e": "Study aerologies.",
-            "c": "学习aerologies。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 98,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "aerologist",
-        "p": "/aerologist/",
-        "pos": "n",
-        "m": "aerologist",
-        "ex": [
-          {
-            "e": "Study aerologist.",
-            "c": "学习aerologist。"
-          }
-        ]
-      },
-      {
         "w": "aerologists",
         "p": "/aerologists/",
         "pos": "n",
@@ -24082,18 +34026,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerologists.",
             "c": "学习aerologists。"
-          }
-        ]
-      },
-      {
-        "w": "aerology",
-        "p": "/aerology/",
-        "pos": "n",
-        "m": "aerology",
-        "ex": [
-          {
-            "e": "Study aerology.",
-            "c": "学习aerology。"
           }
         ]
       },
@@ -24122,18 +34054,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aeromancer",
-        "p": "/aeromancer/",
-        "pos": "n",
-        "m": "aeromancer",
-        "ex": [
-          {
-            "e": "Study aeromancer.",
-            "c": "学习aeromancer。"
-          }
-        ]
-      },
-      {
         "w": "aeromancy",
         "p": "/aeromancy/",
         "pos": "n",
@@ -24142,30 +34062,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aeromancy.",
             "c": "学习aeromancy。"
-          }
-        ]
-      },
-      {
-        "w": "aeromantic",
-        "p": "/aeromantic/",
-        "pos": "n",
-        "m": "aeromantic",
-        "ex": [
-          {
-            "e": "Study aeromantic.",
-            "c": "学习aeromantic。"
-          }
-        ]
-      },
-      {
-        "w": "aeromarine",
-        "p": "/aeromarine/",
-        "pos": "n",
-        "m": "aeromarine",
-        "ex": [
-          {
-            "e": "Study aeromarine.",
-            "c": "学习aeromarine。"
           }
         ]
       },
@@ -24242,18 +34138,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerometric",
-        "p": "/aerometric/",
-        "pos": "n",
-        "m": "aerometric",
-        "ex": [
-          {
-            "e": "Study aerometric.",
-            "c": "学习aerometric。"
-          }
-        ]
-      },
-      {
         "w": "aerometry",
         "p": "/aerometry/",
         "pos": "n",
@@ -24278,18 +34162,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aeron",
-        "p": "/aeron/",
-        "pos": "n",
-        "m": "aeron",
-        "ex": [
-          {
-            "e": "Study aeron.",
-            "c": "学习aeron。"
-          }
-        ]
-      },
-      {
         "w": "aeronat",
         "p": "/aeronat/",
         "pos": "n",
@@ -24298,38 +34170,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aeronat.",
             "c": "学习aeronat。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 99,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "aeronaut",
-        "p": "/aeronaut/",
-        "pos": "n",
-        "m": "aeronaut",
-        "ex": [
-          {
-            "e": "Study aeronaut.",
-            "c": "学习aeronaut。"
-          }
-        ]
-      },
-      {
-        "w": "aeronautic",
-        "p": "/aeronautic/",
-        "pos": "n",
-        "m": "aeronautic",
-        "ex": [
-          {
-            "e": "Study aeronautic.",
-            "c": "学习aeronautic。"
           }
         ]
       },
@@ -24380,7 +34220,15 @@ export const toeflVocabulary = [
             "c": "学习aeronautism。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 139,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "aeronauts",
         "p": "/aeronauts/",
@@ -24454,54 +34302,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aeronomics",
-        "p": "/aeronomics/",
-        "pos": "n",
-        "m": "aeronomics",
-        "ex": [
-          {
-            "e": "Study aeronomics.",
-            "c": "学习aeronomics。"
-          }
-        ]
-      },
-      {
-        "w": "aeronomies",
-        "p": "/aeronomies/",
-        "pos": "n",
-        "m": "aeronomies",
-        "ex": [
-          {
-            "e": "Study aeronomies.",
-            "c": "学习aeronomies。"
-          }
-        ]
-      },
-      {
-        "w": "aeronomist",
-        "p": "/aeronomist/",
-        "pos": "n",
-        "m": "aeronomist",
-        "ex": [
-          {
-            "e": "Study aeronomist.",
-            "c": "学习aeronomist。"
-          }
-        ]
-      },
-      {
-        "w": "aeronomy",
-        "p": "/aeronomy/",
-        "pos": "n",
-        "m": "aeronomy",
-        "ex": [
-          {
-            "e": "Study aeronomy.",
-            "c": "学习aeronomy。"
-          }
-        ]
-      },
-      {
         "w": "aeropathy",
         "p": "/aeropathy/",
         "pos": "n",
@@ -24526,18 +34326,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerope",
-        "p": "/aerope/",
-        "pos": "n",
-        "m": "aerope",
-        "ex": [
-          {
-            "e": "Study aerope.",
-            "c": "学习aerope。"
-          }
-        ]
-      },
-      {
         "w": "aeroperitoneum",
         "p": "/aeroperitoneum/",
         "pos": "n",
@@ -24548,15 +34336,7 @@ export const toeflVocabulary = [
             "c": "学习aeroperitoneum。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 100,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "aeroperitonia",
         "p": "/aeroperitonia/",
@@ -24566,18 +34346,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aeroperitonia.",
             "c": "学习aeroperitonia。"
-          }
-        ]
-      },
-      {
-        "w": "aerophagia",
-        "p": "/aerophagia/",
-        "pos": "n",
-        "m": "aerophagia",
-        "ex": [
-          {
-            "e": "Study aerophagia.",
-            "c": "学习aerophagia。"
           }
         ]
       },
@@ -24666,30 +34434,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerophilia",
-        "p": "/aerophilia/",
-        "pos": "n",
-        "m": "aerophilia",
-        "ex": [
-          {
-            "e": "Study aerophilia.",
-            "c": "学习aerophilia。"
-          }
-        ]
-      },
-      {
-        "w": "aerophilic",
-        "p": "/aerophilic/",
-        "pos": "n",
-        "m": "aerophilic",
-        "ex": [
-          {
-            "e": "Study aerophilic.",
-            "c": "学习aerophilic。"
-          }
-        ]
-      },
-      {
         "w": "aerophilous",
         "p": "/aerophilous/",
         "pos": "n",
@@ -24698,30 +34442,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerophilous.",
             "c": "学习aerophilous。"
-          }
-        ]
-      },
-      {
-        "w": "aerophobia",
-        "p": "/aerophobia/",
-        "pos": "n",
-        "m": "aerophobia",
-        "ex": [
-          {
-            "e": "Study aerophobia.",
-            "c": "学习aerophobia。"
-          }
-        ]
-      },
-      {
-        "w": "aerophobic",
-        "p": "/aerophobic/",
-        "pos": "n",
-        "m": "aerophobic",
-        "ex": [
-          {
-            "e": "Study aerophobic.",
-            "c": "学习aerophobic。"
           }
         ]
       },
@@ -24738,18 +34458,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerophor",
-        "p": "/aerophor/",
-        "pos": "n",
-        "m": "aerophor",
-        "ex": [
-          {
-            "e": "Study aerophor.",
-            "c": "学习aerophor。"
-          }
-        ]
-      },
-      {
         "w": "aerophore",
         "p": "/aerophore/",
         "pos": "n",
@@ -24760,7 +34468,15 @@ export const toeflVocabulary = [
             "c": "学习aerophore。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 140,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "aerophoto",
         "p": "/aerophoto/",
@@ -24785,26 +34501,6 @@ export const toeflVocabulary = [
           }
         ]
       },
-      {
-        "w": "aerophotos",
-        "p": "/aerophotos/",
-        "pos": "n",
-        "m": "aerophotos",
-        "ex": [
-          {
-            "e": "Study aerophotos.",
-            "c": "学习aerophotos。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 101,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
       {
         "w": "aerophysical",
         "p": "/aerophysical/",
@@ -24862,30 +34558,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aeroplane.",
             "c": "学习aeroplane。"
-          }
-        ]
-      },
-      {
-        "w": "aeroplaner",
-        "p": "/aeroplaner/",
-        "pos": "n",
-        "m": "aeroplaner",
-        "ex": [
-          {
-            "e": "Study aeroplaner.",
-            "c": "学习aeroplaner。"
-          }
-        ]
-      },
-      {
-        "w": "aeroplanes",
-        "p": "/aeroplanes/",
-        "pos": "n",
-        "m": "aeroplanes",
-        "ex": [
-          {
-            "e": "Study aeroplanes.",
-            "c": "学习aeroplanes。"
           }
         ]
       },
@@ -24962,18 +34634,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerosats",
-        "p": "/aerosats/",
-        "pos": "n",
-        "m": "aerosats",
-        "ex": [
-          {
-            "e": "Study aerosats.",
-            "c": "学习aerosats。"
-          }
-        ]
-      },
-      {
         "w": "aeroscepsis",
         "p": "/aeroscepsis/",
         "pos": "n",
@@ -24986,18 +34646,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aeroscepsy",
-        "p": "/aeroscepsy/",
-        "pos": "n",
-        "m": "aeroscepsy",
-        "ex": [
-          {
-            "e": "Study aeroscepsy.",
-            "c": "学习aeroscepsy。"
-          }
-        ]
-      },
-      {
         "w": "aeroscope",
         "p": "/aeroscope/",
         "pos": "n",
@@ -25006,18 +34654,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aeroscope.",
             "c": "学习aeroscope。"
-          }
-        ]
-      },
-      {
-        "w": "aeroscopic",
-        "p": "/aeroscopic/",
-        "pos": "n",
-        "m": "aeroscopic",
-        "ex": [
-          {
-            "e": "Study aeroscopic.",
-            "c": "学习aeroscopic。"
           }
         ]
       },
@@ -25042,26 +34678,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aeroscopy.",
             "c": "学习aeroscopy。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 102,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "aerose",
-        "p": "/aerose/",
-        "pos": "n",
-        "m": "aerose",
-        "ex": [
-          {
-            "e": "Study aerose.",
-            "c": "学习aerose。"
           }
         ]
       },
@@ -25100,7 +34716,15 @@ export const toeflVocabulary = [
             "c": "学习aerosinusitis。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 141,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "aerosol",
         "p": "/aerosol/",
@@ -25122,18 +34746,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerosolization.",
             "c": "学习aerosolization。"
-          }
-        ]
-      },
-      {
-        "w": "aerosolize",
-        "p": "/aerosolize/",
-        "pos": "n",
-        "m": "aerosolize",
-        "ex": [
-          {
-            "e": "Study aerosolize.",
-            "c": "学习aerosolize。"
           }
         ]
       },
@@ -25162,18 +34774,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerosols",
-        "p": "/aerosols/",
-        "pos": "n",
-        "m": "aerosols",
-        "ex": [
-          {
-            "e": "Study aerosols.",
-            "c": "学习aerosols。"
-          }
-        ]
-      },
-      {
         "w": "aerospace",
         "p": "/aerospace/",
         "pos": "n",
@@ -25182,54 +34782,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerospace.",
             "c": "学习aerospace。"
-          }
-        ]
-      },
-      {
-        "w": "aerosphere",
-        "p": "/aerosphere/",
-        "pos": "n",
-        "m": "aerosphere",
-        "ex": [
-          {
-            "e": "Study aerosphere.",
-            "c": "学习aerosphere。"
-          }
-        ]
-      },
-      {
-        "w": "aerosporin",
-        "p": "/aerosporin/",
-        "pos": "n",
-        "m": "aerosporin",
-        "ex": [
-          {
-            "e": "Study aerosporin.",
-            "c": "学习aerosporin。"
-          }
-        ]
-      },
-      {
-        "w": "aerostat",
-        "p": "/aerostat/",
-        "pos": "n",
-        "m": "aerostat",
-        "ex": [
-          {
-            "e": "Study aerostat.",
-            "c": "学习aerostat。"
-          }
-        ]
-      },
-      {
-        "w": "aerostatic",
-        "p": "/aerostatic/",
-        "pos": "n",
-        "m": "aerostatic",
-        "ex": [
-          {
-            "e": "Study aerostatic.",
-            "c": "学习aerostatic。"
           }
         ]
       },
@@ -25290,26 +34842,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerosteam.",
             "c": "学习aerosteam。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 103,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "aerotactic",
-        "p": "/aerotactic/",
-        "pos": "n",
-        "m": "aerotactic",
-        "ex": [
-          {
-            "e": "Study aerotactic.",
-            "c": "学习aerotactic。"
           }
         ]
       },
@@ -25410,18 +34942,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aerotropic",
-        "p": "/aerotropic/",
-        "pos": "n",
-        "m": "aerotropic",
-        "ex": [
-          {
-            "e": "Study aerotropic.",
-            "c": "学习aerotropic。"
-          }
-        ]
-      },
-      {
         "w": "aerotropism",
         "p": "/aerotropism/",
         "pos": "n",
@@ -25430,18 +34950,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aerotropism.",
             "c": "学习aerotropism。"
-          }
-        ]
-      },
-      {
-        "w": "aeroview",
-        "p": "/aeroview/",
-        "pos": "n",
-        "m": "aeroview",
-        "ex": [
-          {
-            "e": "Study aeroview.",
-            "c": "学习aeroview。"
           }
         ]
       },
@@ -25456,31 +34964,15 @@ export const toeflVocabulary = [
             "c": "学习aeroyacht。"
           }
         ]
-      },
-      {
-        "w": "aeruginous",
-        "p": "/aeruginous/",
-        "pos": "n",
-        "m": "aeruginous",
-        "ex": [
-          {
-            "e": "Study aeruginous.",
-            "c": "学习aeruginous。"
-          }
-        ]
-      },
-      {
-        "w": "aerugo",
-        "p": "/aerugo/",
-        "pos": "n",
-        "m": "aerugo",
-        "ex": [
-          {
-            "e": "Study aerugo.",
-            "c": "学习aerugo。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 142,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "aerugos",
         "p": "/aerugos/",
@@ -25493,62 +34985,6 @@ export const toeflVocabulary = [
           }
         ]
       },
-      {
-        "w": "aery",
-        "p": "/aery/",
-        "pos": "n",
-        "m": "aery",
-        "ex": [
-          {
-            "e": "Study aery.",
-            "c": "学习aery。"
-          }
-        ]
-      },
-      {
-        "w": "aes",
-        "p": "/aes/",
-        "pos": "n",
-        "m": "aes",
-        "ex": [
-          {
-            "e": "Study aes.",
-            "c": "学习aes。"
-          }
-        ]
-      },
-      {
-        "w": "aesc",
-        "p": "/aesc/",
-        "pos": "n",
-        "m": "aesc",
-        "ex": [
-          {
-            "e": "Study aesc.",
-            "c": "学习aesc。"
-          }
-        ]
-      },
-      {
-        "w": "aeschylean",
-        "p": "/aeschylean/",
-        "pos": "n",
-        "m": "aeschylean",
-        "ex": [
-          {
-            "e": "Study aeschylean.",
-            "c": "学习aeschylean。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 104,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
       {
         "w": "aeschylus",
         "p": "/aeschylus/",
@@ -25570,18 +35006,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aeschynanthus.",
             "c": "学习aeschynanthus。"
-          }
-        ]
-      },
-      {
-        "w": "aeschynite",
-        "p": "/aeschynite/",
-        "pos": "n",
-        "m": "aeschynite",
-        "ex": [
-          {
-            "e": "Study aeschynite.",
-            "c": "学习aeschynite。"
           }
         ]
       },
@@ -25658,78 +35082,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aesculetin",
-        "p": "/aesculetin/",
-        "pos": "n",
-        "m": "aesculetin",
-        "ex": [
-          {
-            "e": "Study aesculetin.",
-            "c": "学习aesculetin。"
-          }
-        ]
-      },
-      {
-        "w": "aesculin",
-        "p": "/aesculin/",
-        "pos": "n",
-        "m": "aesculin",
-        "ex": [
-          {
-            "e": "Study aesculin.",
-            "c": "学习aesculin。"
-          }
-        ]
-      },
-      {
-        "w": "aesculus",
-        "p": "/aesculus/",
-        "pos": "n",
-        "m": "aesculus",
-        "ex": [
-          {
-            "e": "Study aesculus.",
-            "c": "学习aesculus。"
-          }
-        ]
-      },
-      {
-        "w": "aesir",
-        "p": "/aesir/",
-        "pos": "n",
-        "m": "aesir",
-        "ex": [
-          {
-            "e": "Study aesir.",
-            "c": "学习aesir。"
-          }
-        ]
-      },
-      {
-        "w": "aesop",
-        "p": "/aesop/",
-        "pos": "n",
-        "m": "aesop",
-        "ex": [
-          {
-            "e": "Study aesop.",
-            "c": "学习aesop。"
-          }
-        ]
-      },
-      {
-        "w": "aesopian",
-        "p": "/aesopian/",
-        "pos": "n",
-        "m": "aesopian",
-        "ex": [
-          {
-            "e": "Study aesopian.",
-            "c": "学习aesopian。"
-          }
-        ]
-      },
-      {
         "w": "aesopic",
         "p": "/aesopic/",
         "pos": "n",
@@ -25766,18 +35118,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aesthesics",
-        "p": "/aesthesics/",
-        "pos": "n",
-        "m": "aesthesics",
-        "ex": [
-          {
-            "e": "Study aesthesics.",
-            "c": "学习aesthesics。"
-          }
-        ]
-      },
-      {
         "w": "aesthesis",
         "p": "/aesthesis/",
         "pos": "n",
@@ -25788,15 +35128,7 @@ export const toeflVocabulary = [
             "c": "学习aesthesis。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 105,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "aesthesodic",
         "p": "/aesthesodic/",
@@ -25806,18 +35138,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aesthesodic.",
             "c": "学习aesthesodic。"
-          }
-        ]
-      },
-      {
-        "w": "aesthete",
-        "p": "/aesthete/",
-        "pos": "n",
-        "m": "aesthete",
-        "ex": [
-          {
-            "e": "Study aesthete.",
-            "c": "学习aesthete。"
           }
         ]
       },
@@ -25892,7 +35212,15 @@ export const toeflVocabulary = [
             "c": "学习aestheticism。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 143,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "aestheticist",
         "p": "/aestheticist/",
@@ -25918,18 +35246,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aesthetics",
-        "p": "/aesthetics/",
-        "pos": "n",
-        "m": "aesthetics",
-        "ex": [
-          {
-            "e": "Study aesthetics.",
-            "c": "学习aesthetics。"
-          }
-        ]
-      },
-      {
         "w": "aesthiology",
         "p": "/aesthiology/",
         "pos": "n",
@@ -25942,30 +35258,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aestii",
-        "p": "/aestii/",
-        "pos": "n",
-        "m": "aestii",
-        "ex": [
-          {
-            "e": "Study aestii.",
-            "c": "学习aestii。"
-          }
-        ]
-      },
-      {
-        "w": "aestival",
-        "p": "/aestival/",
-        "pos": "n",
-        "m": "aestival",
-        "ex": [
-          {
-            "e": "Study aestival.",
-            "c": "学习aestival。"
-          }
-        ]
-      },
-      {
         "w": "aestivate",
         "p": "/aestivate/",
         "pos": "n",
@@ -25974,30 +35266,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aestivate.",
             "c": "学习aestivate。"
-          }
-        ]
-      },
-      {
-        "w": "aestivated",
-        "p": "/aestivated/",
-        "pos": "n",
-        "m": "aestivated",
-        "ex": [
-          {
-            "e": "Study aestivated.",
-            "c": "学习aestivated。"
-          }
-        ]
-      },
-      {
-        "w": "aestivates",
-        "p": "/aestivates/",
-        "pos": "n",
-        "m": "aestivates",
-        "ex": [
-          {
-            "e": "Study aestivates.",
-            "c": "学习aestivates。"
           }
         ]
       },
@@ -26026,26 +35294,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aestivator",
-        "p": "/aestivator/",
-        "pos": "n",
-        "m": "aestivator",
-        "ex": [
-          {
-            "e": "Study aestivator.",
-            "c": "学习aestivator。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 106,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
         "w": "aestive",
         "p": "/aestive/",
         "pos": "n",
@@ -26058,54 +35306,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aestuary",
-        "p": "/aestuary/",
-        "pos": "n",
-        "m": "aestuary",
-        "ex": [
-          {
-            "e": "Study aestuary.",
-            "c": "学习aestuary。"
-          }
-        ]
-      },
-      {
-        "w": "aestuate",
-        "p": "/aestuate/",
-        "pos": "n",
-        "m": "aestuate",
-        "ex": [
-          {
-            "e": "Study aestuate.",
-            "c": "学习aestuate。"
-          }
-        ]
-      },
-      {
-        "w": "aestuation",
-        "p": "/aestuation/",
-        "pos": "n",
-        "m": "aestuation",
-        "ex": [
-          {
-            "e": "Study aestuation.",
-            "c": "学习aestuation。"
-          }
-        ]
-      },
-      {
-        "w": "aestuous",
-        "p": "/aestuous/",
-        "pos": "n",
-        "m": "aestuous",
-        "ex": [
-          {
-            "e": "Study aestuous.",
-            "c": "学习aestuous。"
-          }
-        ]
-      },
-      {
         "w": "aesture",
         "p": "/aesture/",
         "pos": "n",
@@ -26114,66 +35314,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aesture.",
             "c": "学习aesture。"
-          }
-        ]
-      },
-      {
-        "w": "aestus",
-        "p": "/aestus/",
-        "pos": "n",
-        "m": "aestus",
-        "ex": [
-          {
-            "e": "Study aestus.",
-            "c": "学习aestus。"
-          }
-        ]
-      },
-      {
-        "w": "aet",
-        "p": "/aet/",
-        "pos": "n",
-        "m": "aet",
-        "ex": [
-          {
-            "e": "Study aet.",
-            "c": "学习aet。"
-          }
-        ]
-      },
-      {
-        "w": "aetat",
-        "p": "/aetat/",
-        "pos": "n",
-        "m": "aetat",
-        "ex": [
-          {
-            "e": "Study aetat.",
-            "c": "学习aetat。"
-          }
-        ]
-      },
-      {
-        "w": "aethalia",
-        "p": "/aethalia/",
-        "pos": "n",
-        "m": "aethalia",
-        "ex": [
-          {
-            "e": "Study aethalia.",
-            "c": "学习aethalia。"
-          }
-        ]
-      },
-      {
-        "w": "aethalioid",
-        "p": "/aethalioid/",
-        "pos": "n",
-        "m": "aethalioid",
-        "ex": [
-          {
-            "e": "Study aethalioid.",
-            "c": "学习aethalioid。"
           }
         ]
       },
@@ -26238,18 +35378,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aether",
-        "p": "/aether/",
-        "pos": "n",
-        "m": "aether",
-        "ex": [
-          {
-            "e": "Study aether.",
-            "c": "学习aether。"
-          }
-        ]
-      },
-      {
         "w": "aethereal",
         "p": "/aethereal/",
         "pos": "n",
@@ -26262,38 +35390,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aethered",
-        "p": "/aethered/",
-        "pos": "n",
-        "m": "aethered",
-        "ex": [
-          {
-            "e": "Study aethered.",
-            "c": "学习aethered。"
-          }
-        ]
-      },
-      {
-        "w": "aetheric",
-        "p": "/aetheric/",
-        "pos": "n",
-        "m": "aetheric",
-        "ex": [
-          {
-            "e": "Study aetheric.",
-            "c": "学习aetheric。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 107,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
         "w": "aethers",
         "p": "/aethers/",
         "pos": "n",
@@ -26302,42 +35398,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aethers.",
             "c": "学习aethers。"
-          }
-        ]
-      },
-      {
-        "w": "aethionema",
-        "p": "/aethionema/",
-        "pos": "n",
-        "m": "aethionema",
-        "ex": [
-          {
-            "e": "Study aethionema.",
-            "c": "学习aethionema。"
-          }
-        ]
-      },
-      {
-        "w": "aethogen",
-        "p": "/aethogen/",
-        "pos": "n",
-        "m": "aethogen",
-        "ex": [
-          {
-            "e": "Study aethogen.",
-            "c": "学习aethogen。"
-          }
-        ]
-      },
-      {
-        "w": "aethon",
-        "p": "/aethon/",
-        "pos": "n",
-        "m": "aethon",
-        "ex": [
-          {
-            "e": "Study aethon.",
-            "c": "学习aethon。"
           }
         ]
       },
@@ -26362,30 +35422,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aethusa.",
             "c": "学习aethusa。"
-          }
-        ]
-      },
-      {
-        "w": "aetian",
-        "p": "/aetian/",
-        "pos": "n",
-        "m": "aetian",
-        "ex": [
-          {
-            "e": "Study aetian.",
-            "c": "学习aetian。"
-          }
-        ]
-      },
-      {
-        "w": "aetiogenic",
-        "p": "/aetiogenic/",
-        "pos": "n",
-        "m": "aetiogenic",
-        "ex": [
-          {
-            "e": "Study aetiogenic.",
-            "c": "学习aetiogenic。"
           }
         ]
       },
@@ -26424,7 +35460,15 @@ export const toeflVocabulary = [
             "c": "学习aetiologies。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 144,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "aetiologist",
         "p": "/aetiologist/",
@@ -26434,18 +35478,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aetiologist.",
             "c": "学习aetiologist。"
-          }
-        ]
-      },
-      {
-        "w": "aetiologue",
-        "p": "/aetiologue/",
-        "pos": "n",
-        "m": "aetiologue",
-        "ex": [
-          {
-            "e": "Study aetiologue.",
-            "c": "学习aetiologue。"
           }
         ]
       },
@@ -26532,26 +35564,6 @@ export const toeflVocabulary = [
             "c": "学习aetobatus。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 108,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "aetolian",
-        "p": "/aetolian/",
-        "pos": "n",
-        "m": "aetolian",
-        "ex": [
-          {
-            "e": "Study aetolian.",
-            "c": "学习aetolian。"
-          }
-        ]
       },
       {
         "w": "aetomorphae",
@@ -26562,18 +35574,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aetomorphae.",
             "c": "学习aetomorphae。"
-          }
-        ]
-      },
-      {
-        "w": "aetosaur",
-        "p": "/aetosaur/",
-        "pos": "n",
-        "m": "aetosaur",
-        "ex": [
-          {
-            "e": "Study aetosaur.",
-            "c": "学习aetosaur。"
           }
         ]
       },
@@ -26590,18 +35590,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "aetosaurus",
-        "p": "/aetosaurus/",
-        "pos": "n",
-        "m": "aetosaurus",
-        "ex": [
-          {
-            "e": "Study aetosaurus.",
-            "c": "学习aetosaurus。"
-          }
-        ]
-      },
-      {
         "w": "aettekees",
         "p": "/aettekees/",
         "pos": "n",
@@ -26610,66 +35598,6 @@ export const toeflVocabulary = [
           {
             "e": "Study aettekees.",
             "c": "学习aettekees。"
-          }
-        ]
-      },
-      {
-        "w": "aevia",
-        "p": "/aevia/",
-        "pos": "n",
-        "m": "aevia",
-        "ex": [
-          {
-            "e": "Study aevia.",
-            "c": "学习aevia。"
-          }
-        ]
-      },
-      {
-        "w": "aeviternal",
-        "p": "/aeviternal/",
-        "pos": "n",
-        "m": "aeviternal",
-        "ex": [
-          {
-            "e": "Study aeviternal.",
-            "c": "学习aeviternal。"
-          }
-        ]
-      },
-      {
-        "w": "aevum",
-        "p": "/aevum/",
-        "pos": "n",
-        "m": "aevum",
-        "ex": [
-          {
-            "e": "Study aevum.",
-            "c": "学习aevum。"
-          }
-        ]
-      },
-      {
-        "w": "aface",
-        "p": "/aface/",
-        "pos": "n",
-        "m": "aface",
-        "ex": [
-          {
-            "e": "Study aface.",
-            "c": "学习aface。"
-          }
-        ]
-      },
-      {
-        "w": "afaced",
-        "p": "/afaced/",
-        "pos": "n",
-        "m": "afaced",
-        "ex": [
-          {
-            "e": "Study afaced.",
-            "c": "学习afaced。"
           }
         ]
       },
@@ -26686,78 +35614,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "afaint",
-        "p": "/afaint/",
-        "pos": "n",
-        "m": "afaint",
-        "ex": [
-          {
-            "e": "Study afaint.",
-            "c": "学习afaint。"
-          }
-        ]
-      },
-      {
-        "w": "afar",
-        "p": "/afar/",
-        "pos": "n",
-        "m": "afar",
-        "ex": [
-          {
-            "e": "Study afar.",
-            "c": "学习afar。"
-          }
-        ]
-      },
-      {
-        "w": "afara",
-        "p": "/afara/",
-        "pos": "n",
-        "m": "afara",
-        "ex": [
-          {
-            "e": "Study afara.",
-            "c": "学习afara。"
-          }
-        ]
-      },
-      {
-        "w": "afars",
-        "p": "/afars/",
-        "pos": "n",
-        "m": "afars",
-        "ex": [
-          {
-            "e": "Study afars.",
-            "c": "学习afars。"
-          }
-        ]
-      },
-      {
-        "w": "afb",
-        "p": "/afb/",
-        "pos": "n",
-        "m": "afb",
-        "ex": [
-          {
-            "e": "Study afb.",
-            "c": "学习afb。"
-          }
-        ]
-      },
-      {
-        "w": "afd",
-        "p": "/afd/",
-        "pos": "n",
-        "m": "afd",
-        "ex": [
-          {
-            "e": "Study afd.",
-            "c": "学习afd。"
-          }
-        ]
-      },
-      {
         "w": "afdecho",
         "p": "/afdecho/",
         "pos": "n",
@@ -26766,38 +35622,6 @@ export const toeflVocabulary = [
           {
             "e": "Study afdecho.",
             "c": "学习afdecho。"
-          }
-        ]
-      },
-      {
-        "w": "afear",
-        "p": "/afear/",
-        "pos": "n",
-        "m": "afear",
-        "ex": [
-          {
-            "e": "Study afear.",
-            "c": "学习afear。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 109,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "afeard",
-        "p": "/afeard/",
-        "pos": "n",
-        "m": "afeard",
-        "ex": [
-          {
-            "e": "Study afeard.",
-            "c": "学习afeard。"
           }
         ]
       },
@@ -26814,42 +35638,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "afebrile",
-        "p": "/afebrile/",
-        "pos": "n",
-        "m": "afebrile",
-        "ex": [
-          {
-            "e": "Study afebrile.",
-            "c": "学习afebrile。"
-          }
-        ]
-      },
-      {
-        "w": "afenil",
-        "p": "/afenil/",
-        "pos": "n",
-        "m": "afenil",
-        "ex": [
-          {
-            "e": "Study afenil.",
-            "c": "学习afenil。"
-          }
-        ]
-      },
-      {
-        "w": "afer",
-        "p": "/afer/",
-        "pos": "n",
-        "m": "afer",
-        "ex": [
-          {
-            "e": "Study afer.",
-            "c": "学习afer。"
-          }
-        ]
-      },
-      {
         "w": "afernan",
         "p": "/afernan/",
         "pos": "n",
@@ -26858,54 +35646,6 @@ export const toeflVocabulary = [
           {
             "e": "Study afernan.",
             "c": "学习afernan。"
-          }
-        ]
-      },
-      {
-        "w": "afetal",
-        "p": "/afetal/",
-        "pos": "n",
-        "m": "afetal",
-        "ex": [
-          {
-            "e": "Study afetal.",
-            "c": "学习afetal。"
-          }
-        ]
-      },
-      {
-        "w": "aff",
-        "p": "/aff/",
-        "pos": "n",
-        "m": "aff",
-        "ex": [
-          {
-            "e": "Study aff.",
-            "c": "学习aff。"
-          }
-        ]
-      },
-      {
-        "w": "affa",
-        "p": "/affa/",
-        "pos": "n",
-        "m": "affa",
-        "ex": [
-          {
-            "e": "Study affa.",
-            "c": "学习affa。"
-          }
-        ]
-      },
-      {
-        "w": "affability",
-        "p": "/affability/",
-        "pos": "n",
-        "m": "affability",
-        "ex": [
-          {
-            "e": "Study affability.",
-            "c": "学习affability。"
           }
         ]
       },
@@ -26958,18 +35698,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affair",
-        "p": "/affair/",
-        "pos": "n",
-        "m": "affair",
-        "ex": [
-          {
-            "e": "Study affair.",
-            "c": "学习affair。"
-          }
-        ]
-      },
-      {
         "w": "affaire",
         "p": "/affaire/",
         "pos": "n",
@@ -26980,19 +35708,15 @@ export const toeflVocabulary = [
             "c": "学习affaire。"
           }
         ]
-      },
-      {
-        "w": "affaires",
-        "p": "/affaires/",
-        "pos": "n",
-        "m": "affaires",
-        "ex": [
-          {
-            "e": "Study affaires.",
-            "c": "学习affaires。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 145,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "affairs",
         "p": "/affairs/",
@@ -27018,26 +35742,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affamish",
-        "p": "/affamish/",
-        "pos": "n",
-        "m": "affamish",
-        "ex": [
-          {
-            "e": "Study affamish.",
-            "c": "学习affamish。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 110,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
         "w": "affatuate",
         "p": "/affatuate/",
         "pos": "n",
@@ -27050,18 +35754,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affect",
-        "p": "/affect/",
-        "pos": "n",
-        "m": "affect",
-        "ex": [
-          {
-            "e": "Study affect.",
-            "c": "学习affect。"
-          }
-        ]
-      },
-      {
         "w": "affectability",
         "p": "/affectability/",
         "pos": "n",
@@ -27070,18 +35762,6 @@ export const toeflVocabulary = [
           {
             "e": "Study affectability.",
             "c": "学习affectability。"
-          }
-        ]
-      },
-      {
-        "w": "affectable",
-        "p": "/affectable/",
-        "pos": "n",
-        "m": "affectable",
-        "ex": [
-          {
-            "e": "Study affectable.",
-            "c": "学习affectable。"
           }
         ]
       },
@@ -27134,30 +35814,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affected",
-        "p": "/affected/",
-        "pos": "n",
-        "m": "affected",
-        "ex": [
-          {
-            "e": "Study affected.",
-            "c": "学习affected。"
-          }
-        ]
-      },
-      {
-        "w": "affectedly",
-        "p": "/affectedly/",
-        "pos": "n",
-        "m": "affectedly",
-        "ex": [
-          {
-            "e": "Study affectedly.",
-            "c": "学习affectedly。"
-          }
-        ]
-      },
-      {
         "w": "affectedness",
         "p": "/affectedness/",
         "pos": "n",
@@ -27166,18 +35822,6 @@ export const toeflVocabulary = [
           {
             "e": "Study affectedness.",
             "c": "学习affectedness。"
-          }
-        ]
-      },
-      {
-        "w": "affecter",
-        "p": "/affecter/",
-        "pos": "n",
-        "m": "affecter",
-        "ex": [
-          {
-            "e": "Study affecter.",
-            "c": "学习affecter。"
           }
         ]
       },
@@ -27202,18 +35846,6 @@ export const toeflVocabulary = [
           {
             "e": "Study affectibility.",
             "c": "学习affectibility。"
-          }
-        ]
-      },
-      {
-        "w": "affectible",
-        "p": "/affectible/",
-        "pos": "n",
-        "m": "affectible",
-        "ex": [
-          {
-            "e": "Study affectible.",
-            "c": "学习affectible。"
           }
         ]
       },
@@ -27276,15 +35908,7 @@ export const toeflVocabulary = [
             "c": "学习affectionally。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 111,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "affectionate",
         "p": "/affectionate/",
@@ -27332,31 +35956,15 @@ export const toeflVocabulary = [
             "c": "学习affectionless。"
           }
         ]
-      },
-      {
-        "w": "affections",
-        "p": "/affections/",
-        "pos": "n",
-        "m": "affections",
-        "ex": [
-          {
-            "e": "Study affections.",
-            "c": "学习affections。"
-          }
-        ]
-      },
-      {
-        "w": "affectious",
-        "p": "/affectious/",
-        "pos": "n",
-        "m": "affectious",
-        "ex": [
-          {
-            "e": "Study affectious.",
-            "c": "学习affectious。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 146,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "affective",
         "p": "/affective/",
@@ -27394,18 +36002,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affectless",
-        "p": "/affectless/",
-        "pos": "n",
-        "m": "affectless",
-        "ex": [
-          {
-            "e": "Study affectless.",
-            "c": "学习affectless。"
-          }
-        ]
-      },
-      {
         "w": "affectlessness",
         "p": "/affectlessness/",
         "pos": "n",
@@ -27414,18 +36010,6 @@ export const toeflVocabulary = [
           {
             "e": "Study affectlessness.",
             "c": "学习affectlessness。"
-          }
-        ]
-      },
-      {
-        "w": "affector",
-        "p": "/affector/",
-        "pos": "n",
-        "m": "affector",
-        "ex": [
-          {
-            "e": "Study affector.",
-            "c": "学习affector。"
           }
         ]
       },
@@ -27454,122 +36038,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affectum",
-        "p": "/affectum/",
-        "pos": "n",
-        "m": "affectum",
-        "ex": [
-          {
-            "e": "Study affectum.",
-            "c": "学习affectum。"
-          }
-        ]
-      },
-      {
-        "w": "affectuous",
-        "p": "/affectuous/",
-        "pos": "n",
-        "m": "affectuous",
-        "ex": [
-          {
-            "e": "Study affectuous.",
-            "c": "学习affectuous。"
-          }
-        ]
-      },
-      {
-        "w": "affectus",
-        "p": "/affectus/",
-        "pos": "n",
-        "m": "affectus",
-        "ex": [
-          {
-            "e": "Study affectus.",
-            "c": "学习affectus。"
-          }
-        ]
-      },
-      {
-        "w": "affeeble",
-        "p": "/affeeble/",
-        "pos": "n",
-        "m": "affeeble",
-        "ex": [
-          {
-            "e": "Study affeeble.",
-            "c": "学习affeeble。"
-          }
-        ]
-      },
-      {
-        "w": "affeer",
-        "p": "/affeer/",
-        "pos": "n",
-        "m": "affeer",
-        "ex": [
-          {
-            "e": "Study affeer.",
-            "c": "学习affeer。"
-          }
-        ]
-      },
-      {
-        "w": "affeerer",
-        "p": "/affeerer/",
-        "pos": "n",
-        "m": "affeerer",
-        "ex": [
-          {
-            "e": "Study affeerer.",
-            "c": "学习affeerer。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 112,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "affeerment",
-        "p": "/affeerment/",
-        "pos": "n",
-        "m": "affeerment",
-        "ex": [
-          {
-            "e": "Study affeerment.",
-            "c": "学习affeerment。"
-          }
-        ]
-      },
-      {
-        "w": "affeeror",
-        "p": "/affeeror/",
-        "pos": "n",
-        "m": "affeeror",
-        "ex": [
-          {
-            "e": "Study affeeror.",
-            "c": "学习affeeror。"
-          }
-        ]
-      },
-      {
-        "w": "affeir",
-        "p": "/affeir/",
-        "pos": "n",
-        "m": "affeir",
-        "ex": [
-          {
-            "e": "Study affeir.",
-            "c": "学习affeir。"
-          }
-        ]
-      },
-      {
         "w": "affenpinscher",
         "p": "/affenpinscher/",
         "pos": "n",
@@ -27594,54 +36062,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affere",
-        "p": "/affere/",
-        "pos": "n",
-        "m": "affere",
-        "ex": [
-          {
-            "e": "Study affere.",
-            "c": "学习affere。"
-          }
-        ]
-      },
-      {
-        "w": "afferent",
-        "p": "/afferent/",
-        "pos": "n",
-        "m": "afferent",
-        "ex": [
-          {
-            "e": "Study afferent.",
-            "c": "学习afferent。"
-          }
-        ]
-      },
-      {
-        "w": "afferently",
-        "p": "/afferently/",
-        "pos": "n",
-        "m": "afferently",
-        "ex": [
-          {
-            "e": "Study afferently.",
-            "c": "学习afferently。"
-          }
-        ]
-      },
-      {
-        "w": "affettuoso",
-        "p": "/affettuoso/",
-        "pos": "n",
-        "m": "affettuoso",
-        "ex": [
-          {
-            "e": "Study affettuoso.",
-            "c": "学习affettuoso。"
-          }
-        ]
-      },
-      {
         "w": "affettuosos",
         "p": "/affettuosos/",
         "pos": "n",
@@ -27650,18 +36070,6 @@ export const toeflVocabulary = [
           {
             "e": "Study affettuosos.",
             "c": "学习affettuosos。"
-          }
-        ]
-      },
-      {
-        "w": "affiance",
-        "p": "/affiance/",
-        "pos": "n",
-        "m": "affiance",
-        "ex": [
-          {
-            "e": "Study affiance.",
-            "c": "学习affiance。"
           }
         ]
       },
@@ -27702,18 +36110,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affiancing",
-        "p": "/affiancing/",
-        "pos": "n",
-        "m": "affiancing",
-        "ex": [
-          {
-            "e": "Study affiancing.",
-            "c": "学习affiancing。"
-          }
-        ]
-      },
-      {
         "w": "affiant",
         "p": "/affiant/",
         "pos": "n",
@@ -27722,30 +36118,6 @@ export const toeflVocabulary = [
           {
             "e": "Study affiant.",
             "c": "学习affiant。"
-          }
-        ]
-      },
-      {
-        "w": "affiants",
-        "p": "/affiants/",
-        "pos": "n",
-        "m": "affiants",
-        "ex": [
-          {
-            "e": "Study affiants.",
-            "c": "学习affiants。"
-          }
-        ]
-      },
-      {
-        "w": "affich",
-        "p": "/affich/",
-        "pos": "n",
-        "m": "affich",
-        "ex": [
-          {
-            "e": "Study affich.",
-            "c": "学习affich。"
           }
         ]
       },
@@ -27762,26 +36134,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affiches",
-        "p": "/affiches/",
-        "pos": "n",
-        "m": "affiches",
-        "ex": [
-          {
-            "e": "Study affiches.",
-            "c": "学习affiches。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 113,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
         "w": "afficionado",
         "p": "/afficionado/",
         "pos": "n",
@@ -27790,30 +36142,6 @@ export const toeflVocabulary = [
           {
             "e": "Study afficionado.",
             "c": "学习afficionado。"
-          }
-        ]
-      },
-      {
-        "w": "affidare",
-        "p": "/affidare/",
-        "pos": "n",
-        "m": "affidare",
-        "ex": [
-          {
-            "e": "Study affidare.",
-            "c": "学习affidare。"
-          }
-        ]
-      },
-      {
-        "w": "affidation",
-        "p": "/affidation/",
-        "pos": "n",
-        "m": "affidation",
-        "ex": [
-          {
-            "e": "Study affidation.",
-            "c": "学习affidation。"
           }
         ]
       },
@@ -27830,78 +36158,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affidavits",
-        "p": "/affidavits/",
-        "pos": "n",
-        "m": "affidavits",
-        "ex": [
-          {
-            "e": "Study affidavits.",
-            "c": "学习affidavits。"
-          }
-        ]
-      },
-      {
-        "w": "affidavy",
-        "p": "/affidavy/",
-        "pos": "n",
-        "m": "affidavy",
-        "ex": [
-          {
-            "e": "Study affidavy.",
-            "c": "学习affidavy。"
-          }
-        ]
-      },
-      {
-        "w": "affied",
-        "p": "/affied/",
-        "pos": "n",
-        "m": "affied",
-        "ex": [
-          {
-            "e": "Study affied.",
-            "c": "学习affied。"
-          }
-        ]
-      },
-      {
-        "w": "affies",
-        "p": "/affies/",
-        "pos": "n",
-        "m": "affies",
-        "ex": [
-          {
-            "e": "Study affies.",
-            "c": "学习affies。"
-          }
-        ]
-      },
-      {
-        "w": "affile",
-        "p": "/affile/",
-        "pos": "n",
-        "m": "affile",
-        "ex": [
-          {
-            "e": "Study affile.",
-            "c": "学习affile。"
-          }
-        ]
-      },
-      {
-        "w": "affiliable",
-        "p": "/affiliable/",
-        "pos": "n",
-        "m": "affiliable",
-        "ex": [
-          {
-            "e": "Study affiliable.",
-            "c": "学习affiliable。"
-          }
-        ]
-      },
-      {
         "w": "affiliate",
         "p": "/affiliate/",
         "pos": "n",
@@ -27910,30 +36166,6 @@ export const toeflVocabulary = [
           {
             "e": "Study affiliate.",
             "c": "学习affiliate。"
-          }
-        ]
-      },
-      {
-        "w": "affiliated",
-        "p": "/affiliated/",
-        "pos": "n",
-        "m": "affiliated",
-        "ex": [
-          {
-            "e": "Study affiliated.",
-            "c": "学习affiliated。"
-          }
-        ]
-      },
-      {
-        "w": "affiliates",
-        "p": "/affiliates/",
-        "pos": "n",
-        "m": "affiliates",
-        "ex": [
-          {
-            "e": "Study affiliates.",
-            "c": "学习affiliates。"
           }
         ]
       },
@@ -27972,19 +36204,15 @@ export const toeflVocabulary = [
             "c": "学习affiliations。"
           }
         ]
-      },
-      {
-        "w": "affinage",
-        "p": "/affinage/",
-        "pos": "n",
-        "m": "affinage",
-        "ex": [
-          {
-            "e": "Study affinage.",
-            "c": "学习affinage。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 147,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "affinal",
         "p": "/affinal/",
@@ -27998,38 +36226,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affination",
-        "p": "/affination/",
-        "pos": "n",
-        "m": "affination",
-        "ex": [
-          {
-            "e": "Study affination.",
-            "c": "学习affination。"
-          }
-        ]
-      },
-      {
-        "w": "affine",
-        "p": "/affine/",
-        "pos": "n",
-        "m": "affine",
-        "ex": [
-          {
-            "e": "Study affine.",
-            "c": "学习affine。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 114,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
         "w": "affined",
         "p": "/affined/",
         "pos": "n",
@@ -28042,18 +36238,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affinely",
-        "p": "/affinely/",
-        "pos": "n",
-        "m": "affinely",
-        "ex": [
-          {
-            "e": "Study affinely.",
-            "c": "学习affinely。"
-          }
-        ]
-      },
-      {
         "w": "affines",
         "p": "/affines/",
         "pos": "n",
@@ -28062,18 +36246,6 @@ export const toeflVocabulary = [
           {
             "e": "Study affines.",
             "c": "学习affines。"
-          }
-        ]
-      },
-      {
-        "w": "affing",
-        "p": "/affing/",
-        "pos": "n",
-        "m": "affing",
-        "ex": [
-          {
-            "e": "Study affing.",
-            "c": "学习affing。"
           }
         ]
       },
@@ -28098,114 +36270,6 @@ export const toeflVocabulary = [
           {
             "e": "Study affinitatively.",
             "c": "学习affinitatively。"
-          }
-        ]
-      },
-      {
-        "w": "affinite",
-        "p": "/affinite/",
-        "pos": "n",
-        "m": "affinite",
-        "ex": [
-          {
-            "e": "Study affinite.",
-            "c": "学习affinite。"
-          }
-        ]
-      },
-      {
-        "w": "affinities",
-        "p": "/affinities/",
-        "pos": "n",
-        "m": "affinities",
-        "ex": [
-          {
-            "e": "Study affinities.",
-            "c": "学习affinities。"
-          }
-        ]
-      },
-      {
-        "w": "affinition",
-        "p": "/affinition/",
-        "pos": "n",
-        "m": "affinition",
-        "ex": [
-          {
-            "e": "Study affinition.",
-            "c": "学习affinition。"
-          }
-        ]
-      },
-      {
-        "w": "affinitive",
-        "p": "/affinitive/",
-        "pos": "n",
-        "m": "affinitive",
-        "ex": [
-          {
-            "e": "Study affinitive.",
-            "c": "学习affinitive。"
-          }
-        ]
-      },
-      {
-        "w": "affinity",
-        "p": "/affinity/",
-        "pos": "n",
-        "m": "affinity",
-        "ex": [
-          {
-            "e": "Study affinity.",
-            "c": "学习affinity。"
-          }
-        ]
-      },
-      {
-        "w": "affirm",
-        "p": "/affirm/",
-        "pos": "n",
-        "m": "affirm",
-        "ex": [
-          {
-            "e": "Study affirm.",
-            "c": "学习affirm。"
-          }
-        ]
-      },
-      {
-        "w": "affirmable",
-        "p": "/affirmable/",
-        "pos": "n",
-        "m": "affirmable",
-        "ex": [
-          {
-            "e": "Study affirmable.",
-            "c": "学习affirmable。"
-          }
-        ]
-      },
-      {
-        "w": "affirmably",
-        "p": "/affirmably/",
-        "pos": "n",
-        "m": "affirmably",
-        "ex": [
-          {
-            "e": "Study affirmably.",
-            "c": "学习affirmably。"
-          }
-        ]
-      },
-      {
-        "w": "affirmance",
-        "p": "/affirmance/",
-        "pos": "n",
-        "m": "affirmance",
-        "ex": [
-          {
-            "e": "Study affirmance.",
-            "c": "学习affirmance。"
           }
         ]
       },
@@ -28268,15 +36332,7 @@ export const toeflVocabulary = [
             "c": "学习affirmatively。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 115,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "affirmativeness",
         "p": "/affirmativeness/",
@@ -28310,30 +36366,6 @@ export const toeflVocabulary = [
           {
             "e": "Study affirmatory.",
             "c": "学习affirmatory。"
-          }
-        ]
-      },
-      {
-        "w": "affirmed",
-        "p": "/affirmed/",
-        "pos": "n",
-        "m": "affirmed",
-        "ex": [
-          {
-            "e": "Study affirmed.",
-            "c": "学习affirmed。"
-          }
-        ]
-      },
-      {
-        "w": "affirmer",
-        "p": "/affirmer/",
-        "pos": "n",
-        "m": "affirmer",
-        "ex": [
-          {
-            "e": "Study affirmer.",
-            "c": "学习affirmer。"
           }
         ]
       },
@@ -28374,18 +36406,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affirmly",
-        "p": "/affirmly/",
-        "pos": "n",
-        "m": "affirmly",
-        "ex": [
-          {
-            "e": "Study affirmly.",
-            "c": "学习affirmly。"
-          }
-        ]
-      },
-      {
         "w": "affirms",
         "p": "/affirms/",
         "pos": "n",
@@ -28394,18 +36414,6 @@ export const toeflVocabulary = [
           {
             "e": "Study affirms.",
             "c": "学习affirms。"
-          }
-        ]
-      },
-      {
-        "w": "affix",
-        "p": "/affix/",
-        "pos": "n",
-        "m": "affix",
-        "ex": [
-          {
-            "e": "Study affix.",
-            "c": "学习affix。"
           }
         ]
       },
@@ -28434,18 +36442,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affixation",
-        "p": "/affixation/",
-        "pos": "n",
-        "m": "affixation",
-        "ex": [
-          {
-            "e": "Study affixation.",
-            "c": "学习affixation。"
-          }
-        ]
-      },
-      {
         "w": "affixed",
         "p": "/affixed/",
         "pos": "n",
@@ -28456,7 +36452,15 @@ export const toeflVocabulary = [
             "c": "学习affixed。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 148,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "affixer",
         "p": "/affixer/",
@@ -28466,18 +36470,6 @@ export const toeflVocabulary = [
           {
             "e": "Study affixer.",
             "c": "学习affixer。"
-          }
-        ]
-      },
-      {
-        "w": "affixers",
-        "p": "/affixers/",
-        "pos": "n",
-        "m": "affixers",
-        "ex": [
-          {
-            "e": "Study affixers.",
-            "c": "学习affixers。"
           }
         ]
       },
@@ -28494,50 +36486,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affixial",
-        "p": "/affixial/",
-        "pos": "n",
-        "m": "affixial",
-        "ex": [
-          {
-            "e": "Study affixial.",
-            "c": "学习affixial。"
-          }
-        ]
-      },
-      {
-        "w": "affixing",
-        "p": "/affixing/",
-        "pos": "n",
-        "m": "affixing",
-        "ex": [
-          {
-            "e": "Study affixing.",
-            "c": "学习affixing。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 116,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "affixion",
-        "p": "/affixion/",
-        "pos": "n",
-        "m": "affixion",
-        "ex": [
-          {
-            "e": "Study affixion.",
-            "c": "学习affixion。"
-          }
-        ]
-      },
-      {
         "w": "affixment",
         "p": "/affixment/",
         "pos": "n",
@@ -28546,18 +36494,6 @@ export const toeflVocabulary = [
           {
             "e": "Study affixment.",
             "c": "学习affixment。"
-          }
-        ]
-      },
-      {
-        "w": "affixt",
-        "p": "/affixt/",
-        "pos": "n",
-        "m": "affixt",
-        "ex": [
-          {
-            "e": "Study affixt.",
-            "c": "学习affixt。"
           }
         ]
       },
@@ -28586,18 +36522,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "afflated",
-        "p": "/afflated/",
-        "pos": "n",
-        "m": "afflated",
-        "ex": [
-          {
-            "e": "Study afflated.",
-            "c": "学习afflated。"
-          }
-        ]
-      },
-      {
         "w": "afflation",
         "p": "/afflation/",
         "pos": "n",
@@ -28606,30 +36530,6 @@ export const toeflVocabulary = [
           {
             "e": "Study afflation.",
             "c": "学习afflation。"
-          }
-        ]
-      },
-      {
-        "w": "afflatus",
-        "p": "/afflatus/",
-        "pos": "n",
-        "m": "afflatus",
-        "ex": [
-          {
-            "e": "Study afflatus.",
-            "c": "学习afflatus。"
-          }
-        ]
-      },
-      {
-        "w": "afflatuses",
-        "p": "/afflatuses/",
-        "pos": "n",
-        "m": "afflatuses",
-        "ex": [
-          {
-            "e": "Study afflatuses.",
-            "c": "学习afflatuses。"
           }
         ]
       },
@@ -28682,18 +36582,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "afflicting",
-        "p": "/afflicting/",
-        "pos": "n",
-        "m": "afflicting",
-        "ex": [
-          {
-            "e": "Study afflicting.",
-            "c": "学习afflicting。"
-          }
-        ]
-      },
-      {
         "w": "afflictingly",
         "p": "/afflictingly/",
         "pos": "n",
@@ -28702,18 +36590,6 @@ export const toeflVocabulary = [
           {
             "e": "Study afflictingly.",
             "c": "学习afflictingly。"
-          }
-        ]
-      },
-      {
-        "w": "affliction",
-        "p": "/affliction/",
-        "pos": "n",
-        "m": "affliction",
-        "ex": [
-          {
-            "e": "Study affliction.",
-            "c": "学习affliction。"
           }
         ]
       },
@@ -28742,18 +36618,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "afflictive",
-        "p": "/afflictive/",
-        "pos": "n",
-        "m": "afflictive",
-        "ex": [
-          {
-            "e": "Study afflictive.",
-            "c": "学习afflictive。"
-          }
-        ]
-      },
-      {
         "w": "afflictively",
         "p": "/afflictively/",
         "pos": "n",
@@ -28762,26 +36626,6 @@ export const toeflVocabulary = [
           {
             "e": "Study afflictively.",
             "c": "学习afflictively。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 117,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "afflicts",
-        "p": "/afflicts/",
-        "pos": "n",
-        "m": "afflicts",
-        "ex": [
-          {
-            "e": "Study afflicts.",
-            "c": "学习afflicts。"
           }
         ]
       },
@@ -28794,18 +36638,6 @@ export const toeflVocabulary = [
           {
             "e": "Study affloof.",
             "c": "学习affloof。"
-          }
-        ]
-      },
-      {
-        "w": "afflue",
-        "p": "/afflue/",
-        "pos": "n",
-        "m": "afflue",
-        "ex": [
-          {
-            "e": "Study afflue.",
-            "c": "学习afflue。"
           }
         ]
       },
@@ -28834,30 +36666,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affluent",
-        "p": "/affluent/",
-        "pos": "n",
-        "m": "affluent",
-        "ex": [
-          {
-            "e": "Study affluent.",
-            "c": "学习affluent。"
-          }
-        ]
-      },
-      {
-        "w": "affluently",
-        "p": "/affluently/",
-        "pos": "n",
-        "m": "affluently",
-        "ex": [
-          {
-            "e": "Study affluently.",
-            "c": "学习affluently。"
-          }
-        ]
-      },
-      {
         "w": "affluentness",
         "p": "/affluentness/",
         "pos": "n",
@@ -28882,30 +36690,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "afflux",
-        "p": "/afflux/",
-        "pos": "n",
-        "m": "afflux",
-        "ex": [
-          {
-            "e": "Study afflux.",
-            "c": "学习afflux。"
-          }
-        ]
-      },
-      {
-        "w": "affluxes",
-        "p": "/affluxes/",
-        "pos": "n",
-        "m": "affluxes",
-        "ex": [
-          {
-            "e": "Study affluxes.",
-            "c": "学习affluxes。"
-          }
-        ]
-      },
-      {
         "w": "affluxion",
         "p": "/affluxion/",
         "pos": "n",
@@ -28916,19 +36700,15 @@ export const toeflVocabulary = [
             "c": "学习affluxion。"
           }
         ]
-      },
-      {
-        "w": "affodill",
-        "p": "/affodill/",
-        "pos": "n",
-        "m": "affodill",
-        "ex": [
-          {
-            "e": "Study affodill.",
-            "c": "学习affodill。"
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 149,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "afforce",
         "p": "/afforce/",
@@ -28938,18 +36718,6 @@ export const toeflVocabulary = [
           {
             "e": "Study afforce.",
             "c": "学习afforce。"
-          }
-        ]
-      },
-      {
-        "w": "afforced",
-        "p": "/afforced/",
-        "pos": "n",
-        "m": "afforced",
-        "ex": [
-          {
-            "e": "Study afforced.",
-            "c": "学习afforced。"
           }
         ]
       },
@@ -28978,30 +36746,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affordable",
-        "p": "/affordable/",
-        "pos": "n",
-        "m": "affordable",
-        "ex": [
-          {
-            "e": "Study affordable.",
-            "c": "学习affordable。"
-          }
-        ]
-      },
-      {
-        "w": "afforded",
-        "p": "/afforded/",
-        "pos": "n",
-        "m": "afforded",
-        "ex": [
-          {
-            "e": "Study afforded.",
-            "c": "学习afforded。"
-          }
-        ]
-      },
-      {
         "w": "affording",
         "p": "/affording/",
         "pos": "n",
@@ -29012,15 +36756,7 @@ export const toeflVocabulary = [
             "c": "学习affording。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 118,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "affords",
         "p": "/affords/",
@@ -29030,18 +36766,6 @@ export const toeflVocabulary = [
           {
             "e": "Study affords.",
             "c": "学习affords。"
-          }
-        ]
-      },
-      {
-        "w": "afforest",
-        "p": "/afforest/",
-        "pos": "n",
-        "m": "afforest",
-        "ex": [
-          {
-            "e": "Study afforest.",
-            "c": "学习afforest。"
           }
         ]
       },
@@ -29078,18 +36802,6 @@ export const toeflVocabulary = [
           {
             "e": "Study afforestational.",
             "c": "学习afforestational。"
-          }
-        ]
-      },
-      {
-        "w": "afforested",
-        "p": "/afforested/",
-        "pos": "n",
-        "m": "afforested",
-        "ex": [
-          {
-            "e": "Study afforested.",
-            "c": "学习afforested。"
           }
         ]
       },
@@ -29190,54 +36902,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affrap",
-        "p": "/affrap/",
-        "pos": "n",
-        "m": "affrap",
-        "ex": [
-          {
-            "e": "Study affrap.",
-            "c": "学习affrap。"
-          }
-        ]
-      },
-      {
-        "w": "affray",
-        "p": "/affray/",
-        "pos": "n",
-        "m": "affray",
-        "ex": [
-          {
-            "e": "Study affray.",
-            "c": "学习affray。"
-          }
-        ]
-      },
-      {
-        "w": "affrayed",
-        "p": "/affrayed/",
-        "pos": "n",
-        "m": "affrayed",
-        "ex": [
-          {
-            "e": "Study affrayed.",
-            "c": "学习affrayed。"
-          }
-        ]
-      },
-      {
-        "w": "affrayer",
-        "p": "/affrayer/",
-        "pos": "n",
-        "m": "affrayer",
-        "ex": [
-          {
-            "e": "Study affrayer.",
-            "c": "学习affrayer。"
-          }
-        ]
-      },
-      {
         "w": "affrayers",
         "p": "/affrayers/",
         "pos": "n",
@@ -29260,15 +36924,7 @@ export const toeflVocabulary = [
             "c": "学习affraying。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 119,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "affrays",
         "p": "/affrays/",
@@ -29292,7 +36948,15 @@ export const toeflVocabulary = [
             "c": "学习affreight。"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "day": 150,
+    "theme": "Vocabulary",
+    "stage": 1,
+    "cefr": "X",
+    "words": [
       {
         "w": "affreighter",
         "p": "/affreighter/",
@@ -29314,18 +36978,6 @@ export const toeflVocabulary = [
           {
             "e": "Study affreightment.",
             "c": "学习affreightment。"
-          }
-        ]
-      },
-      {
-        "w": "affret",
-        "p": "/affret/",
-        "pos": "n",
-        "m": "affret",
-        "ex": [
-          {
-            "e": "Study affret.",
-            "c": "学习affret。"
           }
         ]
       },
@@ -29366,30 +37018,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affricated",
-        "p": "/affricated/",
-        "pos": "n",
-        "m": "affricated",
-        "ex": [
-          {
-            "e": "Study affricated.",
-            "c": "学习affricated。"
-          }
-        ]
-      },
-      {
-        "w": "affricates",
-        "p": "/affricates/",
-        "pos": "n",
-        "m": "affricates",
-        "ex": [
-          {
-            "e": "Study affricates.",
-            "c": "学习affricates。"
-          }
-        ]
-      },
-      {
         "w": "affrication",
         "p": "/affrication/",
         "pos": "n",
@@ -29414,42 +37042,6 @@ export const toeflVocabulary = [
         ]
       },
       {
-        "w": "affriended",
-        "p": "/affriended/",
-        "pos": "n",
-        "m": "affriended",
-        "ex": [
-          {
-            "e": "Study affriended.",
-            "c": "学习affriended。"
-          }
-        ]
-      },
-      {
-        "w": "affright",
-        "p": "/affright/",
-        "pos": "n",
-        "m": "affright",
-        "ex": [
-          {
-            "e": "Study affright.",
-            "c": "学习affright。"
-          }
-        ]
-      },
-      {
-        "w": "affrighted",
-        "p": "/affrighted/",
-        "pos": "n",
-        "m": "affrighted",
-        "ex": [
-          {
-            "e": "Study affrighted.",
-            "c": "学习affrighted。"
-          }
-        ]
-      },
-      {
         "w": "affrightedly",
         "p": "/affrightedly/",
         "pos": "n",
@@ -29458,18 +37050,6 @@ export const toeflVocabulary = [
           {
             "e": "Study affrightedly.",
             "c": "学习affrightedly。"
-          }
-        ]
-      },
-      {
-        "w": "affrighter",
-        "p": "/affrighter/",
-        "pos": "n",
-        "m": "affrighter",
-        "ex": [
-          {
-            "e": "Study affrighter.",
-            "c": "学习affrighter。"
           }
         ]
       },
@@ -29508,15 +37088,7 @@ export const toeflVocabulary = [
             "c": "学习affrighting。"
           }
         ]
-      }
-    ]
-  },
-  {
-    "day": 120,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
+      },
       {
         "w": "affrightingly",
         "p": "/affrightingly/",
@@ -29562,18 +37134,6 @@ export const toeflVocabulary = [
           {
             "e": "Study affront.",
             "c": "学习affront。"
-          }
-        ]
-      },
-      {
-        "w": "affronte",
-        "p": "/affronte/",
-        "pos": "n",
-        "m": "affronte",
-        "ex": [
-          {
-            "e": "Study affronte.",
-            "c": "学习affronte。"
           }
         ]
       },
@@ -29634,7566 +37194,6 @@ export const toeflVocabulary = [
           {
             "e": "Study affronter.",
             "c": "学习affronter。"
-          }
-        ]
-      },
-      {
-        "w": "affronting",
-        "p": "/affronting/",
-        "pos": "n",
-        "m": "affronting",
-        "ex": [
-          {
-            "e": "Study affronting.",
-            "c": "学习affronting。"
-          }
-        ]
-      },
-      {
-        "w": "affrontingly",
-        "p": "/affrontingly/",
-        "pos": "n",
-        "m": "affrontingly",
-        "ex": [
-          {
-            "e": "Study affrontingly.",
-            "c": "学习affrontingly。"
-          }
-        ]
-      },
-      {
-        "w": "affrontingness",
-        "p": "/affrontingness/",
-        "pos": "n",
-        "m": "affrontingness",
-        "ex": [
-          {
-            "e": "Study affrontingness.",
-            "c": "学习affrontingness。"
-          }
-        ]
-      },
-      {
-        "w": "affrontive",
-        "p": "/affrontive/",
-        "pos": "n",
-        "m": "affrontive",
-        "ex": [
-          {
-            "e": "Study affrontive.",
-            "c": "学习affrontive。"
-          }
-        ]
-      },
-      {
-        "w": "affrontiveness",
-        "p": "/affrontiveness/",
-        "pos": "n",
-        "m": "affrontiveness",
-        "ex": [
-          {
-            "e": "Study affrontiveness.",
-            "c": "学习affrontiveness。"
-          }
-        ]
-      },
-      {
-        "w": "affrontment",
-        "p": "/affrontment/",
-        "pos": "n",
-        "m": "affrontment",
-        "ex": [
-          {
-            "e": "Study affrontment.",
-            "c": "学习affrontment。"
-          }
-        ]
-      },
-      {
-        "w": "affronts",
-        "p": "/affronts/",
-        "pos": "n",
-        "m": "affronts",
-        "ex": [
-          {
-            "e": "Study affronts.",
-            "c": "学习affronts。"
-          }
-        ]
-      },
-      {
-        "w": "affronty",
-        "p": "/affronty/",
-        "pos": "n",
-        "m": "affronty",
-        "ex": [
-          {
-            "e": "Study affronty.",
-            "c": "学习affronty。"
-          }
-        ]
-      },
-      {
-        "w": "afft",
-        "p": "/afft/",
-        "pos": "n",
-        "m": "afft",
-        "ex": [
-          {
-            "e": "Study afft.",
-            "c": "学习afft。"
-          }
-        ]
-      },
-      {
-        "w": "affuse",
-        "p": "/affuse/",
-        "pos": "n",
-        "m": "affuse",
-        "ex": [
-          {
-            "e": "Study affuse.",
-            "c": "学习affuse。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 121,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "affusedaffusing",
-        "p": "/affusedaffusing/",
-        "pos": "n",
-        "m": "affusedaffusing",
-        "ex": [
-          {
-            "e": "Study affusedaffusing.",
-            "c": "学习affusedaffusing。"
-          }
-        ]
-      },
-      {
-        "w": "affusion",
-        "p": "/affusion/",
-        "pos": "n",
-        "m": "affusion",
-        "ex": [
-          {
-            "e": "Study affusion.",
-            "c": "学习affusion。"
-          }
-        ]
-      },
-      {
-        "w": "affusions",
-        "p": "/affusions/",
-        "pos": "n",
-        "m": "affusions",
-        "ex": [
-          {
-            "e": "Study affusions.",
-            "c": "学习affusions。"
-          }
-        ]
-      },
-      {
-        "w": "affy",
-        "p": "/affy/",
-        "pos": "n",
-        "m": "affy",
-        "ex": [
-          {
-            "e": "Study affy.",
-            "c": "学习affy。"
-          }
-        ]
-      },
-      {
-        "w": "affydavy",
-        "p": "/affydavy/",
-        "pos": "n",
-        "m": "affydavy",
-        "ex": [
-          {
-            "e": "Study affydavy.",
-            "c": "学习affydavy。"
-          }
-        ]
-      },
-      {
-        "w": "affying",
-        "p": "/affying/",
-        "pos": "n",
-        "m": "affying",
-        "ex": [
-          {
-            "e": "Study affying.",
-            "c": "学习affying。"
-          }
-        ]
-      },
-      {
-        "w": "afghan",
-        "p": "/afghan/",
-        "pos": "n",
-        "m": "afghan",
-        "ex": [
-          {
-            "e": "Study afghan.",
-            "c": "学习afghan。"
-          }
-        ]
-      },
-      {
-        "w": "afghanets",
-        "p": "/afghanets/",
-        "pos": "n",
-        "m": "afghanets",
-        "ex": [
-          {
-            "e": "Study afghanets.",
-            "c": "学习afghanets。"
-          }
-        ]
-      },
-      {
-        "w": "afghani",
-        "p": "/afghani/",
-        "pos": "n",
-        "m": "afghani",
-        "ex": [
-          {
-            "e": "Study afghani.",
-            "c": "学习afghani。"
-          }
-        ]
-      },
-      {
-        "w": "afghanis",
-        "p": "/afghanis/",
-        "pos": "n",
-        "m": "afghanis",
-        "ex": [
-          {
-            "e": "Study afghanis.",
-            "c": "学习afghanis。"
-          }
-        ]
-      },
-      {
-        "w": "afghanistan",
-        "p": "/afghanistan/",
-        "pos": "n",
-        "m": "afghanistan",
-        "ex": [
-          {
-            "e": "Study afghanistan.",
-            "c": "学习afghanistan。"
-          }
-        ]
-      },
-      {
-        "w": "afghans",
-        "p": "/afghans/",
-        "pos": "n",
-        "m": "afghans",
-        "ex": [
-          {
-            "e": "Study afghans.",
-            "c": "学习afghans。"
-          }
-        ]
-      },
-      {
-        "w": "afgod",
-        "p": "/afgod/",
-        "pos": "n",
-        "m": "afgod",
-        "ex": [
-          {
-            "e": "Study afgod.",
-            "c": "学习afgod。"
-          }
-        ]
-      },
-      {
-        "w": "afibrinogenemia",
-        "p": "/afibrinogenemia/",
-        "pos": "n",
-        "m": "afibrinogenemia",
-        "ex": [
-          {
-            "e": "Study afibrinogenemia.",
-            "c": "学习afibrinogenemia。"
-          }
-        ]
-      },
-      {
-        "w": "aficionada",
-        "p": "/aficionada/",
-        "pos": "n",
-        "m": "aficionada",
-        "ex": [
-          {
-            "e": "Study aficionada.",
-            "c": "学习aficionada。"
-          }
-        ]
-      },
-      {
-        "w": "aficionadas",
-        "p": "/aficionadas/",
-        "pos": "n",
-        "m": "aficionadas",
-        "ex": [
-          {
-            "e": "Study aficionadas.",
-            "c": "学习aficionadas。"
-          }
-        ]
-      },
-      {
-        "w": "aficionado",
-        "p": "/aficionado/",
-        "pos": "n",
-        "m": "aficionado",
-        "ex": [
-          {
-            "e": "Study aficionado.",
-            "c": "学习aficionado。"
-          }
-        ]
-      },
-      {
-        "w": "aficionados",
-        "p": "/aficionados/",
-        "pos": "n",
-        "m": "aficionados",
-        "ex": [
-          {
-            "e": "Study aficionados.",
-            "c": "学习aficionados。"
-          }
-        ]
-      },
-      {
-        "w": "afield",
-        "p": "/afield/",
-        "pos": "n",
-        "m": "afield",
-        "ex": [
-          {
-            "e": "Study afield.",
-            "c": "学习afield。"
-          }
-        ]
-      },
-      {
-        "w": "afifi",
-        "p": "/afifi/",
-        "pos": "n",
-        "m": "afifi",
-        "ex": [
-          {
-            "e": "Study afifi.",
-            "c": "学习afifi。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 122,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "afikomen",
-        "p": "/afikomen/",
-        "pos": "n",
-        "m": "afikomen",
-        "ex": [
-          {
-            "e": "Study afikomen.",
-            "c": "学习afikomen。"
-          }
-        ]
-      },
-      {
-        "w": "afire",
-        "p": "/afire/",
-        "pos": "n",
-        "m": "afire",
-        "ex": [
-          {
-            "e": "Study afire.",
-            "c": "学习afire。"
-          }
-        ]
-      },
-      {
-        "w": "aflagellar",
-        "p": "/aflagellar/",
-        "pos": "n",
-        "m": "aflagellar",
-        "ex": [
-          {
-            "e": "Study aflagellar.",
-            "c": "学习aflagellar。"
-          }
-        ]
-      },
-      {
-        "w": "aflame",
-        "p": "/aflame/",
-        "pos": "n",
-        "m": "aflame",
-        "ex": [
-          {
-            "e": "Study aflame.",
-            "c": "学习aflame。"
-          }
-        ]
-      },
-      {
-        "w": "aflare",
-        "p": "/aflare/",
-        "pos": "n",
-        "m": "aflare",
-        "ex": [
-          {
-            "e": "Study aflare.",
-            "c": "学习aflare。"
-          }
-        ]
-      },
-      {
-        "w": "aflat",
-        "p": "/aflat/",
-        "pos": "n",
-        "m": "aflat",
-        "ex": [
-          {
-            "e": "Study aflat.",
-            "c": "学习aflat。"
-          }
-        ]
-      },
-      {
-        "w": "aflatoxin",
-        "p": "/aflatoxin/",
-        "pos": "n",
-        "m": "aflatoxin",
-        "ex": [
-          {
-            "e": "Study aflatoxin.",
-            "c": "学习aflatoxin。"
-          }
-        ]
-      },
-      {
-        "w": "aflatus",
-        "p": "/aflatus/",
-        "pos": "n",
-        "m": "aflatus",
-        "ex": [
-          {
-            "e": "Study aflatus.",
-            "c": "学习aflatus。"
-          }
-        ]
-      },
-      {
-        "w": "aflaunt",
-        "p": "/aflaunt/",
-        "pos": "n",
-        "m": "aflaunt",
-        "ex": [
-          {
-            "e": "Study aflaunt.",
-            "c": "学习aflaunt。"
-          }
-        ]
-      },
-      {
-        "w": "afley",
-        "p": "/afley/",
-        "pos": "n",
-        "m": "afley",
-        "ex": [
-          {
-            "e": "Study afley.",
-            "c": "学习afley。"
-          }
-        ]
-      },
-      {
-        "w": "aflicker",
-        "p": "/aflicker/",
-        "pos": "n",
-        "m": "aflicker",
-        "ex": [
-          {
-            "e": "Study aflicker.",
-            "c": "学习aflicker。"
-          }
-        ]
-      },
-      {
-        "w": "aflight",
-        "p": "/aflight/",
-        "pos": "n",
-        "m": "aflight",
-        "ex": [
-          {
-            "e": "Study aflight.",
-            "c": "学习aflight。"
-          }
-        ]
-      },
-      {
-        "w": "afloat",
-        "p": "/afloat/",
-        "pos": "n",
-        "m": "afloat",
-        "ex": [
-          {
-            "e": "Study afloat.",
-            "c": "学习afloat。"
-          }
-        ]
-      },
-      {
-        "w": "aflow",
-        "p": "/aflow/",
-        "pos": "n",
-        "m": "aflow",
-        "ex": [
-          {
-            "e": "Study aflow.",
-            "c": "学习aflow。"
-          }
-        ]
-      },
-      {
-        "w": "aflower",
-        "p": "/aflower/",
-        "pos": "n",
-        "m": "aflower",
-        "ex": [
-          {
-            "e": "Study aflower.",
-            "c": "学习aflower。"
-          }
-        ]
-      },
-      {
-        "w": "afluking",
-        "p": "/afluking/",
-        "pos": "n",
-        "m": "afluking",
-        "ex": [
-          {
-            "e": "Study afluking.",
-            "c": "学习afluking。"
-          }
-        ]
-      },
-      {
-        "w": "aflush",
-        "p": "/aflush/",
-        "pos": "n",
-        "m": "aflush",
-        "ex": [
-          {
-            "e": "Study aflush.",
-            "c": "学习aflush。"
-          }
-        ]
-      },
-      {
-        "w": "aflutter",
-        "p": "/aflutter/",
-        "pos": "n",
-        "m": "aflutter",
-        "ex": [
-          {
-            "e": "Study aflutter.",
-            "c": "学习aflutter。"
-          }
-        ]
-      },
-      {
-        "w": "afoam",
-        "p": "/afoam/",
-        "pos": "n",
-        "m": "afoam",
-        "ex": [
-          {
-            "e": "Study afoam.",
-            "c": "学习afoam。"
-          }
-        ]
-      },
-      {
-        "w": "afocal",
-        "p": "/afocal/",
-        "pos": "n",
-        "m": "afocal",
-        "ex": [
-          {
-            "e": "Study afocal.",
-            "c": "学习afocal。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 123,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "afoot",
-        "p": "/afoot/",
-        "pos": "n",
-        "m": "afoot",
-        "ex": [
-          {
-            "e": "Study afoot.",
-            "c": "学习afoot。"
-          }
-        ]
-      },
-      {
-        "w": "afore",
-        "p": "/afore/",
-        "pos": "n",
-        "m": "afore",
-        "ex": [
-          {
-            "e": "Study afore.",
-            "c": "学习afore。"
-          }
-        ]
-      },
-      {
-        "w": "aforegoing",
-        "p": "/aforegoing/",
-        "pos": "n",
-        "m": "aforegoing",
-        "ex": [
-          {
-            "e": "Study aforegoing.",
-            "c": "学习aforegoing。"
-          }
-        ]
-      },
-      {
-        "w": "aforehand",
-        "p": "/aforehand/",
-        "pos": "n",
-        "m": "aforehand",
-        "ex": [
-          {
-            "e": "Study aforehand.",
-            "c": "学习aforehand。"
-          }
-        ]
-      },
-      {
-        "w": "aforementioned",
-        "p": "/aforementioned/",
-        "pos": "n",
-        "m": "aforementioned",
-        "ex": [
-          {
-            "e": "Study aforementioned.",
-            "c": "学习aforementioned。"
-          }
-        ]
-      },
-      {
-        "w": "aforenamed",
-        "p": "/aforenamed/",
-        "pos": "n",
-        "m": "aforenamed",
-        "ex": [
-          {
-            "e": "Study aforenamed.",
-            "c": "学习aforenamed。"
-          }
-        ]
-      },
-      {
-        "w": "aforesaid",
-        "p": "/aforesaid/",
-        "pos": "n",
-        "m": "aforesaid",
-        "ex": [
-          {
-            "e": "Study aforesaid.",
-            "c": "学习aforesaid。"
-          }
-        ]
-      },
-      {
-        "w": "aforethought",
-        "p": "/aforethought/",
-        "pos": "n",
-        "m": "aforethought",
-        "ex": [
-          {
-            "e": "Study aforethought.",
-            "c": "学习aforethought。"
-          }
-        ]
-      },
-      {
-        "w": "aforetime",
-        "p": "/aforetime/",
-        "pos": "n",
-        "m": "aforetime",
-        "ex": [
-          {
-            "e": "Study aforetime.",
-            "c": "学习aforetime。"
-          }
-        ]
-      },
-      {
-        "w": "aforetimes",
-        "p": "/aforetimes/",
-        "pos": "n",
-        "m": "aforetimes",
-        "ex": [
-          {
-            "e": "Study aforetimes.",
-            "c": "学习aforetimes。"
-          }
-        ]
-      },
-      {
-        "w": "aforeward",
-        "p": "/aforeward/",
-        "pos": "n",
-        "m": "aforeward",
-        "ex": [
-          {
-            "e": "Study aforeward.",
-            "c": "学习aforeward。"
-          }
-        ]
-      },
-      {
-        "w": "afortiori",
-        "p": "/afortiori/",
-        "pos": "n",
-        "m": "afortiori",
-        "ex": [
-          {
-            "e": "Study afortiori.",
-            "c": "学习afortiori。"
-          }
-        ]
-      },
-      {
-        "w": "afoul",
-        "p": "/afoul/",
-        "pos": "n",
-        "m": "afoul",
-        "ex": [
-          {
-            "e": "Study afoul.",
-            "c": "学习afoul。"
-          }
-        ]
-      },
-      {
-        "w": "afounde",
-        "p": "/afounde/",
-        "pos": "n",
-        "m": "afounde",
-        "ex": [
-          {
-            "e": "Study afounde.",
-            "c": "学习afounde。"
-          }
-        ]
-      },
-      {
-        "w": "afraid",
-        "p": "/afraid/",
-        "pos": "n",
-        "m": "afraid",
-        "ex": [
-          {
-            "e": "Study afraid.",
-            "c": "学习afraid。"
-          }
-        ]
-      },
-      {
-        "w": "afraidness",
-        "p": "/afraidness/",
-        "pos": "n",
-        "m": "afraidness",
-        "ex": [
-          {
-            "e": "Study afraidness.",
-            "c": "学习afraidness。"
-          }
-        ]
-      },
-      {
-        "w": "aframerican",
-        "p": "/aframerican/",
-        "pos": "n",
-        "m": "aframerican",
-        "ex": [
-          {
-            "e": "Study aframerican.",
-            "c": "学习aframerican。"
-          }
-        ]
-      },
-      {
-        "w": "afrasia",
-        "p": "/afrasia/",
-        "pos": "n",
-        "m": "afrasia",
-        "ex": [
-          {
-            "e": "Study afrasia.",
-            "c": "学习afrasia。"
-          }
-        ]
-      },
-      {
-        "w": "afrasian",
-        "p": "/afrasian/",
-        "pos": "n",
-        "m": "afrasian",
-        "ex": [
-          {
-            "e": "Study afrasian.",
-            "c": "学习afrasian。"
-          }
-        ]
-      },
-      {
-        "w": "afray",
-        "p": "/afray/",
-        "pos": "n",
-        "m": "afray",
-        "ex": [
-          {
-            "e": "Study afray.",
-            "c": "学习afray。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 124,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "afreet",
-        "p": "/afreet/",
-        "pos": "n",
-        "m": "afreet",
-        "ex": [
-          {
-            "e": "Study afreet.",
-            "c": "学习afreet。"
-          }
-        ]
-      },
-      {
-        "w": "afreets",
-        "p": "/afreets/",
-        "pos": "n",
-        "m": "afreets",
-        "ex": [
-          {
-            "e": "Study afreets.",
-            "c": "学习afreets。"
-          }
-        ]
-      },
-      {
-        "w": "afresca",
-        "p": "/afresca/",
-        "pos": "n",
-        "m": "afresca",
-        "ex": [
-          {
-            "e": "Study afresca.",
-            "c": "学习afresca。"
-          }
-        ]
-      },
-      {
-        "w": "afresh",
-        "p": "/afresh/",
-        "pos": "n",
-        "m": "afresh",
-        "ex": [
-          {
-            "e": "Study afresh.",
-            "c": "学习afresh。"
-          }
-        ]
-      },
-      {
-        "w": "afret",
-        "p": "/afret/",
-        "pos": "n",
-        "m": "afret",
-        "ex": [
-          {
-            "e": "Study afret.",
-            "c": "学习afret。"
-          }
-        ]
-      },
-      {
-        "w": "afrete",
-        "p": "/afrete/",
-        "pos": "n",
-        "m": "afrete",
-        "ex": [
-          {
-            "e": "Study afrete.",
-            "c": "学习afrete。"
-          }
-        ]
-      },
-      {
-        "w": "afric",
-        "p": "/afric/",
-        "pos": "n",
-        "m": "afric",
-        "ex": [
-          {
-            "e": "Study afric.",
-            "c": "学习afric。"
-          }
-        ]
-      },
-      {
-        "w": "africa",
-        "p": "/africa/",
-        "pos": "n",
-        "m": "africa",
-        "ex": [
-          {
-            "e": "Study africa.",
-            "c": "学习africa。"
-          }
-        ]
-      },
-      {
-        "w": "african",
-        "p": "/african/",
-        "pos": "n",
-        "m": "african",
-        "ex": [
-          {
-            "e": "Study african.",
-            "c": "学习african。"
-          }
-        ]
-      },
-      {
-        "w": "africana",
-        "p": "/africana/",
-        "pos": "n",
-        "m": "africana",
-        "ex": [
-          {
-            "e": "Study africana.",
-            "c": "学习africana。"
-          }
-        ]
-      },
-      {
-        "w": "africander",
-        "p": "/africander/",
-        "pos": "n",
-        "m": "africander",
-        "ex": [
-          {
-            "e": "Study africander.",
-            "c": "学习africander。"
-          }
-        ]
-      },
-      {
-        "w": "africanism",
-        "p": "/africanism/",
-        "pos": "n",
-        "m": "africanism",
-        "ex": [
-          {
-            "e": "Study africanism.",
-            "c": "学习africanism。"
-          }
-        ]
-      },
-      {
-        "w": "africanist",
-        "p": "/africanist/",
-        "pos": "n",
-        "m": "africanist",
-        "ex": [
-          {
-            "e": "Study africanist.",
-            "c": "学习africanist。"
-          }
-        ]
-      },
-      {
-        "w": "africanization",
-        "p": "/africanization/",
-        "pos": "n",
-        "m": "africanization",
-        "ex": [
-          {
-            "e": "Study africanization.",
-            "c": "学习africanization。"
-          }
-        ]
-      },
-      {
-        "w": "africanize",
-        "p": "/africanize/",
-        "pos": "n",
-        "m": "africanize",
-        "ex": [
-          {
-            "e": "Study africanize.",
-            "c": "学习africanize。"
-          }
-        ]
-      },
-      {
-        "w": "africanoid",
-        "p": "/africanoid/",
-        "pos": "n",
-        "m": "africanoid",
-        "ex": [
-          {
-            "e": "Study africanoid.",
-            "c": "学习africanoid。"
-          }
-        ]
-      },
-      {
-        "w": "africans",
-        "p": "/africans/",
-        "pos": "n",
-        "m": "africans",
-        "ex": [
-          {
-            "e": "Study africans.",
-            "c": "学习africans。"
-          }
-        ]
-      },
-      {
-        "w": "africanthropus",
-        "p": "/africanthropus/",
-        "pos": "n",
-        "m": "africanthropus",
-        "ex": [
-          {
-            "e": "Study africanthropus.",
-            "c": "学习africanthropus。"
-          }
-        ]
-      },
-      {
-        "w": "afridi",
-        "p": "/afridi/",
-        "pos": "n",
-        "m": "afridi",
-        "ex": [
-          {
-            "e": "Study afridi.",
-            "c": "学习afridi。"
-          }
-        ]
-      },
-      {
-        "w": "afright",
-        "p": "/afright/",
-        "pos": "n",
-        "m": "afright",
-        "ex": [
-          {
-            "e": "Study afright.",
-            "c": "学习afright。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 125,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "afrikaans",
-        "p": "/afrikaans/",
-        "pos": "n",
-        "m": "afrikaans",
-        "ex": [
-          {
-            "e": "Study afrikaans.",
-            "c": "学习afrikaans。"
-          }
-        ]
-      },
-      {
-        "w": "afrikander",
-        "p": "/afrikander/",
-        "pos": "n",
-        "m": "afrikander",
-        "ex": [
-          {
-            "e": "Study afrikander.",
-            "c": "学习afrikander。"
-          }
-        ]
-      },
-      {
-        "w": "afrikanderdom",
-        "p": "/afrikanderdom/",
-        "pos": "n",
-        "m": "afrikanderdom",
-        "ex": [
-          {
-            "e": "Study afrikanderdom.",
-            "c": "学习afrikanderdom。"
-          }
-        ]
-      },
-      {
-        "w": "afrikanderism",
-        "p": "/afrikanderism/",
-        "pos": "n",
-        "m": "afrikanderism",
-        "ex": [
-          {
-            "e": "Study afrikanderism.",
-            "c": "学习afrikanderism。"
-          }
-        ]
-      },
-      {
-        "w": "afrikaner",
-        "p": "/afrikaner/",
-        "pos": "n",
-        "m": "afrikaner",
-        "ex": [
-          {
-            "e": "Study afrikaner.",
-            "c": "学习afrikaner。"
-          }
-        ]
-      },
-      {
-        "w": "afrit",
-        "p": "/afrit/",
-        "pos": "n",
-        "m": "afrit",
-        "ex": [
-          {
-            "e": "Study afrit.",
-            "c": "学习afrit。"
-          }
-        ]
-      },
-      {
-        "w": "afrite",
-        "p": "/afrite/",
-        "pos": "n",
-        "m": "afrite",
-        "ex": [
-          {
-            "e": "Study afrite.",
-            "c": "学习afrite。"
-          }
-        ]
-      },
-      {
-        "w": "afrits",
-        "p": "/afrits/",
-        "pos": "n",
-        "m": "afrits",
-        "ex": [
-          {
-            "e": "Study afrits.",
-            "c": "学习afrits。"
-          }
-        ]
-      },
-      {
-        "w": "afro",
-        "p": "/afro/",
-        "pos": "n",
-        "m": "afro",
-        "ex": [
-          {
-            "e": "Study afro.",
-            "c": "学习afro。"
-          }
-        ]
-      },
-      {
-        "w": "afrogaea",
-        "p": "/afrogaea/",
-        "pos": "n",
-        "m": "afrogaea",
-        "ex": [
-          {
-            "e": "Study afrogaea.",
-            "c": "学习afrogaea。"
-          }
-        ]
-      },
-      {
-        "w": "afrogaean",
-        "p": "/afrogaean/",
-        "pos": "n",
-        "m": "afrogaean",
-        "ex": [
-          {
-            "e": "Study afrogaean.",
-            "c": "学习afrogaean。"
-          }
-        ]
-      },
-      {
-        "w": "afront",
-        "p": "/afront/",
-        "pos": "n",
-        "m": "afront",
-        "ex": [
-          {
-            "e": "Study afront.",
-            "c": "学习afront。"
-          }
-        ]
-      },
-      {
-        "w": "afrormosia",
-        "p": "/afrormosia/",
-        "pos": "n",
-        "m": "afrormosia",
-        "ex": [
-          {
-            "e": "Study afrormosia.",
-            "c": "学习afrormosia。"
-          }
-        ]
-      },
-      {
-        "w": "afros",
-        "p": "/afros/",
-        "pos": "n",
-        "m": "afros",
-        "ex": [
-          {
-            "e": "Study afros.",
-            "c": "学习afros。"
-          }
-        ]
-      },
-      {
-        "w": "afrown",
-        "p": "/afrown/",
-        "pos": "n",
-        "m": "afrown",
-        "ex": [
-          {
-            "e": "Study afrown.",
-            "c": "学习afrown。"
-          }
-        ]
-      },
-      {
-        "w": "afshah",
-        "p": "/afshah/",
-        "pos": "n",
-        "m": "afshah",
-        "ex": [
-          {
-            "e": "Study afshah.",
-            "c": "学习afshah。"
-          }
-        ]
-      },
-      {
-        "w": "afshar",
-        "p": "/afshar/",
-        "pos": "n",
-        "m": "afshar",
-        "ex": [
-          {
-            "e": "Study afshar.",
-            "c": "学习afshar。"
-          }
-        ]
-      },
-      {
-        "w": "aft",
-        "p": "/aft/",
-        "pos": "n",
-        "m": "aft",
-        "ex": [
-          {
-            "e": "Study aft.",
-            "c": "学习aft。"
-          }
-        ]
-      },
-      {
-        "w": "aftaba",
-        "p": "/aftaba/",
-        "pos": "n",
-        "m": "aftaba",
-        "ex": [
-          {
-            "e": "Study aftaba.",
-            "c": "学习aftaba。"
-          }
-        ]
-      },
-      {
-        "w": "afteract",
-        "p": "/afteract/",
-        "pos": "n",
-        "m": "afteract",
-        "ex": [
-          {
-            "e": "Study afteract.",
-            "c": "学习afteract。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 126,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "afterage",
-        "p": "/afterage/",
-        "pos": "n",
-        "m": "afterage",
-        "ex": [
-          {
-            "e": "Study afterage.",
-            "c": "学习afterage。"
-          }
-        ]
-      },
-      {
-        "w": "afterattack",
-        "p": "/afterattack/",
-        "pos": "n",
-        "m": "afterattack",
-        "ex": [
-          {
-            "e": "Study afterattack.",
-            "c": "学习afterattack。"
-          }
-        ]
-      },
-      {
-        "w": "afterband",
-        "p": "/afterband/",
-        "pos": "n",
-        "m": "afterband",
-        "ex": [
-          {
-            "e": "Study afterband.",
-            "c": "学习afterband。"
-          }
-        ]
-      },
-      {
-        "w": "afterbay",
-        "p": "/afterbay/",
-        "pos": "n",
-        "m": "afterbay",
-        "ex": [
-          {
-            "e": "Study afterbay.",
-            "c": "学习afterbay。"
-          }
-        ]
-      },
-      {
-        "w": "afterbeat",
-        "p": "/afterbeat/",
-        "pos": "n",
-        "m": "afterbeat",
-        "ex": [
-          {
-            "e": "Study afterbeat.",
-            "c": "学习afterbeat。"
-          }
-        ]
-      },
-      {
-        "w": "afterbirth",
-        "p": "/afterbirth/",
-        "pos": "n",
-        "m": "afterbirth",
-        "ex": [
-          {
-            "e": "Study afterbirth.",
-            "c": "学习afterbirth。"
-          }
-        ]
-      },
-      {
-        "w": "afterbirths",
-        "p": "/afterbirths/",
-        "pos": "n",
-        "m": "afterbirths",
-        "ex": [
-          {
-            "e": "Study afterbirths.",
-            "c": "学习afterbirths。"
-          }
-        ]
-      },
-      {
-        "w": "afterblow",
-        "p": "/afterblow/",
-        "pos": "n",
-        "m": "afterblow",
-        "ex": [
-          {
-            "e": "Study afterblow.",
-            "c": "学习afterblow。"
-          }
-        ]
-      },
-      {
-        "w": "afterbodies",
-        "p": "/afterbodies/",
-        "pos": "n",
-        "m": "afterbodies",
-        "ex": [
-          {
-            "e": "Study afterbodies.",
-            "c": "学习afterbodies。"
-          }
-        ]
-      },
-      {
-        "w": "afterbody",
-        "p": "/afterbody/",
-        "pos": "n",
-        "m": "afterbody",
-        "ex": [
-          {
-            "e": "Study afterbody.",
-            "c": "学习afterbody。"
-          }
-        ]
-      },
-      {
-        "w": "afterbrain",
-        "p": "/afterbrain/",
-        "pos": "n",
-        "m": "afterbrain",
-        "ex": [
-          {
-            "e": "Study afterbrain.",
-            "c": "学习afterbrain。"
-          }
-        ]
-      },
-      {
-        "w": "afterbreach",
-        "p": "/afterbreach/",
-        "pos": "n",
-        "m": "afterbreach",
-        "ex": [
-          {
-            "e": "Study afterbreach.",
-            "c": "学习afterbreach。"
-          }
-        ]
-      },
-      {
-        "w": "afterbreast",
-        "p": "/afterbreast/",
-        "pos": "n",
-        "m": "afterbreast",
-        "ex": [
-          {
-            "e": "Study afterbreast.",
-            "c": "学习afterbreast。"
-          }
-        ]
-      },
-      {
-        "w": "afterburner",
-        "p": "/afterburner/",
-        "pos": "n",
-        "m": "afterburner",
-        "ex": [
-          {
-            "e": "Study afterburner.",
-            "c": "学习afterburner。"
-          }
-        ]
-      },
-      {
-        "w": "afterburners",
-        "p": "/afterburners/",
-        "pos": "n",
-        "m": "afterburners",
-        "ex": [
-          {
-            "e": "Study afterburners.",
-            "c": "学习afterburners。"
-          }
-        ]
-      },
-      {
-        "w": "afterburning",
-        "p": "/afterburning/",
-        "pos": "n",
-        "m": "afterburning",
-        "ex": [
-          {
-            "e": "Study afterburning.",
-            "c": "学习afterburning。"
-          }
-        ]
-      },
-      {
-        "w": "aftercare",
-        "p": "/aftercare/",
-        "pos": "n",
-        "m": "aftercare",
-        "ex": [
-          {
-            "e": "Study aftercare.",
-            "c": "学习aftercare。"
-          }
-        ]
-      },
-      {
-        "w": "aftercareer",
-        "p": "/aftercareer/",
-        "pos": "n",
-        "m": "aftercareer",
-        "ex": [
-          {
-            "e": "Study aftercareer.",
-            "c": "学习aftercareer。"
-          }
-        ]
-      },
-      {
-        "w": "aftercast",
-        "p": "/aftercast/",
-        "pos": "n",
-        "m": "aftercast",
-        "ex": [
-          {
-            "e": "Study aftercast.",
-            "c": "学习aftercast。"
-          }
-        ]
-      },
-      {
-        "w": "aftercataract",
-        "p": "/aftercataract/",
-        "pos": "n",
-        "m": "aftercataract",
-        "ex": [
-          {
-            "e": "Study aftercataract.",
-            "c": "学习aftercataract。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 127,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "aftercause",
-        "p": "/aftercause/",
-        "pos": "n",
-        "m": "aftercause",
-        "ex": [
-          {
-            "e": "Study aftercause.",
-            "c": "学习aftercause。"
-          }
-        ]
-      },
-      {
-        "w": "afterchance",
-        "p": "/afterchance/",
-        "pos": "n",
-        "m": "afterchance",
-        "ex": [
-          {
-            "e": "Study afterchance.",
-            "c": "学习afterchance。"
-          }
-        ]
-      },
-      {
-        "w": "afterchrome",
-        "p": "/afterchrome/",
-        "pos": "n",
-        "m": "afterchrome",
-        "ex": [
-          {
-            "e": "Study afterchrome.",
-            "c": "学习afterchrome。"
-          }
-        ]
-      },
-      {
-        "w": "afterchurch",
-        "p": "/afterchurch/",
-        "pos": "n",
-        "m": "afterchurch",
-        "ex": [
-          {
-            "e": "Study afterchurch.",
-            "c": "学习afterchurch。"
-          }
-        ]
-      },
-      {
-        "w": "afterclap",
-        "p": "/afterclap/",
-        "pos": "n",
-        "m": "afterclap",
-        "ex": [
-          {
-            "e": "Study afterclap.",
-            "c": "学习afterclap。"
-          }
-        ]
-      },
-      {
-        "w": "afterclause",
-        "p": "/afterclause/",
-        "pos": "n",
-        "m": "afterclause",
-        "ex": [
-          {
-            "e": "Study afterclause.",
-            "c": "学习afterclause。"
-          }
-        ]
-      },
-      {
-        "w": "aftercome",
-        "p": "/aftercome/",
-        "pos": "n",
-        "m": "aftercome",
-        "ex": [
-          {
-            "e": "Study aftercome.",
-            "c": "学习aftercome。"
-          }
-        ]
-      },
-      {
-        "w": "aftercomer",
-        "p": "/aftercomer/",
-        "pos": "n",
-        "m": "aftercomer",
-        "ex": [
-          {
-            "e": "Study aftercomer.",
-            "c": "学习aftercomer。"
-          }
-        ]
-      },
-      {
-        "w": "aftercoming",
-        "p": "/aftercoming/",
-        "pos": "n",
-        "m": "aftercoming",
-        "ex": [
-          {
-            "e": "Study aftercoming.",
-            "c": "学习aftercoming。"
-          }
-        ]
-      },
-      {
-        "w": "aftercooler",
-        "p": "/aftercooler/",
-        "pos": "n",
-        "m": "aftercooler",
-        "ex": [
-          {
-            "e": "Study aftercooler.",
-            "c": "学习aftercooler。"
-          }
-        ]
-      },
-      {
-        "w": "aftercost",
-        "p": "/aftercost/",
-        "pos": "n",
-        "m": "aftercost",
-        "ex": [
-          {
-            "e": "Study aftercost.",
-            "c": "学习aftercost。"
-          }
-        ]
-      },
-      {
-        "w": "aftercourse",
-        "p": "/aftercourse/",
-        "pos": "n",
-        "m": "aftercourse",
-        "ex": [
-          {
-            "e": "Study aftercourse.",
-            "c": "学习aftercourse。"
-          }
-        ]
-      },
-      {
-        "w": "aftercrop",
-        "p": "/aftercrop/",
-        "pos": "n",
-        "m": "aftercrop",
-        "ex": [
-          {
-            "e": "Study aftercrop.",
-            "c": "学习aftercrop。"
-          }
-        ]
-      },
-      {
-        "w": "aftercure",
-        "p": "/aftercure/",
-        "pos": "n",
-        "m": "aftercure",
-        "ex": [
-          {
-            "e": "Study aftercure.",
-            "c": "学习aftercure。"
-          }
-        ]
-      },
-      {
-        "w": "afterdamp",
-        "p": "/afterdamp/",
-        "pos": "n",
-        "m": "afterdamp",
-        "ex": [
-          {
-            "e": "Study afterdamp.",
-            "c": "学习afterdamp。"
-          }
-        ]
-      },
-      {
-        "w": "afterdate",
-        "p": "/afterdate/",
-        "pos": "n",
-        "m": "afterdate",
-        "ex": [
-          {
-            "e": "Study afterdate.",
-            "c": "学习afterdate。"
-          }
-        ]
-      },
-      {
-        "w": "afterdated",
-        "p": "/afterdated/",
-        "pos": "n",
-        "m": "afterdated",
-        "ex": [
-          {
-            "e": "Study afterdated.",
-            "c": "学习afterdated。"
-          }
-        ]
-      },
-      {
-        "w": "afterdays",
-        "p": "/afterdays/",
-        "pos": "n",
-        "m": "afterdays",
-        "ex": [
-          {
-            "e": "Study afterdays.",
-            "c": "学习afterdays。"
-          }
-        ]
-      },
-      {
-        "w": "afterdeal",
-        "p": "/afterdeal/",
-        "pos": "n",
-        "m": "afterdeal",
-        "ex": [
-          {
-            "e": "Study afterdeal.",
-            "c": "学习afterdeal。"
-          }
-        ]
-      },
-      {
-        "w": "afterdeath",
-        "p": "/afterdeath/",
-        "pos": "n",
-        "m": "afterdeath",
-        "ex": [
-          {
-            "e": "Study afterdeath.",
-            "c": "学习afterdeath。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 128,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "afterdeck",
-        "p": "/afterdeck/",
-        "pos": "n",
-        "m": "afterdeck",
-        "ex": [
-          {
-            "e": "Study afterdeck.",
-            "c": "学习afterdeck。"
-          }
-        ]
-      },
-      {
-        "w": "afterdecks",
-        "p": "/afterdecks/",
-        "pos": "n",
-        "m": "afterdecks",
-        "ex": [
-          {
-            "e": "Study afterdecks.",
-            "c": "学习afterdecks。"
-          }
-        ]
-      },
-      {
-        "w": "afterdinner",
-        "p": "/afterdinner/",
-        "pos": "n",
-        "m": "afterdinner",
-        "ex": [
-          {
-            "e": "Study afterdinner.",
-            "c": "学习afterdinner。"
-          }
-        ]
-      },
-      {
-        "w": "afterdischarge",
-        "p": "/afterdischarge/",
-        "pos": "n",
-        "m": "afterdischarge",
-        "ex": [
-          {
-            "e": "Study afterdischarge.",
-            "c": "学习afterdischarge。"
-          }
-        ]
-      },
-      {
-        "w": "afterdrain",
-        "p": "/afterdrain/",
-        "pos": "n",
-        "m": "afterdrain",
-        "ex": [
-          {
-            "e": "Study afterdrain.",
-            "c": "学习afterdrain。"
-          }
-        ]
-      },
-      {
-        "w": "afterdrops",
-        "p": "/afterdrops/",
-        "pos": "n",
-        "m": "afterdrops",
-        "ex": [
-          {
-            "e": "Study afterdrops.",
-            "c": "学习afterdrops。"
-          }
-        ]
-      },
-      {
-        "w": "aftereffect",
-        "p": "/aftereffect/",
-        "pos": "n",
-        "m": "aftereffect",
-        "ex": [
-          {
-            "e": "Study aftereffect.",
-            "c": "学习aftereffect。"
-          }
-        ]
-      },
-      {
-        "w": "aftereffects",
-        "p": "/aftereffects/",
-        "pos": "n",
-        "m": "aftereffects",
-        "ex": [
-          {
-            "e": "Study aftereffects.",
-            "c": "学习aftereffects。"
-          }
-        ]
-      },
-      {
-        "w": "afterend",
-        "p": "/afterend/",
-        "pos": "n",
-        "m": "afterend",
-        "ex": [
-          {
-            "e": "Study afterend.",
-            "c": "学习afterend。"
-          }
-        ]
-      },
-      {
-        "w": "aftereye",
-        "p": "/aftereye/",
-        "pos": "n",
-        "m": "aftereye",
-        "ex": [
-          {
-            "e": "Study aftereye.",
-            "c": "学习aftereye。"
-          }
-        ]
-      },
-      {
-        "w": "afterfall",
-        "p": "/afterfall/",
-        "pos": "n",
-        "m": "afterfall",
-        "ex": [
-          {
-            "e": "Study afterfall.",
-            "c": "学习afterfall。"
-          }
-        ]
-      },
-      {
-        "w": "afterfame",
-        "p": "/afterfame/",
-        "pos": "n",
-        "m": "afterfame",
-        "ex": [
-          {
-            "e": "Study afterfame.",
-            "c": "学习afterfame。"
-          }
-        ]
-      },
-      {
-        "w": "afterfeed",
-        "p": "/afterfeed/",
-        "pos": "n",
-        "m": "afterfeed",
-        "ex": [
-          {
-            "e": "Study afterfeed.",
-            "c": "学习afterfeed。"
-          }
-        ]
-      },
-      {
-        "w": "afterform",
-        "p": "/afterform/",
-        "pos": "n",
-        "m": "afterform",
-        "ex": [
-          {
-            "e": "Study afterform.",
-            "c": "学习afterform。"
-          }
-        ]
-      },
-      {
-        "w": "afterfriend",
-        "p": "/afterfriend/",
-        "pos": "n",
-        "m": "afterfriend",
-        "ex": [
-          {
-            "e": "Study afterfriend.",
-            "c": "学习afterfriend。"
-          }
-        ]
-      },
-      {
-        "w": "afterfruits",
-        "p": "/afterfruits/",
-        "pos": "n",
-        "m": "afterfruits",
-        "ex": [
-          {
-            "e": "Study afterfruits.",
-            "c": "学习afterfruits。"
-          }
-        ]
-      },
-      {
-        "w": "afterfuture",
-        "p": "/afterfuture/",
-        "pos": "n",
-        "m": "afterfuture",
-        "ex": [
-          {
-            "e": "Study afterfuture.",
-            "c": "学习afterfuture。"
-          }
-        ]
-      },
-      {
-        "w": "aftergame",
-        "p": "/aftergame/",
-        "pos": "n",
-        "m": "aftergame",
-        "ex": [
-          {
-            "e": "Study aftergame.",
-            "c": "学习aftergame。"
-          }
-        ]
-      },
-      {
-        "w": "aftergas",
-        "p": "/aftergas/",
-        "pos": "n",
-        "m": "aftergas",
-        "ex": [
-          {
-            "e": "Study aftergas.",
-            "c": "学习aftergas。"
-          }
-        ]
-      },
-      {
-        "w": "afterglide",
-        "p": "/afterglide/",
-        "pos": "n",
-        "m": "afterglide",
-        "ex": [
-          {
-            "e": "Study afterglide.",
-            "c": "学习afterglide。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 129,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "afterglow",
-        "p": "/afterglow/",
-        "pos": "n",
-        "m": "afterglow",
-        "ex": [
-          {
-            "e": "Study afterglow.",
-            "c": "学习afterglow。"
-          }
-        ]
-      },
-      {
-        "w": "afterglows",
-        "p": "/afterglows/",
-        "pos": "n",
-        "m": "afterglows",
-        "ex": [
-          {
-            "e": "Study afterglows.",
-            "c": "学习afterglows。"
-          }
-        ]
-      },
-      {
-        "w": "aftergo",
-        "p": "/aftergo/",
-        "pos": "n",
-        "m": "aftergo",
-        "ex": [
-          {
-            "e": "Study aftergo.",
-            "c": "学习aftergo。"
-          }
-        ]
-      },
-      {
-        "w": "aftergood",
-        "p": "/aftergood/",
-        "pos": "n",
-        "m": "aftergood",
-        "ex": [
-          {
-            "e": "Study aftergood.",
-            "c": "学习aftergood。"
-          }
-        ]
-      },
-      {
-        "w": "aftergrass",
-        "p": "/aftergrass/",
-        "pos": "n",
-        "m": "aftergrass",
-        "ex": [
-          {
-            "e": "Study aftergrass.",
-            "c": "学习aftergrass。"
-          }
-        ]
-      },
-      {
-        "w": "aftergrave",
-        "p": "/aftergrave/",
-        "pos": "n",
-        "m": "aftergrave",
-        "ex": [
-          {
-            "e": "Study aftergrave.",
-            "c": "学习aftergrave。"
-          }
-        ]
-      },
-      {
-        "w": "aftergrief",
-        "p": "/aftergrief/",
-        "pos": "n",
-        "m": "aftergrief",
-        "ex": [
-          {
-            "e": "Study aftergrief.",
-            "c": "学习aftergrief。"
-          }
-        ]
-      },
-      {
-        "w": "aftergrind",
-        "p": "/aftergrind/",
-        "pos": "n",
-        "m": "aftergrind",
-        "ex": [
-          {
-            "e": "Study aftergrind.",
-            "c": "学习aftergrind。"
-          }
-        ]
-      },
-      {
-        "w": "aftergrowth",
-        "p": "/aftergrowth/",
-        "pos": "n",
-        "m": "aftergrowth",
-        "ex": [
-          {
-            "e": "Study aftergrowth.",
-            "c": "学习aftergrowth。"
-          }
-        ]
-      },
-      {
-        "w": "afterguard",
-        "p": "/afterguard/",
-        "pos": "n",
-        "m": "afterguard",
-        "ex": [
-          {
-            "e": "Study afterguard.",
-            "c": "学习afterguard。"
-          }
-        ]
-      },
-      {
-        "w": "afterguns",
-        "p": "/afterguns/",
-        "pos": "n",
-        "m": "afterguns",
-        "ex": [
-          {
-            "e": "Study afterguns.",
-            "c": "学习afterguns。"
-          }
-        ]
-      },
-      {
-        "w": "afterhand",
-        "p": "/afterhand/",
-        "pos": "n",
-        "m": "afterhand",
-        "ex": [
-          {
-            "e": "Study afterhand.",
-            "c": "学习afterhand。"
-          }
-        ]
-      },
-      {
-        "w": "afterharm",
-        "p": "/afterharm/",
-        "pos": "n",
-        "m": "afterharm",
-        "ex": [
-          {
-            "e": "Study afterharm.",
-            "c": "学习afterharm。"
-          }
-        ]
-      },
-      {
-        "w": "afterhatch",
-        "p": "/afterhatch/",
-        "pos": "n",
-        "m": "afterhatch",
-        "ex": [
-          {
-            "e": "Study afterhatch.",
-            "c": "学习afterhatch。"
-          }
-        ]
-      },
-      {
-        "w": "afterheat",
-        "p": "/afterheat/",
-        "pos": "n",
-        "m": "afterheat",
-        "ex": [
-          {
-            "e": "Study afterheat.",
-            "c": "学习afterheat。"
-          }
-        ]
-      },
-      {
-        "w": "afterhelp",
-        "p": "/afterhelp/",
-        "pos": "n",
-        "m": "afterhelp",
-        "ex": [
-          {
-            "e": "Study afterhelp.",
-            "c": "学习afterhelp。"
-          }
-        ]
-      },
-      {
-        "w": "afterhend",
-        "p": "/afterhend/",
-        "pos": "n",
-        "m": "afterhend",
-        "ex": [
-          {
-            "e": "Study afterhend.",
-            "c": "学习afterhend。"
-          }
-        ]
-      },
-      {
-        "w": "afterhold",
-        "p": "/afterhold/",
-        "pos": "n",
-        "m": "afterhold",
-        "ex": [
-          {
-            "e": "Study afterhold.",
-            "c": "学习afterhold。"
-          }
-        ]
-      },
-      {
-        "w": "afterhope",
-        "p": "/afterhope/",
-        "pos": "n",
-        "m": "afterhope",
-        "ex": [
-          {
-            "e": "Study afterhope.",
-            "c": "学习afterhope。"
-          }
-        ]
-      },
-      {
-        "w": "afterhours",
-        "p": "/afterhours/",
-        "pos": "n",
-        "m": "afterhours",
-        "ex": [
-          {
-            "e": "Study afterhours.",
-            "c": "学习afterhours。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 130,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "afterimage",
-        "p": "/afterimage/",
-        "pos": "n",
-        "m": "afterimage",
-        "ex": [
-          {
-            "e": "Study afterimage.",
-            "c": "学习afterimage。"
-          }
-        ]
-      },
-      {
-        "w": "afterimages",
-        "p": "/afterimages/",
-        "pos": "n",
-        "m": "afterimages",
-        "ex": [
-          {
-            "e": "Study afterimages.",
-            "c": "学习afterimages。"
-          }
-        ]
-      },
-      {
-        "w": "afterimpression",
-        "p": "/afterimpression/",
-        "pos": "n",
-        "m": "afterimpression",
-        "ex": [
-          {
-            "e": "Study afterimpression.",
-            "c": "学习afterimpression。"
-          }
-        ]
-      },
-      {
-        "w": "afterings",
-        "p": "/afterings/",
-        "pos": "n",
-        "m": "afterings",
-        "ex": [
-          {
-            "e": "Study afterings.",
-            "c": "学习afterings。"
-          }
-        ]
-      },
-      {
-        "w": "afterking",
-        "p": "/afterking/",
-        "pos": "n",
-        "m": "afterking",
-        "ex": [
-          {
-            "e": "Study afterking.",
-            "c": "学习afterking。"
-          }
-        ]
-      },
-      {
-        "w": "afterknowledge",
-        "p": "/afterknowledge/",
-        "pos": "n",
-        "m": "afterknowledge",
-        "ex": [
-          {
-            "e": "Study afterknowledge.",
-            "c": "学习afterknowledge。"
-          }
-        ]
-      },
-      {
-        "w": "afterlife",
-        "p": "/afterlife/",
-        "pos": "n",
-        "m": "afterlife",
-        "ex": [
-          {
-            "e": "Study afterlife.",
-            "c": "学习afterlife。"
-          }
-        ]
-      },
-      {
-        "w": "afterlifetime",
-        "p": "/afterlifetime/",
-        "pos": "n",
-        "m": "afterlifetime",
-        "ex": [
-          {
-            "e": "Study afterlifetime.",
-            "c": "学习afterlifetime。"
-          }
-        ]
-      },
-      {
-        "w": "afterlight",
-        "p": "/afterlight/",
-        "pos": "n",
-        "m": "afterlight",
-        "ex": [
-          {
-            "e": "Study afterlight.",
-            "c": "学习afterlight。"
-          }
-        ]
-      },
-      {
-        "w": "afterlives",
-        "p": "/afterlives/",
-        "pos": "n",
-        "m": "afterlives",
-        "ex": [
-          {
-            "e": "Study afterlives.",
-            "c": "学习afterlives。"
-          }
-        ]
-      },
-      {
-        "w": "afterloss",
-        "p": "/afterloss/",
-        "pos": "n",
-        "m": "afterloss",
-        "ex": [
-          {
-            "e": "Study afterloss.",
-            "c": "学习afterloss。"
-          }
-        ]
-      },
-      {
-        "w": "afterlove",
-        "p": "/afterlove/",
-        "pos": "n",
-        "m": "afterlove",
-        "ex": [
-          {
-            "e": "Study afterlove.",
-            "c": "学习afterlove。"
-          }
-        ]
-      },
-      {
-        "w": "aftermark",
-        "p": "/aftermark/",
-        "pos": "n",
-        "m": "aftermark",
-        "ex": [
-          {
-            "e": "Study aftermark.",
-            "c": "学习aftermark。"
-          }
-        ]
-      },
-      {
-        "w": "aftermarket",
-        "p": "/aftermarket/",
-        "pos": "n",
-        "m": "aftermarket",
-        "ex": [
-          {
-            "e": "Study aftermarket.",
-            "c": "学习aftermarket。"
-          }
-        ]
-      },
-      {
-        "w": "aftermarriage",
-        "p": "/aftermarriage/",
-        "pos": "n",
-        "m": "aftermarriage",
-        "ex": [
-          {
-            "e": "Study aftermarriage.",
-            "c": "学习aftermarriage。"
-          }
-        ]
-      },
-      {
-        "w": "aftermass",
-        "p": "/aftermass/",
-        "pos": "n",
-        "m": "aftermass",
-        "ex": [
-          {
-            "e": "Study aftermass.",
-            "c": "学习aftermass。"
-          }
-        ]
-      },
-      {
-        "w": "aftermast",
-        "p": "/aftermast/",
-        "pos": "n",
-        "m": "aftermast",
-        "ex": [
-          {
-            "e": "Study aftermast.",
-            "c": "学习aftermast。"
-          }
-        ]
-      },
-      {
-        "w": "aftermath",
-        "p": "/aftermath/",
-        "pos": "n",
-        "m": "aftermath",
-        "ex": [
-          {
-            "e": "Study aftermath.",
-            "c": "学习aftermath。"
-          }
-        ]
-      },
-      {
-        "w": "aftermaths",
-        "p": "/aftermaths/",
-        "pos": "n",
-        "m": "aftermaths",
-        "ex": [
-          {
-            "e": "Study aftermaths.",
-            "c": "学习aftermaths。"
-          }
-        ]
-      },
-      {
-        "w": "aftermatter",
-        "p": "/aftermatter/",
-        "pos": "n",
-        "m": "aftermatter",
-        "ex": [
-          {
-            "e": "Study aftermatter.",
-            "c": "学习aftermatter。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 131,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "aftermeal",
-        "p": "/aftermeal/",
-        "pos": "n",
-        "m": "aftermeal",
-        "ex": [
-          {
-            "e": "Study aftermeal.",
-            "c": "学习aftermeal。"
-          }
-        ]
-      },
-      {
-        "w": "aftermilk",
-        "p": "/aftermilk/",
-        "pos": "n",
-        "m": "aftermilk",
-        "ex": [
-          {
-            "e": "Study aftermilk.",
-            "c": "学习aftermilk。"
-          }
-        ]
-      },
-      {
-        "w": "aftermost",
-        "p": "/aftermost/",
-        "pos": "n",
-        "m": "aftermost",
-        "ex": [
-          {
-            "e": "Study aftermost.",
-            "c": "学习aftermost。"
-          }
-        ]
-      },
-      {
-        "w": "afternight",
-        "p": "/afternight/",
-        "pos": "n",
-        "m": "afternight",
-        "ex": [
-          {
-            "e": "Study afternight.",
-            "c": "学习afternight。"
-          }
-        ]
-      },
-      {
-        "w": "afternoon",
-        "p": "/afternoon/",
-        "pos": "n",
-        "m": "afternoon",
-        "ex": [
-          {
-            "e": "Study afternoon.",
-            "c": "学习afternoon。"
-          }
-        ]
-      },
-      {
-        "w": "afternoons",
-        "p": "/afternoons/",
-        "pos": "n",
-        "m": "afternoons",
-        "ex": [
-          {
-            "e": "Study afternoons.",
-            "c": "学习afternoons。"
-          }
-        ]
-      },
-      {
-        "w": "afternose",
-        "p": "/afternose/",
-        "pos": "n",
-        "m": "afternose",
-        "ex": [
-          {
-            "e": "Study afternose.",
-            "c": "学习afternose。"
-          }
-        ]
-      },
-      {
-        "w": "afternote",
-        "p": "/afternote/",
-        "pos": "n",
-        "m": "afternote",
-        "ex": [
-          {
-            "e": "Study afternote.",
-            "c": "学习afternote。"
-          }
-        ]
-      },
-      {
-        "w": "afteroar",
-        "p": "/afteroar/",
-        "pos": "n",
-        "m": "afteroar",
-        "ex": [
-          {
-            "e": "Study afteroar.",
-            "c": "学习afteroar。"
-          }
-        ]
-      },
-      {
-        "w": "afterpain",
-        "p": "/afterpain/",
-        "pos": "n",
-        "m": "afterpain",
-        "ex": [
-          {
-            "e": "Study afterpain.",
-            "c": "学习afterpain。"
-          }
-        ]
-      },
-      {
-        "w": "afterpains",
-        "p": "/afterpains/",
-        "pos": "n",
-        "m": "afterpains",
-        "ex": [
-          {
-            "e": "Study afterpains.",
-            "c": "学习afterpains。"
-          }
-        ]
-      },
-      {
-        "w": "afterpart",
-        "p": "/afterpart/",
-        "pos": "n",
-        "m": "afterpart",
-        "ex": [
-          {
-            "e": "Study afterpart.",
-            "c": "学习afterpart。"
-          }
-        ]
-      },
-      {
-        "w": "afterpast",
-        "p": "/afterpast/",
-        "pos": "n",
-        "m": "afterpast",
-        "ex": [
-          {
-            "e": "Study afterpast.",
-            "c": "学习afterpast。"
-          }
-        ]
-      },
-      {
-        "w": "afterpeak",
-        "p": "/afterpeak/",
-        "pos": "n",
-        "m": "afterpeak",
-        "ex": [
-          {
-            "e": "Study afterpeak.",
-            "c": "学习afterpeak。"
-          }
-        ]
-      },
-      {
-        "w": "afterpiece",
-        "p": "/afterpiece/",
-        "pos": "n",
-        "m": "afterpiece",
-        "ex": [
-          {
-            "e": "Study afterpiece.",
-            "c": "学习afterpiece。"
-          }
-        ]
-      },
-      {
-        "w": "afterplanting",
-        "p": "/afterplanting/",
-        "pos": "n",
-        "m": "afterplanting",
-        "ex": [
-          {
-            "e": "Study afterplanting.",
-            "c": "学习afterplanting。"
-          }
-        ]
-      },
-      {
-        "w": "afterplay",
-        "p": "/afterplay/",
-        "pos": "n",
-        "m": "afterplay",
-        "ex": [
-          {
-            "e": "Study afterplay.",
-            "c": "学习afterplay。"
-          }
-        ]
-      },
-      {
-        "w": "afterpotential",
-        "p": "/afterpotential/",
-        "pos": "n",
-        "m": "afterpotential",
-        "ex": [
-          {
-            "e": "Study afterpotential.",
-            "c": "学习afterpotential。"
-          }
-        ]
-      },
-      {
-        "w": "afterpressure",
-        "p": "/afterpressure/",
-        "pos": "n",
-        "m": "afterpressure",
-        "ex": [
-          {
-            "e": "Study afterpressure.",
-            "c": "学习afterpressure。"
-          }
-        ]
-      },
-      {
-        "w": "afterproof",
-        "p": "/afterproof/",
-        "pos": "n",
-        "m": "afterproof",
-        "ex": [
-          {
-            "e": "Study afterproof.",
-            "c": "学习afterproof。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 132,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "afterrake",
-        "p": "/afterrake/",
-        "pos": "n",
-        "m": "afterrake",
-        "ex": [
-          {
-            "e": "Study afterrake.",
-            "c": "学习afterrake。"
-          }
-        ]
-      },
-      {
-        "w": "afterreckoning",
-        "p": "/afterreckoning/",
-        "pos": "n",
-        "m": "afterreckoning",
-        "ex": [
-          {
-            "e": "Study afterreckoning.",
-            "c": "学习afterreckoning。"
-          }
-        ]
-      },
-      {
-        "w": "afterrider",
-        "p": "/afterrider/",
-        "pos": "n",
-        "m": "afterrider",
-        "ex": [
-          {
-            "e": "Study afterrider.",
-            "c": "学习afterrider。"
-          }
-        ]
-      },
-      {
-        "w": "afterripening",
-        "p": "/afterripening/",
-        "pos": "n",
-        "m": "afterripening",
-        "ex": [
-          {
-            "e": "Study afterripening.",
-            "c": "学习afterripening。"
-          }
-        ]
-      },
-      {
-        "w": "afterroll",
-        "p": "/afterroll/",
-        "pos": "n",
-        "m": "afterroll",
-        "ex": [
-          {
-            "e": "Study afterroll.",
-            "c": "学习afterroll。"
-          }
-        ]
-      },
-      {
-        "w": "afters",
-        "p": "/afters/",
-        "pos": "n",
-        "m": "afters",
-        "ex": [
-          {
-            "e": "Study afters.",
-            "c": "学习afters。"
-          }
-        ]
-      },
-      {
-        "w": "afterschool",
-        "p": "/afterschool/",
-        "pos": "n",
-        "m": "afterschool",
-        "ex": [
-          {
-            "e": "Study afterschool.",
-            "c": "学习afterschool。"
-          }
-        ]
-      },
-      {
-        "w": "aftersend",
-        "p": "/aftersend/",
-        "pos": "n",
-        "m": "aftersend",
-        "ex": [
-          {
-            "e": "Study aftersend.",
-            "c": "学习aftersend。"
-          }
-        ]
-      },
-      {
-        "w": "aftersensation",
-        "p": "/aftersensation/",
-        "pos": "n",
-        "m": "aftersensation",
-        "ex": [
-          {
-            "e": "Study aftersensation.",
-            "c": "学习aftersensation。"
-          }
-        ]
-      },
-      {
-        "w": "aftershaft",
-        "p": "/aftershaft/",
-        "pos": "n",
-        "m": "aftershaft",
-        "ex": [
-          {
-            "e": "Study aftershaft.",
-            "c": "学习aftershaft。"
-          }
-        ]
-      },
-      {
-        "w": "aftershafted",
-        "p": "/aftershafted/",
-        "pos": "n",
-        "m": "aftershafted",
-        "ex": [
-          {
-            "e": "Study aftershafted.",
-            "c": "学习aftershafted。"
-          }
-        ]
-      },
-      {
-        "w": "aftershave",
-        "p": "/aftershave/",
-        "pos": "n",
-        "m": "aftershave",
-        "ex": [
-          {
-            "e": "Study aftershave.",
-            "c": "学习aftershave。"
-          }
-        ]
-      },
-      {
-        "w": "aftershaves",
-        "p": "/aftershaves/",
-        "pos": "n",
-        "m": "aftershaves",
-        "ex": [
-          {
-            "e": "Study aftershaves.",
-            "c": "学习aftershaves。"
-          }
-        ]
-      },
-      {
-        "w": "aftershine",
-        "p": "/aftershine/",
-        "pos": "n",
-        "m": "aftershine",
-        "ex": [
-          {
-            "e": "Study aftershine.",
-            "c": "学习aftershine。"
-          }
-        ]
-      },
-      {
-        "w": "aftership",
-        "p": "/aftership/",
-        "pos": "n",
-        "m": "aftership",
-        "ex": [
-          {
-            "e": "Study aftership.",
-            "c": "学习aftership。"
-          }
-        ]
-      },
-      {
-        "w": "aftershock",
-        "p": "/aftershock/",
-        "pos": "n",
-        "m": "aftershock",
-        "ex": [
-          {
-            "e": "Study aftershock.",
-            "c": "学习aftershock。"
-          }
-        ]
-      },
-      {
-        "w": "aftershocks",
-        "p": "/aftershocks/",
-        "pos": "n",
-        "m": "aftershocks",
-        "ex": [
-          {
-            "e": "Study aftershocks.",
-            "c": "学习aftershocks。"
-          }
-        ]
-      },
-      {
-        "w": "aftersong",
-        "p": "/aftersong/",
-        "pos": "n",
-        "m": "aftersong",
-        "ex": [
-          {
-            "e": "Study aftersong.",
-            "c": "学习aftersong。"
-          }
-        ]
-      },
-      {
-        "w": "aftersound",
-        "p": "/aftersound/",
-        "pos": "n",
-        "m": "aftersound",
-        "ex": [
-          {
-            "e": "Study aftersound.",
-            "c": "学习aftersound。"
-          }
-        ]
-      },
-      {
-        "w": "afterspeech",
-        "p": "/afterspeech/",
-        "pos": "n",
-        "m": "afterspeech",
-        "ex": [
-          {
-            "e": "Study afterspeech.",
-            "c": "学习afterspeech。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 133,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "afterspring",
-        "p": "/afterspring/",
-        "pos": "n",
-        "m": "afterspring",
-        "ex": [
-          {
-            "e": "Study afterspring.",
-            "c": "学习afterspring。"
-          }
-        ]
-      },
-      {
-        "w": "afterstain",
-        "p": "/afterstain/",
-        "pos": "n",
-        "m": "afterstain",
-        "ex": [
-          {
-            "e": "Study afterstain.",
-            "c": "学习afterstain。"
-          }
-        ]
-      },
-      {
-        "w": "afterstate",
-        "p": "/afterstate/",
-        "pos": "n",
-        "m": "afterstate",
-        "ex": [
-          {
-            "e": "Study afterstate.",
-            "c": "学习afterstate。"
-          }
-        ]
-      },
-      {
-        "w": "afterstorm",
-        "p": "/afterstorm/",
-        "pos": "n",
-        "m": "afterstorm",
-        "ex": [
-          {
-            "e": "Study afterstorm.",
-            "c": "学习afterstorm。"
-          }
-        ]
-      },
-      {
-        "w": "afterstrain",
-        "p": "/afterstrain/",
-        "pos": "n",
-        "m": "afterstrain",
-        "ex": [
-          {
-            "e": "Study afterstrain.",
-            "c": "学习afterstrain。"
-          }
-        ]
-      },
-      {
-        "w": "afterstretch",
-        "p": "/afterstretch/",
-        "pos": "n",
-        "m": "afterstretch",
-        "ex": [
-          {
-            "e": "Study afterstretch.",
-            "c": "学习afterstretch。"
-          }
-        ]
-      },
-      {
-        "w": "afterstudy",
-        "p": "/afterstudy/",
-        "pos": "n",
-        "m": "afterstudy",
-        "ex": [
-          {
-            "e": "Study afterstudy.",
-            "c": "学习afterstudy。"
-          }
-        ]
-      },
-      {
-        "w": "aftersupper",
-        "p": "/aftersupper/",
-        "pos": "n",
-        "m": "aftersupper",
-        "ex": [
-          {
-            "e": "Study aftersupper.",
-            "c": "学习aftersupper。"
-          }
-        ]
-      },
-      {
-        "w": "afterswarm",
-        "p": "/afterswarm/",
-        "pos": "n",
-        "m": "afterswarm",
-        "ex": [
-          {
-            "e": "Study afterswarm.",
-            "c": "学习afterswarm。"
-          }
-        ]
-      },
-      {
-        "w": "afterswarming",
-        "p": "/afterswarming/",
-        "pos": "n",
-        "m": "afterswarming",
-        "ex": [
-          {
-            "e": "Study afterswarming.",
-            "c": "学习afterswarming。"
-          }
-        ]
-      },
-      {
-        "w": "afterswell",
-        "p": "/afterswell/",
-        "pos": "n",
-        "m": "afterswell",
-        "ex": [
-          {
-            "e": "Study afterswell.",
-            "c": "学习afterswell。"
-          }
-        ]
-      },
-      {
-        "w": "aftertan",
-        "p": "/aftertan/",
-        "pos": "n",
-        "m": "aftertan",
-        "ex": [
-          {
-            "e": "Study aftertan.",
-            "c": "学习aftertan。"
-          }
-        ]
-      },
-      {
-        "w": "aftertask",
-        "p": "/aftertask/",
-        "pos": "n",
-        "m": "aftertask",
-        "ex": [
-          {
-            "e": "Study aftertask.",
-            "c": "学习aftertask。"
-          }
-        ]
-      },
-      {
-        "w": "aftertaste",
-        "p": "/aftertaste/",
-        "pos": "n",
-        "m": "aftertaste",
-        "ex": [
-          {
-            "e": "Study aftertaste.",
-            "c": "学习aftertaste。"
-          }
-        ]
-      },
-      {
-        "w": "aftertastes",
-        "p": "/aftertastes/",
-        "pos": "n",
-        "m": "aftertastes",
-        "ex": [
-          {
-            "e": "Study aftertastes.",
-            "c": "学习aftertastes。"
-          }
-        ]
-      },
-      {
-        "w": "aftertax",
-        "p": "/aftertax/",
-        "pos": "n",
-        "m": "aftertax",
-        "ex": [
-          {
-            "e": "Study aftertax.",
-            "c": "学习aftertax。"
-          }
-        ]
-      },
-      {
-        "w": "afterthinker",
-        "p": "/afterthinker/",
-        "pos": "n",
-        "m": "afterthinker",
-        "ex": [
-          {
-            "e": "Study afterthinker.",
-            "c": "学习afterthinker。"
-          }
-        ]
-      },
-      {
-        "w": "afterthought",
-        "p": "/afterthought/",
-        "pos": "n",
-        "m": "afterthought",
-        "ex": [
-          {
-            "e": "Study afterthought.",
-            "c": "学习afterthought。"
-          }
-        ]
-      },
-      {
-        "w": "afterthoughted",
-        "p": "/afterthoughted/",
-        "pos": "n",
-        "m": "afterthoughted",
-        "ex": [
-          {
-            "e": "Study afterthoughted.",
-            "c": "学习afterthoughted。"
-          }
-        ]
-      },
-      {
-        "w": "afterthoughts",
-        "p": "/afterthoughts/",
-        "pos": "n",
-        "m": "afterthoughts",
-        "ex": [
-          {
-            "e": "Study afterthoughts.",
-            "c": "学习afterthoughts。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 134,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "afterthrift",
-        "p": "/afterthrift/",
-        "pos": "n",
-        "m": "afterthrift",
-        "ex": [
-          {
-            "e": "Study afterthrift.",
-            "c": "学习afterthrift。"
-          }
-        ]
-      },
-      {
-        "w": "aftertime",
-        "p": "/aftertime/",
-        "pos": "n",
-        "m": "aftertime",
-        "ex": [
-          {
-            "e": "Study aftertime.",
-            "c": "学习aftertime。"
-          }
-        ]
-      },
-      {
-        "w": "aftertimes",
-        "p": "/aftertimes/",
-        "pos": "n",
-        "m": "aftertimes",
-        "ex": [
-          {
-            "e": "Study aftertimes.",
-            "c": "学习aftertimes。"
-          }
-        ]
-      },
-      {
-        "w": "aftertouch",
-        "p": "/aftertouch/",
-        "pos": "n",
-        "m": "aftertouch",
-        "ex": [
-          {
-            "e": "Study aftertouch.",
-            "c": "学习aftertouch。"
-          }
-        ]
-      },
-      {
-        "w": "aftertreatment",
-        "p": "/aftertreatment/",
-        "pos": "n",
-        "m": "aftertreatment",
-        "ex": [
-          {
-            "e": "Study aftertreatment.",
-            "c": "学习aftertreatment。"
-          }
-        ]
-      },
-      {
-        "w": "aftertrial",
-        "p": "/aftertrial/",
-        "pos": "n",
-        "m": "aftertrial",
-        "ex": [
-          {
-            "e": "Study aftertrial.",
-            "c": "学习aftertrial。"
-          }
-        ]
-      },
-      {
-        "w": "afterturn",
-        "p": "/afterturn/",
-        "pos": "n",
-        "m": "afterturn",
-        "ex": [
-          {
-            "e": "Study afterturn.",
-            "c": "学习afterturn。"
-          }
-        ]
-      },
-      {
-        "w": "aftervision",
-        "p": "/aftervision/",
-        "pos": "n",
-        "m": "aftervision",
-        "ex": [
-          {
-            "e": "Study aftervision.",
-            "c": "学习aftervision。"
-          }
-        ]
-      },
-      {
-        "w": "afterwale",
-        "p": "/afterwale/",
-        "pos": "n",
-        "m": "afterwale",
-        "ex": [
-          {
-            "e": "Study afterwale.",
-            "c": "学习afterwale。"
-          }
-        ]
-      },
-      {
-        "w": "afterwar",
-        "p": "/afterwar/",
-        "pos": "n",
-        "m": "afterwar",
-        "ex": [
-          {
-            "e": "Study afterwar.",
-            "c": "学习afterwar。"
-          }
-        ]
-      },
-      {
-        "w": "afterward",
-        "p": "/afterward/",
-        "pos": "n",
-        "m": "afterward",
-        "ex": [
-          {
-            "e": "Study afterward.",
-            "c": "学习afterward。"
-          }
-        ]
-      },
-      {
-        "w": "afterwards",
-        "p": "/afterwards/",
-        "pos": "n",
-        "m": "afterwards",
-        "ex": [
-          {
-            "e": "Study afterwards.",
-            "c": "学习afterwards。"
-          }
-        ]
-      },
-      {
-        "w": "afterwash",
-        "p": "/afterwash/",
-        "pos": "n",
-        "m": "afterwash",
-        "ex": [
-          {
-            "e": "Study afterwash.",
-            "c": "学习afterwash。"
-          }
-        ]
-      },
-      {
-        "w": "afterwhile",
-        "p": "/afterwhile/",
-        "pos": "n",
-        "m": "afterwhile",
-        "ex": [
-          {
-            "e": "Study afterwhile.",
-            "c": "学习afterwhile。"
-          }
-        ]
-      },
-      {
-        "w": "afterwisdom",
-        "p": "/afterwisdom/",
-        "pos": "n",
-        "m": "afterwisdom",
-        "ex": [
-          {
-            "e": "Study afterwisdom.",
-            "c": "学习afterwisdom。"
-          }
-        ]
-      },
-      {
-        "w": "afterwise",
-        "p": "/afterwise/",
-        "pos": "n",
-        "m": "afterwise",
-        "ex": [
-          {
-            "e": "Study afterwise.",
-            "c": "学习afterwise。"
-          }
-        ]
-      },
-      {
-        "w": "afterwit",
-        "p": "/afterwit/",
-        "pos": "n",
-        "m": "afterwit",
-        "ex": [
-          {
-            "e": "Study afterwit.",
-            "c": "学习afterwit。"
-          }
-        ]
-      },
-      {
-        "w": "afterwitted",
-        "p": "/afterwitted/",
-        "pos": "n",
-        "m": "afterwitted",
-        "ex": [
-          {
-            "e": "Study afterwitted.",
-            "c": "学习afterwitted。"
-          }
-        ]
-      },
-      {
-        "w": "afterword",
-        "p": "/afterword/",
-        "pos": "n",
-        "m": "afterword",
-        "ex": [
-          {
-            "e": "Study afterword.",
-            "c": "学习afterword。"
-          }
-        ]
-      },
-      {
-        "w": "afterwork",
-        "p": "/afterwork/",
-        "pos": "n",
-        "m": "afterwork",
-        "ex": [
-          {
-            "e": "Study afterwork.",
-            "c": "学习afterwork。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 135,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "afterworking",
-        "p": "/afterworking/",
-        "pos": "n",
-        "m": "afterworking",
-        "ex": [
-          {
-            "e": "Study afterworking.",
-            "c": "学习afterworking。"
-          }
-        ]
-      },
-      {
-        "w": "afterworld",
-        "p": "/afterworld/",
-        "pos": "n",
-        "m": "afterworld",
-        "ex": [
-          {
-            "e": "Study afterworld.",
-            "c": "学习afterworld。"
-          }
-        ]
-      },
-      {
-        "w": "afterwort",
-        "p": "/afterwort/",
-        "pos": "n",
-        "m": "afterwort",
-        "ex": [
-          {
-            "e": "Study afterwort.",
-            "c": "学习afterwort。"
-          }
-        ]
-      },
-      {
-        "w": "afterwrath",
-        "p": "/afterwrath/",
-        "pos": "n",
-        "m": "afterwrath",
-        "ex": [
-          {
-            "e": "Study afterwrath.",
-            "c": "学习afterwrath。"
-          }
-        ]
-      },
-      {
-        "w": "afterwrist",
-        "p": "/afterwrist/",
-        "pos": "n",
-        "m": "afterwrist",
-        "ex": [
-          {
-            "e": "Study afterwrist.",
-            "c": "学习afterwrist。"
-          }
-        ]
-      },
-      {
-        "w": "afteryears",
-        "p": "/afteryears/",
-        "pos": "n",
-        "m": "afteryears",
-        "ex": [
-          {
-            "e": "Study afteryears.",
-            "c": "学习afteryears。"
-          }
-        ]
-      },
-      {
-        "w": "aftmost",
-        "p": "/aftmost/",
-        "pos": "n",
-        "m": "aftmost",
-        "ex": [
-          {
-            "e": "Study aftmost.",
-            "c": "学习aftmost。"
-          }
-        ]
-      },
-      {
-        "w": "aftonian",
-        "p": "/aftonian/",
-        "pos": "n",
-        "m": "aftonian",
-        "ex": [
-          {
-            "e": "Study aftonian.",
-            "c": "学习aftonian。"
-          }
-        ]
-      },
-      {
-        "w": "aftosa",
-        "p": "/aftosa/",
-        "pos": "n",
-        "m": "aftosa",
-        "ex": [
-          {
-            "e": "Study aftosa.",
-            "c": "学习aftosa。"
-          }
-        ]
-      },
-      {
-        "w": "aftosas",
-        "p": "/aftosas/",
-        "pos": "n",
-        "m": "aftosas",
-        "ex": [
-          {
-            "e": "Study aftosas.",
-            "c": "学习aftosas。"
-          }
-        ]
-      },
-      {
-        "w": "aftward",
-        "p": "/aftward/",
-        "pos": "n",
-        "m": "aftward",
-        "ex": [
-          {
-            "e": "Study aftward.",
-            "c": "学习aftward。"
-          }
-        ]
-      },
-      {
-        "w": "aftwards",
-        "p": "/aftwards/",
-        "pos": "n",
-        "m": "aftwards",
-        "ex": [
-          {
-            "e": "Study aftwards.",
-            "c": "学习aftwards。"
-          }
-        ]
-      },
-      {
-        "w": "afunction",
-        "p": "/afunction/",
-        "pos": "n",
-        "m": "afunction",
-        "ex": [
-          {
-            "e": "Study afunction.",
-            "c": "学习afunction。"
-          }
-        ]
-      },
-      {
-        "w": "afunctional",
-        "p": "/afunctional/",
-        "pos": "n",
-        "m": "afunctional",
-        "ex": [
-          {
-            "e": "Study afunctional.",
-            "c": "学习afunctional。"
-          }
-        ]
-      },
-      {
-        "w": "afwillite",
-        "p": "/afwillite/",
-        "pos": "n",
-        "m": "afwillite",
-        "ex": [
-          {
-            "e": "Study afwillite.",
-            "c": "学习afwillite。"
-          }
-        ]
-      },
-      {
-        "w": "afzelia",
-        "p": "/afzelia/",
-        "pos": "n",
-        "m": "afzelia",
-        "ex": [
-          {
-            "e": "Study afzelia.",
-            "c": "学习afzelia。"
-          }
-        ]
-      },
-      {
-        "w": "aga",
-        "p": "/aga/",
-        "pos": "n",
-        "m": "aga",
-        "ex": [
-          {
-            "e": "Study aga.",
-            "c": "学习aga。"
-          }
-        ]
-      },
-      {
-        "w": "agabanee",
-        "p": "/agabanee/",
-        "pos": "n",
-        "m": "agabanee",
-        "ex": [
-          {
-            "e": "Study agabanee.",
-            "c": "学习agabanee。"
-          }
-        ]
-      },
-      {
-        "w": "agacant",
-        "p": "/agacant/",
-        "pos": "n",
-        "m": "agacant",
-        "ex": [
-          {
-            "e": "Study agacant.",
-            "c": "学习agacant。"
-          }
-        ]
-      },
-      {
-        "w": "agacante",
-        "p": "/agacante/",
-        "pos": "n",
-        "m": "agacante",
-        "ex": [
-          {
-            "e": "Study agacante.",
-            "c": "学习agacante。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 136,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "agacella",
-        "p": "/agacella/",
-        "pos": "n",
-        "m": "agacella",
-        "ex": [
-          {
-            "e": "Study agacella.",
-            "c": "学习agacella。"
-          }
-        ]
-      },
-      {
-        "w": "agacerie",
-        "p": "/agacerie/",
-        "pos": "n",
-        "m": "agacerie",
-        "ex": [
-          {
-            "e": "Study agacerie.",
-            "c": "学习agacerie。"
-          }
-        ]
-      },
-      {
-        "w": "agaces",
-        "p": "/agaces/",
-        "pos": "n",
-        "m": "agaces",
-        "ex": [
-          {
-            "e": "Study agaces.",
-            "c": "学习agaces。"
-          }
-        ]
-      },
-      {
-        "w": "agad",
-        "p": "/agad/",
-        "pos": "n",
-        "m": "agad",
-        "ex": [
-          {
-            "e": "Study agad.",
-            "c": "学习agad。"
-          }
-        ]
-      },
-      {
-        "w": "agada",
-        "p": "/agada/",
-        "pos": "n",
-        "m": "agada",
-        "ex": [
-          {
-            "e": "Study agada.",
-            "c": "学习agada。"
-          }
-        ]
-      },
-      {
-        "w": "agade",
-        "p": "/agade/",
-        "pos": "n",
-        "m": "agade",
-        "ex": [
-          {
-            "e": "Study agade.",
-            "c": "学习agade。"
-          }
-        ]
-      },
-      {
-        "w": "agadic",
-        "p": "/agadic/",
-        "pos": "n",
-        "m": "agadic",
-        "ex": [
-          {
-            "e": "Study agadic.",
-            "c": "学习agadic。"
-          }
-        ]
-      },
-      {
-        "w": "agag",
-        "p": "/agag/",
-        "pos": "n",
-        "m": "agag",
-        "ex": [
-          {
-            "e": "Study agag.",
-            "c": "学习agag。"
-          }
-        ]
-      },
-      {
-        "w": "again",
-        "p": "/again/",
-        "pos": "n",
-        "m": "again",
-        "ex": [
-          {
-            "e": "Study again.",
-            "c": "学习again。"
-          }
-        ]
-      },
-      {
-        "w": "againbuy",
-        "p": "/againbuy/",
-        "pos": "n",
-        "m": "againbuy",
-        "ex": [
-          {
-            "e": "Study againbuy.",
-            "c": "学习againbuy。"
-          }
-        ]
-      },
-      {
-        "w": "againsay",
-        "p": "/againsay/",
-        "pos": "n",
-        "m": "againsay",
-        "ex": [
-          {
-            "e": "Study againsay.",
-            "c": "学习againsay。"
-          }
-        ]
-      },
-      {
-        "w": "againstand",
-        "p": "/againstand/",
-        "pos": "n",
-        "m": "againstand",
-        "ex": [
-          {
-            "e": "Study againstand.",
-            "c": "学习againstand。"
-          }
-        ]
-      },
-      {
-        "w": "againward",
-        "p": "/againward/",
-        "pos": "n",
-        "m": "againward",
-        "ex": [
-          {
-            "e": "Study againward.",
-            "c": "学习againward。"
-          }
-        ]
-      },
-      {
-        "w": "agal",
-        "p": "/agal/",
-        "pos": "n",
-        "m": "agal",
-        "ex": [
-          {
-            "e": "Study agal.",
-            "c": "学习agal。"
-          }
-        ]
-      },
-      {
-        "w": "agalactia",
-        "p": "/agalactia/",
-        "pos": "n",
-        "m": "agalactia",
-        "ex": [
-          {
-            "e": "Study agalactia.",
-            "c": "学习agalactia。"
-          }
-        ]
-      },
-      {
-        "w": "agalactic",
-        "p": "/agalactic/",
-        "pos": "n",
-        "m": "agalactic",
-        "ex": [
-          {
-            "e": "Study agalactic.",
-            "c": "学习agalactic。"
-          }
-        ]
-      },
-      {
-        "w": "agalactous",
-        "p": "/agalactous/",
-        "pos": "n",
-        "m": "agalactous",
-        "ex": [
-          {
-            "e": "Study agalactous.",
-            "c": "学习agalactous。"
-          }
-        ]
-      },
-      {
-        "w": "agalawood",
-        "p": "/agalawood/",
-        "pos": "n",
-        "m": "agalawood",
-        "ex": [
-          {
-            "e": "Study agalawood.",
-            "c": "学习agalawood。"
-          }
-        ]
-      },
-      {
-        "w": "agalaxia",
-        "p": "/agalaxia/",
-        "pos": "n",
-        "m": "agalaxia",
-        "ex": [
-          {
-            "e": "Study agalaxia.",
-            "c": "学习agalaxia。"
-          }
-        ]
-      },
-      {
-        "w": "agalaxy",
-        "p": "/agalaxy/",
-        "pos": "n",
-        "m": "agalaxy",
-        "ex": [
-          {
-            "e": "Study agalaxy.",
-            "c": "学习agalaxy。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 137,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "agalena",
-        "p": "/agalena/",
-        "pos": "n",
-        "m": "agalena",
-        "ex": [
-          {
-            "e": "Study agalena.",
-            "c": "学习agalena。"
-          }
-        ]
-      },
-      {
-        "w": "agalenidae",
-        "p": "/agalenidae/",
-        "pos": "n",
-        "m": "agalenidae",
-        "ex": [
-          {
-            "e": "Study agalenidae.",
-            "c": "学习agalenidae。"
-          }
-        ]
-      },
-      {
-        "w": "agalinis",
-        "p": "/agalinis/",
-        "pos": "n",
-        "m": "agalinis",
-        "ex": [
-          {
-            "e": "Study agalinis.",
-            "c": "学习agalinis。"
-          }
-        ]
-      },
-      {
-        "w": "agalite",
-        "p": "/agalite/",
-        "pos": "n",
-        "m": "agalite",
-        "ex": [
-          {
-            "e": "Study agalite.",
-            "c": "学习agalite。"
-          }
-        ]
-      },
-      {
-        "w": "agalloch",
-        "p": "/agalloch/",
-        "pos": "n",
-        "m": "agalloch",
-        "ex": [
-          {
-            "e": "Study agalloch.",
-            "c": "学习agalloch。"
-          }
-        ]
-      },
-      {
-        "w": "agallochs",
-        "p": "/agallochs/",
-        "pos": "n",
-        "m": "agallochs",
-        "ex": [
-          {
-            "e": "Study agallochs.",
-            "c": "学习agallochs。"
-          }
-        ]
-      },
-      {
-        "w": "agallochum",
-        "p": "/agallochum/",
-        "pos": "n",
-        "m": "agallochum",
-        "ex": [
-          {
-            "e": "Study agallochum.",
-            "c": "学习agallochum。"
-          }
-        ]
-      },
-      {
-        "w": "agallop",
-        "p": "/agallop/",
-        "pos": "n",
-        "m": "agallop",
-        "ex": [
-          {
-            "e": "Study agallop.",
-            "c": "学习agallop。"
-          }
-        ]
-      },
-      {
-        "w": "agalma",
-        "p": "/agalma/",
-        "pos": "n",
-        "m": "agalma",
-        "ex": [
-          {
-            "e": "Study agalma.",
-            "c": "学习agalma。"
-          }
-        ]
-      },
-      {
-        "w": "agalmatolite",
-        "p": "/agalmatolite/",
-        "pos": "n",
-        "m": "agalmatolite",
-        "ex": [
-          {
-            "e": "Study agalmatolite.",
-            "c": "学习agalmatolite。"
-          }
-        ]
-      },
-      {
-        "w": "agalwood",
-        "p": "/agalwood/",
-        "pos": "n",
-        "m": "agalwood",
-        "ex": [
-          {
-            "e": "Study agalwood.",
-            "c": "学习agalwood。"
-          }
-        ]
-      },
-      {
-        "w": "agalwoods",
-        "p": "/agalwoods/",
-        "pos": "n",
-        "m": "agalwoods",
-        "ex": [
-          {
-            "e": "Study agalwoods.",
-            "c": "学习agalwoods。"
-          }
-        ]
-      },
-      {
-        "w": "agama",
-        "p": "/agama/",
-        "pos": "n",
-        "m": "agama",
-        "ex": [
-          {
-            "e": "Study agama.",
-            "c": "学习agama。"
-          }
-        ]
-      },
-      {
-        "w": "agamae",
-        "p": "/agamae/",
-        "pos": "n",
-        "m": "agamae",
-        "ex": [
-          {
-            "e": "Study agamae.",
-            "c": "学习agamae。"
-          }
-        ]
-      },
-      {
-        "w": "agamas",
-        "p": "/agamas/",
-        "pos": "n",
-        "m": "agamas",
-        "ex": [
-          {
-            "e": "Study agamas.",
-            "c": "学习agamas。"
-          }
-        ]
-      },
-      {
-        "w": "agamemnon",
-        "p": "/agamemnon/",
-        "pos": "n",
-        "m": "agamemnon",
-        "ex": [
-          {
-            "e": "Study agamemnon.",
-            "c": "学习agamemnon。"
-          }
-        ]
-      },
-      {
-        "w": "agamete",
-        "p": "/agamete/",
-        "pos": "n",
-        "m": "agamete",
-        "ex": [
-          {
-            "e": "Study agamete.",
-            "c": "学习agamete。"
-          }
-        ]
-      },
-      {
-        "w": "agametes",
-        "p": "/agametes/",
-        "pos": "n",
-        "m": "agametes",
-        "ex": [
-          {
-            "e": "Study agametes.",
-            "c": "学习agametes。"
-          }
-        ]
-      },
-      {
-        "w": "agami",
-        "p": "/agami/",
-        "pos": "n",
-        "m": "agami",
-        "ex": [
-          {
-            "e": "Study agami.",
-            "c": "学习agami。"
-          }
-        ]
-      },
-      {
-        "w": "agamian",
-        "p": "/agamian/",
-        "pos": "n",
-        "m": "agamian",
-        "ex": [
-          {
-            "e": "Study agamian.",
-            "c": "学习agamian。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 138,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "agamic",
-        "p": "/agamic/",
-        "pos": "n",
-        "m": "agamic",
-        "ex": [
-          {
-            "e": "Study agamic.",
-            "c": "学习agamic。"
-          }
-        ]
-      },
-      {
-        "w": "agamically",
-        "p": "/agamically/",
-        "pos": "n",
-        "m": "agamically",
-        "ex": [
-          {
-            "e": "Study agamically.",
-            "c": "学习agamically。"
-          }
-        ]
-      },
-      {
-        "w": "agamid",
-        "p": "/agamid/",
-        "pos": "n",
-        "m": "agamid",
-        "ex": [
-          {
-            "e": "Study agamid.",
-            "c": "学习agamid。"
-          }
-        ]
-      },
-      {
-        "w": "agamidae",
-        "p": "/agamidae/",
-        "pos": "n",
-        "m": "agamidae",
-        "ex": [
-          {
-            "e": "Study agamidae.",
-            "c": "学习agamidae。"
-          }
-        ]
-      },
-      {
-        "w": "agamis",
-        "p": "/agamis/",
-        "pos": "n",
-        "m": "agamis",
-        "ex": [
-          {
-            "e": "Study agamis.",
-            "c": "学习agamis。"
-          }
-        ]
-      },
-      {
-        "w": "agamist",
-        "p": "/agamist/",
-        "pos": "n",
-        "m": "agamist",
-        "ex": [
-          {
-            "e": "Study agamist.",
-            "c": "学习agamist。"
-          }
-        ]
-      },
-      {
-        "w": "agamobia",
-        "p": "/agamobia/",
-        "pos": "n",
-        "m": "agamobia",
-        "ex": [
-          {
-            "e": "Study agamobia.",
-            "c": "学习agamobia。"
-          }
-        ]
-      },
-      {
-        "w": "agamobium",
-        "p": "/agamobium/",
-        "pos": "n",
-        "m": "agamobium",
-        "ex": [
-          {
-            "e": "Study agamobium.",
-            "c": "学习agamobium。"
-          }
-        ]
-      },
-      {
-        "w": "agamogenesis",
-        "p": "/agamogenesis/",
-        "pos": "n",
-        "m": "agamogenesis",
-        "ex": [
-          {
-            "e": "Study agamogenesis.",
-            "c": "学习agamogenesis。"
-          }
-        ]
-      },
-      {
-        "w": "agamogenetic",
-        "p": "/agamogenetic/",
-        "pos": "n",
-        "m": "agamogenetic",
-        "ex": [
-          {
-            "e": "Study agamogenetic.",
-            "c": "学习agamogenetic。"
-          }
-        ]
-      },
-      {
-        "w": "agamogony",
-        "p": "/agamogony/",
-        "pos": "n",
-        "m": "agamogony",
-        "ex": [
-          {
-            "e": "Study agamogony.",
-            "c": "学习agamogony。"
-          }
-        ]
-      },
-      {
-        "w": "agamoid",
-        "p": "/agamoid/",
-        "pos": "n",
-        "m": "agamoid",
-        "ex": [
-          {
-            "e": "Study agamoid.",
-            "c": "学习agamoid。"
-          }
-        ]
-      },
-      {
-        "w": "agamont",
-        "p": "/agamont/",
-        "pos": "n",
-        "m": "agamont",
-        "ex": [
-          {
-            "e": "Study agamont.",
-            "c": "学习agamont。"
-          }
-        ]
-      },
-      {
-        "w": "agamospermy",
-        "p": "/agamospermy/",
-        "pos": "n",
-        "m": "agamospermy",
-        "ex": [
-          {
-            "e": "Study agamospermy.",
-            "c": "学习agamospermy。"
-          }
-        ]
-      },
-      {
-        "w": "agamospore",
-        "p": "/agamospore/",
-        "pos": "n",
-        "m": "agamospore",
-        "ex": [
-          {
-            "e": "Study agamospore.",
-            "c": "学习agamospore。"
-          }
-        ]
-      },
-      {
-        "w": "agamous",
-        "p": "/agamous/",
-        "pos": "n",
-        "m": "agamous",
-        "ex": [
-          {
-            "e": "Study agamous.",
-            "c": "学习agamous。"
-          }
-        ]
-      },
-      {
-        "w": "agamy",
-        "p": "/agamy/",
-        "pos": "n",
-        "m": "agamy",
-        "ex": [
-          {
-            "e": "Study agamy.",
-            "c": "学习agamy。"
-          }
-        ]
-      },
-      {
-        "w": "aganglionic",
-        "p": "/aganglionic/",
-        "pos": "n",
-        "m": "aganglionic",
-        "ex": [
-          {
-            "e": "Study aganglionic.",
-            "c": "学习aganglionic。"
-          }
-        ]
-      },
-      {
-        "w": "aganice",
-        "p": "/aganice/",
-        "pos": "n",
-        "m": "aganice",
-        "ex": [
-          {
-            "e": "Study aganice.",
-            "c": "学习aganice。"
-          }
-        ]
-      },
-      {
-        "w": "aganippe",
-        "p": "/aganippe/",
-        "pos": "n",
-        "m": "aganippe",
-        "ex": [
-          {
-            "e": "Study aganippe.",
-            "c": "学习aganippe。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 139,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "agao",
-        "p": "/agao/",
-        "pos": "n",
-        "m": "agao",
-        "ex": [
-          {
-            "e": "Study agao.",
-            "c": "学习agao。"
-          }
-        ]
-      },
-      {
-        "w": "agaonidae",
-        "p": "/agaonidae/",
-        "pos": "n",
-        "m": "agaonidae",
-        "ex": [
-          {
-            "e": "Study agaonidae.",
-            "c": "学习agaonidae。"
-          }
-        ]
-      },
-      {
-        "w": "agapae",
-        "p": "/agapae/",
-        "pos": "n",
-        "m": "agapae",
-        "ex": [
-          {
-            "e": "Study agapae.",
-            "c": "学习agapae。"
-          }
-        ]
-      },
-      {
-        "w": "agapai",
-        "p": "/agapai/",
-        "pos": "n",
-        "m": "agapai",
-        "ex": [
-          {
-            "e": "Study agapai.",
-            "c": "学习agapai。"
-          }
-        ]
-      },
-      {
-        "w": "agapanthus",
-        "p": "/agapanthus/",
-        "pos": "n",
-        "m": "agapanthus",
-        "ex": [
-          {
-            "e": "Study agapanthus.",
-            "c": "学习agapanthus。"
-          }
-        ]
-      },
-      {
-        "w": "agapanthuses",
-        "p": "/agapanthuses/",
-        "pos": "n",
-        "m": "agapanthuses",
-        "ex": [
-          {
-            "e": "Study agapanthuses.",
-            "c": "学习agapanthuses。"
-          }
-        ]
-      },
-      {
-        "w": "agape",
-        "p": "/agape/",
-        "pos": "n",
-        "m": "agape",
-        "ex": [
-          {
-            "e": "Study agape.",
-            "c": "学习agape。"
-          }
-        ]
-      },
-      {
-        "w": "agapeic",
-        "p": "/agapeic/",
-        "pos": "n",
-        "m": "agapeic",
-        "ex": [
-          {
-            "e": "Study agapeic.",
-            "c": "学习agapeic。"
-          }
-        ]
-      },
-      {
-        "w": "agapeically",
-        "p": "/agapeically/",
-        "pos": "n",
-        "m": "agapeically",
-        "ex": [
-          {
-            "e": "Study agapeically.",
-            "c": "学习agapeically。"
-          }
-        ]
-      },
-      {
-        "w": "agapemone",
-        "p": "/agapemone/",
-        "pos": "n",
-        "m": "agapemone",
-        "ex": [
-          {
-            "e": "Study agapemone.",
-            "c": "学习agapemone。"
-          }
-        ]
-      },
-      {
-        "w": "agapemonian",
-        "p": "/agapemonian/",
-        "pos": "n",
-        "m": "agapemonian",
-        "ex": [
-          {
-            "e": "Study agapemonian.",
-            "c": "学习agapemonian。"
-          }
-        ]
-      },
-      {
-        "w": "agapemonist",
-        "p": "/agapemonist/",
-        "pos": "n",
-        "m": "agapemonist",
-        "ex": [
-          {
-            "e": "Study agapemonist.",
-            "c": "学习agapemonist。"
-          }
-        ]
-      },
-      {
-        "w": "agapemonite",
-        "p": "/agapemonite/",
-        "pos": "n",
-        "m": "agapemonite",
-        "ex": [
-          {
-            "e": "Study agapemonite.",
-            "c": "学习agapemonite。"
-          }
-        ]
-      },
-      {
-        "w": "agapetae",
-        "p": "/agapetae/",
-        "pos": "n",
-        "m": "agapetae",
-        "ex": [
-          {
-            "e": "Study agapetae.",
-            "c": "学习agapetae。"
-          }
-        ]
-      },
-      {
-        "w": "agapeti",
-        "p": "/agapeti/",
-        "pos": "n",
-        "m": "agapeti",
-        "ex": [
-          {
-            "e": "Study agapeti.",
-            "c": "学习agapeti。"
-          }
-        ]
-      },
-      {
-        "w": "agapetid",
-        "p": "/agapetid/",
-        "pos": "n",
-        "m": "agapetid",
-        "ex": [
-          {
-            "e": "Study agapetid.",
-            "c": "学习agapetid。"
-          }
-        ]
-      },
-      {
-        "w": "agapetidae",
-        "p": "/agapetidae/",
-        "pos": "n",
-        "m": "agapetidae",
-        "ex": [
-          {
-            "e": "Study agapetidae.",
-            "c": "学习agapetidae。"
-          }
-        ]
-      },
-      {
-        "w": "agaphite",
-        "p": "/agaphite/",
-        "pos": "n",
-        "m": "agaphite",
-        "ex": [
-          {
-            "e": "Study agaphite.",
-            "c": "学习agaphite。"
-          }
-        ]
-      },
-      {
-        "w": "agapornis",
-        "p": "/agapornis/",
-        "pos": "n",
-        "m": "agapornis",
-        "ex": [
-          {
-            "e": "Study agapornis.",
-            "c": "学习agapornis。"
-          }
-        ]
-      },
-      {
-        "w": "agar",
-        "p": "/agar/",
-        "pos": "n",
-        "m": "agar",
-        "ex": [
-          {
-            "e": "Study agar.",
-            "c": "学习agar。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 140,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "agaric",
-        "p": "/agaric/",
-        "pos": "n",
-        "m": "agaric",
-        "ex": [
-          {
-            "e": "Study agaric.",
-            "c": "学习agaric。"
-          }
-        ]
-      },
-      {
-        "w": "agaricaceae",
-        "p": "/agaricaceae/",
-        "pos": "n",
-        "m": "agaricaceae",
-        "ex": [
-          {
-            "e": "Study agaricaceae.",
-            "c": "学习agaricaceae。"
-          }
-        ]
-      },
-      {
-        "w": "agaricaceous",
-        "p": "/agaricaceous/",
-        "pos": "n",
-        "m": "agaricaceous",
-        "ex": [
-          {
-            "e": "Study agaricaceous.",
-            "c": "学习agaricaceous。"
-          }
-        ]
-      },
-      {
-        "w": "agaricales",
-        "p": "/agaricales/",
-        "pos": "n",
-        "m": "agaricales",
-        "ex": [
-          {
-            "e": "Study agaricales.",
-            "c": "学习agaricales。"
-          }
-        ]
-      },
-      {
-        "w": "agaricic",
-        "p": "/agaricic/",
-        "pos": "n",
-        "m": "agaricic",
-        "ex": [
-          {
-            "e": "Study agaricic.",
-            "c": "学习agaricic。"
-          }
-        ]
-      },
-      {
-        "w": "agariciform",
-        "p": "/agariciform/",
-        "pos": "n",
-        "m": "agariciform",
-        "ex": [
-          {
-            "e": "Study agariciform.",
-            "c": "学习agariciform。"
-          }
-        ]
-      },
-      {
-        "w": "agaricin",
-        "p": "/agaricin/",
-        "pos": "n",
-        "m": "agaricin",
-        "ex": [
-          {
-            "e": "Study agaricin.",
-            "c": "学习agaricin。"
-          }
-        ]
-      },
-      {
-        "w": "agaricine",
-        "p": "/agaricine/",
-        "pos": "n",
-        "m": "agaricine",
-        "ex": [
-          {
-            "e": "Study agaricine.",
-            "c": "学习agaricine。"
-          }
-        ]
-      },
-      {
-        "w": "agaricinic",
-        "p": "/agaricinic/",
-        "pos": "n",
-        "m": "agaricinic",
-        "ex": [
-          {
-            "e": "Study agaricinic.",
-            "c": "学习agaricinic。"
-          }
-        ]
-      },
-      {
-        "w": "agaricoid",
-        "p": "/agaricoid/",
-        "pos": "n",
-        "m": "agaricoid",
-        "ex": [
-          {
-            "e": "Study agaricoid.",
-            "c": "学习agaricoid。"
-          }
-        ]
-      },
-      {
-        "w": "agarics",
-        "p": "/agarics/",
-        "pos": "n",
-        "m": "agarics",
-        "ex": [
-          {
-            "e": "Study agarics.",
-            "c": "学习agarics。"
-          }
-        ]
-      },
-      {
-        "w": "agaricus",
-        "p": "/agaricus/",
-        "pos": "n",
-        "m": "agaricus",
-        "ex": [
-          {
-            "e": "Study agaricus.",
-            "c": "学习agaricus。"
-          }
-        ]
-      },
-      {
-        "w": "agaristidae",
-        "p": "/agaristidae/",
-        "pos": "n",
-        "m": "agaristidae",
-        "ex": [
-          {
-            "e": "Study agaristidae.",
-            "c": "学习agaristidae。"
-          }
-        ]
-      },
-      {
-        "w": "agarita",
-        "p": "/agarita/",
-        "pos": "n",
-        "m": "agarita",
-        "ex": [
-          {
-            "e": "Study agarita.",
-            "c": "学习agarita。"
-          }
-        ]
-      },
-      {
-        "w": "agaroid",
-        "p": "/agaroid/",
-        "pos": "n",
-        "m": "agaroid",
-        "ex": [
-          {
-            "e": "Study agaroid.",
-            "c": "学习agaroid。"
-          }
-        ]
-      },
-      {
-        "w": "agarose",
-        "p": "/agarose/",
-        "pos": "n",
-        "m": "agarose",
-        "ex": [
-          {
-            "e": "Study agarose.",
-            "c": "学习agarose。"
-          }
-        ]
-      },
-      {
-        "w": "agaroses",
-        "p": "/agaroses/",
-        "pos": "n",
-        "m": "agaroses",
-        "ex": [
-          {
-            "e": "Study agaroses.",
-            "c": "学习agaroses。"
-          }
-        ]
-      },
-      {
-        "w": "agars",
-        "p": "/agars/",
-        "pos": "n",
-        "m": "agars",
-        "ex": [
-          {
-            "e": "Study agars.",
-            "c": "学习agars。"
-          }
-        ]
-      },
-      {
-        "w": "agarum",
-        "p": "/agarum/",
-        "pos": "n",
-        "m": "agarum",
-        "ex": [
-          {
-            "e": "Study agarum.",
-            "c": "学习agarum。"
-          }
-        ]
-      },
-      {
-        "w": "agarwal",
-        "p": "/agarwal/",
-        "pos": "n",
-        "m": "agarwal",
-        "ex": [
-          {
-            "e": "Study agarwal.",
-            "c": "学习agarwal。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 141,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "agas",
-        "p": "/agas/",
-        "pos": "n",
-        "m": "agas",
-        "ex": [
-          {
-            "e": "Study agas.",
-            "c": "学习agas。"
-          }
-        ]
-      },
-      {
-        "w": "agasp",
-        "p": "/agasp/",
-        "pos": "n",
-        "m": "agasp",
-        "ex": [
-          {
-            "e": "Study agasp.",
-            "c": "学习agasp。"
-          }
-        ]
-      },
-      {
-        "w": "agast",
-        "p": "/agast/",
-        "pos": "n",
-        "m": "agast",
-        "ex": [
-          {
-            "e": "Study agast.",
-            "c": "学习agast。"
-          }
-        ]
-      },
-      {
-        "w": "agastache",
-        "p": "/agastache/",
-        "pos": "n",
-        "m": "agastache",
-        "ex": [
-          {
-            "e": "Study agastache.",
-            "c": "学习agastache。"
-          }
-        ]
-      },
-      {
-        "w": "agastreae",
-        "p": "/agastreae/",
-        "pos": "n",
-        "m": "agastreae",
-        "ex": [
-          {
-            "e": "Study agastreae.",
-            "c": "学习agastreae。"
-          }
-        ]
-      },
-      {
-        "w": "agastric",
-        "p": "/agastric/",
-        "pos": "n",
-        "m": "agastric",
-        "ex": [
-          {
-            "e": "Study agastric.",
-            "c": "学习agastric。"
-          }
-        ]
-      },
-      {
-        "w": "agastroneuria",
-        "p": "/agastroneuria/",
-        "pos": "n",
-        "m": "agastroneuria",
-        "ex": [
-          {
-            "e": "Study agastroneuria.",
-            "c": "学习agastroneuria。"
-          }
-        ]
-      },
-      {
-        "w": "agata",
-        "p": "/agata/",
-        "pos": "n",
-        "m": "agata",
-        "ex": [
-          {
-            "e": "Study agata.",
-            "c": "学习agata。"
-          }
-        ]
-      },
-      {
-        "w": "agate",
-        "p": "/agate/",
-        "pos": "n",
-        "m": "agate",
-        "ex": [
-          {
-            "e": "Study agate.",
-            "c": "学习agate。"
-          }
-        ]
-      },
-      {
-        "w": "agatelike",
-        "p": "/agatelike/",
-        "pos": "n",
-        "m": "agatelike",
-        "ex": [
-          {
-            "e": "Study agatelike.",
-            "c": "学习agatelike。"
-          }
-        ]
-      },
-      {
-        "w": "agates",
-        "p": "/agates/",
-        "pos": "n",
-        "m": "agates",
-        "ex": [
-          {
-            "e": "Study agates.",
-            "c": "学习agates。"
-          }
-        ]
-      },
-      {
-        "w": "agateware",
-        "p": "/agateware/",
-        "pos": "n",
-        "m": "agateware",
-        "ex": [
-          {
-            "e": "Study agateware.",
-            "c": "学习agateware。"
-          }
-        ]
-      },
-      {
-        "w": "agatha",
-        "p": "/agatha/",
-        "pos": "n",
-        "m": "agatha",
-        "ex": [
-          {
-            "e": "Study agatha.",
-            "c": "学习agatha。"
-          }
-        ]
-      },
-      {
-        "w": "agathaea",
-        "p": "/agathaea/",
-        "pos": "n",
-        "m": "agathaea",
-        "ex": [
-          {
-            "e": "Study agathaea.",
-            "c": "学习agathaea。"
-          }
-        ]
-      },
-      {
-        "w": "agathaumas",
-        "p": "/agathaumas/",
-        "pos": "n",
-        "m": "agathaumas",
-        "ex": [
-          {
-            "e": "Study agathaumas.",
-            "c": "学习agathaumas。"
-          }
-        ]
-      },
-      {
-        "w": "agathin",
-        "p": "/agathin/",
-        "pos": "n",
-        "m": "agathin",
-        "ex": [
-          {
-            "e": "Study agathin.",
-            "c": "学习agathin。"
-          }
-        ]
-      },
-      {
-        "w": "agathis",
-        "p": "/agathis/",
-        "pos": "n",
-        "m": "agathis",
-        "ex": [
-          {
-            "e": "Study agathis.",
-            "c": "学习agathis。"
-          }
-        ]
-      },
-      {
-        "w": "agathism",
-        "p": "/agathism/",
-        "pos": "n",
-        "m": "agathism",
-        "ex": [
-          {
-            "e": "Study agathism.",
-            "c": "学习agathism。"
-          }
-        ]
-      },
-      {
-        "w": "agathist",
-        "p": "/agathist/",
-        "pos": "n",
-        "m": "agathist",
-        "ex": [
-          {
-            "e": "Study agathist.",
-            "c": "学习agathist。"
-          }
-        ]
-      },
-      {
-        "w": "agathodaemon",
-        "p": "/agathodaemon/",
-        "pos": "n",
-        "m": "agathodaemon",
-        "ex": [
-          {
-            "e": "Study agathodaemon.",
-            "c": "学习agathodaemon。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 142,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "agathodaemonic",
-        "p": "/agathodaemonic/",
-        "pos": "n",
-        "m": "agathodaemonic",
-        "ex": [
-          {
-            "e": "Study agathodaemonic.",
-            "c": "学习agathodaemonic。"
-          }
-        ]
-      },
-      {
-        "w": "agathodemon",
-        "p": "/agathodemon/",
-        "pos": "n",
-        "m": "agathodemon",
-        "ex": [
-          {
-            "e": "Study agathodemon.",
-            "c": "学习agathodemon。"
-          }
-        ]
-      },
-      {
-        "w": "agathology",
-        "p": "/agathology/",
-        "pos": "n",
-        "m": "agathology",
-        "ex": [
-          {
-            "e": "Study agathology.",
-            "c": "学习agathology。"
-          }
-        ]
-      },
-      {
-        "w": "agathosma",
-        "p": "/agathosma/",
-        "pos": "n",
-        "m": "agathosma",
-        "ex": [
-          {
-            "e": "Study agathosma.",
-            "c": "学习agathosma。"
-          }
-        ]
-      },
-      {
-        "w": "agatiferous",
-        "p": "/agatiferous/",
-        "pos": "n",
-        "m": "agatiferous",
-        "ex": [
-          {
-            "e": "Study agatiferous.",
-            "c": "学习agatiferous。"
-          }
-        ]
-      },
-      {
-        "w": "agatiform",
-        "p": "/agatiform/",
-        "pos": "n",
-        "m": "agatiform",
-        "ex": [
-          {
-            "e": "Study agatiform.",
-            "c": "学习agatiform。"
-          }
-        ]
-      },
-      {
-        "w": "agatine",
-        "p": "/agatine/",
-        "pos": "n",
-        "m": "agatine",
-        "ex": [
-          {
-            "e": "Study agatine.",
-            "c": "学习agatine。"
-          }
-        ]
-      },
-      {
-        "w": "agatize",
-        "p": "/agatize/",
-        "pos": "n",
-        "m": "agatize",
-        "ex": [
-          {
-            "e": "Study agatize.",
-            "c": "学习agatize。"
-          }
-        ]
-      },
-      {
-        "w": "agatized",
-        "p": "/agatized/",
-        "pos": "n",
-        "m": "agatized",
-        "ex": [
-          {
-            "e": "Study agatized.",
-            "c": "学习agatized。"
-          }
-        ]
-      },
-      {
-        "w": "agatizes",
-        "p": "/agatizes/",
-        "pos": "n",
-        "m": "agatizes",
-        "ex": [
-          {
-            "e": "Study agatizes.",
-            "c": "学习agatizes。"
-          }
-        ]
-      },
-      {
-        "w": "agatizing",
-        "p": "/agatizing/",
-        "pos": "n",
-        "m": "agatizing",
-        "ex": [
-          {
-            "e": "Study agatizing.",
-            "c": "学习agatizing。"
-          }
-        ]
-      },
-      {
-        "w": "agatoid",
-        "p": "/agatoid/",
-        "pos": "n",
-        "m": "agatoid",
-        "ex": [
-          {
-            "e": "Study agatoid.",
-            "c": "学习agatoid。"
-          }
-        ]
-      },
-      {
-        "w": "agaty",
-        "p": "/agaty/",
-        "pos": "n",
-        "m": "agaty",
-        "ex": [
-          {
-            "e": "Study agaty.",
-            "c": "学习agaty。"
-          }
-        ]
-      },
-      {
-        "w": "agau",
-        "p": "/agau/",
-        "pos": "n",
-        "m": "agau",
-        "ex": [
-          {
-            "e": "Study agau.",
-            "c": "学习agau。"
-          }
-        ]
-      },
-      {
-        "w": "agave",
-        "p": "/agave/",
-        "pos": "n",
-        "m": "agave",
-        "ex": [
-          {
-            "e": "Study agave.",
-            "c": "学习agave。"
-          }
-        ]
-      },
-      {
-        "w": "agaves",
-        "p": "/agaves/",
-        "pos": "n",
-        "m": "agaves",
-        "ex": [
-          {
-            "e": "Study agaves.",
-            "c": "学习agaves。"
-          }
-        ]
-      },
-      {
-        "w": "agavose",
-        "p": "/agavose/",
-        "pos": "n",
-        "m": "agavose",
-        "ex": [
-          {
-            "e": "Study agavose.",
-            "c": "学习agavose。"
-          }
-        ]
-      },
-      {
-        "w": "agawam",
-        "p": "/agawam/",
-        "pos": "n",
-        "m": "agawam",
-        "ex": [
-          {
-            "e": "Study agawam.",
-            "c": "学习agawam。"
-          }
-        ]
-      },
-      {
-        "w": "agaz",
-        "p": "/agaz/",
-        "pos": "n",
-        "m": "agaz",
-        "ex": [
-          {
-            "e": "Study agaz.",
-            "c": "学习agaz。"
-          }
-        ]
-      },
-      {
-        "w": "agaze",
-        "p": "/agaze/",
-        "pos": "n",
-        "m": "agaze",
-        "ex": [
-          {
-            "e": "Study agaze.",
-            "c": "学习agaze。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 143,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "agazed",
-        "p": "/agazed/",
-        "pos": "n",
-        "m": "agazed",
-        "ex": [
-          {
-            "e": "Study agazed.",
-            "c": "学习agazed。"
-          }
-        ]
-      },
-      {
-        "w": "agba",
-        "p": "/agba/",
-        "pos": "n",
-        "m": "agba",
-        "ex": [
-          {
-            "e": "Study agba.",
-            "c": "学习agba。"
-          }
-        ]
-      },
-      {
-        "w": "agcy",
-        "p": "/agcy/",
-        "pos": "n",
-        "m": "agcy",
-        "ex": [
-          {
-            "e": "Study agcy.",
-            "c": "学习agcy。"
-          }
-        ]
-      },
-      {
-        "w": "agdistis",
-        "p": "/agdistis/",
-        "pos": "n",
-        "m": "agdistis",
-        "ex": [
-          {
-            "e": "Study agdistis.",
-            "c": "学习agdistis。"
-          }
-        ]
-      },
-      {
-        "w": "age",
-        "p": "/age/",
-        "pos": "n",
-        "m": "age",
-        "ex": [
-          {
-            "e": "Study age.",
-            "c": "学习age。"
-          }
-        ]
-      },
-      {
-        "w": "ageable",
-        "p": "/ageable/",
-        "pos": "n",
-        "m": "ageable",
-        "ex": [
-          {
-            "e": "Study ageable.",
-            "c": "学习ageable。"
-          }
-        ]
-      },
-      {
-        "w": "aged",
-        "p": "/aged/",
-        "pos": "n",
-        "m": "aged",
-        "ex": [
-          {
-            "e": "Study aged.",
-            "c": "学习aged。"
-          }
-        ]
-      },
-      {
-        "w": "agedly",
-        "p": "/agedly/",
-        "pos": "n",
-        "m": "agedly",
-        "ex": [
-          {
-            "e": "Study agedly.",
-            "c": "学习agedly。"
-          }
-        ]
-      },
-      {
-        "w": "agedness",
-        "p": "/agedness/",
-        "pos": "n",
-        "m": "agedness",
-        "ex": [
-          {
-            "e": "Study agedness.",
-            "c": "学习agedness。"
-          }
-        ]
-      },
-      {
-        "w": "agednesses",
-        "p": "/agednesses/",
-        "pos": "n",
-        "m": "agednesses",
-        "ex": [
-          {
-            "e": "Study agednesses.",
-            "c": "学习agednesses。"
-          }
-        ]
-      },
-      {
-        "w": "agee",
-        "p": "/agee/",
-        "pos": "n",
-        "m": "agee",
-        "ex": [
-          {
-            "e": "Study agee.",
-            "c": "学习agee。"
-          }
-        ]
-      },
-      {
-        "w": "ageing",
-        "p": "/ageing/",
-        "pos": "n",
-        "m": "ageing",
-        "ex": [
-          {
-            "e": "Study ageing.",
-            "c": "学习ageing。"
-          }
-        ]
-      },
-      {
-        "w": "ageings",
-        "p": "/ageings/",
-        "pos": "n",
-        "m": "ageings",
-        "ex": [
-          {
-            "e": "Study ageings.",
-            "c": "学习ageings。"
-          }
-        ]
-      },
-      {
-        "w": "ageism",
-        "p": "/ageism/",
-        "pos": "n",
-        "m": "ageism",
-        "ex": [
-          {
-            "e": "Study ageism.",
-            "c": "学习ageism。"
-          }
-        ]
-      },
-      {
-        "w": "ageisms",
-        "p": "/ageisms/",
-        "pos": "n",
-        "m": "ageisms",
-        "ex": [
-          {
-            "e": "Study ageisms.",
-            "c": "学习ageisms。"
-          }
-        ]
-      },
-      {
-        "w": "ageist",
-        "p": "/ageist/",
-        "pos": "n",
-        "m": "ageist",
-        "ex": [
-          {
-            "e": "Study ageist.",
-            "c": "学习ageist。"
-          }
-        ]
-      },
-      {
-        "w": "ageists",
-        "p": "/ageists/",
-        "pos": "n",
-        "m": "ageists",
-        "ex": [
-          {
-            "e": "Study ageists.",
-            "c": "学习ageists。"
-          }
-        ]
-      },
-      {
-        "w": "agelacrinites",
-        "p": "/agelacrinites/",
-        "pos": "n",
-        "m": "agelacrinites",
-        "ex": [
-          {
-            "e": "Study agelacrinites.",
-            "c": "学习agelacrinites。"
-          }
-        ]
-      },
-      {
-        "w": "agelacrinitidae",
-        "p": "/agelacrinitidae/",
-        "pos": "n",
-        "m": "agelacrinitidae",
-        "ex": [
-          {
-            "e": "Study agelacrinitidae.",
-            "c": "学习agelacrinitidae。"
-          }
-        ]
-      },
-      {
-        "w": "agelaius",
-        "p": "/agelaius/",
-        "pos": "n",
-        "m": "agelaius",
-        "ex": [
-          {
-            "e": "Study agelaius.",
-            "c": "学习agelaius。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 144,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "agelast",
-        "p": "/agelast/",
-        "pos": "n",
-        "m": "agelast",
-        "ex": [
-          {
-            "e": "Study agelast.",
-            "c": "学习agelast。"
-          }
-        ]
-      },
-      {
-        "w": "agelaus",
-        "p": "/agelaus/",
-        "pos": "n",
-        "m": "agelaus",
-        "ex": [
-          {
-            "e": "Study agelaus.",
-            "c": "学习agelaus。"
-          }
-        ]
-      },
-      {
-        "w": "ageless",
-        "p": "/ageless/",
-        "pos": "n",
-        "m": "ageless",
-        "ex": [
-          {
-            "e": "Study ageless.",
-            "c": "学习ageless。"
-          }
-        ]
-      },
-      {
-        "w": "agelessly",
-        "p": "/agelessly/",
-        "pos": "n",
-        "m": "agelessly",
-        "ex": [
-          {
-            "e": "Study agelessly.",
-            "c": "学习agelessly。"
-          }
-        ]
-      },
-      {
-        "w": "agelessness",
-        "p": "/agelessness/",
-        "pos": "n",
-        "m": "agelessness",
-        "ex": [
-          {
-            "e": "Study agelessness.",
-            "c": "学习agelessness。"
-          }
-        ]
-      },
-      {
-        "w": "agelong",
-        "p": "/agelong/",
-        "pos": "n",
-        "m": "agelong",
-        "ex": [
-          {
-            "e": "Study agelong.",
-            "c": "学习agelong。"
-          }
-        ]
-      },
-      {
-        "w": "agen",
-        "p": "/agen/",
-        "pos": "n",
-        "m": "agen",
-        "ex": [
-          {
-            "e": "Study agen.",
-            "c": "学习agen。"
-          }
-        ]
-      },
-      {
-        "w": "agena",
-        "p": "/agena/",
-        "pos": "n",
-        "m": "agena",
-        "ex": [
-          {
-            "e": "Study agena.",
-            "c": "学习agena。"
-          }
-        ]
-      },
-      {
-        "w": "agencies",
-        "p": "/agencies/",
-        "pos": "n",
-        "m": "agencies",
-        "ex": [
-          {
-            "e": "Study agencies.",
-            "c": "学习agencies。"
-          }
-        ]
-      },
-      {
-        "w": "agency",
-        "p": "/agency/",
-        "pos": "n",
-        "m": "agency",
-        "ex": [
-          {
-            "e": "Study agency.",
-            "c": "学习agency。"
-          }
-        ]
-      },
-      {
-        "w": "agend",
-        "p": "/agend/",
-        "pos": "n",
-        "m": "agend",
-        "ex": [
-          {
-            "e": "Study agend.",
-            "c": "学习agend。"
-          }
-        ]
-      },
-      {
-        "w": "agenda",
-        "p": "/agenda/",
-        "pos": "n",
-        "m": "agenda",
-        "ex": [
-          {
-            "e": "Study agenda.",
-            "c": "学习agenda。"
-          }
-        ]
-      },
-      {
-        "w": "agendaless",
-        "p": "/agendaless/",
-        "pos": "n",
-        "m": "agendaless",
-        "ex": [
-          {
-            "e": "Study agendaless.",
-            "c": "学习agendaless。"
-          }
-        ]
-      },
-      {
-        "w": "agendas",
-        "p": "/agendas/",
-        "pos": "n",
-        "m": "agendas",
-        "ex": [
-          {
-            "e": "Study agendas.",
-            "c": "学习agendas。"
-          }
-        ]
-      },
-      {
-        "w": "agendum",
-        "p": "/agendum/",
-        "pos": "n",
-        "m": "agendum",
-        "ex": [
-          {
-            "e": "Study agendum.",
-            "c": "学习agendum。"
-          }
-        ]
-      },
-      {
-        "w": "agendums",
-        "p": "/agendums/",
-        "pos": "n",
-        "m": "agendums",
-        "ex": [
-          {
-            "e": "Study agendums.",
-            "c": "学习agendums。"
-          }
-        ]
-      },
-      {
-        "w": "agene",
-        "p": "/agene/",
-        "pos": "n",
-        "m": "agene",
-        "ex": [
-          {
-            "e": "Study agene.",
-            "c": "学习agene。"
-          }
-        ]
-      },
-      {
-        "w": "agenes",
-        "p": "/agenes/",
-        "pos": "n",
-        "m": "agenes",
-        "ex": [
-          {
-            "e": "Study agenes.",
-            "c": "学习agenes。"
-          }
-        ]
-      },
-      {
-        "w": "ageneses",
-        "p": "/ageneses/",
-        "pos": "n",
-        "m": "ageneses",
-        "ex": [
-          {
-            "e": "Study ageneses.",
-            "c": "学习ageneses。"
-          }
-        ]
-      },
-      {
-        "w": "agenesia",
-        "p": "/agenesia/",
-        "pos": "n",
-        "m": "agenesia",
-        "ex": [
-          {
-            "e": "Study agenesia.",
-            "c": "学习agenesia。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 145,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "agenesias",
-        "p": "/agenesias/",
-        "pos": "n",
-        "m": "agenesias",
-        "ex": [
-          {
-            "e": "Study agenesias.",
-            "c": "学习agenesias。"
-          }
-        ]
-      },
-      {
-        "w": "agenesic",
-        "p": "/agenesic/",
-        "pos": "n",
-        "m": "agenesic",
-        "ex": [
-          {
-            "e": "Study agenesic.",
-            "c": "学习agenesic。"
-          }
-        ]
-      },
-      {
-        "w": "agenesis",
-        "p": "/agenesis/",
-        "pos": "n",
-        "m": "agenesis",
-        "ex": [
-          {
-            "e": "Study agenesis.",
-            "c": "学习agenesis。"
-          }
-        ]
-      },
-      {
-        "w": "agenetic",
-        "p": "/agenetic/",
-        "pos": "n",
-        "m": "agenetic",
-        "ex": [
-          {
-            "e": "Study agenetic.",
-            "c": "学习agenetic。"
-          }
-        ]
-      },
-      {
-        "w": "agenize",
-        "p": "/agenize/",
-        "pos": "n",
-        "m": "agenize",
-        "ex": [
-          {
-            "e": "Study agenize.",
-            "c": "学习agenize。"
-          }
-        ]
-      },
-      {
-        "w": "agenized",
-        "p": "/agenized/",
-        "pos": "n",
-        "m": "agenized",
-        "ex": [
-          {
-            "e": "Study agenized.",
-            "c": "学习agenized。"
-          }
-        ]
-      },
-      {
-        "w": "agenizes",
-        "p": "/agenizes/",
-        "pos": "n",
-        "m": "agenizes",
-        "ex": [
-          {
-            "e": "Study agenizes.",
-            "c": "学习agenizes。"
-          }
-        ]
-      },
-      {
-        "w": "agenizing",
-        "p": "/agenizing/",
-        "pos": "n",
-        "m": "agenizing",
-        "ex": [
-          {
-            "e": "Study agenizing.",
-            "c": "学习agenizing。"
-          }
-        ]
-      },
-      {
-        "w": "agennesis",
-        "p": "/agennesis/",
-        "pos": "n",
-        "m": "agennesis",
-        "ex": [
-          {
-            "e": "Study agennesis.",
-            "c": "学习agennesis。"
-          }
-        ]
-      },
-      {
-        "w": "agennetic",
-        "p": "/agennetic/",
-        "pos": "n",
-        "m": "agennetic",
-        "ex": [
-          {
-            "e": "Study agennetic.",
-            "c": "学习agennetic。"
-          }
-        ]
-      },
-      {
-        "w": "agent",
-        "p": "/agent/",
-        "pos": "n",
-        "m": "agent",
-        "ex": [
-          {
-            "e": "Study agent.",
-            "c": "学习agent。"
-          }
-        ]
-      },
-      {
-        "w": "agentess",
-        "p": "/agentess/",
-        "pos": "n",
-        "m": "agentess",
-        "ex": [
-          {
-            "e": "Study agentess.",
-            "c": "学习agentess。"
-          }
-        ]
-      },
-      {
-        "w": "agential",
-        "p": "/agential/",
-        "pos": "n",
-        "m": "agential",
-        "ex": [
-          {
-            "e": "Study agential.",
-            "c": "学习agential。"
-          }
-        ]
-      },
-      {
-        "w": "agenting",
-        "p": "/agenting/",
-        "pos": "n",
-        "m": "agenting",
-        "ex": [
-          {
-            "e": "Study agenting.",
-            "c": "学习agenting。"
-          }
-        ]
-      },
-      {
-        "w": "agentival",
-        "p": "/agentival/",
-        "pos": "n",
-        "m": "agentival",
-        "ex": [
-          {
-            "e": "Study agentival.",
-            "c": "学习agentival。"
-          }
-        ]
-      },
-      {
-        "w": "agentive",
-        "p": "/agentive/",
-        "pos": "n",
-        "m": "agentive",
-        "ex": [
-          {
-            "e": "Study agentive.",
-            "c": "学习agentive。"
-          }
-        ]
-      },
-      {
-        "w": "agentives",
-        "p": "/agentives/",
-        "pos": "n",
-        "m": "agentives",
-        "ex": [
-          {
-            "e": "Study agentives.",
-            "c": "学习agentives。"
-          }
-        ]
-      },
-      {
-        "w": "agentries",
-        "p": "/agentries/",
-        "pos": "n",
-        "m": "agentries",
-        "ex": [
-          {
-            "e": "Study agentries.",
-            "c": "学习agentries。"
-          }
-        ]
-      },
-      {
-        "w": "agentry",
-        "p": "/agentry/",
-        "pos": "n",
-        "m": "agentry",
-        "ex": [
-          {
-            "e": "Study agentry.",
-            "c": "学习agentry。"
-          }
-        ]
-      },
-      {
-        "w": "agents",
-        "p": "/agents/",
-        "pos": "n",
-        "m": "agents",
-        "ex": [
-          {
-            "e": "Study agents.",
-            "c": "学习agents。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 146,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "agentship",
-        "p": "/agentship/",
-        "pos": "n",
-        "m": "agentship",
-        "ex": [
-          {
-            "e": "Study agentship.",
-            "c": "学习agentship。"
-          }
-        ]
-      },
-      {
-        "w": "ageometrical",
-        "p": "/ageometrical/",
-        "pos": "n",
-        "m": "ageometrical",
-        "ex": [
-          {
-            "e": "Study ageometrical.",
-            "c": "学习ageometrical。"
-          }
-        ]
-      },
-      {
-        "w": "ager",
-        "p": "/ager/",
-        "pos": "n",
-        "m": "ager",
-        "ex": [
-          {
-            "e": "Study ager.",
-            "c": "学习ager。"
-          }
-        ]
-      },
-      {
-        "w": "agerasia",
-        "p": "/agerasia/",
-        "pos": "n",
-        "m": "agerasia",
-        "ex": [
-          {
-            "e": "Study agerasia.",
-            "c": "学习agerasia。"
-          }
-        ]
-      },
-      {
-        "w": "ageratum",
-        "p": "/ageratum/",
-        "pos": "n",
-        "m": "ageratum",
-        "ex": [
-          {
-            "e": "Study ageratum.",
-            "c": "学习ageratum。"
-          }
-        ]
-      },
-      {
-        "w": "ageratums",
-        "p": "/ageratums/",
-        "pos": "n",
-        "m": "ageratums",
-        "ex": [
-          {
-            "e": "Study ageratums.",
-            "c": "学习ageratums。"
-          }
-        ]
-      },
-      {
-        "w": "agers",
-        "p": "/agers/",
-        "pos": "n",
-        "m": "agers",
-        "ex": [
-          {
-            "e": "Study agers.",
-            "c": "学习agers。"
-          }
-        ]
-      },
-      {
-        "w": "ages",
-        "p": "/ages/",
-        "pos": "n",
-        "m": "ages",
-        "ex": [
-          {
-            "e": "Study ages.",
-            "c": "学习ages。"
-          }
-        ]
-      },
-      {
-        "w": "aget",
-        "p": "/aget/",
-        "pos": "n",
-        "m": "aget",
-        "ex": [
-          {
-            "e": "Study aget.",
-            "c": "学习aget。"
-          }
-        ]
-      },
-      {
-        "w": "agete",
-        "p": "/agete/",
-        "pos": "n",
-        "m": "agete",
-        "ex": [
-          {
-            "e": "Study agete.",
-            "c": "学习agete。"
-          }
-        ]
-      },
-      {
-        "w": "ageusia",
-        "p": "/ageusia/",
-        "pos": "n",
-        "m": "ageusia",
-        "ex": [
-          {
-            "e": "Study ageusia.",
-            "c": "学习ageusia。"
-          }
-        ]
-      },
-      {
-        "w": "ageusic",
-        "p": "/ageusic/",
-        "pos": "n",
-        "m": "ageusic",
-        "ex": [
-          {
-            "e": "Study ageusic.",
-            "c": "学习ageusic。"
-          }
-        ]
-      },
-      {
-        "w": "ageustia",
-        "p": "/ageustia/",
-        "pos": "n",
-        "m": "ageustia",
-        "ex": [
-          {
-            "e": "Study ageustia.",
-            "c": "学习ageustia。"
-          }
-        ]
-      },
-      {
-        "w": "aggadic",
-        "p": "/aggadic/",
-        "pos": "n",
-        "m": "aggadic",
-        "ex": [
-          {
-            "e": "Study aggadic.",
-            "c": "学习aggadic。"
-          }
-        ]
-      },
-      {
-        "w": "aggelation",
-        "p": "/aggelation/",
-        "pos": "n",
-        "m": "aggelation",
-        "ex": [
-          {
-            "e": "Study aggelation.",
-            "c": "学习aggelation。"
-          }
-        ]
-      },
-      {
-        "w": "aggenerate",
-        "p": "/aggenerate/",
-        "pos": "n",
-        "m": "aggenerate",
-        "ex": [
-          {
-            "e": "Study aggenerate.",
-            "c": "学习aggenerate。"
-          }
-        ]
-      },
-      {
-        "w": "agger",
-        "p": "/agger/",
-        "pos": "n",
-        "m": "agger",
-        "ex": [
-          {
-            "e": "Study agger.",
-            "c": "学习agger。"
-          }
-        ]
-      },
-      {
-        "w": "aggerate",
-        "p": "/aggerate/",
-        "pos": "n",
-        "m": "aggerate",
-        "ex": [
-          {
-            "e": "Study aggerate.",
-            "c": "学习aggerate。"
-          }
-        ]
-      },
-      {
-        "w": "aggeration",
-        "p": "/aggeration/",
-        "pos": "n",
-        "m": "aggeration",
-        "ex": [
-          {
-            "e": "Study aggeration.",
-            "c": "学习aggeration。"
-          }
-        ]
-      },
-      {
-        "w": "aggerose",
-        "p": "/aggerose/",
-        "pos": "n",
-        "m": "aggerose",
-        "ex": [
-          {
-            "e": "Study aggerose.",
-            "c": "学习aggerose。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 147,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "aggers",
-        "p": "/aggers/",
-        "pos": "n",
-        "m": "aggers",
-        "ex": [
-          {
-            "e": "Study aggers.",
-            "c": "学习aggers。"
-          }
-        ]
-      },
-      {
-        "w": "aggest",
-        "p": "/aggest/",
-        "pos": "n",
-        "m": "aggest",
-        "ex": [
-          {
-            "e": "Study aggest.",
-            "c": "学习aggest。"
-          }
-        ]
-      },
-      {
-        "w": "aggie",
-        "p": "/aggie/",
-        "pos": "n",
-        "m": "aggie",
-        "ex": [
-          {
-            "e": "Study aggie.",
-            "c": "学习aggie。"
-          }
-        ]
-      },
-      {
-        "w": "aggies",
-        "p": "/aggies/",
-        "pos": "n",
-        "m": "aggies",
-        "ex": [
-          {
-            "e": "Study aggies.",
-            "c": "学习aggies。"
-          }
-        ]
-      },
-      {
-        "w": "aggiornamenti",
-        "p": "/aggiornamenti/",
-        "pos": "n",
-        "m": "aggiornamenti",
-        "ex": [
-          {
-            "e": "Study aggiornamenti.",
-            "c": "学习aggiornamenti。"
-          }
-        ]
-      },
-      {
-        "w": "aggiornamento",
-        "p": "/aggiornamento/",
-        "pos": "n",
-        "m": "aggiornamento",
-        "ex": [
-          {
-            "e": "Study aggiornamento.",
-            "c": "学习aggiornamento。"
-          }
-        ]
-      },
-      {
-        "w": "agglomerant",
-        "p": "/agglomerant/",
-        "pos": "n",
-        "m": "agglomerant",
-        "ex": [
-          {
-            "e": "Study agglomerant.",
-            "c": "学习agglomerant。"
-          }
-        ]
-      },
-      {
-        "w": "agglomerate",
-        "p": "/agglomerate/",
-        "pos": "n",
-        "m": "agglomerate",
-        "ex": [
-          {
-            "e": "Study agglomerate.",
-            "c": "学习agglomerate。"
-          }
-        ]
-      },
-      {
-        "w": "agglomerated",
-        "p": "/agglomerated/",
-        "pos": "n",
-        "m": "agglomerated",
-        "ex": [
-          {
-            "e": "Study agglomerated.",
-            "c": "学习agglomerated。"
-          }
-        ]
-      },
-      {
-        "w": "agglomerates",
-        "p": "/agglomerates/",
-        "pos": "n",
-        "m": "agglomerates",
-        "ex": [
-          {
-            "e": "Study agglomerates.",
-            "c": "学习agglomerates。"
-          }
-        ]
-      },
-      {
-        "w": "agglomeratic",
-        "p": "/agglomeratic/",
-        "pos": "n",
-        "m": "agglomeratic",
-        "ex": [
-          {
-            "e": "Study agglomeratic.",
-            "c": "学习agglomeratic。"
-          }
-        ]
-      },
-      {
-        "w": "agglomerating",
-        "p": "/agglomerating/",
-        "pos": "n",
-        "m": "agglomerating",
-        "ex": [
-          {
-            "e": "Study agglomerating.",
-            "c": "学习agglomerating。"
-          }
-        ]
-      },
-      {
-        "w": "agglomeration",
-        "p": "/agglomeration/",
-        "pos": "n",
-        "m": "agglomeration",
-        "ex": [
-          {
-            "e": "Study agglomeration.",
-            "c": "学习agglomeration。"
-          }
-        ]
-      },
-      {
-        "w": "agglomerations",
-        "p": "/agglomerations/",
-        "pos": "n",
-        "m": "agglomerations",
-        "ex": [
-          {
-            "e": "Study agglomerations.",
-            "c": "学习agglomerations。"
-          }
-        ]
-      },
-      {
-        "w": "agglomerative",
-        "p": "/agglomerative/",
-        "pos": "n",
-        "m": "agglomerative",
-        "ex": [
-          {
-            "e": "Study agglomerative.",
-            "c": "学习agglomerative。"
-          }
-        ]
-      },
-      {
-        "w": "agglomerator",
-        "p": "/agglomerator/",
-        "pos": "n",
-        "m": "agglomerator",
-        "ex": [
-          {
-            "e": "Study agglomerator.",
-            "c": "学习agglomerator。"
-          }
-        ]
-      },
-      {
-        "w": "agglutinability",
-        "p": "/agglutinability/",
-        "pos": "n",
-        "m": "agglutinability",
-        "ex": [
-          {
-            "e": "Study agglutinability.",
-            "c": "学习agglutinability。"
-          }
-        ]
-      },
-      {
-        "w": "agglutinable",
-        "p": "/agglutinable/",
-        "pos": "n",
-        "m": "agglutinable",
-        "ex": [
-          {
-            "e": "Study agglutinable.",
-            "c": "学习agglutinable。"
-          }
-        ]
-      },
-      {
-        "w": "agglutinant",
-        "p": "/agglutinant/",
-        "pos": "n",
-        "m": "agglutinant",
-        "ex": [
-          {
-            "e": "Study agglutinant.",
-            "c": "学习agglutinant。"
-          }
-        ]
-      },
-      {
-        "w": "agglutinate",
-        "p": "/agglutinate/",
-        "pos": "n",
-        "m": "agglutinate",
-        "ex": [
-          {
-            "e": "Study agglutinate.",
-            "c": "学习agglutinate。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 148,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "agglutinated",
-        "p": "/agglutinated/",
-        "pos": "n",
-        "m": "agglutinated",
-        "ex": [
-          {
-            "e": "Study agglutinated.",
-            "c": "学习agglutinated。"
-          }
-        ]
-      },
-      {
-        "w": "agglutinates",
-        "p": "/agglutinates/",
-        "pos": "n",
-        "m": "agglutinates",
-        "ex": [
-          {
-            "e": "Study agglutinates.",
-            "c": "学习agglutinates。"
-          }
-        ]
-      },
-      {
-        "w": "agglutinating",
-        "p": "/agglutinating/",
-        "pos": "n",
-        "m": "agglutinating",
-        "ex": [
-          {
-            "e": "Study agglutinating.",
-            "c": "学习agglutinating。"
-          }
-        ]
-      },
-      {
-        "w": "agglutination",
-        "p": "/agglutination/",
-        "pos": "n",
-        "m": "agglutination",
-        "ex": [
-          {
-            "e": "Study agglutination.",
-            "c": "学习agglutination。"
-          }
-        ]
-      },
-      {
-        "w": "agglutinations",
-        "p": "/agglutinations/",
-        "pos": "n",
-        "m": "agglutinations",
-        "ex": [
-          {
-            "e": "Study agglutinations.",
-            "c": "学习agglutinations。"
-          }
-        ]
-      },
-      {
-        "w": "agglutinative",
-        "p": "/agglutinative/",
-        "pos": "n",
-        "m": "agglutinative",
-        "ex": [
-          {
-            "e": "Study agglutinative.",
-            "c": "学习agglutinative。"
-          }
-        ]
-      },
-      {
-        "w": "agglutinatively",
-        "p": "/agglutinatively/",
-        "pos": "n",
-        "m": "agglutinatively",
-        "ex": [
-          {
-            "e": "Study agglutinatively.",
-            "c": "学习agglutinatively。"
-          }
-        ]
-      },
-      {
-        "w": "agglutinator",
-        "p": "/agglutinator/",
-        "pos": "n",
-        "m": "agglutinator",
-        "ex": [
-          {
-            "e": "Study agglutinator.",
-            "c": "学习agglutinator。"
-          }
-        ]
-      },
-      {
-        "w": "agglutinin",
-        "p": "/agglutinin/",
-        "pos": "n",
-        "m": "agglutinin",
-        "ex": [
-          {
-            "e": "Study agglutinin.",
-            "c": "学习agglutinin。"
-          }
-        ]
-      },
-      {
-        "w": "agglutinins",
-        "p": "/agglutinins/",
-        "pos": "n",
-        "m": "agglutinins",
-        "ex": [
-          {
-            "e": "Study agglutinins.",
-            "c": "学习agglutinins。"
-          }
-        ]
-      },
-      {
-        "w": "agglutinize",
-        "p": "/agglutinize/",
-        "pos": "n",
-        "m": "agglutinize",
-        "ex": [
-          {
-            "e": "Study agglutinize.",
-            "c": "学习agglutinize。"
-          }
-        ]
-      },
-      {
-        "w": "agglutinogen",
-        "p": "/agglutinogen/",
-        "pos": "n",
-        "m": "agglutinogen",
-        "ex": [
-          {
-            "e": "Study agglutinogen.",
-            "c": "学习agglutinogen。"
-          }
-        ]
-      },
-      {
-        "w": "agglutinogenic",
-        "p": "/agglutinogenic/",
-        "pos": "n",
-        "m": "agglutinogenic",
-        "ex": [
-          {
-            "e": "Study agglutinogenic.",
-            "c": "学习agglutinogenic。"
-          }
-        ]
-      },
-      {
-        "w": "agglutinoid",
-        "p": "/agglutinoid/",
-        "pos": "n",
-        "m": "agglutinoid",
-        "ex": [
-          {
-            "e": "Study agglutinoid.",
-            "c": "学习agglutinoid。"
-          }
-        ]
-      },
-      {
-        "w": "agglutinoscope",
-        "p": "/agglutinoscope/",
-        "pos": "n",
-        "m": "agglutinoscope",
-        "ex": [
-          {
-            "e": "Study agglutinoscope.",
-            "c": "学习agglutinoscope。"
-          }
-        ]
-      },
-      {
-        "w": "agglutogenic",
-        "p": "/agglutogenic/",
-        "pos": "n",
-        "m": "agglutogenic",
-        "ex": [
-          {
-            "e": "Study agglutogenic.",
-            "c": "学习agglutogenic。"
-          }
-        ]
-      },
-      {
-        "w": "aggrace",
-        "p": "/aggrace/",
-        "pos": "n",
-        "m": "aggrace",
-        "ex": [
-          {
-            "e": "Study aggrace.",
-            "c": "学习aggrace。"
-          }
-        ]
-      },
-      {
-        "w": "aggradation",
-        "p": "/aggradation/",
-        "pos": "n",
-        "m": "aggradation",
-        "ex": [
-          {
-            "e": "Study aggradation.",
-            "c": "学习aggradation。"
-          }
-        ]
-      },
-      {
-        "w": "aggradational",
-        "p": "/aggradational/",
-        "pos": "n",
-        "m": "aggradational",
-        "ex": [
-          {
-            "e": "Study aggradational.",
-            "c": "学习aggradational。"
-          }
-        ]
-      },
-      {
-        "w": "aggrade",
-        "p": "/aggrade/",
-        "pos": "n",
-        "m": "aggrade",
-        "ex": [
-          {
-            "e": "Study aggrade.",
-            "c": "学习aggrade。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 149,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "aggraded",
-        "p": "/aggraded/",
-        "pos": "n",
-        "m": "aggraded",
-        "ex": [
-          {
-            "e": "Study aggraded.",
-            "c": "学习aggraded。"
-          }
-        ]
-      },
-      {
-        "w": "aggrades",
-        "p": "/aggrades/",
-        "pos": "n",
-        "m": "aggrades",
-        "ex": [
-          {
-            "e": "Study aggrades.",
-            "c": "学习aggrades。"
-          }
-        ]
-      },
-      {
-        "w": "aggrading",
-        "p": "/aggrading/",
-        "pos": "n",
-        "m": "aggrading",
-        "ex": [
-          {
-            "e": "Study aggrading.",
-            "c": "学习aggrading。"
-          }
-        ]
-      },
-      {
-        "w": "aggrammatism",
-        "p": "/aggrammatism/",
-        "pos": "n",
-        "m": "aggrammatism",
-        "ex": [
-          {
-            "e": "Study aggrammatism.",
-            "c": "学习aggrammatism。"
-          }
-        ]
-      },
-      {
-        "w": "aggrandise",
-        "p": "/aggrandise/",
-        "pos": "n",
-        "m": "aggrandise",
-        "ex": [
-          {
-            "e": "Study aggrandise.",
-            "c": "学习aggrandise。"
-          }
-        ]
-      },
-      {
-        "w": "aggrandised",
-        "p": "/aggrandised/",
-        "pos": "n",
-        "m": "aggrandised",
-        "ex": [
-          {
-            "e": "Study aggrandised.",
-            "c": "学习aggrandised。"
-          }
-        ]
-      },
-      {
-        "w": "aggrandisement",
-        "p": "/aggrandisement/",
-        "pos": "n",
-        "m": "aggrandisement",
-        "ex": [
-          {
-            "e": "Study aggrandisement.",
-            "c": "学习aggrandisement。"
-          }
-        ]
-      },
-      {
-        "w": "aggrandiser",
-        "p": "/aggrandiser/",
-        "pos": "n",
-        "m": "aggrandiser",
-        "ex": [
-          {
-            "e": "Study aggrandiser.",
-            "c": "学习aggrandiser。"
-          }
-        ]
-      },
-      {
-        "w": "aggrandising",
-        "p": "/aggrandising/",
-        "pos": "n",
-        "m": "aggrandising",
-        "ex": [
-          {
-            "e": "Study aggrandising.",
-            "c": "学习aggrandising。"
-          }
-        ]
-      },
-      {
-        "w": "aggrandizable",
-        "p": "/aggrandizable/",
-        "pos": "n",
-        "m": "aggrandizable",
-        "ex": [
-          {
-            "e": "Study aggrandizable.",
-            "c": "学习aggrandizable。"
-          }
-        ]
-      },
-      {
-        "w": "aggrandize",
-        "p": "/aggrandize/",
-        "pos": "n",
-        "m": "aggrandize",
-        "ex": [
-          {
-            "e": "Study aggrandize.",
-            "c": "学习aggrandize。"
-          }
-        ]
-      },
-      {
-        "w": "aggrandized",
-        "p": "/aggrandized/",
-        "pos": "n",
-        "m": "aggrandized",
-        "ex": [
-          {
-            "e": "Study aggrandized.",
-            "c": "学习aggrandized。"
-          }
-        ]
-      },
-      {
-        "w": "aggrandizement",
-        "p": "/aggrandizement/",
-        "pos": "n",
-        "m": "aggrandizement",
-        "ex": [
-          {
-            "e": "Study aggrandizement.",
-            "c": "学习aggrandizement。"
-          }
-        ]
-      },
-      {
-        "w": "aggrandizements",
-        "p": "/aggrandizements/",
-        "pos": "n",
-        "m": "aggrandizements",
-        "ex": [
-          {
-            "e": "Study aggrandizements.",
-            "c": "学习aggrandizements。"
-          }
-        ]
-      },
-      {
-        "w": "aggrandizer",
-        "p": "/aggrandizer/",
-        "pos": "n",
-        "m": "aggrandizer",
-        "ex": [
-          {
-            "e": "Study aggrandizer.",
-            "c": "学习aggrandizer。"
-          }
-        ]
-      },
-      {
-        "w": "aggrandizers",
-        "p": "/aggrandizers/",
-        "pos": "n",
-        "m": "aggrandizers",
-        "ex": [
-          {
-            "e": "Study aggrandizers.",
-            "c": "学习aggrandizers。"
-          }
-        ]
-      },
-      {
-        "w": "aggrandizes",
-        "p": "/aggrandizes/",
-        "pos": "n",
-        "m": "aggrandizes",
-        "ex": [
-          {
-            "e": "Study aggrandizes.",
-            "c": "学习aggrandizes。"
-          }
-        ]
-      },
-      {
-        "w": "aggrandizing",
-        "p": "/aggrandizing/",
-        "pos": "n",
-        "m": "aggrandizing",
-        "ex": [
-          {
-            "e": "Study aggrandizing.",
-            "c": "学习aggrandizing。"
-          }
-        ]
-      },
-      {
-        "w": "aggrate",
-        "p": "/aggrate/",
-        "pos": "n",
-        "m": "aggrate",
-        "ex": [
-          {
-            "e": "Study aggrate.",
-            "c": "学习aggrate。"
-          }
-        ]
-      },
-      {
-        "w": "aggravable",
-        "p": "/aggravable/",
-        "pos": "n",
-        "m": "aggravable",
-        "ex": [
-          {
-            "e": "Study aggravable.",
-            "c": "学习aggravable。"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "day": 150,
-    "theme": "Vocabulary",
-    "stage": 1,
-    "cefr": "TOEFL",
-    "words": [
-      {
-        "w": "aggravate",
-        "p": "/aggravate/",
-        "pos": "n",
-        "m": "aggravate",
-        "ex": [
-          {
-            "e": "Study aggravate.",
-            "c": "学习aggravate。"
-          }
-        ]
-      },
-      {
-        "w": "aggravated",
-        "p": "/aggravated/",
-        "pos": "n",
-        "m": "aggravated",
-        "ex": [
-          {
-            "e": "Study aggravated.",
-            "c": "学习aggravated。"
-          }
-        ]
-      },
-      {
-        "w": "aggravates",
-        "p": "/aggravates/",
-        "pos": "n",
-        "m": "aggravates",
-        "ex": [
-          {
-            "e": "Study aggravates.",
-            "c": "学习aggravates。"
-          }
-        ]
-      },
-      {
-        "w": "aggravating",
-        "p": "/aggravating/",
-        "pos": "n",
-        "m": "aggravating",
-        "ex": [
-          {
-            "e": "Study aggravating.",
-            "c": "学习aggravating。"
-          }
-        ]
-      },
-      {
-        "w": "aggravatingly",
-        "p": "/aggravatingly/",
-        "pos": "n",
-        "m": "aggravatingly",
-        "ex": [
-          {
-            "e": "Study aggravatingly.",
-            "c": "学习aggravatingly。"
-          }
-        ]
-      },
-      {
-        "w": "aggravation",
-        "p": "/aggravation/",
-        "pos": "n",
-        "m": "aggravation",
-        "ex": [
-          {
-            "e": "Study aggravation.",
-            "c": "学习aggravation。"
-          }
-        ]
-      },
-      {
-        "w": "aggravations",
-        "p": "/aggravations/",
-        "pos": "n",
-        "m": "aggravations",
-        "ex": [
-          {
-            "e": "Study aggravations.",
-            "c": "学习aggravations。"
-          }
-        ]
-      },
-      {
-        "w": "aggravative",
-        "p": "/aggravative/",
-        "pos": "n",
-        "m": "aggravative",
-        "ex": [
-          {
-            "e": "Study aggravative.",
-            "c": "学习aggravative。"
-          }
-        ]
-      },
-      {
-        "w": "aggravator",
-        "p": "/aggravator/",
-        "pos": "n",
-        "m": "aggravator",
-        "ex": [
-          {
-            "e": "Study aggravator.",
-            "c": "学习aggravator。"
-          }
-        ]
-      },
-      {
-        "w": "aggregable",
-        "p": "/aggregable/",
-        "pos": "n",
-        "m": "aggregable",
-        "ex": [
-          {
-            "e": "Study aggregable.",
-            "c": "学习aggregable。"
-          }
-        ]
-      },
-      {
-        "w": "aggregant",
-        "p": "/aggregant/",
-        "pos": "n",
-        "m": "aggregant",
-        "ex": [
-          {
-            "e": "Study aggregant.",
-            "c": "学习aggregant。"
-          }
-        ]
-      },
-      {
-        "w": "aggregata",
-        "p": "/aggregata/",
-        "pos": "n",
-        "m": "aggregata",
-        "ex": [
-          {
-            "e": "Study aggregata.",
-            "c": "学习aggregata。"
-          }
-        ]
-      },
-      {
-        "w": "aggregatae",
-        "p": "/aggregatae/",
-        "pos": "n",
-        "m": "aggregatae",
-        "ex": [
-          {
-            "e": "Study aggregatae.",
-            "c": "学习aggregatae。"
-          }
-        ]
-      },
-      {
-        "w": "aggregate",
-        "p": "/aggregate/",
-        "pos": "n",
-        "m": "aggregate",
-        "ex": [
-          {
-            "e": "Study aggregate.",
-            "c": "学习aggregate。"
-          }
-        ]
-      },
-      {
-        "w": "aggregated",
-        "p": "/aggregated/",
-        "pos": "n",
-        "m": "aggregated",
-        "ex": [
-          {
-            "e": "Study aggregated.",
-            "c": "学习aggregated。"
-          }
-        ]
-      },
-      {
-        "w": "aggregately",
-        "p": "/aggregately/",
-        "pos": "n",
-        "m": "aggregately",
-        "ex": [
-          {
-            "e": "Study aggregately.",
-            "c": "学习aggregately。"
-          }
-        ]
-      },
-      {
-        "w": "aggregateness",
-        "p": "/aggregateness/",
-        "pos": "n",
-        "m": "aggregateness",
-        "ex": [
-          {
-            "e": "Study aggregateness.",
-            "c": "学习aggregateness。"
-          }
-        ]
-      },
-      {
-        "w": "aggregates",
-        "p": "/aggregates/",
-        "pos": "n",
-        "m": "aggregates",
-        "ex": [
-          {
-            "e": "Study aggregates.",
-            "c": "学习aggregates。"
-          }
-        ]
-      },
-      {
-        "w": "aggregating",
-        "p": "/aggregating/",
-        "pos": "n",
-        "m": "aggregating",
-        "ex": [
-          {
-            "e": "Study aggregating.",
-            "c": "学习aggregating。"
-          }
-        ]
-      },
-      {
-        "w": "aggregation",
-        "p": "/aggregation/",
-        "pos": "n",
-        "m": "aggregation",
-        "ex": [
-          {
-            "e": "Study aggregation.",
-            "c": "学习aggregation。"
           }
         ]
       }
