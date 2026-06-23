@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import { NavLink } from 'react-router-dom';
-import { Home, BookOpen, BarChart3, Users, Bell } from 'lucide-react';
+import { Home, BookOpen, BarChart3, Users } from 'lucide-react';
 import { initNativeFeatures } from '../utils/native';
 import NotificationBell from './NotificationBell';
 
