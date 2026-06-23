@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { useProgress } from '../hooks/useProgress';
 import { getTodayData, getDayNumber, getTotalDays, getCEFRProgress, getCEFROptions, getSelectedLevel, setSelectedLevel, setLearningMode } from '../utils/scheduler';
 import { getDueCount } from '../utils/storage';
+import { shareStudyResult } from '../supabase/social';
 
 export default function Home() {
   const [, forceUpdate] = useState(0);
@@ -15,6 +16,15 @@ export default function Home() {
   const cefrLabel = cefrData.label;
   const displayLevel = previewCefr || cefrData.level;
   const dueCount = getDueCount();
+
+  async function handleShareStudy() {
+    try {
+      await shareStudyResult(20, 85, 1);
+      alert('✅ 打卡成功！');
+    } catch (e: any) {
+      alert('❌ ' + (e.message || '打卡失败'));
+    }
+  }
 
   const todayLearnedPercent = todayProgress
     ? Math.round((todayProgress.wordsLearned / todayProgress.totalWords) * 100)
@@ -84,6 +94,24 @@ export default function Home() {
 
 
 
+
+      {/* Daily Check-in */}
+      <div className="bg-white rounded-2xl p-5 shadow-sm border border-gray-100">
+        <div className="flex items-center justify-between">
+          <div className="flex items-center gap-3">
+            <div className="w-10 h-10 rounded-xl bg-amber-50 flex items-center justify-center">
+              <span className="text-amber-500 text-lg">🏆</span>
+            </div>
+            <div>
+              <p className="font-medium text-gray-900">今日打卡</p>
+              <p className="text-xs text-gray-400">分享学习成果到圈子</p>
+            </div>
+          </div>
+          <button onClick={handleShareStudy} className="px-4 py-2 rounded-xl bg-amber-50 text-amber-600 text-sm font-medium hover:bg-amber-100 transition-all">
+            去打卡
+          </button>
+        </div>
+      </div>
 
       {/* CEFR Level selector */}
       <div className="bg-white rounded-2xl p-5 shadow-sm border border-gray-100">

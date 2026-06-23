@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
-import { MessageCircle, Heart, Share2, Plus, Award, Users, Send, UserPlus, X, Search } from 'lucide-react';
-import { getPosts, toggleLike, createPost, shareStudyResult, getComments, addComment, searchUsers, sendFriendRequest, getFriends, deletePost } from '../supabase/social';
+import { MessageCircle, Heart, Share2, Plus, Users, Send, UserPlus, X, Search } from 'lucide-react';
+import { getPosts, toggleLike, createPost, getComments, addComment, searchUsers, sendFriendRequest, getFriends, deletePost } from '../supabase/social';
 import { signOut, getCurrentUser } from '../supabase/auth';
 import type { AuthUser } from '../supabase/auth';
 import type { Post } from '../supabase/social';
@@ -163,9 +163,6 @@ export default function Circle() {
           <div className="flex items-center gap-3">
             <button onClick={handleOpenFriends} className="flex items-center gap-1 px-3 py-1.5 rounded-xl bg-gray-100 text-gray-600 text-sm hover:bg-gray-200">
               <Users size={16} /> 好友
-            </button>
-            <button onClick={handleShareStudy} className="flex items-center gap-1 px-3 py-1.5 rounded-xl bg-amber-50 text-amber-600 text-sm hover:bg-amber-100">
-              <Award size={16} /> 打卡
             </button>
             <div className="flex items-center gap-2">
               <span className="text-sm text-gray-500">{user.nickname}</span>
