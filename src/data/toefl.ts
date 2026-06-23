@@ -1,40 +1,3453 @@
-// TOEFL core vocabulary
+// TOEFL Vocabulary
 export const toeflVocabulary = [
-
-  { "day": 1, "theme": "Academic Core", "stage": 1, "cefr": "TOEFL", "words": [
-    {"w":"abandon","p":"/əˈbæn.dən/","pos":"v","m":"放弃，遗弃","ex":[{"e":"They abandoned the research project.","c":"他们放弃了那个研究项目。"},{"e":"The old building was abandoned years ago.","c":"那栋旧建筑多年前就被废弃了。"}]},
-    {"w":"abstract","p":"/ˈæb.strækt/","pos":"adj","m":"抽象的","ex":[{"e":"The concept is too abstract to understand.","c":"这个概念太抽象难以理解。"},{"e":"She wrote an abstract for her paper.","c":"她为论文写了摘要。"}]},
-    {"w":"academic","p":"/ˌæk.əˈdem.ɪk/","pos":"adj","m":"学术的","ex":[{"e":"She has a strong academic background.","c":"她有很强的学术背景。"},{"e":"The academic year starts in September.","c":"学年从九月开始。"}]},
-    {"w":"accurate","p":"/ˈæk.jʊ.rət/","pos":"adj","m":"准确的","ex":[{"e":"The data must be accurate.","c":"数据必须准确。"},{"e":"He gave an accurate description.","c":"他给出了准确的描述。"}]},
-    {"w":"achieve","p":"/əˈtʃiːv/","pos":"v","m":"实现","ex":[{"e":"She achieved her academic goals.","c":"她实现了学术目标。"},{"e":"We need to achieve better results.","c":"我们需要取得更好的结果。"}]},
-    {"w":"acquire","p":"/əˈkwaɪər/","pos":"v","m":"获得","ex":[{"e":"Students acquire knowledge through study.","c":"学生通过学习获得知识。"},{"e":"The company acquired new technology.","c":"公司获得了新技术。"}]},
-    {"w":"adapt","p":"/əˈdæpt/","pos":"v","m":"适应","ex":[{"e":"Organisms adapt to their environment.","c":"生物适应环境。"},{"e":"We must adapt to changing conditions.","c":"我们必须适应变化的条件。"}]},
-    {"w":"adequate","p":"/ˈæd.ɪ.kwət/","pos":"adj","m":"充足的","ex":[{"e":"Adequate funding is essential.","c":"充足的资金至关重要。"},{"e":"The supply is barely adequate.","c":"供应勉强充足。"}]},
-    {"w":"analyze","p":"/ˈæn.əl.aɪz/","pos":"v","m":"分析","ex":[{"e":"Scientists analyze the data carefully.","c":"科学家仔细分析数据。"},{"e":"We need to analyze the results.","c":"我们需要分析结果。"}]},
-    {"w":"approach","p":"/əˈprəʊtʃ/","pos":"n","m":"方法","ex":[{"e":"This approach is more effective.","c":"这种方法更有效。"},{"e":"We need a new approach to the problem.","c":"我们需要解决问题的新方法。"}]},
-    {"w":"assess","p":"/əˈses/","pos":"v","m":"评估","ex":[{"e":"Teachers assess student performance.","c":"老师评估学生表现。"},{"e":"We need to assess the situation.","c":"我们需要评估情况。"}]},
-    {"w":"assume","p":"/əˈsjuːm/","pos":"v","m":"假设","ex":[{"e":"We cannot assume the results.","c":"我们不能假设结果。"},{"e":"I assume you understand the concept.","c":"我假设你理解了这个概念。"}]},
-    {"w":"benefit","p":"/ˈben.ɪ.fɪt/","pos":"n","m":"利益","ex":[{"e":"Exercise has many health benefits.","c":"锻炼有很多健康益处。"},{"e":"The new policy benefits everyone.","c":"新政策对所有人都有利。"}]},
-    {"w":"concept","p":"/ˈkɒn.sept/","pos":"n","m":"概念","ex":[{"e":"This concept is difficult to grasp.","c":"这个概念难以掌握。"},{"e":"The basic concept is simple.","c":"基本概念很简单。"}]},
-    {"w":"conclude","p":"/kənˈkluːd/","pos":"v","m":"得出结论","ex":[{"e":"What did you conclude from the study?","c":"你从研究中得出了什么结论？"},{"e":"The report concludes with recommendations.","c":"报告以建议结尾。"}]},
-    {"w":"conduct","p":"/kənˈdʌkt/","pos":"v","m":"进行","ex":[{"e":"They conducted an experiment.","c":"他们进行了一项实验。"},{"e":"The survey was conducted online.","c":"调查是在线进行的。"}]},
-    {"w":"consequence","p":"/ˈkɒn.sɪ.kwəns/","pos":"n","m":"后果","ex":[{"e":"Every action has consequences.","c":"每个行动都有后果。"},{"e":"The consequences were severe.","c":"后果很严重。"}]},
-    {"w":"consistent","p":"/kənˈsɪs.tənt/","pos":"adj","m":"一致的","ex":[{"e":"The results are consistent with our hypothesis.","c":"结果与我们的假设一致。"},{"e":"She is consistent in her work.","c":"她的工作始终如一。"}]},
-    {"w":"contribute","p":"/kənˈtrɪb.juːt/","pos":"v","m":"贡献","ex":[{"e":"Many factors contribute to success.","c":"许多因素促成成功。"},{"e":"She contributed valuable ideas.","c":"她贡献了宝贵的想法。"}]},
-    {"w":"demonstrate","p":"/ˈdem.ən.streɪt/","pos":"v","m":"证明","ex":[{"e":"The experiment demonstrates the theory.","c":"实验证明了该理论。"},{"e":"He demonstrated his skills.","c":"他展示了自己的技能。"}]}
-  ]},
-  {"day":2,"theme":"Academic Level 2","stage":1,"cefr":"TOEFL","words":[{"w":"toefl_word_20","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇20","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_21","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇21","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_22","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇22","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_23","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇23","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_24","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇24","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_25","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇25","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_26","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇26","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_27","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇27","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_28","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇28","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_29","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇29","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_30","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇30","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_31","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇31","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_32","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇32","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_33","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇33","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_34","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇34","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_35","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇35","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_36","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇36","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_37","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇37","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_38","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇38","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_39","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇39","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]}]},
-  {"day":3,"theme":"Academic Level 3","stage":1,"cefr":"TOEFL","words":[{"w":"toefl_word_40","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇40","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_41","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇41","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_42","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇42","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_43","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇43","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_44","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇44","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_45","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇45","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_46","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇46","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_47","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇47","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_48","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇48","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_49","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇49","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_50","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇50","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_51","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇51","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_52","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇52","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_53","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇53","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_54","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇54","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_55","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇55","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_56","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇56","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_57","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇57","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_58","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇58","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_59","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇59","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]}]},
-  {"day":4,"theme":"Academic Level 4","stage":1,"cefr":"TOEFL","words":[{"w":"toefl_word_60","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇60","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_61","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇61","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_62","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇62","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_63","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇63","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_64","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇64","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_65","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇65","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_66","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇66","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_67","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇67","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_68","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇68","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_69","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇69","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_70","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇70","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_71","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇71","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_72","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇72","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_73","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇73","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_74","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇74","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_75","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇75","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_76","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇76","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_77","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇77","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_78","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇78","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_79","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇79","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]}]},
-  {"day":5,"theme":"Academic Level 5","stage":1,"cefr":"TOEFL","words":[{"w":"toefl_word_80","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇80","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_81","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇81","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_82","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇82","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_83","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇83","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_84","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇84","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_85","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇85","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_86","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇86","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_87","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇87","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_88","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇88","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_89","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇89","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_90","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇90","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_91","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇91","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_92","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇92","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_93","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇93","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_94","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇94","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_95","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇95","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_96","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇96","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_97","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇97","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_98","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇98","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_99","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇99","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]}]},
-  {"day":6,"theme":"Academic Level 6","stage":1,"cefr":"TOEFL","words":[{"w":"toefl_word_100","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇100","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_101","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇101","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_102","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇102","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_103","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇103","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_104","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇104","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_105","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇105","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_106","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇106","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_107","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇107","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_108","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇108","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_109","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇109","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_110","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇110","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_111","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇111","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_112","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇112","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_113","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇113","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_114","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇114","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_115","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇115","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_116","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇116","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_117","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇117","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_118","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇118","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_119","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇119","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]}]},
-  {"day":7,"theme":"Academic Level 7","stage":1,"cefr":"TOEFL","words":[{"w":"toefl_word_120","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇120","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_121","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇121","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_122","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇122","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_123","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇123","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_124","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇124","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_125","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇125","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_126","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇126","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_127","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇127","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_128","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇128","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_129","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇129","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_130","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇130","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_131","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇131","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_132","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇132","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_133","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇133","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_134","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇134","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_135","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇135","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_136","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇136","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_137","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇137","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_138","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇138","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_139","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇139","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]}]},
-  {"day":8,"theme":"Academic Level 8","stage":1,"cefr":"TOEFL","words":[{"w":"toefl_word_140","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇140","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_141","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇141","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_142","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇142","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_143","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇143","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_144","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇144","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_145","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇145","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_146","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇146","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_147","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇147","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_148","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇148","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_149","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇149","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_150","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇150","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_151","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇151","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_152","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇152","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_153","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇153","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_154","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇154","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_155","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇155","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_156","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇156","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_157","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇157","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_158","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇158","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_159","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇159","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]}]},
-  {"day":9,"theme":"Academic Level 9","stage":1,"cefr":"TOEFL","words":[{"w":"toefl_word_160","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇160","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_161","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇161","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_162","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇162","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_163","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇163","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_164","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇164","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_165","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇165","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_166","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇166","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_167","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇167","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_168","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇168","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_169","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇169","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_170","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇170","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_171","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇171","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_172","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇172","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_173","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇173","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_174","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇174","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_175","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇175","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_176","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇176","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_177","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇177","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_178","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇178","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_179","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇179","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]}]},
-  {"day":10,"theme":"Academic Level 10","stage":1,"cefr":"TOEFL","words":[{"w":"toefl_word_180","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇180","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_181","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇181","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_182","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇182","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_183","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇183","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_184","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇184","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_185","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇185","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_186","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇186","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_187","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇187","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_188","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇188","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_189","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇189","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_190","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇190","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_191","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇191","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_192","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇192","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_193","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇193","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_194","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇194","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_195","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇195","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_196","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇196","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_197","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇197","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_198","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇198","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_199","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇199","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]}]},
-  {"day":11,"theme":"Academic Level 11","stage":1,"cefr":"TOEFL","words":[{"w":"toefl_word_200","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇200","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_201","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇201","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_202","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇202","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_203","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇203","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_204","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇204","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_205","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇205","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_206","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇206","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_207","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇207","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_208","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇208","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_209","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇209","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_210","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇210","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_211","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇211","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_212","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇212","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_213","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇213","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_214","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇214","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_215","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇215","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_216","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇216","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_217","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇217","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_218","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇218","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_219","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇219","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]}]},
-  {"day":12,"theme":"Academic Level 12","stage":1,"cefr":"TOEFL","words":[{"w":"toefl_word_220","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇220","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_221","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇221","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_222","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇222","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_223","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇223","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_224","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇224","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_225","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇225","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_226","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇226","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_227","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇227","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_228","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇228","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_229","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇229","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_230","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇230","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_231","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇231","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_232","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇232","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_233","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇233","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_234","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇234","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_235","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇235","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_236","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇236","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_237","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇237","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_238","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇238","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_239","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇239","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]}]},
-  {"day":13,"theme":"Academic Level 13","stage":1,"cefr":"TOEFL","words":[{"w":"toefl_word_240","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇240","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_241","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇241","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_242","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇242","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_243","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇243","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_244","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇244","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_245","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇245","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_246","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇246","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_247","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇247","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_248","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇248","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_249","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇249","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_250","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇250","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_251","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇251","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_252","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇252","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_253","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇253","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_254","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇254","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_255","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇255","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_256","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇256","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_257","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇257","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_258","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇258","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_259","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇259","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]}]},
-  {"day":14,"theme":"Academic Level 14","stage":1,"cefr":"TOEFL","words":[{"w":"toefl_word_260","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇260","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_261","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇261","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_262","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇262","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_263","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇263","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_264","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇264","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_265","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇265","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_266","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇266","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_267","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇267","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_268","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇268","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_269","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇269","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_270","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇270","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_271","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇271","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_272","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇272","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_273","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇273","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_274","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇274","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_275","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇275","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_276","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇276","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_277","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇277","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_278","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇278","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_279","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇279","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]}]},
-  {"day":15,"theme":"Academic Level 15","stage":1,"cefr":"TOEFL","words":[{"w":"toefl_word_280","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇280","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_281","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇281","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_282","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇282","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_283","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇283","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_284","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇284","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_285","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇285","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_286","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇286","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_287","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇287","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_288","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇288","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_289","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇289","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_290","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇290","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_291","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇291","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_292","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇292","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_293","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇293","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_294","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇294","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_295","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇295","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_296","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇296","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_297","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇297","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_298","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇298","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]},{"w":"toefl_word_299","p":"/təʊ.fəl/","pos":"n","m":"TOEFL词汇299","ex":[{"e":"This TOEFL word is commonly used.","c":"这个TOEFL词汇常用。"},{"e":"Learning this word helps your score.","c":"学习这个词有助于提高分数。"}]}]},
+{
+    "day": 1,
+    "theme": "Academic Reading",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "hello",
+        "p": "/həˈloʊ/",
+        "pos": "interj",
+        "m": "你好",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Hello, how are you today?",
+            "c": "你好，你今天怎么样？"
+          },
+          {
+            "e": "She said hello to everyone in the room.",
+            "c": "她向房间里的每个人问好。"
+          }
+        ]
+      },
+{
+    "day": 2,
+    "theme": "Academic Writing",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "happy",
+        "p": "/ˈhæpi/",
+        "pos": "adj",
+        "m": "快乐的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "I'm happy to see you.",
+            "c": "我很高兴见到你。"
+          },
+          {
+            "e": "The children look very happy.",
+            "c": "孩子们看起来很开心。"
+          }
+        ]
+      },
+{
+    "day": 3,
+    "theme": "Listening Comprehension",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "late",
+        "p": "/leɪt/",
+        "pos": "adj",
+        "m": "晚的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't be late for the meeting.",
+            "c": "开会不要迟到。"
+          },
+          {
+            "e": "It's getting late, I should go.",
+            "c": "天晚了，我该走了。"
+          }
+        ]
+      },
+{
+    "day": 4,
+    "theme": "Speaking Tasks",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 5,
+    "theme": "Grammar Basics",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 6,
+    "theme": "Vocabulary Building",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 7,
+    "theme": "Reading Passages",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 8,
+    "theme": "Integrated Writing",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 9,
+    "theme": "Lecture Listening",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 10,
+    "theme": "Conversation Skills",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 11,
+    "theme": "Sentence Structure",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 12,
+    "theme": "Root Words",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 13,
+    "theme": "Skimming Skills",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 14,
+    "theme": "Note Taking",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 15,
+    "theme": "Pronunciation",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 16,
+    "theme": "Academic Vocabulary",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 17,
+    "theme": "Inference Reading",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 18,
+    "theme": "Summary Writing",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 19,
+    "theme": "Discussion Skills",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 20,
+    "theme": "Idioms",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 21,
+    "theme": "Main Idea",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 22,
+    "theme": "Paraphrasing",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 23,
+    "theme": "Understanding Accents",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 24,
+    "theme": "Opinion Speaking",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 25,
+    "theme": "Punctuation",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 26,
+    "theme": "Collocations",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 27,
+    "theme": "Detail Reading",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 28,
+    "theme": "Essay Structure",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 29,
+    "theme": "Academic Lectures",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 30,
+    "theme": "Debate Skills",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 31,
+    "theme": "Tenses",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 32,
+    "theme": "Prefixes & Suffixes",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 33,
+    "theme": "Purpose Reading",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 34,
+    "theme": "Thesis Statements",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 35,
+    "theme": "Signal Words",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 36,
+    "theme": "Fluency Practice",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 37,
+    "theme": "Articles",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 38,
+    "theme": "Synonyms",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 39,
+    "theme": "Vocabulary in Context",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 40,
+    "theme": "Argument Essays",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 41,
+    "theme": "Campus Conversations",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 42,
+    "theme": "Agree/Disagree",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 43,
+    "theme": "Active vs Passive",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 44,
+    "theme": "Word Families",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 45,
+    "theme": "Reference Reading",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 46,
+    "theme": "Comparison Essays",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 47,
+    "theme": "Group Discussions",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 48,
+    "theme": "Problem-Solving",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 49,
+    "theme": "Conditionals",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 50,
+    "theme": "Academic Terms",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "tall",
+        "p": "/tɔːl/",
+        "pos": "adj",
+        "m": "高的",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "He is very tall for his age.",
+            "c": "就他的年龄来说，他很高。"
+          },
+          {
+            "e": "The building is 50 meters tall.",
+            "c": "这座建筑有50米高。"
+          }
+        ]
+      },
+{
+    "day": 51,
+    "theme": "Fact vs Opinion",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "arrive",
+        "p": "/əˈraɪv/",
+        "pos": "v",
+        "m": "到达",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "We arrived at the airport at noon.",
+            "c": "我们中午到达了机场。"
+          },
+          {
+            "e": "The train arrives at platform 3.",
+            "c": "火车到达3号站台。"
+          }
+        ]
+      },
+{
+    "day": 52,
+    "theme": "Cause-Effect Essays",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 53,
+    "theme": "Professor Office Hours",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 54,
+    "theme": "Making Suggestions",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 55,
+    "theme": "Modal Verbs",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 56,
+    "theme": "Formal Vocabulary",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 57,
+    "theme": "Author's Tone",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 58,
+    "theme": "Classification Essays",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 59,
+    "theme": "Lab Reports",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 60,
+    "theme": "Expressing Certainty",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 61,
+    "theme": "Relative Clauses",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 62,
+    "theme": "Transition Words",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 63,
+    "theme": "Rhetorical Purpose",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 64,
+    "theme": "Process Essays",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 65,
+    "theme": "Research Papers",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 66,
+    "theme": "Clarifying Questions",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 67,
+    "theme": "Gerunds & Infinitives",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 68,
+    "theme": "Phrasal Verbs",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 69,
+    "theme": "Text Organization",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 70,
+    "theme": "Persuasive Essays",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 71,
+    "theme": "Seminars",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 72,
+    "theme": "Interrupting Politely",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 73,
+    "theme": "Reported Speech",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 74,
+    "theme": "Connotation",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 75,
+    "theme": "Negative Facts",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 76,
+    "theme": "Narrative Essays",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 77,
+    "theme": "Study Groups",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 78,
+    "theme": "Taking Turns",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 79,
+    "theme": "Adjective Clauses",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 80,
+    "theme": "Denotation",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 81,
+    "theme": "Pronoun Reference",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 82,
+    "theme": "Analytical Writing",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 83,
+    "theme": "Office Hours",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 84,
+    "theme": "Expanding Ideas",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 85,
+    "theme": "Adverb Clauses",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 86,
+    "theme": "Register",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 87,
+    "theme": "Sentence Simplification",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 88,
+    "theme": "Data Analysis",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 89,
+    "theme": "Peer Review",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 90,
+    "theme": "Building Arguments",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 91,
+    "theme": "Noun Clauses",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 92,
+    "theme": "Common Mistakes",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 93,
+    "theme": "Insert Text Questions",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 94,
+    "theme": "Literary Analysis",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 95,
+    "theme": "Online Discussions",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 96,
+    "theme": "Summarizing",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 97,
+    "theme": "Parallel Structure",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 98,
+    "theme": "Academic Style",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 99,
+    "theme": "Fill-in-the-Table",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 100,
+    "theme": "Research Proposals",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "worry",
+        "p": "/ˈwʌri/",
+        "pos": "v",
+        "m": "担心",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "Don't worry about the test.",
+            "c": "别担心考试。"
+          },
+          {
+            "e": "She worries about her health.",
+            "c": "她担心自己的健康。"
+          }
+        ]
+      },
+{
+    "day": 101,
+    "theme": "Presentations",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "achieve",
+        "p": "/əˈtʃiːv/",
+        "pos": "v",
+        "m": "实现",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "She achieved her goal of losing weight.",
+            "c": "她实现了减肥的目标。"
+          },
+          {
+            "e": "Hard work leads to achieving success.",
+            "c": "努力工作带来成功。"
+          }
+        ]
+      },
+{
+    "day": 102,
+    "theme": "Reacting to Ideas",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 103,
+    "theme": "Uncountable Nouns",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 104,
+    "theme": "Precision",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 105,
+    "theme": "Categorizing Info",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 106,
+    "theme": "Review Articles",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 107,
+    "theme": "Poster Sessions",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 108,
+    "theme": "Validating Points",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 109,
+    "theme": "Quantifiers",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 110,
+    "theme": "Redundancy",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 111,
+    "theme": "Ordering Events",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 112,
+    "theme": "Synthesis Writing",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 113,
+    "theme": "Study Abroad",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 114,
+    "theme": "Encouraging Others",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 115,
+    "theme": "Comparative Forms",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 116,
+    "theme": "Clarity",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 117,
+    "theme": "Check Your Knowledge",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 118,
+    "theme": "Case Studies",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 119,
+    "theme": "Crash Courses",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 120,
+    "theme": "Responding to Questions",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 121,
+    "theme": "Superlatives",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 122,
+    "theme": "Conciseness",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 123,
+    "theme": "Double-Blind Test",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 124,
+    "theme": "Literature Review",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 125,
+    "theme": "Field Trips",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 126,
+    "theme": "Asking for Help",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 127,
+    "theme": "Linking Words",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 128,
+    "theme": "Vague Language",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 129,
+    "theme": "Mock Exam 1",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 130,
+    "theme": "Mock Exam 2",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 131,
+    "theme": "Mock Exam 3",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 132,
+    "theme": "Mock Exam 4",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 133,
+    "theme": "Mock Exam 5",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 134,
+    "theme": "Vocabulary Review",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 135,
+    "theme": "Academic Reading",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 136,
+    "theme": "Academic Writing",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 137,
+    "theme": "Listening Comprehension",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 138,
+    "theme": "Speaking Tasks",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 139,
+    "theme": "Grammar Basics",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 140,
+    "theme": "Vocabulary Building",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 141,
+    "theme": "Reading Passages",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 142,
+    "theme": "Integrated Writing",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 143,
+    "theme": "Lecture Listening",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 144,
+    "theme": "Conversation Skills",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 145,
+    "theme": "Sentence Structure",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 146,
+    "theme": "Root Words",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 147,
+    "theme": "Skimming Skills",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 148,
+    "theme": "Note Taking",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 149,
+    "theme": "Pronunciation",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      },
+{
+    "day": 150,
+    "theme": "Academic Vocabulary",
+    "stage": 1,
+    "cefr": "TOEFL",
+    "words": [
+      {
+        "w": "examine",
+        "p": "/ɪɡˈzæmɪn/",
+        "pos": "v",
+        "m": "检查",
+        "cefr": "TOEFL",
+        "ex": [
+          {
+            "e": "The doctor examined the patient thoroughly.",
+            "c": "医生彻底检查了病人。"
+          },
+          {
+            "e": "We need to examine all the evidence.",
+            "c": "我们需要审查所有证据。"
+          }
+        ]
+      }
 ];

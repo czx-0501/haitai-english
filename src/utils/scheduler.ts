@@ -20,16 +20,15 @@ import { ieltsVocabulary } from '../data/ielts';
 
 export function getTodayData(): DayData | null {
   const mode = getLearningMode();
+  const day = getDayNumber();
+  let data: DayData | null = null;
   if (mode === 'TOEFL') {
-    const day = getDayNumber();
-    return (toeflVocabulary as any[]).find((d: any) => d.day === day) || null;
+    data = (toeflVocabulary as any[]).find((d: any) => d.day === day) || null;
   }
   if (mode === 'IELTS') {
-    const day = getDayNumber();
-    return (ieltsVocabulary as any[]).find((d: any) => d.day === day) || null;
+    data = (ieltsVocabulary as any[]).find((d: any) => d.day === day) || null;
   }
- const day = getDayNumber();
-  let data = vocabulary.find((d: any) => d.day === day) || null;
+ data = vocabulary.find((d: any) => d.day === day) || null;
   if (!data && vocabulary.length > 0) {
     const wrapped = ((day - 1) % vocabulary.length) + 1;
     data = vocabulary.find((d: any) => d.day === wrapped) || vocabulary[0] || null;

@@ -1,39 +1,3453 @@
-// IELTS core vocabulary
+// IELTS Vocabulary
 export const ieltsVocabulary = [
-  { "day": 1, "theme": "Education", "stage": 1, "cefr": "IELTS", "words": [
-    {"w":"ielts_word_0","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇0","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-    {"w":"ielts_word_1","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇1","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-    {"w":"ielts_word_2","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇2","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-    {"w":"ielts_word_3","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇3","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-    {"w":"ielts_word_4","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇4","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-    {"w":"ielts_word_5","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇5","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-    {"w":"ielts_word_6","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇6","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-    {"w":"ielts_word_7","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇7","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-    {"w":"ielts_word_8","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇8","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-    {"w":"ielts_word_9","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇9","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-    {"w":"ielts_word_10","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇10","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-    {"w":"ielts_word_11","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇11","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-    {"w":"ielts_word_12","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇12","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-    {"w":"ielts_word_13","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇13","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-    {"w":"ielts_word_14","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇14","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-    {"w":"ielts_word_15","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇15","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-    {"w":"ielts_word_16","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇16","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-    {"w":"ielts_word_17","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇17","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-    {"w":"ielts_word_18","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇18","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-    {"w":"ielts_word_19","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇19","ex":[{"e":"This IELTS word appears in the test.","c":"这个雅思词汇出现在考试中。"},{"e":"Practice this word daily.","c":"每天练习这个词。"}]},
-  ]},
-  {"day":2,"theme":"Topic 2","stage":1,"cefr":"IELTS","words":[{"w":"ielts_word_20","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇20","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_21","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇21","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_22","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇22","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_23","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇23","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_24","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇24","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_25","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇25","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_26","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇26","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_27","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇27","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_28","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇28","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_29","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇29","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_30","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇30","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_31","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇31","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_32","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇32","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_33","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇33","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_34","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇34","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_35","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇35","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_36","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇36","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_37","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇37","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_38","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇38","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_39","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇39","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},]},
-  {"day":3,"theme":"Topic 3","stage":1,"cefr":"IELTS","words":[{"w":"ielts_word_40","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇40","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_41","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇41","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_42","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇42","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_43","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇43","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_44","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇44","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_45","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇45","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_46","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇46","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_47","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇47","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_48","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇48","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_49","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇49","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_50","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇50","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_51","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇51","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_52","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇52","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_53","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇53","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_54","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇54","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_55","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇55","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_56","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇56","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_57","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇57","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_58","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇58","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_59","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇59","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},]},
-  {"day":4,"theme":"Topic 4","stage":1,"cefr":"IELTS","words":[{"w":"ielts_word_60","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇60","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_61","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇61","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_62","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇62","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_63","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇63","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_64","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇64","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_65","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇65","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_66","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇66","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_67","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇67","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_68","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇68","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_69","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇69","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_70","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇70","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_71","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇71","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_72","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇72","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_73","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇73","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_74","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇74","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_75","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇75","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_76","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇76","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_77","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇77","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_78","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇78","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_79","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇79","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},]},
-  {"day":5,"theme":"Topic 5","stage":1,"cefr":"IELTS","words":[{"w":"ielts_word_80","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇80","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_81","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇81","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_82","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇82","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_83","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇83","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_84","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇84","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_85","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇85","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_86","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇86","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_87","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇87","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_88","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇88","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_89","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇89","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_90","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇90","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_91","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇91","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_92","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇92","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_93","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇93","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_94","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇94","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_95","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇95","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_96","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇96","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_97","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇97","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_98","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇98","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_99","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇99","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},]},
-  {"day":6,"theme":"Topic 6","stage":1,"cefr":"IELTS","words":[{"w":"ielts_word_100","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇100","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_101","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇101","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_102","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇102","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_103","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇103","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_104","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇104","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_105","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇105","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_106","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇106","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_107","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇107","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_108","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇108","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_109","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇109","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_110","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇110","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_111","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇111","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_112","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇112","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_113","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇113","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_114","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇114","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_115","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇115","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_116","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇116","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_117","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇117","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_118","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇118","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_119","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇119","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},]},
-  {"day":7,"theme":"Topic 7","stage":1,"cefr":"IELTS","words":[{"w":"ielts_word_120","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇120","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_121","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇121","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_122","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇122","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_123","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇123","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_124","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇124","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_125","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇125","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_126","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇126","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_127","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇127","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_128","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇128","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_129","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇129","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_130","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇130","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_131","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇131","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_132","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇132","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_133","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇133","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_134","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇134","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_135","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇135","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_136","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇136","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_137","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇137","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_138","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇138","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_139","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇139","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},]},
-  {"day":8,"theme":"Topic 8","stage":1,"cefr":"IELTS","words":[{"w":"ielts_word_140","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇140","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_141","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇141","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_142","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇142","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_143","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇143","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_144","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇144","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_145","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇145","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_146","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇146","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_147","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇147","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_148","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇148","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_149","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇149","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_150","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇150","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_151","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇151","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_152","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇152","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_153","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇153","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_154","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇154","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_155","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇155","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_156","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇156","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_157","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇157","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_158","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇158","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_159","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇159","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},]},
-  {"day":9,"theme":"Topic 9","stage":1,"cefr":"IELTS","words":[{"w":"ielts_word_160","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇160","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_161","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇161","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_162","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇162","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_163","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇163","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_164","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇164","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_165","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇165","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_166","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇166","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_167","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇167","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_168","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇168","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_169","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇169","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_170","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇170","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_171","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇171","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_172","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇172","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_173","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇173","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_174","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇174","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_175","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇175","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_176","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇176","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_177","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇177","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_178","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇178","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_179","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇179","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},]},
-  {"day":10,"theme":"Topic 10","stage":1,"cefr":"IELTS","words":[{"w":"ielts_word_180","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇180","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_181","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇181","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_182","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇182","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_183","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇183","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_184","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇184","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_185","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇185","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_186","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇186","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_187","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇187","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_188","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇188","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_189","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇189","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_190","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇190","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_191","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇191","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_192","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇192","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_193","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇193","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_194","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇194","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_195","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇195","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_196","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇196","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_197","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇197","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_198","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇198","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_199","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇199","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},]},
-  {"day":11,"theme":"Topic 11","stage":1,"cefr":"IELTS","words":[{"w":"ielts_word_200","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇200","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_201","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇201","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_202","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇202","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_203","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇203","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_204","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇204","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_205","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇205","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_206","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇206","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_207","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇207","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_208","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇208","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_209","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇209","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_210","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇210","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_211","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇211","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_212","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇212","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_213","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇213","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_214","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇214","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_215","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇215","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_216","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇216","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_217","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇217","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_218","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇218","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_219","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇219","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},]},
-  {"day":12,"theme":"Topic 12","stage":1,"cefr":"IELTS","words":[{"w":"ielts_word_220","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇220","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_221","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇221","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_222","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇222","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_223","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇223","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_224","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇224","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_225","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇225","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_226","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇226","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_227","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇227","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_228","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇228","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_229","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇229","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_230","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇230","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_231","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇231","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_232","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇232","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_233","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇233","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_234","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇234","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_235","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇235","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_236","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇236","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_237","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇237","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_238","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇238","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_239","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇239","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},]},
-  {"day":13,"theme":"Topic 13","stage":1,"cefr":"IELTS","words":[{"w":"ielts_word_240","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇240","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_241","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇241","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_242","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇242","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_243","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇243","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_244","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇244","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_245","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇245","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_246","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇246","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_247","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇247","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_248","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇248","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_249","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇249","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_250","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇250","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_251","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇251","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_252","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇252","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_253","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇253","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_254","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇254","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_255","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇255","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_256","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇256","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_257","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇257","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_258","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇258","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_259","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇259","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},]},
-  {"day":14,"theme":"Topic 14","stage":1,"cefr":"IELTS","words":[{"w":"ielts_word_260","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇260","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_261","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇261","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_262","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇262","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_263","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇263","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_264","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇264","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_265","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇265","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_266","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇266","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_267","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇267","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_268","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇268","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_269","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇269","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_270","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇270","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_271","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇271","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_272","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇272","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_273","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇273","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_274","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇274","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_275","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇275","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_276","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇276","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_277","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇277","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_278","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇278","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_279","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇279","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},]},
-  {"day":15,"theme":"Topic 15","stage":1,"cefr":"IELTS","words":[{"w":"ielts_word_280","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇280","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_281","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇281","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_282","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇282","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_283","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇283","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_284","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇284","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_285","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇285","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_286","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇286","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_287","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇287","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_288","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇288","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_289","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇289","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_290","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇290","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_291","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇291","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_292","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇292","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_293","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇293","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_294","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇294","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_295","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇295","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_296","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇296","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_297","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇297","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_298","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇298","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},{"w":"ielts_word_299","p":"/aɪ.ɛlts/","pos":"n","m":"雅思词汇299","ex":[{"e":"This is an example sentence.","c":"这是一个例句。"},{"e":"Practice this word.","c":"练习这个词。"}]},]},
+{
+    "day": 1,
+    "theme": "Education",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "abstract",
+        "p": "/ˈæbstrækt/",
+        "pos": "adj",
+        "m": "抽象的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "The concept is too abstract for children.",
+            "c": "这个概念对孩子来说太抽象了。"
+          },
+          {
+            "e": "She has an abstract painting in her office.",
+            "c": "她的办公室里有一幅抽象画。"
+          }
+        ]
+      },
+{
+    "day": 2,
+    "theme": "Technology",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "enormous",
+        "p": "/ɪˈnɔːrməs/",
+        "pos": "adj",
+        "m": "巨大的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "The project requires an enormous amount of work.",
+            "c": "这个项目需要大量的工作。"
+          },
+          {
+            "e": "They live in an enormous house.",
+            "c": "他们住在一栋巨大的房子里。"
+          }
+        ]
+      },
+{
+    "day": 3,
+    "theme": "Environment",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "inevitable",
+        "p": "/ɪnˈevɪtəbl/",
+        "pos": "adj",
+        "m": "不可避免的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Change is inevitable in any organization.",
+            "c": "变化在任何组织中都是不可避免的。"
+          },
+          {
+            "e": "It was inevitable that mistakes would happen.",
+            "c": "错误的发生是不可避免的。"
+          }
+        ]
+      },
+{
+    "day": 4,
+    "theme": "Health",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 5,
+    "theme": "Travel",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 6,
+    "theme": "Culture",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 7,
+    "theme": "Work",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 8,
+    "theme": "Family",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 9,
+    "theme": "Food",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 10,
+    "theme": "Sports",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 11,
+    "theme": "Arts",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 12,
+    "theme": "Media",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 13,
+    "theme": "Science",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 14,
+    "theme": "History",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 15,
+    "theme": "Economy",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 16,
+    "theme": "Politics",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 17,
+    "theme": "Global Issues",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 18,
+    "theme": "Urban Life",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 19,
+    "theme": "Rural Life",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 20,
+    "theme": "Transportation",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 21,
+    "theme": "Communication",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 22,
+    "theme": "Fashion",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 23,
+    "theme": "Music",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 24,
+    "theme": "Film",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 25,
+    "theme": "Books & Reading",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 26,
+    "theme": "Language Learning",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 27,
+    "theme": "Career Planning",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 28,
+    "theme": "Mental Health",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 29,
+    "theme": "Physical Fitness",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 30,
+    "theme": "Diet & Nutrition",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 31,
+    "theme": "Climate Change",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 32,
+    "theme": "Renewable Energy",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 33,
+    "theme": "Wildlife Conservation",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 34,
+    "theme": "Ocean Pollution",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 35,
+    "theme": "Sustainable Living",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 36,
+    "theme": "Natural Disasters",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 37,
+    "theme": "Social Media",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 38,
+    "theme": "Online Privacy",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 39,
+    "theme": "Digital Nomads",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 40,
+    "theme": "Remote Work",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 41,
+    "theme": "E-commerce",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 42,
+    "theme": "Artificial Intelligence",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 43,
+    "theme": "Traditional vs Modern",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 44,
+    "theme": "Cultural Heritage",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 45,
+    "theme": "Festivals",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 46,
+    "theme": "Museums & Galleries",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 47,
+    "theme": "Street Art",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 48,
+    "theme": "Architecture",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 49,
+    "theme": "Child Development",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 50,
+    "theme": "Parenting",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "equivalent",
+        "p": "/ɪˈkwɪvələnt/",
+        "pos": "adj",
+        "m": "等同的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His salary is equivalent to mine.",
+            "c": "他的薪水和我的一样。"
+          },
+          {
+            "e": "A mile is equivalent to about 1.6 kilometers.",
+            "c": "一英里大约相当于1.6公里。"
+          }
+        ]
+      },
+{
+    "day": 51,
+    "theme": "Education Reform",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "aberration",
+        "p": "/ˌæbəˈreɪʃn/",
+        "pos": "n",
+        "m": "偏差",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "His behavior was an aberration from the norm.",
+            "c": "他的行为偏离了常态。"
+          },
+          {
+            "e": "The warm weather is an aberration for this season.",
+            "c": "温暖的天气对这个季节来说是一种异常。"
+          }
+        ]
+      },
+{
+    "day": 52,
+    "theme": "Online Learning",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "exacerbate",
+        "p": "/ɪɡˈzæsərbeɪt/",
+        "pos": "v",
+        "m": "加剧",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "The drought exacerbated the food crisis.",
+            "c": "干旱加剧了粮食危机。"
+          },
+          {
+            "e": "His comments only exacerbated the situation.",
+            "c": "他的评论只会加剧局势。"
+          }
+        ]
+      },
+{
+    "day": 53,
+    "theme": "Life Skills",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "tenet",
+        "p": "/ˈtenɪt/",
+        "pos": "n",
+        "m": "原则",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "This is a fundamental tenet of democracy.",
+            "c": "这是民主的基本原则。"
+          },
+          {
+            "e": "The core tenets of the theory remain unchanged.",
+            "c": "该理论的核心原则保持不变。"
+          }
+        ]
+      },
+{
+    "day": 54,
+    "theme": "Critical Thinking",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 55,
+    "theme": "Immigration",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 56,
+    "theme": "Multiculturalism",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 57,
+    "theme": "Global Trade",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 58,
+    "theme": "Tourism Impact",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 59,
+    "theme": "International Relations",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 60,
+    "theme": "Human Rights",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 61,
+    "theme": "Entrepreneurship",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 62,
+    "theme": "Start-ups",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 63,
+    "theme": "Innovation",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 64,
+    "theme": "Patents",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 65,
+    "theme": "Marketing",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 66,
+    "theme": "Consumer Behavior",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 67,
+    "theme": "Genetics",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 68,
+    "theme": "Medicine",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 69,
+    "theme": "Nutrition Science",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 70,
+    "theme": "Exercise Science",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 71,
+    "theme": "Mental Resilience",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 72,
+    "theme": "Sleep Science",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 73,
+    "theme": "Biodiversity",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 74,
+    "theme": "Deforestation",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 75,
+    "theme": "Carbon Footprint",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 76,
+    "theme": "Green Technology",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 77,
+    "theme": "Water Scarcity",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 78,
+    "theme": "Waste Management",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 79,
+    "theme": "Space Exploration",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 80,
+    "theme": "Physics",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 81,
+    "theme": "Chemistry",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 82,
+    "theme": "Mathematics",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 83,
+    "theme": "Robotics",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 84,
+    "theme": "Nanotechnology",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 85,
+    "theme": "Psychology",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 86,
+    "theme": "Sociology",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 87,
+    "theme": "Anthropology",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 88,
+    "theme": "Philosophy",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 89,
+    "theme": "Ethics",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 90,
+    "theme": "Logic & Reasoning",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 91,
+    "theme": "Democracy",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 92,
+    "theme": "Public Policy",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 93,
+    "theme": "Voting Systems",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 94,
+    "theme": "Taxation",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 95,
+    "theme": "Welfare",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 96,
+    "theme": "National Security",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 97,
+    "theme": "Aging Population",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 98,
+    "theme": "Gender Equality",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 99,
+    "theme": "Youth Unemployment",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 100,
+    "theme": "Housing Crisis",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "expedite",
+        "p": "/ˈekspədaɪt/",
+        "pos": "v",
+        "m": "加速",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "We need to expedite the approval process.",
+            "c": "我们需要加快审批流程。"
+          },
+          {
+            "e": "The software expedites data processing.",
+            "c": "这款软件加速了数据处理。"
+          }
+        ]
+      },
+{
+    "day": 101,
+    "theme": "Poverty Reduction",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "acquiesce",
+        "p": "/ˌækwiˈes/",
+        "pos": "v",
+        "m": "默许",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "She acquiesced to their demands.",
+            "c": "她默许了他们的要求。"
+          },
+          {
+            "e": "He acquiesced in the decision without protest.",
+            "c": "他毫无异议地默许了这个决定。"
+          }
+        ]
+      },
+{
+    "day": 102,
+    "theme": "Public Health",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "heterogeneous",
+        "p": "/ˌhetərəˈdʒiːniəs/",
+        "pos": "adj",
+        "m": "异质的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "The population is highly heterogeneous.",
+            "c": "人口具有高度的异质性。"
+          },
+          {
+            "e": "The group was heterogeneous in terms of age and background.",
+            "c": "这个小组在年龄和背景上具有多样性。"
+          }
+        ]
+      },
+{
+    "day": 103,
+    "theme": "Advertising",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "ubiquitous",
+        "p": "/juːˈbɪkwɪtəs/",
+        "pos": "adj",
+        "m": "无处不在的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Smartphones have become ubiquitous.",
+            "c": "智能手机已经变得无处不在。"
+          },
+          {
+            "e": "The ubiquitous coffee shop chain can be found everywhere.",
+            "c": "这家无处不在的咖啡连锁店到处都能找到。"
+          }
+        ]
+      },
+{
+    "day": 104,
+    "theme": "Branding",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 105,
+    "theme": "Social Influence",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 106,
+    "theme": "Consumer Rights",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 107,
+    "theme": "Market Research",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 108,
+    "theme": "Product Design",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 109,
+    "theme": "Economic Growth",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 110,
+    "theme": "Inflation",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 111,
+    "theme": "Interest Rates",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 112,
+    "theme": "Investment",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 113,
+    "theme": "Banking",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 114,
+    "theme": "Cryptocurrency",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 115,
+    "theme": "Cultural Identity",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 116,
+    "theme": "Language Preservation",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 117,
+    "theme": "Global English",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 118,
+    "theme": "Endangered Languages",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 119,
+    "theme": "Translation",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 120,
+    "theme": "Intercultural Communication",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 121,
+    "theme": "Test Strategies",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 122,
+    "theme": "Time Management",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 123,
+    "theme": "Reading Skills",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 124,
+    "theme": "Writing Task 1",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 125,
+    "theme": "Writing Task 2",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 126,
+    "theme": "Speaking Test",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 127,
+    "theme": "Listening Test",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 128,
+    "theme": "Grammar Review",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 129,
+    "theme": "Vocabulary Review",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 130,
+    "theme": "Mock Test 1",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 131,
+    "theme": "Mock Test 2",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 132,
+    "theme": "Final Review",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 133,
+    "theme": "Education",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 134,
+    "theme": "Technology",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 135,
+    "theme": "Environment",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 136,
+    "theme": "Health",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 137,
+    "theme": "Travel",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 138,
+    "theme": "Culture",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 139,
+    "theme": "Work",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 140,
+    "theme": "Family",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 141,
+    "theme": "Food",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 142,
+    "theme": "Sports",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 143,
+    "theme": "Arts",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 144,
+    "theme": "Media",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 145,
+    "theme": "Science",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 146,
+    "theme": "History",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 147,
+    "theme": "Economy",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 148,
+    "theme": "Politics",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 149,
+    "theme": "Global Issues",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      },
+{
+    "day": 150,
+    "theme": "Urban Life",
+    "stage": 1,
+    "cefr": "IELTS",
+    "words": [
+      {
+        "w": "hypothetical",
+        "p": "/ˌhaɪpəˈθetɪkl/",
+        "pos": "adj",
+        "m": "假设的",
+        "cefr": "IELTS",
+        "ex": [
+          {
+            "e": "Let's consider a hypothetical situation.",
+            "c": "让我们考虑一个假设的情况。"
+          },
+          {
+            "e": "The question was purely hypothetical.",
+            "c": "这个问题纯粹是假设性的。"
+          }
+        ]
+      }
 ];
