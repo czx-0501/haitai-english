@@ -34,6 +34,22 @@ export function getTodayData(): DayData | null {
     const wrapped = ((day - 1) % vocabulary.length) + 1;
     data = vocabulary.find((d: any) => d.day === wrapped) || vocabulary[0] || null;
   }
+  // Pad to 20 words if fewer
+  if (data && data.words && data.words.length < 20 && vocabulary.length > 0) {
+    const allWords = vocabulary.reduce((acc: any[], d: any) => acc.concat(d.words || []), []);
+    const seen = new Set<string>();
+    const unique: typeof allWords = [];
+    for (const w of allWords) {
+      if (!seen.has(w.w)) { seen.add(w.w); unique.push(w); }
+    }
+    const existing = (data.words as any[]).slice();
+    const currWords = new Set(existing.map((w: any) => w.w));
+    for (const w of unique) {
+      if (existing.length >= 20) break;
+      if (!currWords.has(w.w)) { existing.push(w); currWords.add(w.w); }
+    }
+    data = { ...data, words: existing };
+  }
   return data;
 }
 
