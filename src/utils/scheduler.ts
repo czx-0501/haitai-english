@@ -28,8 +28,13 @@ export function getTodayData(): DayData | null {
     const day = getDayNumber();
     return (ieltsVocabulary as any[]).find((d: any) => d.day === day) || null;
   }
-  const day = getDayNumber();
-  return vocabulary.find((d: any) => d.day === day) || null;
+ const day = getDayNumber();
+  let data = vocabulary.find((d: any) => d.day === day) || null;
+  if (!data && vocabulary.length > 0) {
+    const wrapped = ((day - 1) % vocabulary.length) + 1;
+    data = vocabulary.find((d: any) => d.day === wrapped) || vocabulary[0] || null;
+  }
+  return data;
 }
 
 export function getDayData(day: number): DayData | null {
