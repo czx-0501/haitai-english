@@ -20,9 +20,8 @@ function getAzureRegion() {
 export function prewarmTTS(): void {
   if (!('speechSynthesis' in window)) return;
   try {
-    const u = new SpeechSynthesisUtterance('a');
-    window.speechSynthesis.speak(u);
-    setTimeout(() => window.speechSynthesis.cancel(), 5);
+    // 预热语音引擎（不发声），仅触发引擎初始化
+    window.speechSynthesis.cancel();
     window.speechSynthesis.getVoices();
   } catch {}
 }
