@@ -82,9 +82,27 @@ export default function Circle() {
    await loadPosts();
   }
 
-  async function handleShareStudy() {
-    await shareStudyResult(20, 85, 1);
-    await loadPosts();
+ async function handleShareStudy() {
+    try {
+      await shareStudyResult(20, 85, 1);
+      alert('✅ 打卡成功！');
+      await loadPosts();
+    } catch (e: any) {
+      alert('❌ ' + (e.message || '打卡失败'));
+    }
+  }
+
+  async function handleSharePost(content: string) {
+    if (navigator.share) {
+      try {
+        await navigator.share({ title: '海苔英语', text: content });
+      } catch {}
+    } else {
+      try {
+        await navigator.clipboard.writeText(content);
+        alert('📋 内容已复制');
+      } catch {}
+    }
   }
 
   // === Comments ===
@@ -301,7 +319,7 @@ export default function Circle() {
                 <button onClick={() => toggleComments(post.id)} className="flex items-center gap-1 text-sm hover:text-[var(--primary)]">
                   <MessageCircle size={16} /> {post.comments_count || 0}
                 </button>
-                <button className="flex items-center gap-1 text-sm hover:text-[var(--primary)]">
+                <button onClick={() => handleSharePost(post.content)} className="flex items-center gap-1 text-sm hover:text-[var(--primary)]">
                   <Share2 size={16} /> 分享
                 </button>
               </div>
