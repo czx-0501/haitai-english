@@ -1,7 +1,8 @@
 import { useEffect } from 'react';
 import { NavLink } from 'react-router-dom';
-import { Home, BookOpen, BarChart3, Users } from 'lucide-react';
+import { Home, BookOpen, BarChart3, Users, Bell } from 'lucide-react';
 import { initNativeFeatures } from '../utils/native';
+import NotificationBell from './NotificationBell';
 
 const navItems = [
   { to: '/', icon: Home, label: '首页' },
@@ -20,8 +21,11 @@ export default function Layout({ children }: { children: React.ReactNode }) {
 
   return (
     <div className="flex flex-col min-h-dvh">
-      <main className="flex-1 pb-28 max-w-2xl mx-auto w-full px-4 pt-4 safe-area-top">
-        {children}
+     <main className="flex-1 pb-28 max-w-2xl mx-auto w-full px-4 pt-4 safe-area-top">
+        <div className="flex justify-end mb-2">
+          <NotificationBell />
+        </div>
+       {children}
       </main>
       <nav className="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 z-50 safe-area-bottom">
         <div className="max-w-2xl mx-auto flex justify-around items-center h-16 px-2">
