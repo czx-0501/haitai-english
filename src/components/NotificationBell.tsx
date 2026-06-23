@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from 'react';
 import { Bell, X } from 'lucide-react';
 import { supabase } from '../supabase/client';
 import { getCurrentUser } from '../supabase/auth';
-import { getNotifications, markAsRead, markAllAsRead, getUnreadCount, type NotificationItem } from '../utils/notifications';
+import { getNotifications, markAsRead, markAllAsRead, getUnreadCount } from '../utils/notifications';
 
 export default function NotificationBell() {
   const [showPanel, setShowPanel] = useState(false);

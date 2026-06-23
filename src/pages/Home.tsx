@@ -4,7 +4,7 @@ import { useProgress } from '../hooks/useProgress';
 import { getTodayData, getDayNumber, getTotalDays, getCEFRProgress, getCEFROptions, getSelectedLevel, setSelectedLevel, setLearningMode } from '../utils/scheduler';
 import { getDueCount } from '../utils/storage';
 import { shareStudyResult } from '../supabase/social';
-import { addNotification, checkAchievements } from '../utils/notifications';
+import { checkAchievements } from '../utils/notifications';
 
 export default function Home() {
   const [, forceUpdate] = useState(0);

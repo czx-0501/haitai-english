@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { useProgress } from '../hooks/useProgress';
 import { getTodayData } from '../utils/scheduler';
 import Quiz from '../components/Quiz';
