@@ -15,8 +15,8 @@ const LEARNING_MODE_KEY = 'engdaily_learning_mode';
 export function getLearningMode() { try { return localStorage.getItem(LEARNING_MODE_KEY) || 'CEFR'; } catch(e) { return 'CEFR'; } }
 export function setLearningMode(mode: string) { try { localStorage.setItem(LEARNING_MODE_KEY, mode); } catch(e) {} }
 
-import { toeflVocabulary } from '../data/toefl';
-import { ieltsVocabulary } from '../data/ielts';
+import toeflVocabulary from '../data/toefl';
+import ieltsVocabulary from '../data/ielts';
 
 export function getTodayData(): DayData | null {
   const mode = getLearningMode();
@@ -25,10 +25,10 @@ export function getTodayData(): DayData | null {
   if (mode === 'TOEFL') {
     data = (toeflVocabulary as any[]).find((d: any) => d.day === day) || null;
   }
-  if (mode === 'IELTS') {
+  else if (mode === 'IELTS') {
     data = (ieltsVocabulary as any[]).find((d: any) => d.day === day) || null;
   }
- data = vocabulary.find((d: any) => d.day === day) || null;
+  else data = vocabulary.find((d: any) => d.day === day) || null;
   if (!data && vocabulary.length > 0) {
     const wrapped = ((day - 1) % vocabulary.length) + 1;
     data = vocabulary.find((d: any) => d.day === wrapped) || vocabulary[0] || null;
