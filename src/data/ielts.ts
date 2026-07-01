@@ -4599,54 +4599,54 @@ export const ieltsVocabulary = [
         { "e": "Alcornoco bark is harvested every nine years.", "c": "阿尔科诺科树皮每九年采收一次。" }
       ] },
       { "w": "alcornoque", "p": "/alcornoque/", "pos": "n", "m": "alcornoque", "cefr": "X",       "ex": [
-        { "e": "Cork is made from the bark of the alcornoque tree.", "c": "El corcho se hace de la corteza del árbol alcornoque." },
-        { "e": "The alcornoque is common in Mediterranean forests.", "c": "El alcornoque es común en los bosques mediterráneos." }
+        { "e": "The cork tree, known as alcornoque, is native to the Iberian Peninsula.", "c": "栓皮栎，即alcornoque，原产于伊比利亚半岛。" },
+        { "e": "Alcornoque wood is often used for making bottle stoppers.", "c": "Alcornoque木材常用于制作瓶塞。" }
       ] },
       { "w": "alcosol", "p": "/alcosol/", "pos": "n", "m": "alcosol", "cefr": "X", "ex": [{ "e": "An alcosol is a colloidal solution in alcohol.", "c": "Alcosol是一种在酒精中的胶体溶液。" }, { "e": "The chemist prepared an alcosol for the experiment.", "c": "化学家为实验制备了一种alcosol。" }] },
       { "w": "alcotate", "p": "/alcotate/", "pos": "n", "m": "alcotate", "cefr": "X",       "ex": [
-        { "e": "He used an alcotate to measure the alcohol in the wine.", "c": "Usó un alcohómetro para medir el alcohol en el vino." },
-        { "e": "The alcotate showed a high proof for the liquor.", "c": "El alcohómetro mostró un alto grado para el licor." }
+        { "e": "The scientist measured the alcotate level in the fermented solution.", "c": "科学家测量了发酵溶液中的酒精酸盐含量。" },
+        { "e": "An alcotate compound was detected in the laboratory sample.", "c": "实验室样本中检测到一种酒精酸盐化合物。" }
       ] },
       { "w": "alcoved", "p": "/alcoved/", "pos": "n", "m": "alcoved", "cefr": "X",       "ex": [
         { "e": "The garden path was alcoved with climbing roses.", "c": "花园小径被攀爬的玫瑰环抱。" },
         { "e": "The old library felt alcoved and quiet.", "c": "旧图书馆感觉幽静而隐蔽。" }
       ] },
       { "w": "alcoves", "p": "/alcoves/", "pos": "n", "m": "alcoves", "cefr": "X",       "ex": [
-        { "e": "The garden had cozy alcoves with benches.", "c": "El jardín tenía acogedores nichos con bancos." },
-        { "e": "She decorated the alcoves with small statues.", "c": "Ella decoró los nichos con pequeñas estatuas." }
+        { "e": "The garden featured several cozy alcoves with benches.", "c": "花园里有几个带长凳的舒适壁龛。" },
+        { "e": "She read her book in one of the quiet alcoves of the library.", "c": "她在图书馆一个安静的壁龛里读书。" }
       ] },
       { "w": "alcovinometer", "p": "/alcovinometer/", "pos": "n", "m": "alcovinometer", "cefr": "X",       "ex": [
-        { "e": "The winemaker used an alcovinometer to check the fermentation.", "c": "El enólogo usó un alcohivinómetro para revisar la fermentación." },
-        { "e": "An alcovinometer is essential for precise alcohol measurement.", "c": "Un alcohivinómetro es esencial para la medición precisa del alcohol." }
+        { "e": "The winemaker used an alcovinometer to check the alcohol content.", "c": "酿酒师用酒精比重计检查酒精含量。" },
+        { "e": "An alcovinometer is essential for precise fermentation control.", "c": "酒精比重计对于精确控制发酵至关重要。" }
       ] },
       { "w": "alcuinian", "p": "/alcuinian/", "pos": "n", "m": "alcuinian", "cefr": "X",       "ex": [
-        { "e": "The scholar studied Alcuinian manuscripts from the medieval era.", "c": "El erudito estudió manuscritos alcuinianos de la era medieval." },
-        { "e": "Alcuinian texts influenced early European education.", "c": "Los textos alcuinianos influyeron en la educación europea temprana." }
+        { "e": "The scholar specialized in Alcuinian manuscripts from the 8th century.", "c": "这位学者专攻8世纪的阿尔昆手稿。" },
+        { "e": "Alcuinian texts influenced medieval education systems.", "c": "阿尔昆的文本影响了中世纪的教育体系。" }
       ] },
       { "w": "alcyonacea", "p": "/alcyonacea/", "pos": "n", "m": "alcyonacea", "cefr": "X",       "ex": [
-        { "e": "Alcyonacea includes many soft coral species.", "c": "Alcionácea incluye muchas especies de coral blando." },
-        { "e": "Divers often admire the alcyonacea in tropical reefs.", "c": "Los buzos a menudo admiran las alcionáceas en los arrecifes tropicales." }
+        { "e": "Alcyonacea includes many species of soft corals.", "c": "软珊瑚目包括许多种软珊瑚。" },
+        { "e": "Divers observed vibrant alcyonacea on the reef.", "c": "潜水员在礁石上观察到色彩鲜艳的软珊瑚。" }
       ] },
       { "w": "alcyonacean", "p": "/alcyonacean/", "pos": "n", "m": "alcyonacean", "cefr": "X",       "ex": [
-        { "e": "The alcyonacean coral swayed gently in the current.", "c": "El coral alcionáceo se mecía suavemente en la corriente." },
-        { "e": "Alcyonacean colonies provide habitats for small fish.", "c": "Las colonias alcionáceas proporcionan hábitats para peces pequeños." }
+        { "e": "An alcyonacean polyp extends its tentacles to feed.", "c": "软珊瑚目的水螅体伸出触手觅食。" },
+        { "e": "The alcyonacean colony swayed gently in the current.", "c": "软珊瑚目的群体在水流中轻轻摇曳。" }
       ] },
       { "w": "alcyonaria", "p": "/alcyonaria/", "pos": "n", "m": "alcyonaria", "cefr": "X",       "ex": [
         { "e": "Soft corals like alcyonaria are common in tropical reefs.", "c": "軟珊瑚如海雞頭在熱帶礁石中很常見。" },
         { "e": "The diver photographed a colorful alcyonaria colony.", "c": "潛水員拍攝了一個色彩繽紛的軟珊瑚群落。" }
       ] },
       { "w": "alcyonarian", "p": "/alcyonarian/", "pos": "n", "m": "alcyonarian", "cefr": "X",       "ex": [
-        { "e": "An alcyonarian is a type of soft coral.", "c": "Un alcionario es un tipo de coral blando." },
-        { "e": "The alcyonarian polyps are often colorful.", "c": "Los pólipos alcionarios suelen ser coloridos." }
+        { "e": "The alcyonarian coral is also known as a soft coral.", "c": "海鸡冠珊瑚也被称为软珊瑚。" },
+        { "e": "Colorful alcyonarians thrive in tropical waters.", "c": "色彩斑斓的海鸡冠珊瑚在热带水域繁盛。" }
       ] },
       { "w": "alcyone", "p": "/alcyone/", "pos": "n", "m": "alcyone", "cefr": "X", "ex": [{ "e": "Alcyone is the brightest star in the Pleiades cluster.", "c": "Alcyone是昴宿星团中最亮的恒星。" }, { "e": "In Greek myth, Alcyone was transformed into a kingfisher.", "c": "在希腊神话中，Alcyone被变成了翠鸟。" }] },
       { "w": "alcyones", "p": "/alcyones/", "pos": "n", "m": "alcyones", "cefr": "X",       "ex": [
-        { "e": "The alcyones were mythical birds in Greek stories.", "c": "Las alcíones eran aves míticas en las historias griegas." },
-        { "e": "Sailors believed alcyones calmed the sea.", "c": "Los marineros creían que las alcíones calmaban el mar." }
+        { "e": "The ancient Greeks believed the alcyones calmed the sea.", "c": "古希腊人相信翠鸟能平息海浪。" },
+        { "e": "Alcyones are often associated with peaceful weather.", "c": "翠鸟常与平静的天气相关联。" }
       ] },
       { "w": "alcyoniaceae", "p": "/alcyoniaceae/", "pos": "n", "m": "alcyoniaceae", "cefr": "X",       "ex": [
-        { "e": "Alcyoniaceae is a family of soft corals.", "c": "Alcyoniaceae es una familia de corales blandos." },
-        { "e": "Scientists study alcyoniaceae for their unique structures.", "c": "Los científicos estudian alcyoniaceae por sus estructuras únicas." }
+        { "e": "Alcyoniaceae is a family of soft corals found in oceans.", "c": "海鸡冠科是海洋中发现的一个软珊瑚科。" },
+        { "e": "Scientists study alcyoniaceae for their unique chemical compounds.", "c": "科学家研究海鸡冠科以获取其独特的化合物。" }
       ] }
     ]
   },
@@ -4656,7 +4656,10 @@ export const ieltsVocabulary = [
     "stage": 2,
     "cefr": "X",
     "words": [
-      { "w": "alcyonic", "p": "/alcyonic/", "pos": "n", "m": "alcyonic", "cefr": "X", "ex": [{ "e": "The alcyonic waters were calm and blue.", "c": "那宁静的海水湛蓝而平静。" }, { "e": "She stared at the alcyonic horizon during sunset.", "c": "她凝视着日落时宁静的地平线。" }] },
+      { "w": "alcyonic", "p": "/alcyonic/", "pos": "n", "m": "alcyonic", "cefr": "X", "ex": [
+        { "e": "The diver marveled at the alcyonic beauty of the coral reef.", "c": "潜水员惊叹于珊瑚礁的海鸡冠之美。" },
+        { "e": "Alcyonic structures provide habitats for marine life.", "c": "海鸡冠状结构为海洋生物提供了栖息地。" }
+      ] },
       { "w": "alcyoniform", "p": "/alcyoniform/", "pos": "n", "m": "alcyoniform", "cefr": "X",       "ex": [
         { "e": "The coral had an alcyoniform shape, soft and branching.", "c": "这块珊瑚呈软柳珊瑚状，柔软且多分枝。" },
         { "e": "Scientists studied the alcyoniform structure under the microscope.", "c": "科学家在显微镜下研究了软柳珊瑚状结构。" }
@@ -4666,63 +4669,63 @@ export const ieltsVocabulary = [
         { "e": "The alcyonium colony swayed gently with the current.", "c": "那簇软珊瑚随着水流轻轻摇摆。" }
       ] },
       { "w": "alcyonoid", "p": "/alcyonoid/", "pos": "n", "m": "alcyonoid", "cefr": "X",       "ex": [
-        { "e": "The alcyonoid coral resembled a branching tree.", "c": "El coral alcionoide se parecía a un árbol ramificado." },
-        { "e": "Alcyonoid species are found in deep waters.", "c": "Las especies alcionoides se encuentran en aguas profundas." }
+        { "e": "The alcyonoid coral swayed gently in the ocean current.", "c": "那软珊瑚在海流中轻轻摇曳。" },
+        { "e": "Marine biologists studied the alcyonoid species for its unique symbiotic algae.", "c": "海洋生物学家研究了这种软珊瑚物种，因其独特的共生藻类。" }
       ] },
       { "w": "aldamin", "p": "/aldamin/", "pos": "n", "m": "aldamin", "cefr": "X",       "ex": [
         { "e": "The aldamin was found in the plant extract.", "c": "这种醛胺在植物提取物中被发现。" },
         { "e": "Scientists studied the aldamin's chemical properties.", "c": "科学家研究了这种醛胺的化学性质。" }
       ] },
       { "w": "aldamine", "p": "/aldamine/", "pos": "n", "m": "aldamine", "cefr": "X",       "ex": [
-        { "e": "The chemist synthesized a new aldamine compound.", "c": "El químico sintetizó un nuevo compuesto de aldamina." },
-        { "e": "Aldamine derivatives are used in some drugs.", "c": "Los derivados de aldamina se usan en algunos medicamentos." }
+        { "e": "The chemist synthesized a new aldamine compound for the reaction.", "c": "化学家合成了一种新的醛胺化合物用于反应。" },
+        { "e": "Aldamine derivatives are often used in organic synthesis.", "c": "醛胺衍生物常用于有机合成。" }
       ] },
       { "w": "aldazin", "p": "/aldazin/", "pos": "n", "m": "aldazin", "cefr": "X",       "ex": [
-        { "e": "Aldazin is an intermediate in organic reactions.", "c": "La aldacina es un intermediario en reacciones orgánicas." },
-        { "e": "The lab produced aldazin for further testing.", "c": "El laboratorio produjo aldacina para más pruebas." }
+        { "e": "The laboratory isolated an aldazin byproduct during the experiment.", "c": "实验室在实验中分离出了一种醛嗪副产物。" },
+        { "e": "Aldazin structures are studied for their potential pharmaceutical properties.", "c": "醛嗪结构因其潜在的药用特性而被研究。" }
       ] },
       { "w": "aldazine", "p": "/aldazine/", "pos": "n", "m": "aldazine", "cefr": "X", "ex": [{ "e": "The chemist synthesized a new aldazine compound.", "c": "化学家合成了一种新的醛连氮化合物。" }, { "e": "Aldazine derivatives are studied for their optical properties.", "c": "醛连氮衍生物因其光学性质而被研究。" }] },
       { "w": "aldeament", "p": "/aldeament/", "pos": "n", "m": "aldeament", "cefr": "X",       "ex": [
-        { "e": "The aldeament of the plan took many hours.", "c": "La deliberación del plan tomó muchas horas." },
-        { "e": "They reached an aldeament after long discussion.", "c": "Llegaron a un acuerdo tras larga discusión." }
+        { "e": "The ancient text mentioned an aldeament as a mystical substance.", "c": "古代文献中提到了一种名为醛精的神秘物质。" },
+        { "e": "No modern science has confirmed the existence of aldeament.", "c": "现代科学尚未证实醛精的存在。" }
       ] },
       { "w": "aldebaran", "p": "/aldebaran/", "pos": "n", "m": "aldebaran", "cefr": "X",       "ex": [
-        { "e": "Aldebaran is the brightest star in Taurus.", "c": "Aldebarán es la estrella más brillante en Tauro." },
-        { "e": "We saw Aldebaran rising in the eastern sky.", "c": "Vimos a Aldebarán elevarse en el cielo oriental." }
+        { "e": "Aldebaran is one of the brightest stars in the night sky.", "c": "毕宿五是夜空中最亮的恒星之一。" },
+        { "e": "Astronomers used a telescope to observe Aldebaran's red hue.", "c": "天文学家使用望远镜观测毕宿五的红色色调。" }
       ] },
       { "w": "aldebaranium", "p": "/aldebaranium/", "pos": "n", "m": "aldebaranium", "cefr": "X", "ex": [{ "e": "Aldebaranium is a hypothetical element.", "c": "Aldebaranium是一种假想元素。" }, { "e": "Scientists once searched for aldebaranium in stars.", "c": "科学家曾在天体中寻找Aldebaranium。" }] },
       { "w": "aldehol", "p": "/aldehol/", "pos": "n", "m": "aldehol", "cefr": "X",       "ex": [
-        { "e": "Aldehol is a term for certain organic compounds.", "c": "Aldehólico es un término para ciertos compuestos orgánicos." },
-        { "e": "The reaction produced a small amount of aldehol.", "c": "La reacción produjo una pequeña cantidad de aldehólico." }
+        { "e": "The industrial solvent contained a high concentration of aldehol.", "c": "这种工业溶剂含有高浓度的醛醇。" },
+        { "e": "Exposure to aldehol fumes can cause respiratory irritation.", "c": "接触醛醇蒸气可能引起呼吸道刺激。" }
       ] },
       { "w": "aldehydase", "p": "/aldehydase/", "pos": "n", "m": "aldehydase", "cefr": "X",       "ex": [
-        { "e": "Aldehydase helps break down aldehydes in the body.", "c": "La aldehídasa ayuda a descomponer aldehídos en el cuerpo." },
-        { "e": "The enzyme aldehydase is found in liver cells.", "c": "La enzima aldehídasa se encuentra en las células hepáticas." }
+        { "e": "The enzyme aldehydase catalyzes the oxidation of aldehydes.", "c": "醛脱氢酶催化醛类的氧化反应。" },
+        { "e": "Researchers purified aldehydase from yeast cells for the study.", "c": "研究人员从酵母细胞中纯化了醛脱氢酶用于研究。" }
       ] },
       { "w": "aldehyde", "p": "/aldehyde/", "pos": "n", "m": "aldehyde", "cefr": "X",       "ex": [
         { "e": "The lab detected a strong aldehyde odor.", "c": "实验室检测到强烈的醛气味。" },
         { "e": "Aldehyde is used in some perfumes.", "c": "醛被用于某些香水中。" }
       ] },
       { "w": "aldehydes", "p": "/aldehydes/", "pos": "n", "m": "aldehydes", "cefr": "X",       "ex": [
-        { "e": "Aldehydes have a characteristic carbonyl group.", "c": "Los aldehídos tienen un grupo carbonilo característico." },
-        { "e": "Many perfumes contain natural aldehydes.", "c": "Muchos perfumes contienen aldehídos naturales." }
+        { "e": "Many fruits contain natural aldehydes that give them their aroma.", "c": "许多水果含有天然醛类，赋予它们香气。" },
+        { "e": "Formaldehyde is one of the simplest aldehydes used in preservation.", "c": "甲醛是用于防腐的最简单醛类之一。" }
       ] },
       { "w": "aldehydic", "p": "/aldehydic/", "pos": "n", "m": "aldehydic", "cefr": "X",       "ex": [
-        { "e": "The wine had an aldehydic aroma after oxidation.", "c": "El vino tenía un aroma aldehídico tras la oxidación." },
-        { "e": "Aldehydic compounds can be detected by smell.", "c": "Los compuestos aldehídicos se pueden detectar por el olfato." }
+        { "e": "The perfume had a sharp, aldehydic top note.", "c": "这款香水有一种尖锐的醛香前调。" },
+        { "e": "Aldehydic compounds are common in flavor chemistry.", "c": "醛类化合物在风味化学中很常见。" }
       ] },
       { "w": "aldehydine", "p": "/aldehydine/", "pos": "n", "m": "aldehydine", "cefr": "X",       "ex": [
-        { "e": "Aldehydine is a base formed from aldehydes.", "c": "La aldehidina es una base formada a partir de aldehídos." },
-        { "e": "The researcher studied aldehydine's chemical properties.", "c": "El investigador estudió las propiedades químicas de la aldehidina." }
+        { "e": "The reaction produced a yellow aldehydine precipitate.", "c": "反应产生了一种黄色的醛啶沉淀物。" },
+        { "e": "Aldehydine is an intermediate in the synthesis of certain dyes.", "c": "醛啶是某些染料合成中的中间体。" }
       ] },
       { "w": "aldehydrol", "p": "/aldehydrol/", "pos": "n", "m": "aldehydrol", "cefr": "X", "ex": [{ "e": "The compound contains a trace of aldehydrol.", "c": "该化合物含有微量醛醇。" }, { "e": "Aldehydrol is used in some industrial solvents.", "c": "醛醇用于某些工业溶剂中。" }] },
       { "w": "alderamin", "p": "/alderamin/", "pos": "n", "m": "alderamin", "cefr": "X",       "ex": [
-        { "e": "Alderamin is a star in the constellation Cepheus.", "c": "Alderamín es una estrella en la constelación de Cefeo." },
-        { "e": "Alderamin appears near the north celestial pole.", "c": "Alderamín aparece cerca del polo norte celeste." }
+        { "e": "The constellation features the star Alderamin near its center.", "c": "这个星座的中心附近有星宿增一这颗恒星。" },
+        { "e": "Alderamin is visible in the northern sky during summer.", "c": "夏季时，星宿增一在北方的天空中可见。" }
       ] },
       { "w": "alderflies", "p": "/alderflies/", "pos": "n", "m": "alderflies", "cefr": "X",       "ex": [
-        { "e": "Alderflies lay eggs on leaves near water.", "c": "Las moscas de aliso ponen huevos en hojas cerca del agua." },
-        { "e": "Alderflies are common in streams and ponds.", "c": "Las moscas de aliso son comunes en arroyos y estanques." }
+        { "e": "Alderflies are often found near streams and ponds.", "c": "泥蛉常见于溪流和池塘附近。" },
+        { "e": "The larvae of alderflies are aquatic and predatory.", "c": "泥蛉的幼虫是水生且捕食性的。" }
       ] }
     ]
   },
@@ -4738,32 +4741,32 @@ export const ieltsVocabulary = [
         { "e": "She called her grandmother her alderliefest friend.", "c": "她称祖母为自己最亲爱的朋友。" }
       ] },
       { "w": "alderling", "p": "/alderling/", "pos": "n", "m": "alderling", "cefr": "X",       "ex": [
-        { "e": "The alderling was a young tree in the forest.", "c": "El aliso joven era un árbol pequeño en el bosque." },
-        { "e": "Alderlings grow quickly in damp soil.", "c": "Los alisos jóvenes crecen rápido en suelo húmedo." }
+        { "e": "The alderling sapling grew quickly along the riverbank.", "c": "那棵小赤杨树苗在河岸边长势很快。" },
+        { "e": "Birds nested in the branches of the young alderling.", "c": "鸟儿在那棵幼小的赤杨树枝上筑巢。" }
       ] },
       { "w": "alderman", "p": "/alderman/", "pos": "n", "m": "alderman", "cefr": "X",       "ex": [
-        { "e": "The alderman proposed a new park for the city.", "c": "El concejal propuso un nuevo parque para la ciudad." },
-        { "e": "She was elected alderman of her district.", "c": "Ella fue elegida concejal de su distrito." }
+        { "e": "The alderman proposed a new law to improve public transportation.", "c": "市议员提出了一项改善公共交通的新法律。" },
+        { "e": "Citizens voted for their alderman in the local election.", "c": "市民在地方选举中投票选举他们的市议员。" }
       ] },
       { "w": "aldermanate", "p": "/aldermanate/", "pos": "n", "m": "aldermanate", "cefr": "X",       "ex": [
-        { "e": "The aldermanate met to discuss local taxes.", "c": "El concejo municipal se reunió para discutir impuestos locales." },
-        { "e": "His aldermanate lasted for three terms.", "c": "Su concejalía duró tres mandatos." }
+        { "e": "He served a four-year aldermanate with great dedication.", "c": "他以极大的奉献精神担任了四年的市议员职务。" },
+        { "e": "The aldermanate oversees city council meetings and budgets.", "c": "市议员职务负责监督市议会会议和预算。" }
       ] },
       { "w": "aldermancy", "p": "/aldermancy/", "pos": "n", "m": "aldermancy", "cefr": "X",       "ex": [
-        { "e": "The aldermancy of the town is held by five officials.", "c": "La concejalía del pueblo está a cargo de cinco funcionarios." },
-        { "e": "Aldermancy requires knowledge of local laws.", "c": "La concejalía requiere conocimiento de las leyes locales." }
+        { "e": "The ancient system of aldermancy governed the town's affairs.", "c": "古老的市议员制度管理着该镇的事务。" },
+        { "e": "Aldermancy was a respected office in medieval England.", "c": "市议员职位在中世纪英格兰是一个受人尊敬的职务。" }
       ] },
       { "w": "aldermaness", "p": "/aldermaness/", "pos": "n", "m": "aldermaness", "cefr": "X",       "ex": [
-        { "e": "The aldermaness spoke at the community meeting.", "c": "La concejala habló en la reunión comunitaria." },
-        { "e": "An aldermaness often handles neighborhood issues.", "c": "Una concejala a menudo maneja problemas del vecindario." }
+        { "e": "The aldermaness addressed the crowd with a firm voice.", "c": "那位女市议员用坚定的声音向人群讲话。" },
+        { "e": "She was the first aldermaness elected in the district.", "c": "她是该地区当选的第一位女市议员。" }
       ] },
       { "w": "aldermanic", "p": "/aldermanic/", "pos": "n", "m": "aldermanic", "cefr": "X",       "ex": [
-        { "e": "He held an aldermanic position for many years.", "c": "Él ocupó un cargo de concejal por muchos años." },
-        { "e": "The aldermanic duties include overseeing budgets.", "c": "Los deberes concejales incluyen supervisar presupuestos." }
+        { "e": "The aldermanic committee met to discuss the zoning changes.", "c": "市议员委员会开会讨论分区变更。" },
+        { "e": "His aldermanic duties included reviewing city ordinances.", "c": "他的市议员职责包括审查城市法令。" }
       ] },
       { "w": "aldermanical", "p": "/aldermanical/", "pos": "n", "m": "aldermanical", "cefr": "X",       "ex": [
-        { "e": "The aldermanical tradition dates back centuries.", "c": "La tradición concejil se remonta a siglos atrás." },
-        { "e": "Aldermanical decisions affect the entire ward.", "c": "Las decisiones concejiles afectan a todo el distrito." }
+        { "e": "His aldermanical authority extended over several wards.", "c": "他的市议员权力覆盖了几个选区。" },
+        { "e": "The aldermanical system required annual elections.", "c": "市议员制度要求每年选举。" }
       ] },
       { "w": "aldermanity", "p": "/aldermanity/", "pos": "n", "m": "aldermanity", "cefr": "X",       "ex": [
         { "e": "The aldermanity met to discuss the new park.", "c": "市议员团开会讨论新公园的事。" },
@@ -4775,8 +4778,8 @@ export const ieltsVocabulary = [
         { "e": "She spoke with an aldermanly authority.", "c": "她以市议员般的权威发言。" }
       ] },
       { "w": "aldermanries", "p": "/aldermanries/", "pos": "n", "m": "aldermanries", "cefr": "X",       "ex": [
-        { "e": "The aldermanries were divided into smaller districts.", "c": "Las concejalías se dividieron en distritos más pequeños." },
-        { "e": "Each of the aldermanries had its own council.", "c": "Cada una de las concejalías tenía su propio consejo." }
+        { "e": "The city was divided into several aldermanries for representation.", "c": "该市被划分为几个市议员辖区以进行代表选举。" },
+        { "e": "Each of the aldermanries sent a delegate to the council.", "c": "每个市议员辖区都派了一名代表参加议会。" }
       ] },
       { "w": "aldermanry", "p": "/aldermanry/", "pos": "n", "m": "aldermanry", "cefr": "X",       "ex": [
         { "e": "The aldermanry voted on the new park proposal.", "c": "市议员选区对新公园提案进行了投票。" },
@@ -4787,14 +4790,17 @@ export const ieltsVocabulary = [
         { "e": "His aldermanship began with a focus on local education.", "c": "他的市议员任期以关注本地教育开始。" }
       ] },
       { "w": "aldermen", "p": "/aldermen/", "pos": "n", "m": "aldermen", "cefr": "X",       "ex": [
-        { "e": "The aldermen gathered to discuss the budget cuts.", "c": "市议员们聚集讨论预算削减。" },
-        { "e": "Two aldermen opposed the new zoning law.", "c": "两位市议员反对新的分区法。" }
+        { "e": "The aldermen voted on the new city ordinance.", "c": "市议员们对新市政条例进行了投票。" },
+        { "e": "Two aldermen opposed the proposed budget cuts.", "c": "两位市议员反对拟议的预算削减。" }
       ] },
       { "w": "alderney", "p": "/alderney/", "pos": "n", "m": "alderney", "cefr": "X",       "ex": [
         { "e": "The Alderney cow produces rich milk.", "c": "奥尔德尼奶牛产奶丰富。" },
         { "e": "I visited Alderney island last summer.", "c": "我去年夏天去了奥尔德尼岛。" }
       ] },
-      { "w": "alderwoman", "p": "/alderwoman/", "pos": "n", "m": "alderwoman", "cefr": "X", "ex": [{ "e": "The alderwoman proposed a new park plan.", "c": "这位女市议员提出了一项新的公园计划。" }, { "e": "Our alderwoman listens to community concerns.", "c": "我们的女市议员倾听社区的关切。" }] },
+      { "w": "alderwoman", "p": "/alderwoman/", "pos": "n", "m": "alderwoman", "cefr": "X", "ex": [
+        { "e": "The alderwoman proposed a new recycling program.", "c": "女市议员提出了一项新的回收计划。" },
+        { "e": "Our alderwoman represents the downtown district.", "c": "我们的女市议员代表市中心区。" }
+      ] },
       { "w": "alderwomen", "p": "/alderwomen/", "pos": "n", "m": "alderwomen", "cefr": "X",       "ex": [
         { "e": "The alderwomen proposed a new recycling initiative.", "c": "女市议员们提出了一项新的回收计划。" },
         { "e": "Three alderwomen attended the community meeting.", "c": "三位女市议员参加了社区会议。" }
@@ -4862,8 +4868,8 @@ export const ieltsVocabulary = [
         { "e": "This rare aldononose was isolated from bacteria.", "c": "この珍しいアルドノノースは細菌から単離された。" }
       ] },
       { "w": "aldopentose", "p": "/aldopentose/", "pos": "n", "m": "aldopentose", "cefr": "X",       "ex": [
-        { "e": "Ribose is an important aldopentose.", "c": "リボースは重要なアルドペントースである。" },
-        { "e": "The aldopentose structure was confirmed by NMR.", "c": "アルドペントースの構造はNMRで確認された。" }
+        { "e": "Ribose is an example of an aldopentose sugar.", "c": "核糖是一种醛戊糖的例子。" },
+        { "e": "Aldopentoses are important in nucleic acid structures.", "c": "醛戊糖在核酸结构中很重要。" }
       ] },
       { "w": "aldoses", "p": "/aldoses/", "pos": "n", "m": "aldoses", "cefr": "X",       "ex": [
         { "e": "Aldoses are a class of monosaccharides.", "c": "アルドースは単糖類の一種である。" },
@@ -4873,10 +4879,13 @@ export const ieltsVocabulary = [
         { "e": "The aldoside was hydrolyzed to release glucose.", "c": "アルドシドは加水分解されてグルコースを放出した。" },
         { "e": "This aldoside is a natural product.", "c": "このアルドシドは天然物である。" }
       ] },
-      { "w": "aldosterone", "p": "/aldosterone/", "pos": "n", "m": "aldosterone", "cefr": "X", "ex": [{ "e": "Aldosterone regulates salt and water balance in the body.", "c": "醛固酮调节体内盐和水的平衡。" }, { "e": "High aldosterone levels can cause high blood pressure.", "c": "高醛固酮水平可能导致高血压。" }] },
+      { "w": "aldosterone", "p": "/aldosterone/", "pos": "n", "m": "aldosterone", "cefr": "X", "ex": [
+        { "e": "Aldosterone regulates sodium and potassium levels in the body.", "c": "醛固酮调节体内的钠和钾水平。" },
+        { "e": "High aldosterone can cause hypertension.", "c": "高水平的醛固酮可能导致高血压。" }
+      ] },
       { "w": "aldosteronism", "p": "/aldosteronism/", "pos": "n", "m": "aldosteronism", "cefr": "X",       "ex": [
-        { "e": "The doctor diagnosed him with aldosteronism.", "c": "医生诊断他患有醛固酮增多症。" },
-        { "e": "Aldosteronism can cause high blood pressure.", "c": "醛固酮增多症可能导致高血压。" }
+        { "e": "The patient was diagnosed with primary aldosteronism.", "c": "该患者被诊断为原发性醛固酮增多症。" },
+        { "e": "Aldosteronism often leads to low potassium levels.", "c": "醛固酮增多症常导致低钾水平。" }
       ] },
       { "w": "aldoxime", "p": "/aldoxime/", "pos": "n", "m": "aldoxime", "cefr": "X",       "ex": [
         { "e": "Aldoxime is used in chemical synthesis.", "c": "醛肟用于化学合成。" },
@@ -4904,20 +4913,20 @@ export const ieltsVocabulary = [
         { "e": "Aleatory music involves chance elements.", "c": "偶然性の音楽には偶然の要素が含まれる。" }
       ] },
       { "w": "alebench", "p": "/alebench/", "pos": "n", "m": "alebench", "cefr": "X",       "ex": [
-        { "e": "He sat on the alebench at the tavern.", "c": "彼は居酒屋のエールベンチに座った。" },
-        { "e": "The old alebench was worn smooth.", "c": "古いエールベンチはすり減って滑らかだった。" }
+        { "e": "The villagers gathered around the alebench at the tavern.", "c": "村民们聚集在酒馆的啤酒长凳旁。" },
+        { "e": "He sat on the alebench and ordered a pint.", "c": "他坐在啤酒长凳上，点了一品脱酒。" }
       ] },
       { "w": "aleberry", "p": "/aleberry/", "pos": "n", "m": "aleberry", "cefr": "X",       "ex": [
-        { "e": "She brewed a traditional aleberry drink.", "c": "彼女は伝統的なエールベリー飲料を醸造した。" },
-        { "e": "Aleberry was popular in medieval times.", "c": "エールベリーは中世に人気があった。" }
+        { "e": "The recipe called for a traditional aleberry drink.", "c": "食谱要求用传统的啤酒浆饮料。" },
+        { "e": "Aleberry was once a common winter beverage.", "c": "啤酒浆曾经是一种常见的冬季饮品。" }
       ] },
       { "w": "alebion", "p": "/alebion/", "pos": "n", "m": "alebion", "cefr": "X",       "ex": [
         { "e": "The old pub had a sign reading Alebion.", "c": "その古いパブには「エールビオン」と書かれた看板があった。" },
         { "e": "He ordered a pint at the Alebion.", "c": "彼はエールビオンでパイントを注文した。" }
       ] },
       { "w": "alebush", "p": "/alebush/", "pos": "n", "m": "alebush", "cefr": "X",       "ex": [
-        { "e": "The alebush hung above the door.", "c": "エールブッシュがドアの上に掛かっていた。" },
-        { "e": "They decorated with an alebush for the festival.", "c": "彼らは祭りのためにエールブッシュで飾り付けた。" }
+        { "e": "The innkeeper hung an alebush outside the door.", "c": "旅店老板在门外挂了一个啤酒灌木标志。" },
+        { "e": "An alebush signaled that fresh ale was available.", "c": "啤酒灌木标志表示有新鲜啤酒供应。" }
       ] },
       { "w": "alecithal", "p": "/alecithal/", "pos": "n", "m": "alecithal", "cefr": "X",       "ex": [
         { "e": "The egg is alecithal, with little yolk.", "c": "その卵は無卵黄で、卵黄がほとんどない。" },
@@ -4933,8 +4942,8 @@ export const ieltsVocabulary = [
         { "e": "A medieval aleconner ensured fair trade.", "c": "中世のエール検査官は公正な取引を確保した。" }
       ] },
       { "w": "alecost", "p": "/alecost/", "pos": "n", "m": "alecost", "cefr": "X",       "ex": [
-        { "e": "Alecost was used to flavor ale.", "c": "エールコストはエールの風味付けに使われた。" },
-        { "e": "She added alecost to the brewing pot.", "c": "彼女は醸造鍋にエールコストを加えた。" }
+        { "e": "Alecost was often used to flavor beer in medieval times.", "c": "中世纪时，艾菊常被用来给啤酒调味。" },
+        { "e": "The herb alecost has a minty aroma.", "c": "艾菊这种草本植物有薄荷香气。" }
       ] },
       { "w": "alectoria", "p": "/alectoria/", "pos": "n", "m": "alectoria", "cefr": "X",       "ex": [
         { "e": "The alectoria hung from the old tree branch.", "c": "一簇树发挂在老树枝上。" },
@@ -5009,8 +5018,8 @@ export const ieltsVocabulary = [
         { "e": "She used alegars to preserve the vegetables.", "c": "她用酸醋来保存蔬菜。" }
       ] },
       { "w": "alehoof", "p": "/alehoof/", "pos": "n", "m": "alehoof", "cefr": "X",       "ex": [
-        { "e": "Alehoof grows wild along the forest path.", "c": "林间小径旁野生着活血丹。" },
-        { "e": "Brewers once used alehoof to flavor their beer.", "c": "酿酒师曾用活血丹给啤酒调味。" }
+        { "e": "Alehoof, or ground ivy, was used in brewing.", "c": "活血丹，或称地藤，曾被用于酿造啤酒。" },
+        { "e": "The herbalist recommended alehoof for coughs.", "c": "草药师推荐活血丹用于治疗咳嗽。" }
       ] },
       { "w": "alehouse", "p": "/alehouse/", "pos": "n", "m": "alehouse", "cefr": "X",       "ex": [
         { "e": "We stopped at the old alehouse for a pint.", "c": "我们在一家老酒馆停下来喝了一杯。" },
@@ -5045,7 +5054,10 @@ export const ieltsVocabulary = [
     "stage": 2,
     "cefr": "X",
     "words": [
-      { "w": "aleknight", "p": "/aleknight/", "pos": "n", "m": "aleknight", "cefr": "X", "ex": [{ "e": "The aleknight was known for his bravery in battle.", "c": "这位啤酒骑士因在战斗中的勇敢而闻名。" }, { "e": "An aleknight always carries a tankard at festivals.", "c": "啤酒骑士在节日里总是带着一个大酒杯。" }] },
+      { "w": "aleknight", "p": "/aleknight/", "pos": "n", "m": "aleknight", "cefr": "X", "ex": [
+        { "e": "The aleknight entertained patrons with songs and stories.", "c": "啤酒骑士用歌曲和故事娱乐顾客。" },
+        { "e": "An aleknight was often a regular at the local pub.", "c": "啤酒骑士通常是当地酒吧的常客。" }
+      ] },
       { "w": "alemana", "p": "/alemana/", "pos": "n", "m": "alemana", "cefr": "X",       "ex": [
         { "e": "She sang an alemana song beautifully.", "c": "她优美地唱了一首阿勒曼娜歌曲。" },
         { "e": "The alemana dance was performed at the festival.", "c": "节日上表演了阿勒曼娜舞蹈。" }
@@ -5067,13 +5079,13 @@ export const ieltsVocabulary = [
         { "e": "He collected Alemannish folk songs for his research.", "c": "他为研究收集了阿勒曼尼民歌。" }
       ] },
       { "w": "alembic", "p": "/alembic/", "pos": "n", "m": "alembic", "cefr": "X",       "ex": [
-        { "e": "The chemist used an alembic to distill the liquid.", "c": "化学家用蒸馏器来蒸馏液体。" },
-        { "e": "An alembic sat on the shelf in the old apothecary.", "c": "老药房的架子上放着一个蒸馏器。" }
+        { "e": "The alchemist used an alembic for distillation.", "c": "炼金术士用蒸馏器进行蒸馏。" },
+        { "e": "An alembic consists of a flask and a condenser.", "c": "蒸馏器由烧瓶和冷凝器组成。" }
       ] },
       { "w": "alembicate", "p": "/alembicate/", "pos": "n", "m": "alembicate", "cefr": "X", "ex": [{ "e": "The chemist tried to alembicate the herbal essence.", "c": "化学家试图蒸馏草药精华。" }, { "e": "She learned how to alembicate liquids in the lab.", "c": "她在实验室里学会了如何蒸馏液体。" }] },
       { "w": "alembicated", "p": "/alembicated/", "pos": "n", "m": "alembicated", "cefr": "X",       "ex": [
-        { "e": "His alembicated speech was hard to follow.", "c": "他精雕细琢的讲话很难听懂。" },
-        { "e": "The alembicated style of the poem puzzled readers.", "c": "这首诗精雕细琢的风格让读者困惑。" }
+        { "e": "The alembicated writing style confused the readers.", "c": "这种过分精雕细琢的写作风格让读者困惑。" },
+        { "e": "His alembicated speech was hard to follow.", "c": "他过分雕琢的演讲难以理解。" }
       ] },
       { "w": "alembics", "p": "/alembics/", "pos": "n", "m": "alembics", "cefr": "X",       "ex": [
         { "e": "The laboratory had several alembics for different experiments.", "c": "实验室里有几个用于不同实验的蒸馏器。" },
@@ -5131,8 +5143,8 @@ export const ieltsVocabulary = [
         { "e": "He hung a lantern on the alepole outside.", "c": "他在外面的招牌杆上挂了一盏灯笼。" }
       ] },
       { "w": "aleppine", "p": "/aleppine/", "pos": "n", "m": "aleppine", "cefr": "X",       "ex": [
-        { "e": "The Aleppine soap is known for its olive oil base.", "c": "阿勒颇肥皂以其橄榄油基底而闻名。" },
-        { "e": "She bought an Aleppine carpet from the market.", "c": "她从市场买了一张阿勒颇地毯。" }
+        { "e": "The aleppine merchant brought spices from the East.", "c": "阿勒颇商人从东方带来了香料。" },
+        { "e": "Aleppine carpets are known for their intricate patterns.", "c": "阿勒颇地毯以其复杂的图案而闻名。" }
       ] },
       { "w": "alerion", "p": "/alerion/", "pos": "n", "m": "alerion", "cefr": "X",       "ex": [
         { "e": "The knight's shield bore a golden alerion.", "c": "骑士的盾牌上饰有一只金色的无喙鹰。" },
@@ -5169,8 +5181,8 @@ export const ieltsVocabulary = [
         { "e": "In medieval times, an aleshot could save a castle.", "c": "在中世纪，一支箭可以拯救一座城堡。" }
       ] },
       { "w": "alestake", "p": "/alestake/", "pos": "n", "m": "alestake", "cefr": "X",       "ex": [
-        { "e": "The innkeeper raised the alestake to signal fresh beer.", "c": "客栈老板挂起酒幌，表示有新鲜啤酒供应。" },
-        { "e": "In medieval times, an alestake was a common sight outside taverns.", "c": "中世纪时，酒幌是酒馆外常见的景象。" }
+        { "e": "The pub displayed an alestake to attract customers.", "c": "酒吧竖立一根啤酒杆以吸引顾客。" },
+        { "e": "An alestake was often decorated with greenery.", "c": "啤酒杆通常用绿叶装饰。" }
       ] },
       { "w": "aletaster", "p": "/aletaster/", "pos": "n", "m": "aletaster", "cefr": "X",       "ex": [
         { "e": "The aletaster carefully sampled the new ale.", "c": "品酒师仔细品尝了新麦芽酒。" },
@@ -5808,7 +5820,10 @@ export const ieltsVocabulary = [
     "stage": 2,
     "cefr": "X",
     "words": [
-      { "w": "algodon", "p": "/algodon/", "pos": "n", "m": "algodon", "cefr": "X", "ex": [{ "e": "Cotton is soft and comfortable.", "c": "El algodón es suave y cómodo." }, { "e": "She wore a dress made of cotton.", "c": "Ella llevaba un vestido de algodón. algodoncillo" }] },
+      { "w": "algodon", "p": "/algodon/", "pos": "n", "m": "algodon", "cefr": "X", "ex": [
+        { "e": "Algodon is a type of cotton grown in South America.", "c": "阿尔戈登棉是一种生长在南美洲的棉花。" },
+        { "e": "The fabric made from algodon is soft and durable.", "c": "用阿尔戈登棉制成的布料柔软且耐用。" }
+      ] },
       { "w": "algodoncillo", "p": "/algodoncillo/", "pos": "n", "m": "algodoncillo", "cefr": "X",       "ex": [
         { "e": "Algodoncillo is a type of milkweed plant.", "c": "马利筋是一种乳草植物。" },
         { "e": "The algodoncillo produces a milky sap.", "c": "马利筋产生乳白色的汁液。" }
@@ -10334,8 +10349,8 @@ export const ieltsVocabulary = [
         { "e": "An altigraph can provide a continuous record of altitude changes.", "c": "高度记录仪能持续记录高度变化。" }
       ] },
       { "w": "altilik", "p": "/altilik/", "pos": "n", "m": "altilik", "cefr": "X",       "ex": [
-        { "e": "The altilik system is used in some cultures.", "c": "Altilik sistemi bazı kültürlerde kullanılır." },
-        { "e": "He studied the altilik numbering method.", "c": "Altilik numaralandırma yöntemini inceledi. altiloquence" }
+        { "e": "The altilik coin was used in trade during the Ottoman era.", "c": "阿尔特利克硬币在奥斯曼帝国时期用于贸易。" },
+        { "e": "He collected an old altilik from a historical site.", "c": "他从一处历史遗址收集了一枚古老的阿尔特利克硬币。" }
       ] },
       { "w": "altiloquence", "p": "/altiloquence/", "pos": "n", "m": "altiloquence", "cefr": "X",       "ex": [
         { "e": "His altiloquence bored the audience.", "c": "他的高调言辞让观众感到无聊。" },
