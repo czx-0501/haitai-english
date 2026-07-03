@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import { MessageCircle, Heart, Share2, Plus, Users, Send, UserPlus, X, Search } from 'lucide-react';
 import { getPosts, toggleLike, createPost, getComments, addComment, searchUsers, sendFriendRequest, getFriends, deletePost } from '../supabase/social';
-import { signOut, getCurrentUser } from '../supabase/auth';
+import { getCurrentUser } from '../supabase/auth';
 import type { AuthUser } from '../supabase/auth';
 import type { Post } from '../supabase/social';
 
@@ -58,11 +58,6 @@ export default function Circle() {
     } else {
       await loadFeed('all', []);
     }
-  }
-
-  async function handleLogout() {
-    await signOut();
-    setUser(null);
   }
 
   async function handleLike(postId: string) {
@@ -155,7 +150,6 @@ export default function Circle() {
             </button>
             <div className="flex items-center gap-2">
               <span className="text-sm text-gray-500">{user.nickname}</span>
-              <button onClick={handleLogout} className="text-xs text-gray-400 hover:text-gray-600">退出</button>
             </div>
           </div>
         ) : (
