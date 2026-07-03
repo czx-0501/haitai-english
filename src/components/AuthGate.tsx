@@ -50,15 +50,18 @@ export default function AuthGate({ children }: { children: React.ReactNode }) {
   // Auto-create user_profiles on login/register
   useEffect(() => {
     if (session?.user) {
-      supabase.from('user_profiles').select('id').eq('id', session.user.id).maybeSingle().then(({ data }) => {
-        if (!data) {
-          supabase.from('user_profiles').insert({
-            id: session.user.id,
-            nickname: session.user.email?.split('@')[0] || '用户',
-            email: session.user.email
-          }).then(() => {});
-        }
-      }).catch(() => {});
+      (async () => {
+        try {
+          const { data } = await supabase.from('user_profiles').select('id').eq('id', session.user.id).maybeSingle();
+          if (!data) {
+            await supabase.from('user_profiles').insert({
+              id: session.user.id,
+              nickname: session.user.email?.split('@')[0] || '用户',
+              email: session.user.email
+            });
+          }
+        } catch {}
+      })();
     }
   }, [session]);
 
