@@ -213,16 +213,18 @@ export default function AIPage() {
       {/* Word Detail */}
       {selectedWord && (
         <div className="bg-white rounded-2xl p-4 shadow-sm border border-gray-100 mb-3">
-          <div className="flex items-center gap-2 mb-0.5">
-            <h3 className="text-lg font-bold text-gray-800">{selectedWord.w}</h3>
-            <span className="text-sm font-normal text-gray-400">{selectedWord.p}</span>
-            <button onClick={() => speak(selectedWord.w)} className="text-lg hover:scale-110 transition-transform ml-1">🔊</button>
+          <div className="flex items-center justify-between mb-0.5">
+            <div className="flex items-center gap-2">
+              <h3 className="text-lg font-bold text-gray-800">{selectedWord.w}</h3>
+              <span className="text-sm font-normal text-gray-400">{selectedWord.p}</span>
+            </div>
+            <button onClick={() => speak(selectedWord.w)} className="text-lg hover:scale-110 transition-transform">🔊</button>
           </div>
           <p className="text-sm text-[var(--primary)] mb-3">{selectedWord.m}</p>
           {selectedWord.ex?.map((ex: any, i: number) => (
             <div key={i} className="mb-2 p-2.5 bg-gray-50 rounded-lg group">
-              <div className="flex items-start gap-2">
-                <p className="text-sm text-gray-700 flex-1">{ex.e}</p>
+              <div className="flex items-start justify-between gap-4">
+                <p className="text-sm text-gray-700">{ex.e}</p>
                 <button onClick={() => speak(ex.e)} className="text-sm hover:scale-110 transition-transform opacity-0 group-hover:opacity-100 flex-shrink-0 mt-0.5">🔊</button>
               </div>
               <p className="text-xs text-gray-400 mt-0.5">{ex.c}</p>
