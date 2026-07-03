@@ -171,7 +171,7 @@ export async function acceptFriendRequest(requestId: string, senderId: string) {
 }
 
 export async function rejectFriendRequest(requestId: string) {
- await supabase.from('friend_requests').delete().eq('id', requestId);
+  await supabase.rpc('delete_friend_request', { req_id: requestId });
 }
 
 export async function getSentFriendRequests() {
