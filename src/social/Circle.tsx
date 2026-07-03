@@ -31,6 +31,16 @@ export default function Circle() {
   async function loadUser() {
     const u = await getCurrentUser();
     setUser(u);
+    if (u?.id) {
+      const { data: existing } = await supabase.from('user_profiles').select('id').eq('id', u.id).maybeSingle();
+      if (!existing) {
+        await supabase.from('user_profiles').insert({
+          id: u.id,
+          nickname: u.email?.split('@')[0] || '用户',
+          email: u.email
+        });
+      }
+    }
   }
 
   async function loadFeed(mode: string, ids: string[]) {

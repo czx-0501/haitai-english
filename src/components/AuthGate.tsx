@@ -45,6 +45,21 @@ export default function AuthGate({ children }: { children: React.ReactNode }) {
     if (session) {
       setTimeout(() => window.dispatchEvent(new Event('resize')), 50);
     }
+    }, [session]);
+
+  // Auto-create user_profiles on login/register
+  useEffect(() => {
+    if (session?.user) {
+      supabase.from('user_profiles').select('id').eq('id', session.user.id).maybeSingle().then(({ data }) => {
+        if (!data) {
+          supabase.from('user_profiles').insert({
+            id: session.user.id,
+            nickname: session.user.email?.split('@')[0] || '用户',
+            email: session.user.email
+          }).then(() => {});
+        }
+      }).catch(() => {});
+    }
   }, [session]);
 
   async function handleAuth(e: React.FormEvent) {
