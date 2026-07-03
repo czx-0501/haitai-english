@@ -147,6 +147,32 @@ export async function getFriends() {
   return data || [];
 }
 
+export async function getIncomingFriendRequests() {
+  const { data: { user } } = await supabase.auth.getUser();
+  if (!user) return [];
+  const { data } = await supabase
+    .from('friend_requests')
+    .select('*, sender:sender_id (id, nickname, avatar_url)')
+    .eq('receiver_id', user.id);
+  return data || [];
+}
+
+export async function acceptFriendRequest(requestId: string, senderId: string) {
+  const { data: { user } } = await supabase.auth.getUser();
+  if (!user) return { error: 'Not logged in' };
+
+  await supabase.from('friends').insert([
+    { user_id: user.id, friend_id: senderId },
+    { user_id: senderId, friend_id: user.id }
+  ]);
+  await supabase.from('friend_requests').delete().eq('id', requestId);
+  return { error: null };
+}
+
+export async function rejectFriendRequest(requestId: string) {
+  await supabase.from('friend_requests').delete().eq('id', requestId);
+}
+
 // === 打卡分享 ===
 export async function shareStudyResult(wordsLearned: number, correctRate: number, day: number) {
   const content = `📚 海苔英语 Day ${day} 打卡\n学习了 ${wordsLearned} 个单词\n正确率 ${correctRate}%\n#海苔英语 #每日打卡`;

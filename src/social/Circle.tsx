@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { MessageCircle, Heart, Share2, Plus, Users, Send, UserPlus, X, Search } from 'lucide-react';
-import { getPosts, toggleLike, createPost, getComments, addComment, searchUsers, sendFriendRequest, getFriends, deletePost } from '../supabase/social';
+import { getPosts, toggleLike, createPost, getComments, addComment, searchUsers, sendFriendRequest, getFriends, deletePost, getIncomingFriendRequests, acceptFriendRequest, rejectFriendRequest } from '../supabase/social';
 import { getCurrentUser } from '../supabase/auth';
 import type { AuthUser } from '../supabase/auth';
 import type { Post } from '../supabase/social';
@@ -13,6 +13,7 @@ export default function Circle() {
   const [comments, setComments] = useState<Record<string, any[]>>({});
   const [commentText, setCommentText] = useState('');
   const [showFriends, setShowFriends] = useState(false);
+  const [incomingRequests, setIncomingRequests] = useState<any[]>([]);
   const [friends, setFriends] = useState<any[]>([]);
   const [friendSearch, setFriendSearch] = useState('');
   const [searchResults, setSearchResults] = useState<any[]>([]);
@@ -22,6 +23,7 @@ export default function Circle() {
   const [friendIds, setFriendIds] = useState<string[]>([]);
 
   useEffect(() => { loadUser(); loadPosts(); }, []);
+  useEffect(() => { if (user) loadIncomingRequests(); }, [user]);
 
   async function loadUser() {
     const u = await getCurrentUser();
@@ -138,6 +140,23 @@ export default function Circle() {
     setSearchResults(prev => prev.map(u => u.id === userId ? { ...u, sent: true } : u));
   }
 
+  async function loadIncomingRequests() {
+    const data = await getIncomingFriendRequests();
+    setIncomingRequests(data);
+  }
+
+  async function handleAcceptRequest(requestId: string, senderId: string) {
+    await acceptFriendRequest(requestId, senderId);
+    await loadIncomingRequests();
+    const data = await getFriends();
+    setFriends(data);
+  }
+
+  async function handleRejectRequest(requestId: string) {
+    await rejectFriendRequest(requestId);
+    await loadIncomingRequests();
+  }
+
   return (
     <div className="pb-4">
       {/* Header */}
@@ -214,7 +233,30 @@ export default function Circle() {
             )}
 
             {/* Friends list */}
-            <p className="text-xs text-gray-400 mb-2">我的好友 ({friends.length})</p>
+                        {/* Incoming Friend Requests */}
+            {incomingRequests.length > 0 && (
+              <div className="mb-4 border border-yellow-100 rounded-xl p-3 bg-yellow-50">
+                <p className="text-xs text-gray-500 mb-2">🟡 好友请求</p>
+                {incomingRequests.map(req => (
+                  <div key={req.id} className="flex items-center justify-between py-2">
+                    <div className="flex items-center gap-2">
+                      <div className="w-7 h-7 rounded-full bg-purple-50 flex items-center justify-center text-xs font-medium text-purple-500">
+                        {req.sender?.nickname?.[0] || '?'}
+                      </div>
+                      <span className="text-sm">{req.sender?.nickname || '用户'}</span>
+                    </div>
+                    <div className="flex gap-2">
+                      <button onClick={() => handleAcceptRequest(req.id, req.sender_id)}
+                        className="text-xs px-3 py-1 rounded-xl bg-green-500 text-white hover:bg-green-600">✓ 接受</button>
+                      <button onClick={() => handleRejectRequest(req.id)}
+                        className="text-xs px-3 py-1 rounded-xl bg-gray-200 text-gray-500 hover:bg-gray-300">✕</button>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            )}
+
+<p className="text-xs text-gray-400 mb-2">我的好友 ({friends.length})</p>
             {friends.length === 0 ? (
               <p className="text-sm text-gray-400 text-center py-8">暂无好友</p>
             ) : (
