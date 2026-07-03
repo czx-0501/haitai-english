@@ -17,6 +17,27 @@ function getAzureRegion() {
  * 预加热语音引擎（解决 iOS WKWebView 首次发音延迟）
  * 在 App 启动时调用，让引擎提前加载
  */
+/**
+ * 获取最佳英语语音（macOS 优先高品质语音）
+ */
+function getBestEnglishVoice(): SpeechSynthesisVoice | null {
+  const voices = window.speechSynthesis.getVoices();
+  const enVoices = voices.filter(v => v.lang.startsWith('en'));
+  if (enVoices.length === 0) return null;
+  const preferred = ['Samantha', 'Karen', 'Alex', 'Moira', 'Tessa', 'Veena', 'Daniel', 'Fiona', 'Kate'];
+  for (const name of preferred) {
+    const found = enVoices.find(v => v.name === name);
+    if (found) return found;
+  }
+  return enVoices.find(v => v.name.includes('Female') || v.name.includes('female'))
+    || enVoices.find(v => !v.name.includes('Google'))
+    || enVoices[0];
+}
+
+/**
+ * 预加热语音引擎（解决 iOS WKWebView 首次发音延迟）
+ * 在 App 启动时调用，让引擎提前加载
+ */
 export function prewarmTTS(): void {
   if (!('speechSynthesis' in window)) return;
   try {
@@ -90,9 +111,20 @@ export async function speak(text: string): Promise<void> {
 
   // 方案 C：浏览器 TTS（最终回退）
   if ('speechSynthesis' in window) {
+    // 等待语音列表加载完毕
+    let voices = window.speechSynthesis.getVoices();
+    if (voices.length === 0) {
+      await new Promise<void>((resolve) => {
+        window.speechSynthesis.onvoiceschanged = () => { resolve(); };
+        setTimeout(resolve, 3000);
+      });
+      voices = window.speechSynthesis.getVoices();
+    }
+    const voice = getBestEnglishVoice();
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = 'en-US';
     utterance.rate = 0.85;
+    if (voice) utterance.voice = voice;
     window.speechSynthesis.speak(utterance);
   }
 }
@@ -100,4 +132,5 @@ export async function speak(text: string): Promise<void> {
 export function preloadVoices(): void {
   if (!('speechSynthesis' in window)) return;
   window.speechSynthesis.getVoices();
+  window.speechSynthesis.onvoiceschanged = () => {};
 }

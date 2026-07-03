@@ -12,6 +12,7 @@ import Practice from './pages/Practice';
 import Grammar from './pages/Grammar';
 import Reading from './pages/Reading';
 import Listening from './pages/Listening';
+import AIPage from './pages/AIPage';
 import { preloadVoices, prewarmTTS } from './utils/speech';
 
 function App() {
@@ -35,6 +36,7 @@ function App() {
           <Route path="/practice/grammar" element={<Grammar />} />
           <Route path="/practice/reading" element={<Reading />} />
           <Route path="/practice/listening" element={<Listening />} />
+          <Route path="/ai-companion" element={<AIPage />} />
         </Routes>
       </Layout>
       </AuthGate>

@@ -4,6 +4,10 @@ import { useProgress } from '../hooks/useProgress';
 import { getTodayData, getDayNumber, getTotalDays, getCEFRProgress, getCEFROptions, getSelectedLevel, setSelectedLevel, setLearningMode } from '../utils/scheduler';
 import { getDueCount } from '../utils/storage';
 import { shareStudyResult } from '../supabase/social';
+import { supabase } from '../supabase/client';
+import { LogOut } from "lucide-react";
+import NotificationBell from "../components/NotificationBell";
+
 import { checkAchievements } from '../utils/notifications';
 
 export default function Home() {
@@ -19,8 +23,14 @@ export default function Home() {
   const displayLevel = previewCefr || cefrData.level;
   const dueCount = getDueCount();
 
+
   async function handleShareStudy() {
     try {
+      const { data: { session } } = await supabase.auth.getSession();
+      if (!session) {
+        alert('请先登录后再打卡');
+        return;
+      }
       await shareStudyResult(20, 85, 1);
       alert('✅ 打卡成功！');
     } catch (e: any) {
@@ -28,19 +38,31 @@ export default function Home() {
     }
   }
 
+
+
   const todayLearnedPercent = todayProgress
     ? Math.round((todayProgress.wordsLearned / todayProgress.totalWords) * 100)
     : 0;
 
+  const handleLogout = async () => {
+    if (window.confirm("确定要退出当前账号吗？")) {
+      await supabase.auth.signOut();
+    }
+  };
+
   return (
     <div className="space-y-5">
-      {/* Header */}
-      <div className="text-center pt-2 pb-1">
+      <div className="relative text-center pt-2 pb-1">
+        <div className="absolute top-0 right-0 flex items-center gap-1">
+          <NotificationBell />
+          <button onClick={handleLogout} className="p-2 rounded-xl hover:bg-gray-100 transition-colors" title="退出登录">
+            <LogOut size={18} className="text-gray-400 hover:text-red-500 transition-colors" />
+          </button>
+        </div>
         <h1 className="text-2xl font-bold text-gray-900">海苔英语</h1>
         <p className="text-sm text-gray-400 mt-0.5">从零开始练就地道英语</p>
       </div>
 
-      {/* Hero Card */}
       <div className="bg-gradient-to-br from-[#4f6ef7] to-[#4f46e5] rounded-2xl p-6 text-white shadow-lg">
         <div className="flex justify-between mb-4">
           <div>
@@ -173,6 +195,7 @@ export default function Home() {
           开始学习 →
         </Link>
       </div>
+
     </div>
   );
 }

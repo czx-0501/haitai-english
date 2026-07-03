@@ -1,14 +1,18 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useProgress } from '../hooks/useProgress';
 import { loadProgress, getUnlockedAchievements } from '../utils/storage';
 
 import { getDayNumber, getTotalDays, getCEFRProgress, getSelectedLevel, setSelectedLevel, setLearningMode } from '../utils/scheduler';
-import { Flame, BookOpen, Trophy, Target, Zap } from 'lucide-react';
+import { Flame, BookOpen, Trophy, Target, Zap, Users } from 'lucide-react';
 import ProgressRing from '../components/ProgressRing';
+import { supabase } from '../supabase/client';
+import { getCurrentUser } from '../supabase/auth';
 
 export default function Stats() {
   const [previewLevel, setPreviewLevel] = useState<string | null>(null);
   const [expandedLevel, setExpandedLevel] = useState<string | null>(null);
+  const [rankingList, setRankingList] = useState<any[]>([]);
+  const [loadingRanking, setLoadingRanking] = useState(false);
   const CEFR_DETAILS: Record<string, {topics: string, words: string, nextLabel: string}> = {
     A1: {topics: '问候·数字·颜色·家庭·食物·交通·购物·时间·天气', words: '~1000 词', nextLabel: 'A2 初级 (Day 51)'},
     A2: {topics: '工作·旅游·科技·社交·健康·餐饮·兴趣爱好·节日·教育', words: '~2000 词', nextLabel: 'B1 中级 (Day 101)'},
@@ -30,11 +34,36 @@ export default function Stats() {
 
   // Calculate stats
   const achievements = getUnlockedAchievements(loadProgress());
+  useEffect(() => { loadRanking(); }, []);
+  async function loadRanking() {
+    setLoadingRanking(true);
+    try {
+      const user = await getCurrentUser();
+      if (!user?.id) { setLoadingRanking(false); return; }
+      const { data: friends } = await supabase
+        .from('friends')
+        .select('friend_id')
+        .eq('user_id', user.id);
+      if (!friends || friends.length === 0) { setLoadingRanking(false); return; }
+      const ids = friends.map((f: any) => f.friend_id);
+      const { data: profiles } = await supabase
+        .from('user_profiles')
+        .select('id, nickname, day, total_learned, streak, cefr_level')
+        .in('id', ids);
+      if (profiles) {
+        profiles.sort((a: any, b: any) => (b.day || 0) - (a.day || 0));
+        setRankingList(profiles);
+      }
+    } catch(e) { console.error(e); }
+    setLoadingRanking(false);
+  }
   const totalQuiz = Object.values(progress.days).reduce((sum, d) => sum + (d.quizCorrect || 0), 0);
   const totalQuizQ = Object.values(progress.days).reduce((sum, d) => sum + (d.quizTotal || 0), 0);
   const overallAccuracy = totalQuizQ > 0 ? Math.round((totalQuiz / totalQuizQ) * 100) : 0;
   const completedDays = Object.values(progress.days).filter(d => d.completed).length;
   const daysWithActivity = Object.keys(progress.days).length;
+
+
 
 
   return (
@@ -130,6 +159,42 @@ export default function Stats() {
           </div>
         </div>
       )}
+
+      {/* 学习圈子 */}
+      <div className="bg-white rounded-2xl p-5 shadow-sm border border-gray-100">
+        <div className="flex items-center justify-between mb-4">
+          <h2 className="text-base font-bold text-gray-900">学习圈子</h2>
+          <a href="/circle" className="text-xs text-[var(--primary)] font-medium hover:underline">去添加好友 ›</a>
+        </div>
+        {loadingRanking ? (
+          <div className="text-center py-6 text-gray-400 text-sm">加载中...</div>
+        ) : rankingList.length === 0 ? (
+          <div className="text-center py-6">
+            <Users size={36} className="mx-auto mb-2 text-gray-300" />
+            <p className="text-sm text-gray-500 mb-1">暂无好友数据</p>
+            <p className="text-xs text-gray-400 mb-3">去圈子页面添加好友</p>
+            <a href="/circle" className="inline-block px-4 py-2 rounded-xl bg-[var(--primary)] text-white text-xs">去添加好友</a>
+          </div>
+        ) : (
+          <div className="space-y-2">
+            {rankingList.map((item: any, idx: number) => (
+              <div key={item.id || idx} className={'flex items-center gap-3 p-3 rounded-xl ' + (idx < 3 ? 'bg-amber-50 border border-amber-200' : 'bg-gray-50')}>
+                <div className={'w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold flex-shrink-0 ' + (idx < 3 ? 'bg-amber-400 text-white' : 'bg-gray-200 text-gray-500')}>
+                  {idx + 1}
+                </div>
+                <div className="w-9 h-9 rounded-full bg-blue-50 flex items-center justify-center text-sm font-medium text-blue-600 flex-shrink-0">
+                  {item.nickname?.[0] || '?'}
+                </div>
+                <div className="flex-1 min-w-0">
+                  <p className="text-sm font-medium text-gray-800 truncate">{item.nickname || '匿名'}</p>
+                  <p className="text-xs text-gray-400">Day {item.day || 0} · {item.total_learned || 0} 词</p>
+                </div>
+                <span className="px-2 py-0.5 rounded-full text-xs bg-[var(--primary)] text-white flex-shrink-0">{item.cefr_level || 'A1'}</span>
+              </div>
+            ))}
+          </div>
+        )}
+      </div>
 
       {/* CEFR Learning Path */}
       <div className="bg-white rounded-2xl p-5 shadow-sm border border-gray-100">
