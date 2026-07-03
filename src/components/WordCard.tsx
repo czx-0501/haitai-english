@@ -88,7 +88,6 @@ export default function WordCard({
             <div className="w-full space-y-3">
               {word.ex.map((ex, i) => (
                 <div key={i} className="bg-gray-50 rounded-xl p-3 text-left">
-                  <div className="flex items-start justify-between gap-2">
                   <div className="flex items-start justify-between gap-4">
                     <div className="flex-1">
                       <p className="text-sm text-gray-800 mb-1">{ex.e}</p>
