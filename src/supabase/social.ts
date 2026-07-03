@@ -120,7 +120,7 @@ export async function searchUsers(query: string) {
   const { data } = await supabase
     .from('user_profiles')
     .select('id, nickname, avatar_url, email')
-    .or(`nickname.ilike.%${query}%,email.ilike.%${query}%,id.ilike.%${query}%`)
+    .or(`nickname.ilike.%${query}%,email.ilike.%${query}%`)
     .limit(20);
   return data || [];
 }
