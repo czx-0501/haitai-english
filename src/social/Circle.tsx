@@ -142,6 +142,13 @@ export default function Circle() {
     setSearchResults(prev => prev.map(u => u.id === userId ? { ...u, sent: true } : u));
   }
 
+  async function handleCancelRequest(userId: string) {
+    const { data: { user } } = await supabase.auth.getUser();
+    if (!user) return;
+    await supabase.from('friend_requests').delete().eq('sender_id', user.id).eq('receiver_id', userId);
+    setSearchResults(prev => prev.map(u => u.id === userId ? { ...u, sent: false } : u));
+  }
+
   async function loadIncomingRequests() {
     const data = await getIncomingFriendRequests();
     setIncomingRequests(data);
@@ -201,7 +208,7 @@ export default function Circle() {
           <div className="bg-white rounded-2xl p-6 w-full max-w-sm max-h-[80vh] overflow-y-auto" onClick={e => e.stopPropagation()}>
             <div className="flex items-center justify-between mb-4">
               <h2 className="text-lg font-bold">好友</h2>
-              <button onClick={() => setShowFriends(false)}><X size={20} className="text-gray-400" /></button>
+              <button onClick={() => { setShowFriends(false); setSearchResults([]); setFriendSearch(''); }}><X size={20} className="text-gray-400" /></button>
             </div>
 
             {/* My ID */}
@@ -227,13 +234,13 @@ export default function Circle() {
                       <div className="w-7 h-7 rounded-full bg-[var(--primary-light)] flex items-center justify-center text-xs font-medium text-[var(--primary)]">{u.nickname[0]}</div>
                       <span className="text-sm">{u.nickname}</span>
                     </div>
-                    <button
-                      onClick={() => handleSendFriendRequest(u.id)}
-                      disabled={u.sent}
-                      className="text-xs px-3 py-1 rounded-xl bg-[var(--primary)] text-white disabled:bg-gray-200 disabled:text-gray-400"
-                    >
-                      {u.sent ? '已发送' : <><UserPlus size={14} className="inline" /> 加好友</>}
-                    </button>
+                    {u.sent ? (
+                      <button onClick={() => handleCancelRequest(u.id)} className="text-xs px-3 py-1 rounded-xl bg-gray-200 text-gray-500 hover:bg-gray-300">取消</button>
+                    ) : (
+                      <button onClick={() => handleSendFriendRequest(u.id)} className="text-xs px-3 py-1 rounded-xl bg-[var(--primary)] text-white">
+                        <UserPlus size={14} className="inline" /> 加好友
+                      </button>
+                    )}
                   </div>
                 ))}
               </div>
