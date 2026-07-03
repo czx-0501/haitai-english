@@ -24,16 +24,15 @@ export default function NotificationBell() {
       if (user?.id) {
         const { data: requests } = await supabase
           .from('friend_requests')
-          .select('*, from_user:from_user_id (nickname)')
-          .eq('to_user_id', user.id)
-          .eq('status', 'pending');
+          .select('*, sender:sender_id (nickname)')
+          .eq('receiver_id', user.id);
         if (requests) {
           requests.forEach((r: any) => {
             items.push({
               id: 'fr_' + r.id,
               type: 'friend_request',
               title: '好友请求',
-              message: `${r.from_user?.nickname || '某人'} 请求添加好友`,
+              message: `${r.sender?.nickname || '某人'} 请求添加好友`,
               time: r.created_at,
               read: false,
             });
