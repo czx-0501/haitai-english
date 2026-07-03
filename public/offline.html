@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>离线 - 海苔英语</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      display: flex; justify-content: center; align-items: center;
+      min-height: 100dvh; background: #f8fafc; color: #1e293b;
+    }
+    .card {
+      text-align: center; padding: 2rem; max-width: 360px;
+    }
+    .icon { font-size: 64px; margin-bottom: 1rem; }
+    h1 { font-size: 1.25rem; margin-bottom: 0.5rem; }
+    p { color: #64748b; line-height: 1.6; font-size: 0.875rem; }
+    button {
+      margin-top: 1.5rem; padding: 0.75rem 2rem;
+      background: #4f6ef7; color: #fff; border: none; border-radius: 12px;
+      font-size: 0.875rem; cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="icon">📡</div>
+    <h1>网络已断开</h1>
+    <p>当前没有网络连接，请检查后重试。<br>已学过的内容在恢复网络后会自动同步。</p>
+    <button onclick="window.location.reload()">重试</button>
+  </div>
+</body>
+</html>

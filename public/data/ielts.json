@@ -1,4 +1,4 @@
-export const ieltsVocabulary = [
+{"data":[
   {
     "day": 1,
     "theme": "IELTS Set 1",
@@ -15,7 +15,7 @@ export const ieltsVocabulary = [
         { "e": "His rude comment was an affrontment to her dignity.", "c": "他粗鲁的评论是对她尊严的冒犯。" },
         { "e": "The public criticism felt like a direct affrontment.", "c": "公开的批评感觉像是一种直接的侮辱。" }
       ] },
-      { "w": "affusing", "p": "/əˈfjuːzɪŋ/", "pos": "n", "m": "灌注（的）", "cefr": "X",       "ex": [
+      { "w": "affusedaffusing", "p": "/affusedaffusing/", "pos": "n", "m": "灌注（的）", "cefr": "X",       "ex": [
         { "e": "The doctor affused the wound with saline solution.", "c": "医生用盐水冲洗了伤口。" },
         { "e": "She is affusing the garden with water from a hose.", "c": "她正用水管给花园浇水。" }
       ] },
@@ -11573,4 +11573,4 @@ export const ieltsVocabulary = [
       ] }
     ]
   }
-];export default ieltsVocabulary;
+]}

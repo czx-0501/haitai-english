@@ -1,4 +1,4 @@
-export const toeflVocabulary = [
+{"data":[
   {
     "day": 1,
     "theme": "TOEFL Set 1",
@@ -12202,4 +12202,4 @@ export const toeflVocabulary = [
       ] }
     ]
   }
-];export default toeflVocabulary;
+]}

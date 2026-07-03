@@ -136,7 +136,8 @@ export function markWordLearned(p: AppProgress, day: number, word: string): AppP
   }
   // Add to spaced repetition history
   addWordToHistory(p, word);
-  if (dp.wordsLearned >= dp.totalWords && dp.quizTotal > 0) {
+  // 学完当天所有单词即视为完成，小测是巩固环节而非必须条件
+  if (dp.wordsLearned >= dp.totalWords) {
     dp.completed = true;
     p = updateStreak(p);
   }
@@ -157,7 +158,7 @@ export function recordQuizResult(p: AppProgress, day: number, correct: number, t
   dp.quizCorrect = correct;
   dp.quizTotal = total;
   dp.wrongWords = [...new Set([...dp.wrongWords, ...wrongWords])];
-  if (dp.wordsLearned >= dp.totalWords && dp.quizTotal > 0) {
+  if (dp.wordsLearned >= dp.totalWords) {
     dp.completed = true;
     p = updateStreak(p);
   }
