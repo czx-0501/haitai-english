@@ -8,6 +8,7 @@ export default function NotificationBell() {
   const [showPanel, setShowPanel] = useState(false);
   const [notifications, setNotifications] = useState<any[]>([]);
   const panelRef = useRef<HTMLDivElement>(null);
+const readFrIds = useRef(new Set<string>());
 
   useEffect(() => {
     loadNotifications();
@@ -28,8 +29,10 @@ export default function NotificationBell() {
           .eq('receiver_id', user.id);
         if (requests) {
           requests.forEach((r: any) => {
+            const fid = 'fr_' + r.id;
+            if (readFrIds.current.has(fid)) return;
             items.push({
-              id: 'fr_' + r.id,
+              id: fid,
               type: 'friend_request',
               title: '好友请求',
               message: `${r.sender?.nickname || '某人'} 请求添加好友`,
@@ -75,7 +78,11 @@ export default function NotificationBell() {
   }
 
   function handleMarkRead(id: string) {
-    if (id.startsWith('fr_')) return; // Friend requests handled elsewhere
+    if (id.startsWith('fr_')) {
+      readFrIds.current.add(id);
+      setNotifications(prev => prev.map(n => n.id === id ? { ...n, read: true } : n));
+      return;
+    }
     markAsRead(id);
     setNotifications(prev => prev.map(n => n.id === id ? { ...n, read: true } : n));
   }

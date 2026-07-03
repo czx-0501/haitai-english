@@ -13,6 +13,7 @@ export default function Circle() {
   const [comments, setComments] = useState<Record<string, any[]>>({});
   const [commentText, setCommentText] = useState('');
   const [showFriends, setShowFriends] = useState(false);
+  const [lastSeenCount, setLastSeenCount] = useState(0);
   const [incomingRequests, setIncomingRequests] = useState<any[]>([]);
   const [friends, setFriends] = useState<any[]>([]);
   const [friendSearch, setFriendSearch] = useState('');
@@ -125,6 +126,7 @@ export default function Circle() {
  // === Friends ===
  async function handleOpenFriends() {
     setShowFriends(true);
+    setLastSeenCount(incomingRequests.length);
     const data = await getFriends();
     setFriends(data);
   }
@@ -166,7 +168,7 @@ export default function Circle() {
           <div className="flex items-center gap-3">
             <button onClick={handleOpenFriends} className="flex items-center gap-1 px-3 py-1.5 rounded-xl bg-gray-100 text-gray-600 text-sm hover:bg-gray-200 relative">
               <Users size={16} /> 好友
-              {incomingRequests.length > 0 && (
+              {incomingRequests.length > 0 && incomingRequests.length !== lastSeenCount && (
                 <span className="absolute -top-1.5 -right-1.5 min-w-[18px] h-[18px] bg-red-500 text-white text-[10px] font-bold rounded-full flex items-center justify-center px-1">
                   {incomingRequests.length > 9 ? "9+" : incomingRequests.length}
                 </span>
