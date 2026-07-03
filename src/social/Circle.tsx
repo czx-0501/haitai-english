@@ -2,6 +2,7 @@ import { useState, useEffect, useRef } from 'react';
 import { MessageCircle, Heart, Share2, Plus, Users, Send, UserPlus, X, Search } from 'lucide-react';
 import { getPosts, toggleLike, createPost, getComments, addComment, searchUsers, sendFriendRequest, getFriends, deletePost, getIncomingFriendRequests, acceptFriendRequest, rejectFriendRequest } from '../supabase/social';
 import { getCurrentUser } from '../supabase/auth';
+import { supabase } from '../supabase/client';
 import type { AuthUser } from '../supabase/auth';
 import type { Post } from '../supabase/social';
 
