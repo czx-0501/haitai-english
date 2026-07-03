@@ -161,12 +161,13 @@ export async function acceptFriendRequest(requestId: string, senderId: string) {
   const { data: { user } } = await supabase.auth.getUser();
   if (!user) return { error: 'Not logged in' };
 
-  await supabase.from('friends').insert([
-    { user_id: user.id, friend_id: senderId },
-    { user_id: senderId, friend_id: user.id }
-  ]);
-  await supabase.from('friend_requests').delete().eq('id', requestId);
-  return { error: null };
+  // Use RPC to bypass RLS (needs accept_friend_request function in Supabase)
+  const { error } = await supabase.rpc('accept_friend_request', {
+    req_id: requestId,
+    sender_id: senderId,
+    receiver_id: user.id
+  });
+  return { error };
 }
 
 export async function rejectFriendRequest(requestId: string) {
