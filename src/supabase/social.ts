@@ -171,6 +171,20 @@ export async function acceptFriendRequest(requestId: string, senderId: string) {
 }
 
 export async function rejectFriendRequest(requestId: string) {
+ await supabase.from('friend_requests').delete().eq('id', requestId);
+}
+
+export async function getSentFriendRequests() {
+  const { data: { user } } = await supabase.auth.getUser();
+  if (!user) return [];
+  const { data } = await supabase
+    .from('friend_requests')
+    .select('*, receiver:receiver_id (id, nickname)')
+    .eq('sender_id', user.id);
+  return data || [];
+}
+
+export async function deleteFriendRequest(requestId: string) {
   await supabase.from('friend_requests').delete().eq('id', requestId);
 }
 

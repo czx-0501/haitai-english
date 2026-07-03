@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { MessageCircle, Heart, Share2, Plus, Users, Send, UserPlus, X, Search } from 'lucide-react';
-import { getPosts, toggleLike, createPost, getComments, addComment, searchUsers, sendFriendRequest, getFriends, deletePost, getIncomingFriendRequests, acceptFriendRequest, rejectFriendRequest } from '../supabase/social';
+import { getPosts, toggleLike, createPost, getComments, addComment, searchUsers, sendFriendRequest, getFriends, deletePost, getIncomingFriendRequests, acceptFriendRequest, rejectFriendRequest, getSentFriendRequests, deleteFriendRequest } from '../supabase/social';
 import { getCurrentUser } from '../supabase/auth';
 import { supabase } from '../supabase/client';
 import type { AuthUser } from '../supabase/auth';
@@ -16,6 +16,7 @@ export default function Circle() {
   const [showFriends, setShowFriends] = useState(false);
   const [lastSeenCount, setLastSeenCount] = useState(0);
   const [incomingRequests, setIncomingRequests] = useState<any[]>([]);
+  const [sentRequests, setSentRequests] = useState<any[]>([]);
   const [friends, setFriends] = useState<any[]>([]);
   const [friendSearch, setFriendSearch] = useState('');
   const [searchResults, setSearchResults] = useState<any[]>([]);
@@ -25,7 +26,7 @@ export default function Circle() {
   const [friendIds, setFriendIds] = useState<string[]>([]);
 
   useEffect(() => { loadUser(); loadPosts(); }, []);
-  useEffect(() => { if (user) loadIncomingRequests(); }, [user]);
+  useEffect(() => { if (user) { loadIncomingRequests(); loadSentRequests(); } }, [user]);
 
   async function loadUser() {
     const u = await getCurrentUser();
@@ -150,6 +151,11 @@ export default function Circle() {
     setSearchResults(prev => prev.map(u => u.id === userId ? { ...u, sent: false } : u));
   }
 
+  async function loadSentRequests() {
+    const data = await getSentFriendRequests();
+    setSentRequests(data);
+  }
+
   async function loadIncomingRequests() {
     const data = await getIncomingFriendRequests();
     setIncomingRequests(data);
@@ -160,6 +166,12 @@ export default function Circle() {
     await loadIncomingRequests();
     const data = await getFriends();
     setFriends(data);
+  }
+
+  async function handleDeleteRequest(requestId: string) {
+    await deleteFriendRequest(requestId);
+    await loadIncomingRequests();
+    await loadSentRequests();
   }
 
   async function handleRejectRequest(requestId: string) {
@@ -266,6 +278,24 @@ export default function Circle() {
                       <button onClick={() => handleRejectRequest(req.id)}
                         className="text-xs px-3 py-1 rounded-xl bg-gray-200 text-gray-500 hover:bg-gray-300">✕</button>
                     </div>
+                  </div>
+                ))}
+              </div>
+            )}
+
+            {/* Sent Friend Requests */}
+            {sentRequests.length > 0 && (
+              <div className="mb-4 border border-gray-100 rounded-xl p-3 bg-gray-50">
+                <p className="text-xs text-gray-500 mb-2">已发送的请求</p>
+                {sentRequests.map(req => (
+                  <div key={req.id} className="flex items-center justify-between py-2">
+                    <div className="flex items-center gap-2">
+                      <div className="w-7 h-7 rounded-full bg-gray-100 flex items-center justify-center text-xs font-medium text-gray-500">
+                        {req.receiver?.nickname?.[0] || '?'}
+                      </div>
+                      <span className="text-sm">{req.receiver?.nickname || '用户'}</span>
+                    </div>
+                    <button onClick={() => handleDeleteRequest(req.id)} className="text-xs px-3 py-1 rounded-xl bg-gray-200 text-gray-500 hover:bg-gray-300">取消</button>
                   </div>
                 ))}
               </div>
