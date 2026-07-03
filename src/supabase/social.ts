@@ -185,7 +185,7 @@ export async function getSentFriendRequests() {
 }
 
 export async function deleteFriendRequest(requestId: string) {
-  await supabase.from('friend_requests').delete().eq('id', requestId);
+  await supabase.rpc('delete_friend_request', { req_id: requestId });
 }
 
 // === 打卡分享 ===
