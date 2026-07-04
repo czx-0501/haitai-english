@@ -120,12 +120,13 @@ export default function AIPage() {
       recorder.ondataavailable = (e) => { if (e.data.size > 0) chunksRef.current.push(e.data); };
       recorder.onstop = () => {
         const blob = new Blob(chunksRef.current, { type: recorder.mimeType || 'audio/webm' });
+        var hasData = blob.size > 0;
         setAudioBlob(blob);
-        setHasRecording(true);
-        setRecordStatus('录音完成');
+        setHasRecording(hasData);
+        setRecordStatus(hasData ? '录音完成' : '未检测到声音，请靠近麦克风重试');
         stream.getTracks().forEach(t => t.stop());
       };
-      recorder.start();
+      recorder.start(100);
       mediaRecorderRef.current = recorder;
       setIsRecording(true);
       setRecordStatus('录音中...');
@@ -141,6 +142,10 @@ export default function AIPage() {
 
   const playRecording = () => {
     if (!audioBlob) return;
+    if (audioBlob.size === 0) {
+      setRecordStatus('录音为空，请重试');
+      return;
+    }
     const url = URL.createObjectURL(audioBlob);
     const audio = new Audio(url);
     audio.play();
@@ -219,8 +224,11 @@ export default function AIPage() {
         }
       }
     } catch {}
-    setRecordStatus('设备不支持语音识别，请点击喇叭听标准发音后跟读');
-    setAnalysisResult({ score: 0, transcribed: '--', expected: expected, feedback: '请先录音后点击分析' });
+    var keyOk = (import.meta.env.VITE_AZURE_TTS_KEY || '').length > 0;
+    var blobOk = audioBlob ? audioBlob.size : 0;
+    var errMsg = !keyOk ? '语音识别服务未配置' : blobOk === 0 ? '录音为空，请先录音' : '语音识别服务暂不可用，请稍后重试';
+    setRecordStatus(errMsg);
+    setAnalysisResult({ score: 0, transcribed: '--', expected: expected, feedback: '播放标准发音后重复朗读' });
   };
 
   return (
