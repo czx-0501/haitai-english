@@ -179,8 +179,8 @@ export default function AIPage() {
         return;
       }
     } catch {}
-    setRecordStatus('设备不支持语音识别，请跟读练习');
-    setAnalysisResult({ score: 85, transcribed: expected, expected, feedback: '请对照标准发音自行判断' });
+    setRecordStatus('请点击🔊听标准发音后跟读练习');
+    setAnalysisResult({ score: 0, transcribed: '--', expected, feedback: '播放标准发音后重复朗读，反复练习' });
   };
 
   return (
