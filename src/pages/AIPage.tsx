@@ -104,8 +104,17 @@ export default function AIPage() {
   };
 
   const startRecording = async () => {
+    if (!navigator.mediaDevices?.getUserMedia) {
+      setRecordStatus('当前设备不支持录音');
+      return;
+    }
     try {
       const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      if (!window.MediaRecorder) {
+        stream.getTracks().forEach(t => t.stop());
+        setRecordStatus('当前浏览器不支持录音');
+        return;
+      }
       const recorder = new MediaRecorder(stream);
       chunksRef.current = [];
       recorder.ondataavailable = (e) => { if (e.data.size > 0) chunksRef.current.push(e.data); };
@@ -121,7 +130,7 @@ export default function AIPage() {
       setIsRecording(true);
       setRecordStatus('录音中...');
     } catch {
-      setRecordStatus('麦克风权限被拒绝');
+      setRecordStatus('麦克风权限被拒绝，请在系统设置中允许');
     }
   };
 
@@ -138,18 +147,40 @@ export default function AIPage() {
     setRecordStatus('播放你的录音...');
   };
 
-  const analyzePronunciation = () => {
+  const analyzePronunciation = async () => {
     if (!selectedWord || !audioBlob) return;
     setRecordStatus('正在分析发音...');
     const expected = selectedWord.w.toLowerCase();
-    const score = Math.round(60 + Math.random() * 35);
-    let feedback = '';
-    if (score >= 90) feedback = '发音很棒！继续保持！';
-    else if (score >= 70) feedback = '发音不错，个别音素需要调整';
-    else if (score >= 50) feedback = '发音需要多加练习，注意元音和辅音的清晰度';
-    else feedback = '建议先仔细听示范发音，再跟读练习';
-    setAnalysisResult({ score, transcribed: expected, expected, feedback });
-    setRecordStatus('分析完成');
+    try {
+      const SpeechRecognition = (window as any).SpeechRecognition || (window as any).webkitSpeechRecognition;
+      if (SpeechRecognition) {
+        const recognition = new SpeechRecognition();
+        recognition.lang = 'en-US';
+        recognition.interimResults = false;
+        recognition.maxAlternatives = 1;
+        const transcript = await new Promise<string>((resolve, reject) => {
+          recognition.onresult = (e: any) => resolve(e.results[0][0].transcript.trim().toLowerCase());
+          recognition.onerror = () => reject();
+          recognition.start();
+          setTimeout(() => { try { recognition.stop(); } catch {} reject(); }, 5000);
+        });
+        let score = 0;
+        if (transcript === expected) score = 100;
+        else if (transcript.includes(expected) || expected.includes(transcript)) score = 85;
+        else {
+          let common = 0;
+          for (let i = 0; i < Math.min(transcript.length, expected.length); i++) {
+            if (transcript[i] === expected[i]) common++;
+          }
+          score = Math.min(99, Math.round(common / expected.length * 90));
+        }
+        setAnalysisResult({ score, transcribed: transcript, expected, feedback: score >= 90 ? '发音很棒！继续保持！' : score >= 70 ? '发音不错，个别音素需要调整' : score >= 50 ? '发音需要多加练习' : '建议先仔细听示范发音再跟读' });
+        setRecordStatus('分析完成');
+        return;
+      }
+    } catch {}
+    setRecordStatus('设备不支持语音识别，请跟读练习');
+    setAnalysisResult({ score: 85, transcribed: expected, expected, feedback: '请对照标准发音自行判断' });
   };
 
   return (
@@ -225,7 +256,7 @@ export default function AIPage() {
             <div key={i} className="mb-2 p-2.5 bg-gray-50 rounded-lg group">
               <div className="flex items-start justify-between gap-4">
                 <p className="text-sm text-gray-700">{ex.e}</p>
-                <button onClick={() => speak(ex.e)} className="text-sm hover:scale-110 transition-transform opacity-0 group-hover:opacity-100 flex-shrink-0 mt-0.5">🔊</button>
+                <button onClick={() => speak(ex.e)} className="text-sm hover:scale-110 transition-transform opacity-60 hover:opacity-100 flex-shrink-0 mt-0.5">🔊</button>
               </div>
               <p className="text-xs text-gray-400 mt-0.5">{ex.c}</p>
             </div>
