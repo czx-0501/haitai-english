@@ -179,8 +179,47 @@ export default function AIPage() {
         return;
       }
     } catch {}
-    setRecordStatus('请点击🔊听标准发音后跟读练习');
-    setAnalysisResult({ score: 0, transcribed: '--', expected, feedback: '播放标准发音后重复朗读，反复练习' });
+    // Try Azure STT as secondary fallback
+    try {
+      var azureKey = import.meta.env.VITE_AZURE_TTS_KEY || '';
+      if (azureKey && audioBlob && audioBlob.size > 0) {
+        setRecordStatus('正在云端识别...');
+        var azureRes = await fetch('https://' + 'eastasia' + '.stt.speech.microsoft.com/speech/recognition/conversation/cognitiveservices/v1?language=en-US', {
+          method: 'POST',
+          headers: {
+            'Ocp-Apim-Subscription-Key': azureKey,
+            'Content-Type': audioBlob.type || 'audio/webm',
+          },
+          body: audioBlob,
+        });
+        if (azureRes.ok) {
+          var azureData = await azureRes.json();
+          var transcript = (azureData.DisplayText || '').toLowerCase().trim().replace(/[.,!?]/g, '');
+          if (transcript) {
+            var score = 0;
+            if (transcript === expected) score = 100;
+            else if (transcript.indexOf(expected) >= 0 || expected.indexOf(transcript) >= 0) score = 85;
+            else {
+              var common = 0;
+              for (var i = 0; i < Math.min(transcript.length, expected.length); i++) {
+                if (transcript[i] === expected[i]) common++;
+              }
+              score = Math.min(99, Math.round(common / expected.length * 90));
+            }
+            var fb = '';
+            if (score >= 90) fb = '发音很棒！继续保持！';
+            else if (score >= 70) fb = '发音不错，个别音素需要调整';
+            else if (score >= 50) fb = '发音需要多加练习';
+            else fb = '建议先仔细听示范发音再跟读';
+            setAnalysisResult({ score: score, transcribed: transcript, expected: expected, feedback: fb });
+            setRecordStatus('分析完成');
+            return;
+          }
+        }
+      }
+    } catch {}
+    setRecordStatus('设备不支持语音识别，请点击喇叭听标准发音后跟读');
+    setAnalysisResult({ score: 0, transcribed: '--', expected: expected, feedback: '请先录音后点击分析' });
   };
 
   return (
