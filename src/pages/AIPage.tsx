@@ -184,7 +184,8 @@ export default function AIPage() {
       var azureKey = import.meta.env.VITE_AZURE_TTS_KEY || '';
       if (azureKey && audioBlob && audioBlob.size > 0) {
         setRecordStatus('正在云端识别...');
-        var azureRes = await fetch('https://' + 'eastasia' + '.stt.speech.microsoft.com/speech/recognition/conversation/cognitiveservices/v1?language=en-US', {
+        var sttUrl = import.meta.env.DEV ? '/azure-stt' : 'https://eastasia.stt.speech.microsoft.com/speech/recognition/conversation/cognitiveservices/v1?language=en-US';
+        var azureRes = await fetch(sttUrl, {
           method: 'POST',
           headers: {
             'Ocp-Apim-Subscription-Key': azureKey,
