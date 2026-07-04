@@ -119,7 +119,7 @@ export default function AIPage() {
       chunksRef.current = [];
       recorder.ondataavailable = (e) => { if (e.data.size > 0) chunksRef.current.push(e.data); };
       recorder.onstop = () => {
-        const blob = new Blob(chunksRef.current, { type: 'audio/webm' });
+        const blob = new Blob(chunksRef.current, { type: recorder.mimeType || 'audio/webm' });
         setAudioBlob(blob);
         setHasRecording(true);
         setRecordStatus('录音完成');
