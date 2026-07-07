@@ -42,7 +42,7 @@ export async function onRequest(context) {
     var score = 0;
     if (transcript === expected) {
       score = 100;
-    } else if (transcript.includes(expected) || expected.includes(transcript)) {
+    } else if (transcript && (transcript.includes(expected) || expected.includes(transcript))) {
       score = 85;
     } else if (transcript && expected) {
       var common = 0;
