@@ -7,10 +7,11 @@ export async function onRequest(context) {
   const voiceData = body.voiceData;
   const targetText = (body.text || '').toLowerCase().trim();
   const audioFormat = body.format || 'webm';
+  // Accept key from request body or environment
+  const azureKey = body.azureKey || context.env.VITE_AZURE_TTS_KEY || '';
   if (!voiceData || !targetText) {
     return new Response(JSON.stringify({ error: 'Missing voiceData or text' }), { status: 400 });
   }
-  const azureKey = context.env.VITE_AZURE_TTS_KEY || '';
   if (!azureKey) {
     return new Response(JSON.stringify({ error: 'Azure key not configured' }), { status: 500 });
   }
