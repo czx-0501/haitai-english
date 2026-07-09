@@ -184,51 +184,45 @@ export default function AIPage() {
         return;
       }
     } catch {}
-    // Try Azure STT as secondary fallback
+    // Unified: send to /api/voice-compare with azureKey from frontend
     try {
-      var azureKey = import.meta.env.VITE_AZURE_TTS_KEY || '';
-      if (azureKey && audioBlob && audioBlob.size > 0) {
-        setRecordStatus('正在云端识别...');
-        var sttUrl = 'https://eastasia.stt.speech.microsoft.com/speech/recognition/conversation/cognitiveservices/v1?language=en-US';
-        var azureRes = await fetch(sttUrl, {
-          method: 'POST',
-          headers: {
-            'Ocp-Apim-Subscription-Key': azureKey,
-            'Content-Type': audioBlob.type || 'audio/webm',
-          },
-          body: audioBlob,
-        });
-        if (azureRes.ok) {
-          var azureData = await azureRes.json();
-          var transcript = (azureData.DisplayText || '').toLowerCase().trim().replace(/[.,!?]/g, '');
-          if (transcript) {
-            var score = 0;
-            if (transcript === expected) score = 100;
-            else if (transcript.indexOf(expected) >= 0 || expected.indexOf(transcript) >= 0) score = 85;
-            else {
-              var common = 0;
-              for (var i = 0; i < Math.min(transcript.length, expected.length); i++) {
-                if (transcript[i] === expected[i]) common++;
-              }
-              score = Math.min(99, Math.round(common / expected.length * 90));
-            }
-            var fb = '';
-            if (score >= 90) fb = '发音很棒！继续保持！';
-            else if (score >= 70) fb = '发音不错，个别音素需要调整';
-            else if (score >= 50) fb = '发音需要多加练习';
-            else fb = '建议先仔细听示范发音再跟读';
-            setAnalysisResult({ score: score, transcribed: transcript, expected: expected, feedback: fb });
-            setRecordStatus('分析完成');
-            return;
-          }
-        }
-      }
-    } catch {}
-    var keyOk = (import.meta.env.VITE_AZURE_TTS_KEY || '').length > 0;
-    var blobOk = audioBlob ? audioBlob.size : 0;
-    var errMsg = !keyOk ? '语音识别服务未配置' : blobOk === 0 ? '录音为空，请先录音' : '语音识别服务暂不可用，请稍后重试';
-    setRecordStatus(errMsg);
-    setAnalysisResult({ score: 0, transcribed: '--', expected: expected, feedback: '播放标准发音后重复朗读' });
+      var reader = new FileReader();
+      var b64p = new Promise(function(resolve, reject) {
+        reader.onloadend = function() {
+          var r = reader.result;
+          if (typeof r !== 'string') { reject('FileReader error'); return; }
+          var _b = r.split(',')[1];
+          if (!_b) { reject('empty base64'); return; }
+          try { _b = decodeURIComponent(_b); } catch {}
+          resolve(_b);
+        };
+        reader.onerror = reject;
+      });
+      reader.readAsDataURL(audioBlob);
+      var b64 = await b64p;
+      if (!b64) { setRecordStatus('base64转换失败'); return; }
+      
+      var azureKey = (typeof import.meta !== 'undefined' ? import.meta.env.VITE_AZURE_TTS_KEY || '' : '');
+      var vcRes = await fetch('/api/voice-compare', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ voiceData: b64, text: expected, format: 'webm', azureKey: azureKey }),
+      });
+      if (!vcRes.ok) { setRecordStatus('服务异常: ' + vcRes.status); return; }
+      var result = await vcRes.json();
+      if (result.error) { setRecordStatus('分析异常: ' + result.error); return; }
+      setAnalysisResult({
+        score: result.score || 0,
+        transcribed: result.transcribed || '',
+        expected: result.expected || expected,
+        feedback: result.feedback || '',
+      });
+      setRecordStatus('分析完成');
+      return;
+    } catch (e: any) {
+      setRecordStatus('请求失败: ' + (e.message || '网络错误'));
+      return;
+    }
   };
 
   return (

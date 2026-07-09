@@ -16,7 +16,9 @@ export async function onRequest(context) {
     return new Response(JSON.stringify({ error: 'Azure key not configured' }), { status: 500 });
   }
   try {
-    const binaryStr = atob(voiceData);
+    var cleanData = voiceData.trim();
+    try { cleanData = decodeURIComponent(cleanData); } catch {}
+    const binaryStr = atob(cleanData);
     const bytes = new Uint8Array(binaryStr.length);
     for (let i = 0; i < binaryStr.length; i++) {
       bytes[i] = binaryStr.charCodeAt(i);
