@@ -2,7 +2,11 @@ import vocabulary from '../data/vocabulary';
 import type { DayData } from '../data/vocabulary';
 
 export function getDayNumber(): number {
-  const startStr = localStorage.getItem('engdaily_start') || new Date().toISOString().split('T')[0];
+  let startStr = localStorage.getItem('engdaily_start');
+  if (!startStr) {
+    startStr = new Date().toISOString().split('T')[0];
+    localStorage.setItem('engdaily_start', startStr);
+  }
   const start = new Date(startStr);
   const today = new Date();
   const diff = Math.floor((today.getTime() - start.getTime()) / 86400000);
