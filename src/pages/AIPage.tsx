@@ -184,29 +184,16 @@ export default function AIPage() {
         return;
       }
     } catch {}
-    // Unified: send to /api/voice-compare with azureKey from frontend
+    // Unified: send raw audio blob to /api/voice-compare
     try {
-      var reader = new FileReader();
-      var b64p = new Promise(function(resolve, reject) {
-        reader.onloadend = function() {
-          var r = reader.result;
-          if (typeof r !== 'string') { reject('FileReader error'); return; }
-          var _b = r.split(',')[1];
-          if (!_b) { reject('empty base64'); return; }
-          try { _b = decodeURIComponent(_b); } catch {}
-          resolve(_b);
-        };
-        reader.onerror = reject;
-      });
-      reader.readAsDataURL(audioBlob);
-      var b64 = await b64p;
-      if (!b64) { setRecordStatus('base64转换失败'); return; }
-      
       var azureKey = (typeof import.meta !== 'undefined' ? import.meta.env.VITE_AZURE_TTS_KEY || '' : '');
-      var vcRes = await fetch('/api/voice-compare', {
+      var vcRes = await fetch('/api/voice-compare?text=' + encodeURIComponent(expected), {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ voiceData: b64, text: expected, format: 'webm', azureKey: azureKey }),
+        headers: {
+          'Content-Type': audioBlob.type || 'audio/webm',
+          'x-azure-key': azureKey,
+        },
+        body: audioBlob,
       });
       if (!vcRes.ok) { setRecordStatus('服务异常: ' + vcRes.status); return; }
       var result = await vcRes.json();

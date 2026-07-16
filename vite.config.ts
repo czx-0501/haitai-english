@@ -11,40 +11,57 @@ function voiceComparePlugin() {
       server.middlewares.use('/api/voice-compare', async (req, res, next) => {
         if (req.method !== 'POST') { res.statusCode = 405; res.end('{}'); return; }
         const url = new URL(req.url || '', 'http://localhost');
-        const targetText = (url.searchParams.get('text') || '').toLowerCase().trim();
-        const audioFormat = url.searchParams.get('format') || 'webm';
-        const azureKey = req.headers['x-azure-key'] || process.env.VITE_AZURE_TTS_KEY || '';
+        let targetText = (url.searchParams.get('text') || '').toLowerCase().trim();
+        let azureKey = process.env.VITE_AZURE_TTS_KEY || '';
         if (!targetText) { res.end(JSON.stringify({ error: 'Missing text' })); return; }
         if (!azureKey) { res.end(JSON.stringify({ error: 'no azure key' })); return; }
-        let chunks: Buffer[] = [];
-        req.on('data', (c: any) => chunks.push(c));
+
+        let chunks = [];
+        req.on('data', (c) => chunks.push(c));
         req.on('end', async () => {
           try {
-            const buf = Buffer.concat(chunks);
-            if (buf.length === 0) { res.end(JSON.stringify({ error: 'empty audio' })); return; }
-            const ct = audioFormat === 'pcm' ? 'audio/L16; rate=16000; channels=1' : (req.headers['content-type'] || 'audio/webm');
+            const raw = Buffer.concat(chunks);
+            if (raw.length === 0) { res.end(JSON.stringify({ error: 'empty audio' })); return; }
+
+            // Support both raw binary and JSON+base64 formats
+            const ct = req.headers['content-type'] || '';
+            let audioBody;
+            let mimeType = 'audio/webm';
+
+            if (ct.includes('application/json')) {
+              const jsonBody = JSON.parse(raw.toString('utf8'));
+              azureKey = jsonBody.azureKey || azureKey;
+              if (jsonBody.text) targetText = jsonBody.text.toLowerCase().trim();
+              mimeType = jsonBody.format === 'pcm' ? 'audio/L16; rate=16000; channels=1' : 'audio/webm';
+              const b64 = jsonBody.voiceData;
+              if (!b64) { res.end(JSON.stringify({ error: 'Missing voiceData' })); return; }
+              audioBody = Buffer.from(b64, 'base64');
+            } else {
+              audioBody = raw;
+              mimeType = ct || 'audio/webm';
+            }
+
             const azureRes = await fetch('https://eastasia.stt.speech.microsoft.com/speech/recognition/conversation/cognitiveservices/v1?language=en-US', {
               method: 'POST',
-              headers: { 'Ocp-Apim-Subscription-Key': azureKey, 'Content-Type': ct },
-              body: buf,
+              headers: { 'Ocp-Apim-Subscription-Key': azureKey, 'Content-Type': mimeType },
+              body: audioBody,
             });
             if (!azureRes.ok) { res.end(JSON.stringify({ error: 'azure failed', code: azureRes.status })); return; }
-            const azureData: any = await azureRes.json();
+            const azureData = await azureRes.json();
             const transcript = (azureData.DisplayText || '').toLowerCase().trim().replace(/[.,!?]/g, '');
-            const expected = (text || '').toLowerCase().trim();
             let score = 0;
-            if (transcript === expected) score = 100;
-            else if (transcript.includes(expected) || expected.includes(transcript)) score = 85;
-            else if (transcript && expected) {
+            if (transcript === targetText) score = 100;
+            else if (transcript.includes(targetText) || targetText.includes(transcript)) score = 85;
+            else if (transcript && targetText) {
               let common = 0;
-              for (let i = 0; i < Math.min(transcript.length, expected.length); i++) {
-                if (transcript[i] === expected[i]) common++;
+              for (let i = 0; i < Math.min(transcript.length, targetText.length); i++) {
+                if (transcript[i] === targetText[i]) common++;
               }
-              score = Math.min(99, Math.round(common / expected.length * 90));
+              score = Math.min(99, Math.round(common / targetText.length * 90));
             }
             const fb = score >= 90 ? '发音很棒！继续保持！' : score >= 70 ? '发音不错，个别音素需要调整' : score >= 50 ? '发音需要多加练习' : '建议先仔细听示范发音再跟读';
-            res.end(JSON.stringify({ score, transcribed: transcript || '', expected: text, feedback: fb }));
-          } catch (e: any) { res.end(JSON.stringify({ error: e.message || 'unknown' })); }
+            res.end(JSON.stringify({ score, transcribed: transcript || '', expected: targetText, feedback: fb }));
+          } catch (e) { res.end(JSON.stringify({ error: e.message || 'unknown' })); }
         });
       });
     },

@@ -4,9 +4,8 @@ export async function onRequest(context) {
     return new Response(JSON.stringify({ error: 'Method not allowed' }), { status: 405 });
   }
   const url = new URL(request.url);
-  const targetText = (url.searchParams.get('text') || '').toLowerCase().trim();
-  const audioFormat = url.searchParams.get('format') || 'webm';
-  const azureKey = request.headers.get('x-azure-key') || context.env.VITE_AZURE_TTS_KEY || '';
+  let targetText = (url.searchParams.get('text') || '').toLowerCase().trim();
+  let azureKey = request.headers.get('x-azure-key') || context.env.VITE_AZURE_TTS_KEY || '';
 
   if (!targetText) {
     return new Response(JSON.stringify({ error: 'Missing text parameter' }), { status: 400 });
@@ -16,19 +15,44 @@ export async function onRequest(context) {
   }
 
   try {
-    const body = await request.arrayBuffer();
-    if (!body || body.byteLength === 0) {
+    // Support both raw binary and JSON+base64 formats
+    const contentType = request.headers.get('content-type') || '';
+    let audioBody;
+    let mimeType = 'audio/webm';
+
+    if (contentType.includes('application/json')) {
+      // JSON mode: extract base64 voiceData, decode it
+      const jsonBody = await request.json();
+      azureKey = jsonBody.azureKey || azureKey;
+      if (jsonBody.text) targetText = jsonBody.text.toLowerCase().trim();
+      mimeType = jsonBody.format === 'pcm' ? 'audio/L16; rate=16000; channels=1' : 'audio/webm';
+      const b64 = jsonBody.voiceData;
+      if (!b64) {
+        return new Response(JSON.stringify({ error: 'Missing voiceData in JSON body' }), { status: 400 });
+      }
+      // Decode base64 to binary
+      const binaryStr = atob(b64);
+      const bytes = new Uint8Array(binaryStr.length);
+      for (let i = 0; i < binaryStr.length; i++) {
+        bytes[i] = binaryStr.charCodeAt(i);
+      }
+      audioBody = bytes.buffer;
+    } else {
+      // Raw binary mode
+      audioBody = await request.arrayBuffer();
+      const fmt = url.searchParams.get('format') || 'webm';
+      mimeType = fmt === 'pcm' ? 'audio/L16; rate=16000; channels=1' : (contentType || 'audio/webm');
+    }
+
+    if (!audioBody || audioBody.byteLength === 0) {
       return new Response(JSON.stringify({ error: 'Empty audio data' }), { status: 400 });
     }
-    const contentType = audioFormat === 'pcm'
-      ? 'audio/L16; rate=16000; channels=1'
-      : request.headers.get('content-type') || 'audio/webm';
 
     const azureUrl = 'https://eastasia.stt.speech.microsoft.com/speech/recognition/conversation/cognitiveservices/v1?language=en-US';
     const azureRes = await fetch(azureUrl, {
       method: 'POST',
-      headers: { 'Ocp-Apim-Subscription-Key': azureKey, 'Content-Type': contentType },
-      body: body,
+      headers: { 'Ocp-Apim-Subscription-Key': azureKey, 'Content-Type': mimeType },
+      body: audioBody,
     });
     if (!azureRes.ok) {
       return new Response(JSON.stringify({ error: 'Azure STT failed', code: azureRes.status }), { status: azureRes.status });
@@ -48,10 +72,10 @@ export async function onRequest(context) {
       }
       score = Math.min(99, Math.round(common / expected.length * 90));
     }
-    var fb = score >= 90 ? '\u53d1\u97f3\u5f88\u68d2\uff01\u7ee7\u7eed\u4fdd\u6301\uff01'
-      : score >= 70 ? '\u53d1\u97f3\u4e0d\u9519\uff0c\u4e2a\u522b\u97f3\u7d20\u9700\u8981\u8c03\u6574'
-      : score >= 50 ? '\u53d1\u97f3\u9700\u8981\u591a\u52a0\u7ec3\u4e60'
-      : '\u5efa\u8bae\u5148\u4ed4\u7ec6\u542c\u793a\u8303\u53d1\u97f3\u518d\u8ddf\u8bfb';
+    var fb = score >= 90 ? '发音很棒！继续保持！'
+      : score >= 70 ? '发音不错，个别音素需要调整'
+      : score >= 50 ? '发音需要多加练习'
+      : '建议先仔细听示范发音再跟读';
     return new Response(JSON.stringify({ score: score, transcribed: transcript, expected: targetText, feedback: fb }), {
       headers: { 'Access-Control-Allow-Origin': '*', 'Content-Type': 'application/json' },
     });

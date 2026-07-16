@@ -197,6 +197,6 @@ export async function shareStudyResult(wordsLearned: number, correctRate: number
 export async function deletePost(postId: string) {
   const { data: { user } } = await supabase.auth.getUser();
   if (!user) return { error: 'Not logged in' };
-  const { error } = await supabase.from('posts').delete().eq('id', postId).eq('user_id', user.id);
+  const { error } = await supabase.rpc('delete_own_post', { post_id: postId });
   return { error };
 }
