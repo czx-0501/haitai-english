@@ -10,16 +10,19 @@ function voiceComparePlugin() {
     configureServer(server) {
       server.middlewares.use('/api/voice-compare', async (req, res, next) => {
         if (req.method !== 'POST') { res.statusCode = 405; res.end('{}'); return; }
-        let body = '';
-        req.on('data', c => body += c);
+        const url = new URL(req.url || '', 'http://localhost');
+        const targetText = (url.searchParams.get('text') || '').toLowerCase().trim();
+        const audioFormat = url.searchParams.get('format') || 'webm';
+        const azureKey = req.headers['x-azure-key'] || process.env.VITE_AZURE_TTS_KEY || '';
+        if (!targetText) { res.end(JSON.stringify({ error: 'Missing text' })); return; }
+        if (!azureKey) { res.end(JSON.stringify({ error: 'no azure key' })); return; }
+        let chunks: Buffer[] = [];
+        req.on('data', (c: any) => chunks.push(c));
         req.on('end', async () => {
           try {
-            const { voiceData, text, format } = JSON.parse(body);
-            if (!voiceData) { res.end(JSON.stringify({ error: 'no data' })); return; }
-            const buf = Uint8Array.from(atob(voiceData), (c: any) => c.charCodeAt(0));
-            const azureKey = process.env.VITE_AZURE_TTS_KEY || '';
-            if (!azureKey) { res.end(JSON.stringify({ error: 'no azure key' })); return; }
-            const ct = format === 'pcm' ? 'audio/L16; rate=16000; channels=1' : 'audio/webm';
+            const buf = Buffer.concat(chunks);
+            if (buf.length === 0) { res.end(JSON.stringify({ error: 'empty audio' })); return; }
+            const ct = audioFormat === 'pcm' ? 'audio/L16; rate=16000; channels=1' : (req.headers['content-type'] || 'audio/webm');
             const azureRes = await fetch('https://eastasia.stt.speech.microsoft.com/speech/recognition/conversation/cognitiveservices/v1?language=en-US', {
               method: 'POST',
               headers: { 'Ocp-Apim-Subscription-Key': azureKey, 'Content-Type': ct },

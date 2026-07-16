@@ -3,43 +3,38 @@ export async function onRequest(context) {
   if (request.method !== 'POST') {
     return new Response(JSON.stringify({ error: 'Method not allowed' }), { status: 405 });
   }
-  const body = await request.json();
-  const voiceData = body.voiceData;
-  const targetText = (body.text || '').toLowerCase().trim();
-  const audioFormat = body.format || 'webm';
-  // Accept key from request body or environment
-  const azureKey = body.azureKey || context.env.VITE_AZURE_TTS_KEY || '';
-  if (!voiceData || !targetText) {
-    return new Response(JSON.stringify({ error: 'Missing voiceData or text' }), { status: 400 });
+  const url = new URL(request.url);
+  const targetText = (url.searchParams.get('text') || '').toLowerCase().trim();
+  const audioFormat = url.searchParams.get('format') || 'webm';
+  const azureKey = request.headers.get('x-azure-key') || context.env.VITE_AZURE_TTS_KEY || '';
+
+  if (!targetText) {
+    return new Response(JSON.stringify({ error: 'Missing text parameter' }), { status: 400 });
   }
   if (!azureKey) {
     return new Response(JSON.stringify({ error: 'Azure key not configured' }), { status: 500 });
   }
+
   try {
-    var cleanData = voiceData.trim();
-    try { cleanData = decodeURIComponent(cleanData); } catch {}
-    const binaryStr = atob(cleanData);
-    const bytes = new Uint8Array(binaryStr.length);
-    for (let i = 0; i < binaryStr.length; i++) {
-      bytes[i] = binaryStr.charCodeAt(i);
+    const body = await request.arrayBuffer();
+    if (!body || body.byteLength === 0) {
+      return new Response(JSON.stringify({ error: 'Empty audio data' }), { status: 400 });
     }
     const contentType = audioFormat === 'pcm'
       ? 'audio/L16; rate=16000; channels=1'
-      : 'audio/webm';
+      : request.headers.get('content-type') || 'audio/webm';
+
     const azureUrl = 'https://eastasia.stt.speech.microsoft.com/speech/recognition/conversation/cognitiveservices/v1?language=en-US';
     const azureRes = await fetch(azureUrl, {
       method: 'POST',
-      headers: {
-        'Ocp-Apim-Subscription-Key': azureKey,
-        'Content-Type': contentType,
-      },
-      body: bytes,
+      headers: { 'Ocp-Apim-Subscription-Key': azureKey, 'Content-Type': contentType },
+      body: body,
     });
     if (!azureRes.ok) {
       return new Response(JSON.stringify({ error: 'Azure STT failed', code: azureRes.status }), { status: azureRes.status });
     }
     const azureData = await azureRes.json();
-    var transcript = (azureData.DisplayText || '').toLowerCase().trim().replace(/[.,!?\u2018\u2019]/g, '');
+    var transcript = (azureData.DisplayText || '').toLowerCase().trim().replace(/[.,!?'\u2018\u2019]/g, '');
     var expected = targetText;
     var score = 0;
     if (transcript === expected) {
