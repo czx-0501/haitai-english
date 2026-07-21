@@ -2,15 +2,12 @@ import vocabulary from '../data/vocabulary';
 import type { DayData } from '../data/vocabulary';
 
 export function getDayNumber(): number {
-  let startStr = localStorage.getItem('engdaily_start');
-  if (!startStr) {
-    startStr = new Date().toISOString().split('T')[0];
-    localStorage.setItem('engdaily_start', startStr);
+  let dayStr = localStorage.getItem('engdaily_current_day');
+  if (!dayStr) {
+    dayStr = '1';
+    localStorage.setItem('engdaily_current_day', dayStr);
   }
-  const start = new Date(startStr);
-  const today = new Date();
-  const diff = Math.floor((today.getTime() - start.getTime()) / 86400000);
-  const baseDay = Math.min(Math.max(1, diff + 1), 300);
+  const baseDay = parseInt(dayStr, 10);
   const offset = CEFR_OFFSETS[getSelectedLevel()] || 0;
   return Math.min(baseDay + offset, 300);
 }

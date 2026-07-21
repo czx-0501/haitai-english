@@ -137,9 +137,13 @@ export function markWordLearned(p: AppProgress, day: number, word: string): AppP
   // Add to spaced repetition history
   addWordToHistory(p, word);
   // 学完当天所有单词即视为完成，小测是巩固环节而非必须条件
-  if (dp.wordsLearned >= dp.totalWords) {
+  if (dp.wordsLearned >= dp.totalWords && !dp.completed) {
     dp.completed = true;
     p = updateStreak(p);
+    // 完成当日学习后自动推进到下一日
+    const cur = parseInt(localStorage.getItem('engdaily_current_day') || '1');
+    const nxt = Math.min(cur + 1, 300);
+    localStorage.setItem('engdaily_current_day', String(nxt));
   }
   return p;
 }
