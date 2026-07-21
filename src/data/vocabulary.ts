@@ -8119,6 +8119,6 @@ const vocabulary = [
     {w:"journey",p:"/jɒʌrnɛy/",pos:"n",m:"旅程",ex:[{e:"She placed the journey carefully on the shelf.",c:"她小心地把旅程放在架子上。"},{e:"The journey plays a key role in this process.",c:"旅程在这个过程中起着关键作用。"}]}
   ]
 }
-] as DayData[];
+] as DayData[]
 
 export default vocabulary;

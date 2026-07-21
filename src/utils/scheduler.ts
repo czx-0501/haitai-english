@@ -22,7 +22,7 @@ import ieltsVocabulary from '../data/ielts';
 export function getTodayData(): DayData | null {
   const mode = getLearningMode();
   const day = getDayNumber();
-  let data: DayData | null = null;
+  let data: any = null;
   if (mode === 'TOEFL') {
     data = (toeflVocabulary as any[]).find((d: any) => d.day === day) || null;
   }
