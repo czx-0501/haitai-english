@@ -879,8 +879,7 @@ const vocabulary = [
       {w: "taxi", p: "/taxi/", pos: "n", m: "taxi", ex: [{e: "I like taxi.", c: "我喜欢taxi。"}, {e: "This is a taxi.", c: "这是一个taxi。"}]},
       {w: "crowd", p: "/crowd/", pos: "n", m: "crowd", ex: [{e: "I like crowd.", c: "我喜欢crowd。"}, {e: "This is a crowd.", c: "这是一个crowd。"}]},
       {w: "noise", p: "/noise/", pos: "n", m: "noise", ex: [{e: "I like noise.", c: "我喜欢noise。"}, {e: "This is a noise.", c: "这是一个noise。"}]},
-      {w: "light", p: "/light/", pos: "n", m: "light", ex: [{e: "I like light.", c: "我喜欢light。"}, {e: "This is a light.", c: "这是一个light。"}]},
-    ]
+      {w: "light", p: "/light/", pos: "n", m: "light", ex: [{e: "I like light.", c: "我喜欢light。"}, {e: "This is a light.", c: "这是一个light。"}]},,
   },
 ,
 {
