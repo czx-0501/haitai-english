@@ -1,3 +1,4 @@
+import vocabulary from './vocab';
 // Auto-generated vocabulary - 3000 words across 150 days (3 stages)
 
 export interface WordEntry {
@@ -17,4 +18,4 @@ export interface DayData {
 
 export interface DayData { day: number; theme: string; stage: number; words: WordEntry[]; }
 
-export default null;
+export default vocabulary;
